@@ -1,0 +1,1073 @@
+[
+  {
+    "qHindi": "एड्स (AIDS) रोग किस विषाणु के कारण होता है?",
+    "qEnglish": "AIDS is caused by which virus?",
+    "optionsHindi": [
+      "HBV",
+      "HIV",
+      "HPV",
+      "HSV"
+    ],
+    "optionsEnglish": [
+      "HBV",
+      "HIV",
+      "HPV",
+      "HSV"
+    ],
+    "correct": 1,
+    "explanationHindi": "BOOSTER LDC पृ. 154: एड्स HIV (Human Immunodeficiency Virus) के कारण होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 154: AIDS is caused by HIV.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "क्षय रोग (टी.बी.) का रोगजनक कौन-सा जीवाणु है?",
+    "qEnglish": "Which bacterium causes Tuberculosis (T.B.)?",
+    "optionsHindi": [
+      "Vibrio cholerae",
+      "Mycobacterium tuberculosis",
+      "Salmonella typhi",
+      "Clostridium tetani"
+    ],
+    "optionsEnglish": [
+      "Vibrio cholerae",
+      "Mycobacterium tuberculosis",
+      "Salmonella typhi",
+      "Clostridium tetani"
+    ],
+    "correct": 1,
+    "explanationHindi": "BOOSTER LDC पृ. 156: क्षय रोग Mycobacterium tuberculosis से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 156: T.B. is caused by Mycobacterium tuberculosis.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "टाइफाइड रोग का रोगजनक कौन-सा जीवाणु है?",
+    "qEnglish": "Which bacterium causes Typhoid?",
+    "optionsHindi": [
+      "Vibrio cholerae",
+      "Salmonella typhi",
+      "Mycobacterium leprae",
+      "Bordetella pertussis"
+    ],
+    "optionsEnglish": [
+      "Vibrio cholerae",
+      "Salmonella typhi",
+      "Mycobacterium leprae",
+      "Bordetella pertussis"
+    ],
+    "correct": 1,
+    "explanationHindi": "BOOSTER LDC पृ. 157: टाइफाइड Salmonella typhi से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 157: Typhoid is caused by Salmonella typhi.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "हैजा (Cholera) किस जीवाणु के कारण होता है?",
+    "qEnglish": "Cholera is caused by which bacterium?",
+    "optionsHindi": [
+      "Vibrio cholerae",
+      "Salmonella typhi",
+      "Mycobacterium tuberculosis",
+      "Clostridium tetani"
+    ],
+    "optionsEnglish": [
+      "Vibrio cholerae",
+      "Salmonella typhi",
+      "Mycobacterium tuberculosis",
+      "Clostridium tetani"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 157: हैजा Vibrio cholerae से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 157: Cholera is caused by Vibrio cholerae.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "कुष्ठ रोग (Leprosy) का रोगजनक कौन-सा है?",
+    "qEnglish": "Which pathogen causes Leprosy?",
+    "optionsHindi": [
+      "Mycobacterium tuberculosis",
+      "Mycobacterium leprae",
+      "Salmonella typhi",
+      "Vibrio cholerae"
+    ],
+    "optionsEnglish": [
+      "Mycobacterium tuberculosis",
+      "Mycobacterium leprae",
+      "Salmonella typhi",
+      "Vibrio cholerae"
+    ],
+    "correct": 1,
+    "explanationHindi": "BOOSTER LDC पृ. 157: कुष्ठ रोग Mycobacterium leprae से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 157: Leprosy is caused by Mycobacterium leprae.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "टिटेनस (Tetanus) किस जीवाणु के कारण होता है?",
+    "qEnglish": "Tetanus is caused by which bacterium?",
+    "optionsHindi": [
+      "Clostridium tetani",
+      "Clostridium botulinum",
+      "Bacillus anthracis",
+      "Corynebacterium diphtheriae"
+    ],
+    "optionsEnglish": [
+      "Clostridium tetani",
+      "Clostridium botulinum",
+      "Bacillus anthracis",
+      "Corynebacterium diphtheriae"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 158: टिटेनस Clostridium tetani से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 158: Tetanus is caused by Clostridium tetani.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "डिप्थीरिया (Diphtheria) का रोगजनक कौन-सा जीवाणु है?",
+    "qEnglish": "Which bacterium causes Diphtheria?",
+    "optionsHindi": [
+      "Corynebacterium diphtheriae",
+      "Streptococcus pneumoniae",
+      "Bordetella pertussis",
+      "Neisseria meningitidis"
+    ],
+    "optionsEnglish": [
+      "Corynebacterium diphtheriae",
+      "Streptococcus pneumoniae",
+      "Bordetella pertussis",
+      "Neisseria meningitidis"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 158: डिप्थीरिया Corynebacterium diphtheriae से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 158: Diphtheria is caused by Corynebacterium diphtheriae.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "काली खाँसी (Pertussis) का रोगजनक कौन-सा है?",
+    "qEnglish": "Which pathogen causes Pertussis (Whooping Cough)?",
+    "optionsHindi": [
+      "Bordetella pertussis",
+      "Haemophilus influenzae",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae"
+    ],
+    "optionsEnglish": [
+      "Bordetella pertussis",
+      "Haemophilus influenzae",
+      "Streptococcus pneumoniae",
+      "Mycoplasma pneumoniae"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 158: काली खाँसी Bordetella pertussis से होती है।",
+    "explanationEnglish": "BOOSTER LDC p. 158: Pertussis is caused by Bordetella pertussis.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "न्यूमोनिया (Pneumonia) किस जीवाणु के कारण होता है?",
+    "qEnglish": "Pneumonia is caused by which bacterium?",
+    "optionsHindi": [
+      "Streptococcus pneumoniae",
+      "Staphylococcus aureus",
+      "Klebsiella pneumoniae",
+      "Pseudomonas aeruginosa"
+    ],
+    "optionsEnglish": [
+      "Streptococcus pneumoniae",
+      "Staphylococcus aureus",
+      "Klebsiella pneumoniae",
+      "Pseudomonas aeruginosa"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 157: न्यूमोनिया Streptococcus pneumoniae से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 157: Pneumonia is caused by Streptococcus pneumoniae.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "प्लेग (Plague) का रोगजनक कौन-सा जीवाणु है?",
+    "qEnglish": "Which bacterium causes Plague?",
+    "optionsHindi": [
+      "Yersinia pestis",
+      "Bacillus anthracis",
+      "Francisella tularensis",
+      "Brucella melitensis"
+    ],
+    "optionsEnglish": [
+      "Yersinia pestis",
+      "Bacillus anthracis",
+      "Francisella tularensis",
+      "Brucella melitensis"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 158: प्लेग Yersinia pestis से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 158: Plague is caused by Yersinia pestis.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "एंथ्रेक्स (Anthrax) किस जीवाणु से होता है?",
+    "qEnglish": "Anthrax is caused by which bacterium?",
+    "optionsHindi": [
+      "Bacillus anthracis",
+      "Bacillus cereus",
+      "Clostridium perfringens",
+      "Listeria monocytogenes"
+    ],
+    "optionsEnglish": [
+      "Bacillus anthracis",
+      "Bacillus cereus",
+      "Clostridium perfringens",
+      "Listeria monocytogenes"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 158: एंथ्रेक्स Bacillus anthracis से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 158: Anthrax is caused by Bacillus anthracis.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "गोनोरिया (Gonorrhoea) का रोगजनक कौन-सा है?",
+    "qEnglish": "Which pathogen causes Gonorrhoea?",
+    "optionsHindi": [
+      "Neisseria gonorrhoeae",
+      "Treponema pallidum",
+      "Chlamydia trachomatis",
+      "Haemophilus ducreyi"
+    ],
+    "optionsEnglish": [
+      "Neisseria gonorrhoeae",
+      "Treponema pallidum",
+      "Chlamydia trachomatis",
+      "Haemophilus ducreyi"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 159: गोनोरिया Neisseria gonorrhoeae से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 159: Gonorrhoea is caused by Neisseria gonorrhoeae.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "सिफलिस (Syphilis) का रोगजनक कौन-सा है?",
+    "qEnglish": "Which pathogen causes Syphilis?",
+    "optionsHindi": [
+      "Treponema pallidum",
+      "Neisseria gonorrhoeae",
+      "Chlamydia trachomatis",
+      "Haemophilus ducreyi"
+    ],
+    "optionsEnglish": [
+      "Treponema pallidum",
+      "Neisseria gonorrhoeae",
+      "Chlamydia trachomatis",
+      "Haemophilus ducreyi"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 159: सिफलिस Treponema pallidum से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 159: Syphilis is caused by Treponema pallidum.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "पोलियो (Polio) रोग किस विषाणु से होता है?",
+    "qEnglish": "Polio is caused by which virus?",
+    "optionsHindi": [
+      "Enterovirus",
+      "Rhabdovirus",
+      "Paramyxovirus",
+      "Asco Virus"
+    ],
+    "optionsEnglish": [
+      "Enterovirus",
+      "Rhabdovirus",
+      "Paramyxovirus",
+      "Asco Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 154: पोलियो Enterovirus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 154: Polio is caused by Enterovirus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "रेबीज (Rabies) का रोगजनक कौन-सा विषाणु है?",
+    "qEnglish": "Which virus causes Rabies?",
+    "optionsHindi": [
+      "Rhabdovirus",
+      "Enterovirus",
+      "Paramyxovirus",
+      "Myxovirus"
+    ],
+    "optionsEnglish": [
+      "Rhabdovirus",
+      "Enterovirus",
+      "Paramyxovirus",
+      "Myxovirus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 155: रेबीज Rhabdovirus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 155: Rabies is caused by Rhabdovirus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "डेंगू (Dengue) किस विषाणु के कारण होता है?",
+    "qEnglish": "Dengue is caused by which virus?",
+    "optionsHindi": [
+      "Asco Virus",
+      "Elka Virus",
+      "Flebi Virus",
+      "Zika Virus"
+    ],
+    "optionsEnglish": [
+      "Asco Virus",
+      "Elka Virus",
+      "Flebi Virus",
+      "Zika Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 153: डेंगू Asco Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 153: Dengue is caused by Asco Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "चिकनगुनिया (Chikungunya) का रोगजनक कौन-सा विषाणु है?",
+    "qEnglish": "Which virus causes Chikungunya?",
+    "optionsHindi": [
+      "Elka Virus",
+      "Asco Virus",
+      "Flebi Virus",
+      "Zika Virus"
+    ],
+    "optionsEnglish": [
+      "Elka Virus",
+      "Asco Virus",
+      "Flebi Virus",
+      "Zika Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 153: चिकनगुनिया Elka Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 153: Chikungunya is caused by Elka Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "जीका (Zika) रोग किस विषाणु से होता है?",
+    "qEnglish": "Zika disease is caused by which virus?",
+    "optionsHindi": [
+      "Zika Virus",
+      "Asco Virus",
+      "Elka Virus",
+      "Flebi Virus"
+    ],
+    "optionsEnglish": [
+      "Zika Virus",
+      "Asco Virus",
+      "Elka Virus",
+      "Flebi Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 153: जीका Zika Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 153: Zika is caused by Zika Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "पीत ज्वर (Yellow Fever) किस विषाणु से होता है?",
+    "qEnglish": "Yellow Fever is caused by which virus?",
+    "optionsHindi": [
+      "Flebi Virus",
+      "Asco Virus",
+      "Elka Virus",
+      "Zika Virus"
+    ],
+    "optionsEnglish": [
+      "Flebi Virus",
+      "Asco Virus",
+      "Elka Virus",
+      "Zika Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 153: पीत ज्वर Flebi Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 153: Yellow Fever is caused by Flebi Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "जापानी इन्सेफेलाइटिस (Japanese Encephalitis) का रोगजनक कौन-सा है?",
+    "qEnglish": "Which pathogen causes Japanese Encephalitis?",
+    "optionsHindi": [
+      "JE Virus",
+      "Flebi Virus",
+      "Nipah Virus",
+      "Ebola Virus"
+    ],
+    "optionsEnglish": [
+      "JE Virus",
+      "Flebi Virus",
+      "Nipah Virus",
+      "Ebola Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 153: जापानी इन्सेफेलाइटिस JE Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 153: Japanese Encephalitis is caused by JE Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "खसरा (Measles) किस विषाणु के कारण होता है?",
+    "qEnglish": "Measles is caused by which virus?",
+    "optionsHindi": [
+      "Paramyxovirus",
+      "Rubella Virus",
+      "Varicella Virus",
+      "Variola Virus"
+    ],
+    "optionsEnglish": [
+      "Paramyxovirus",
+      "Rubella Virus",
+      "Varicella Virus",
+      "Variola Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 152: खसरा Paramyxovirus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 152: Measles is caused by Paramyxovirus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "रूबेला (Rubella) का रोगजनक कौन-सा विषाणु है?",
+    "qEnglish": "Which virus causes Rubella?",
+    "optionsHindi": [
+      "Rubella Virus",
+      "Paramyxovirus",
+      "Varicella Virus",
+      "Variola Virus"
+    ],
+    "optionsEnglish": [
+      "Rubella Virus",
+      "Paramyxovirus",
+      "Varicella Virus",
+      "Variola Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 152: रूबेला Rubella Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 152: Rubella is caused by Rubella Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "मम्प्स (Mumps) किस विषाणु से होता है?",
+    "qEnglish": "Mumps is caused by which virus?",
+    "optionsHindi": [
+      "Paramyxovirus",
+      "Rubella Virus",
+      "Varicella Virus",
+      "Variola Virus"
+    ],
+    "optionsEnglish": [
+      "Paramyxovirus",
+      "Rubella Virus",
+      "Varicella Virus",
+      "Variola Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 152: मम्प्स Paramyxovirus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 152: Mumps is caused by Paramyxovirus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "चेचक (Smallpox) का रोगजनक कौन-सा विषाणु है?",
+    "qEnglish": "Which virus causes Smallpox?",
+    "optionsHindi": [
+      "Variola Virus",
+      "Varicella Virus",
+      "Paramyxovirus",
+      "Rubella Virus"
+    ],
+    "optionsEnglish": [
+      "Variola Virus",
+      "Varicella Virus",
+      "Paramyxovirus",
+      "Rubella Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 154: चेचक Variola Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 154: Smallpox is caused by Variola Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "छोटी माता (Chickenpox) किस विषाणु से होती है?",
+    "qEnglish": "Chickenpox is caused by which virus?",
+    "optionsHindi": [
+      "Varicella Virus",
+      "Variola Virus",
+      "Paramyxovirus",
+      "Rubella Virus"
+    ],
+    "optionsEnglish": [
+      "Varicella Virus",
+      "Variola Virus",
+      "Paramyxovirus",
+      "Rubella Virus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 154: छोटी माता Varicella Virus से होती है।",
+    "explanationEnglish": "BOOSTER LDC p. 154: Chickenpox is caused by Varicella Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "इन्फ्लूएंजा (Influenza) का रोगजनक कौन-सा है?",
+    "qEnglish": "Which pathogen causes Influenza?",
+    "optionsHindi": [
+      "Myxovirus",
+      "Paramyxovirus",
+      "Rhabdovirus",
+      "Enterovirus"
+    ],
+    "optionsEnglish": [
+      "Myxovirus",
+      "Paramyxovirus",
+      "Rhabdovirus",
+      "Enterovirus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 155: इन्फ्लूएंजा Myxovirus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 155: Influenza is caused by Myxovirus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "इबोला (Ebola) रोग किस विषाणु से होता है?",
+    "qEnglish": "Ebola disease is caused by which virus?",
+    "optionsHindi": [
+      "Ebola Virus",
+      "Nipah Virus",
+      "Marburg Virus",
+      "Hantavirus"
+    ],
+    "optionsEnglish": [
+      "Ebola Virus",
+      "Nipah Virus",
+      "Marburg Virus",
+      "Hantavirus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 155: इबोला Ebola Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 155: Ebola is caused by Ebola Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "निपाह (Nipah) रोग का रोगजनक कौन-सा है?",
+    "qEnglish": "Which pathogen causes Nipah disease?",
+    "optionsHindi": [
+      "Nipah Virus",
+      "Ebola Virus",
+      "Hendra Virus",
+      "Hantavirus"
+    ],
+    "optionsEnglish": [
+      "Nipah Virus",
+      "Ebola Virus",
+      "Hendra Virus",
+      "Hantavirus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 155: निपाह Nipah Virus से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 155: Nipah is caused by Nipah Virus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "कोविड-19 (COVID-19) किस विषाणु के कारण होता है?",
+    "qEnglish": "COVID-19 is caused by which virus?",
+    "optionsHindi": [
+      "SARS-CoV-2",
+      "SARS-CoV",
+      "MERS-CoV",
+      "H1N1"
+    ],
+    "optionsEnglish": [
+      "SARS-CoV-2",
+      "SARS-CoV",
+      "MERS-CoV",
+      "H1N1"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 156: कोविड-19 SARS-CoV-2 से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 156: COVID-19 is caused by SARS-CoV-2.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "मलेरिया (Malaria) किस प्रोटोजोआ के कारण होता है?",
+    "qEnglish": "Malaria is caused by which protozoan?",
+    "optionsHindi": [
+      "Plasmodium",
+      "Entamoeba",
+      "Trypanosoma",
+      "Leishmania"
+    ],
+    "optionsEnglish": [
+      "Plasmodium",
+      "Entamoeba",
+      "Trypanosoma",
+      "Leishmania"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: मलेरिया Plasmodium से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Malaria is caused by Plasmodium.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "अमीबता (Amoebiasis) का रोगजनक कौन-सा प्रोटोजोआ है?",
+    "qEnglish": "Which protozoan causes Amoebiasis?",
+    "optionsHindi": [
+      "Entamoeba histolytica",
+      "Plasmodium vivax",
+      "Giardia lamblia",
+      "Trypanosoma cruzi"
+    ],
+    "optionsEnglish": [
+      "Entamoeba histolytica",
+      "Plasmodium vivax",
+      "Giardia lamblia",
+      "Trypanosoma cruzi"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: अमीबता Entamoeba histolytica से होती है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Amoebiasis is caused by Entamoeba histolytica.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "काला आजार (Kala-azar) किस प्रोटोजोआ के कारण होता है?",
+    "qEnglish": "Kala-azar is caused by which protozoan?",
+    "optionsHindi": [
+      "Leishmania donovani",
+      "Plasmodium falciparum",
+      "Trypanosoma brucei",
+      "Entamoeba histolytica"
+    ],
+    "optionsEnglish": [
+      "Leishmania donovani",
+      "Plasmodium falciparum",
+      "Trypanosoma brucei",
+      "Entamoeba histolytica"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: काला आजार Leishmania donovani से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Kala-azar is caused by Leishmania donovani.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "निद्रा रोग (Sleeping Sickness) का रोगजनक कौन-सा प्रोटोजोआ है?",
+    "qEnglish": "Which protozoan causes Sleeping Sickness?",
+    "optionsHindi": [
+      "Trypanosoma",
+      "Plasmodium",
+      "Leishmania",
+      "Entamoeba"
+    ],
+    "optionsEnglish": [
+      "Trypanosoma",
+      "Plasmodium",
+      "Leishmania",
+      "Entamoeba"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: निद्रा रोग Trypanosoma से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Sleeping Sickness is caused by Trypanosoma.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "दाद (Ringworm) किस कवक के कारण होता है?",
+    "qEnglish": "Ringworm is caused by which fungus?",
+    "optionsHindi": [
+      "Microsporum / Trichophyton",
+      "Candida albicans",
+      "Aspergillus",
+      "Penicillium"
+    ],
+    "optionsEnglish": [
+      "Microsporum / Trichophyton",
+      "Candida albicans",
+      "Aspergillus",
+      "Penicillium"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: दाद Microsporum या Trichophyton कवक से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Ringworm is caused by Microsporum or Trichophyton.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "फाइलेरिया (Filariasis) का रोगजनक कौन-सा कृमि है?",
+    "qEnglish": "Which worm causes Filariasis?",
+    "optionsHindi": [
+      "Wuchereria bancrofti",
+      "Ascaris lumbricoides",
+      "Taenia solium",
+      "Enterobius vermicularis"
+    ],
+    "optionsEnglish": [
+      "Wuchereria bancrofti",
+      "Ascaris lumbricoides",
+      "Taenia solium",
+      "Enterobius vermicularis"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: फाइलेरिया Wuchereria bancrofti से होता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Filariasis is caused by Wuchereria bancrofti.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "डेंगू का वाहक कौन-सा मच्छर है?",
+    "qEnglish": "Which mosquito is the vector of Dengue?",
+    "optionsHindi": [
+      "मादा एडीज",
+      "मादा एनाफिलीज",
+      "मादा क्यूलेक्स",
+      "नर एडीज"
+    ],
+    "optionsEnglish": [
+      "Female Aedes",
+      "Female Anopheles",
+      "Female Culex",
+      "Male Aedes"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 153: डेंगू मादा Aedes मच्छर से फैलता है।",
+    "explanationEnglish": "BOOSTER LDC p. 153: Dengue is spread by female Aedes mosquito.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "मलेरिया का वाहक कौन-सा मच्छर है?",
+    "qEnglish": "Which mosquito is the vector of Malaria?",
+    "optionsHindi": [
+      "मादा एनाफिलीज",
+      "मादा एडीज",
+      "मादा क्यूलेक्स",
+      "नर एनाफिलीज"
+    ],
+    "optionsEnglish": [
+      "Female Anopheles",
+      "Female Aedes",
+      "Female Culex",
+      "Male Anopheles"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: मलेरिया मादा Anopheles मच्छर से फैलता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Malaria is spread by female Anopheles mosquito.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "फाइलेरिया (हाथीपाँव) का वाहक कौन-सा मच्छर है?",
+    "qEnglish": "Which mosquito is the vector of Filariasis?",
+    "optionsHindi": [
+      "मादा क्यूलेक्स",
+      "मादा एडीज",
+      "मादा एनाफिलीज",
+      "नर क्यूलेक्स"
+    ],
+    "optionsEnglish": [
+      "Female Culex",
+      "Female Aedes",
+      "Female Anopheles",
+      "Male Culex"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: फाइलेरिया मादा Culex मच्छर से फैलता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Filariasis is spread by female Culex mosquito.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "चिकनगुनिया का वाहक कौन-सा मच्छर है?",
+    "qEnglish": "Which mosquito is the vector of Chikungunya?",
+    "optionsHindi": [
+      "मादा एडीज",
+      "मादा एनाफिलीज",
+      "मादा क्यूलेक्स",
+      "नर एडीज"
+    ],
+    "optionsEnglish": [
+      "Female Aedes",
+      "Female Anopheles",
+      "Female Culex",
+      "Male Aedes"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 153: चिकनगुनिया मादा Aedes मच्छर से फैलता है।",
+    "explanationEnglish": "BOOSTER LDC p. 153: Chikungunya is spread by female Aedes mosquito.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "काला आजार का वाहक कौन-सी मक्खी है?",
+    "qEnglish": "Which fly is the vector of Kala-azar?",
+    "optionsHindi": [
+      "बालू मक्खी",
+      "घरेलू मक्खी",
+      "सी-सी मक्खी",
+      "फल मक्खी"
+    ],
+    "optionsEnglish": [
+      "Sandfly",
+      "Housefly",
+      "Tse-tse fly",
+      "Fruit fly"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: काला आजार बालू मक्खी (Sandfly) से फैलता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Kala-azar is spread by Sandfly.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "निद्रा रोग (Sleeping Sickness) का वाहक कौन-सी मक्खी है?",
+    "qEnglish": "Which fly is the vector of Sleeping Sickness?",
+    "optionsHindi": [
+      "सी-सी मक्खी",
+      "बालू मक्खी",
+      "घरेलू मक्खी",
+      "घोड़ा मक्खी"
+    ],
+    "optionsEnglish": [
+      "Tse-tse fly",
+      "Sandfly",
+      "Housefly",
+      "Horse fly"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 160: निद्रा रोग सी-सी मक्खी (Tse-tse fly) से फैलता है।",
+    "explanationEnglish": "BOOSTER LDC p. 160: Sleeping Sickness is spread by Tse-tse fly.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "टाइफाइड की जांच के लिए कौन-सा परीक्षण किया जाता है?",
+    "qEnglish": "Which test is used for diagnosis of Typhoid?",
+    "optionsHindi": [
+      "विडाल टेस्ट",
+      "एलाइजा",
+      "मोंटेक्स टेस्ट",
+      "पीसीआर"
+    ],
+    "optionsEnglish": [
+      "Widal Test",
+      "ELISA",
+      "Montoux Test",
+      "PCR"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 157: टाइफाइड की जांच विडाल टेस्ट (Widal Test) से की जाती है।",
+    "explanationEnglish": "BOOSTER LDC p. 157: Typhoid is diagnosed by Widal Test.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "क्षय रोग (टी.बी.) की जांच के लिए कौन-सा परीक्षण किया जाता है?",
+    "qEnglish": "Which test is used for diagnosis of Tuberculosis?",
+    "optionsHindi": [
+      "मोंटेक्स टेस्ट",
+      "विडाल टेस्ट",
+      "एलाइजा",
+      "शिक टेस्ट"
+    ],
+    "optionsEnglish": [
+      "Montoux Test",
+      "Widal Test",
+      "ELISA",
+      "Schick Test"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 156: टी.बी. की जांच मोंटेक्स टेस्ट से की जाती है।",
+    "explanationEnglish": "BOOSTER LDC p. 156: T.B. is diagnosed by Montoux Test.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "एड्स (AIDS) की पुष्टि के लिए कौन-सा परीक्षण किया जाता है?",
+    "qEnglish": "Which test is used for confirmation of AIDS?",
+    "optionsHindi": [
+      "वेस्टर्न ब्लॉट",
+      "एलाइजा",
+      "पीसीआर",
+      "रैपिड टेस्ट"
+    ],
+    "optionsEnglish": [
+      "Western Blot",
+      "ELISA",
+      "PCR",
+      "Rapid Test"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 154: एड्स की पुष्टि वेस्टर्न ब्लॉट परीक्षण से की जाती है।",
+    "explanationEnglish": "BOOSTER LDC p. 154: AIDS is confirmed by Western Blot test.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "डिप्थीरिया की जांच के लिए कौन-सा परीक्षण किया जाता है?",
+    "qEnglish": "Which test is used for diagnosis of Diphtheria?",
+    "optionsHindi": [
+      "शिक टेस्ट",
+      "विडाल टेस्ट",
+      "मोंटेक्स टेस्ट",
+      "एलाइजा"
+    ],
+    "optionsEnglish": [
+      "Schick Test",
+      "Widal Test",
+      "Montoux Test",
+      "ELISA"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 158: डिप्थीरिया की जांच शिक टेस्ट (Schick Test) से की जाती है।",
+    "explanationEnglish": "BOOSTER LDC p. 158: Diphtheria is diagnosed by Schick Test.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "बी.सी.जी. (BCG) का टीका किस रोग से बचाव के लिए लगाया जाता है?",
+    "qEnglish": "BCG vaccine is used for prevention of which disease?",
+    "optionsHindi": [
+      "क्षय रोग (टी.बी.)",
+      "पोलियो",
+      "टिटेनस",
+      "हेपेटाइटिस बी"
+    ],
+    "optionsEnglish": [
+      "Tuberculosis (T.B.)",
+      "Polio",
+      "Tetanus",
+      "Hepatitis B"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 156: BCG का टीका क्षय रोग (टी.बी.) से बचाव के लिए लगाया जाता है।",
+    "explanationEnglish": "BOOSTER LDC p. 156: BCG vaccine is for prevention of Tuberculosis.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "डी.पी.टी. (DPT) का टीका किन तीन रोगों से बचाव करता है?",
+    "qEnglish": "DPT vaccine provides protection against which three diseases?",
+    "optionsHindi": [
+      "डिप्थीरिया, पर्टुसिस, टिटेनस",
+      "डिप्थीरिया, पोलियो, टिटेनस",
+      "डेंगू, पर्टुसिस, टिटेनस",
+      "डिप्थीरिया, प्लेग, टिटेनस"
+    ],
+    "optionsEnglish": [
+      "Diphtheria, Pertussis, Tetanus",
+      "Diphtheria, Polio, Tetanus",
+      "Dengue, Pertussis, Tetanus",
+      "Diphtheria, Plague, Tetanus"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 158: DPT टीका डिप्थीरिया, पर्टुसिस (काली खाँसी) और टिटेनस से बचाव करता है।",
+    "explanationEnglish": "BOOSTER LDC p. 158: DPT vaccine protects against Diphtheria, Pertussis, and Tetanus.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "एम.एम.आर. (MMR) का टीका किन रोगों से बचाव करता है?",
+    "qEnglish": "MMR vaccine provides protection against which diseases?",
+    "optionsHindi": [
+      "खसरा, मम्प्स, रूबेला",
+      "मलेरिया, मम्प्स, रेबीज",
+      "खसरा, मेनिनजाइटिस, रूबेला",
+      "मम्प्स, मलेरिया, रूबेला"
+    ],
+    "optionsEnglish": [
+      "Measles, Mumps, Rubella",
+      "Malaria, Mumps, Rabies",
+      "Measles, Meningitis, Rubella",
+      "Mumps, Malaria, Rubella"
+    ],
+    "correct": 0,
+    "explanationHindi": "BK Pathak पृ. 38: MMR टीका खसरा (Measles), मम्प्स (Mumps) और रूबेला (Rubella) से बचाव करता है।",
+    "explanationEnglish": "BK Pathak p. 38: MMR vaccine protects against Measles, Mumps, and Rubella.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "ओ.पी.वी. (OPV) किस रोग के लिए दी जाती है?",
+    "qEnglish": "OPV is administered for which disease?",
+    "optionsHindi": [
+      "पोलियो",
+      "हेपेटाइटिस",
+      "टाइफाइड",
+      "हैजा"
+    ],
+    "optionsEnglish": [
+      "Polio",
+      "Hepatitis",
+      "Typhoid",
+      "Cholera"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 154: OPV (Oral Polio Vaccine) पोलियो से बचाव के लिए दी जाती है।",
+    "explanationEnglish": "BOOSTER LDC p. 154: OPV is administered for Polio prevention.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "टाइफाइड के उपचार में कौन-सी एंटीबायोटिक प्रयोग की जाती है?",
+    "qEnglish": "Which antibiotic is used in the treatment of Typhoid?",
+    "optionsHindi": [
+      "क्लोरोमाइसीटिन",
+      "पेनिसिलिन",
+      "स्ट्रेप्टोमाइसिन",
+      "टेट्रासाइक्लिन"
+    ],
+    "optionsEnglish": [
+      "Chloromycetin",
+      "Penicillin",
+      "Streptomycin",
+      "Tetracycline"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 157: टाइफाइड के उपचार में क्लोरोमाइसीटिन प्रयोग की जाती है।",
+    "explanationEnglish": "BOOSTER LDC p. 157: Chloromycetin is used in Typhoid treatment.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  },
+  {
+    "qHindi": "कुष्ठ रोग के उपचार के लिए WHO द्वारा कौन-सी चिकित्सा पद्धति चलाई गई?",
+    "qEnglish": "Which therapy was introduced by WHO for the treatment of Leprosy?",
+    "optionsHindi": [
+      "MDT (बहु-औषधि चिकित्सा)",
+      "DOTS",
+      "ART",
+      "रेडियोथेरेपी"
+    ],
+    "optionsEnglish": [
+      "MDT (Multi Drug Therapy)",
+      "DOTS",
+      "ART",
+      "Radiotherapy"
+    ],
+    "correct": 0,
+    "explanationHindi": "BOOSTER LDC पृ. 157: कुष्ठ रोग के लिए WHO ने 1981 में MDT (Multi Drug Therapy) कार्यक्रम चलाया।",
+    "explanationEnglish": "BOOSTER LDC p. 157: WHO introduced MDT (Multi Drug Therapy) for Leprosy in 1981.",
+    "subject": "जीव विज्ञान",
+    "topic": "रोग"
+  }
+]
