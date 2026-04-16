@@ -1,0 +1,23 @@
+[
+  {
+    "qHindi": "1² + 2² + 3² + ... + 10² का योगफल क्या है?",
+    "qEnglish": "What is the sum of the squares of the first 10 natural numbers?",
+    "optionsHindi": [
+      "385",
+      "405",
+      "365",
+      "425"
+    ],
+    "optionsEnglish": [
+      "385",
+      "405",
+      "365",
+      "425"
+    ],
+    "correct": 0,
+    "explanationHindi": "प्रथम n संख्याओं के वर्गों का योग = n(n+1)(2n+1)/6। n=10 पर योग = 10×11×21/6 = 385।",
+    "explanationEnglish": "Sum of squares = n(n+1)(2n+1)/6. For n=10, sum = 10×11×21/6 = 385.",
+    "subject": "गणित",
+    "topic": "वर्गों का योग"
+  }
+]
