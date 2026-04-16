@@ -1,0 +1,23 @@
+[
+  {
+    "qHindi": "एक वस्तु को 5% लाभ पर बेचा जाता है। क्रय मूल्य तथा विक्रय मूल्य का अनुपात क्या होगा?",
+    "qEnglish": "An article is sold at a profit of 5%. What is the ratio of cost price to selling price?",
+    "optionsHindi": [
+      "1 : 5",
+      "20 : 21",
+      "21 : 20",
+      "5 : 1"
+    ],
+    "optionsEnglish": [
+      "1 : 5",
+      "20 : 21",
+      "21 : 20",
+      "5 : 1"
+    ],
+    "correct": 1,
+    "explanationHindi": "माना क्रय मूल्य 100 रु. है। 5% लाभ पर विक्रय मूल्य = 105 रु.। अनुपात = 100 : 105 = 20 : 21।",
+    "explanationEnglish": "Assume CP = 100. SP at 5% profit = 105. Ratio CP : SP = 100 : 105 = 20 : 21.",
+    "subject": "गणित",
+    "topic": "लाभ और हानि"
+  }
+]
