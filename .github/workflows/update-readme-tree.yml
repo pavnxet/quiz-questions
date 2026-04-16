@@ -1,0 +1,29 @@
+name: Update README Tree
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:     # Allows you to run it manually
+
+jobs:
+  update-tree:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write     # Important: allows the action to commit changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate and update tree
+        uses: RavelloH/readme-tree@latest
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: update repository tree [skip ci]" || exit 0
+          git push
