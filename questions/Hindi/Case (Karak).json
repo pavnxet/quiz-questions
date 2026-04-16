@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "In which of the following options is the postposition 'ka' NOT used for the possessive case (Sambandh Karak)?",
+    "qHindi": "निम्नलिखित में से किस विकल्प में 'का' परसर्ग का प्रयोग सम्बन्ध कारक के लिए नहीं हुआ है ?",
+    "optionsEnglish": [
+      "He is a beggar by birth (Janm ka bhikhari).",
+      "A five-hand long stick (Paanch hath ka danda).",
+      "A three-storey house (Teen khand ka makan).",
+      "His horse runs (Uska ghoda daudta hai).",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "वह तो जन्म का भिखारी है।",
+      "पाँच हाथ का डंडा ।",
+      "तीन खंड का मकान ।",
+      "उसका घोड़ा दौड़ता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "In 'Janm ka bhikhari', 'ka' often indicates origin or quality rather than a direct possession/relationship between two entities.",
+    "explanationHindi": "'जन्म का भिखारी' में 'का' संबंध की जगह गुण या उत्पत्ति का सूचक है।",
+    "subject": "Hindi",
+    "topic": "Case (Karak)"
+  },
+  {
+    "qEnglish": "In which of the following is the locative postposition 'mein' used inconsistently?",
+    "qHindi": "अधिकरण कारक के परसर्ग 'में' का असंगत प्रयोग हुआ है -",
+    "optionsEnglish": [
+      "There is no difference between us and you (Hummein tummein).",
+      "Their ability is revealed in work (Kam mein).",
+      "There are four men in your house (Ghar mein).",
+      "Who among the gods is more worshipful? (Devtaon mein).",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "हममें तुममें कोई भेद नहीं है।",
+      "उनकी योग्यता काम में प्रकट होती है।",
+      "तुम्हारे घर में चार आदमी हैं।",
+      "देवताओं में कौन अधिक पूज्य है ?",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "In 'Hummein tummein', the usage is slightly informal/redundant compared to standard locative use.",
+    "explanationHindi": "'हममें तुममें' के स्थान पर 'हम और तुम में' या 'हमारे-तुम्हारे बीच' अधिक शुद्ध होता है।",
+    "subject": "Hindi",
+    "topic": "Case (Karak)"
+  }
+]
