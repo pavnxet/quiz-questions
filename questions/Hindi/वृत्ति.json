@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "'May you always remain happy.' Which mood (Vritti) is this sentence related to?",
     "qHindi": "'सदा सुखी रहो।' वाक्य किस वृत्ति से संबंधित है ?",
-    "optionsEnglish": [
-      "Imperative (Ajnyarth)",
-      "Indicative (Sanketarth)",
-      "Optative (Ichharth)",
-      "Indicative (Nischayarth)",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "आज्ञार्थ",
       "संकेतार्थ",
@@ -17,9 +9,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 2,
-    "explanationEnglish": "It expresses a wish or blessing, which falls under 'Ichharth'.",
     "explanationHindi": "यह वाक्य आशीर्वाद या इच्छा प्रकट कर रहा है, अतः यह इच्छार्थ वृत्ति है।",
-    "subject": "Hindi",
-    "topic": "Mood (Vritti)"
+    "subject": "हिंदी",
+    "topic": "वृत्ति"
   }
 ]

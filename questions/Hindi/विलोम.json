@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "Which is an inconsistent antonym pair?",
     "qHindi": "असंगत विलोम शब्द है :",
-    "optionsEnglish": [
-      "Vaiyaiktik (Individual) - Samuhik (Collective)",
-      "Utarna (To descend) - Girna (To fall)",
-      "Taral (Liquid) - Thosh (Solid)",
-      "Nyun (Minimal) - Adhik (Excessive)",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "वैयक्तिक - सामूहिक",
       "उतरना - गिरना",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "'Utarna' and 'Girna' are not antonyms; the antonym of 'Utarna' is 'Chadhna' (to ascend).",
     "explanationHindi": "'उतरना' का विलोम 'चढ़ना' होता है, 'गिरना' नहीं।",
-    "subject": "Hindi",
-    "topic": "Antonyms (Vilom)"
+    "subject": "हिंदी",
+    "topic": "विलोम"
   },
   {
-    "qEnglish": "Which is an inconsistent antonym pair?",
     "qHindi": "असंगत विलोम शब्द है -",
-    "optionsEnglish": [
-      "Tanvangi - Pinvangi",
-      "Gat (Past) - Aagat (Future/Incoming)",
-      "Bada (Big) - Lamba (Long)",
-      "Krish (Thin) - Sthool (Thick/Large)",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "तन्वंगी - पिन्वंगी",
       "गत - आगत",
@@ -40,21 +23,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 2,
-    "explanationEnglish": "'Bada' (Big) and 'Lamba' (Long) are not antonyms; the antonym of 'Bada' is 'Chhota' (Small).",
     "explanationHindi": "'बड़ा' का विलोम 'छोटा' होता है, 'लंबा' नहीं।",
-    "subject": "Hindi",
-    "topic": "Antonyms (Vilom)"
+    "subject": "हिंदी",
+    "topic": "विलोम"
   },
   {
-    "qEnglish": "What is the antonym of 'Bahujna' (knowing many things)?",
     "qHindi": "'बहुज्ञ' का विलोम शब्द है -",
-    "optionsEnglish": [
-      "Sarvajna",
-      "Alpajna",
-      "Abhijna",
-      "Vijnha",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "सर्वज्ञ",
       "अल्पज्ञ",
@@ -63,9 +37,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "The antonym of 'Bahujna' (knowing much) is 'Alpajna' (knowing little).",
     "explanationHindi": "'बहुज्ञ' (बहुत जानने वाला) का विलोम 'अल्पज्ञ' (कम जानने वाला) होता है।",
-    "subject": "Hindi",
-    "topic": "Antonyms (Vilom)"
+    "subject": "हिंदी",
+    "topic": "विलोम"
   }
 ]

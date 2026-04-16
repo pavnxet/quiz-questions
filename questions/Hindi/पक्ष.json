@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "'Stars come out in the sky.' What is the aspect (Paksh) in the sentence?",
     "qHindi": "'आकाश में तारे निकलते हैं।' वाक्य में पक्ष है -",
-    "optionsEnglish": [
-      "Iterative/Frequentative (Aavrittimulak)",
-      "Continuative (Satatyabodhak)",
-      "Imperfect Habitual (Nityatabodhak Apurn)",
-      "Perfective (Purnakalik)",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "आवृत्तिमूलक पक्ष",
       "सातत्यबोधक पक्ष",
@@ -17,9 +9,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 0,
-    "explanationEnglish": "The sentence describes a habitual/repeated action, which is Iterative (Aavrittimulak).",
     "explanationHindi": "यह क्रिया की आवृत्ति (रोजाना होने) को दर्शाता है।",
-    "subject": "Hindi",
-    "topic": "Verb Aspect (Paksh)"
+    "subject": "हिंदी",
+    "topic": "पक्ष"
   }
 ]

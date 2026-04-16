@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "What is NOT used in a simple subject (Sadharan Uddeshya)?",
     "qHindi": "साधारण उद्देश्य में प्रयुक्त नहीं होता है -",
-    "optionsEnglish": [
-      "Noun",
-      "Pronoun",
-      "Adjective",
-      "Adverb",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "संज्ञा",
       "सर्वनाम",
@@ -17,9 +9,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "Adverbs modify the predicate (Vidhey), not the subject (Uddeshya).",
     "explanationHindi": "क्रिया-विशेषण का प्रयोग 'विधेय' के विस्तार में होता है, 'उद्देश्य' में नहीं।",
-    "subject": "Hindi",
-    "topic": "Sentence Components"
+    "subject": "हिंदी",
+    "topic": "वाक्य के अंग"
   }
 ]

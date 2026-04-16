@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "'Shyam did not get the car because he did not go on time.' What is the type of the underlined clause?",
     "qHindi": "'श्याम को गाड़ी नहीं मिली क्योंकि वह समय पर नहीं गया।' वाक्य में रेखांकित उपवाक्य का प्रकार है-",
-    "optionsEnglish": [
-      "Principal clause",
-      "Noun clause",
-      "Adjective clause",
-      "Adverbial clause",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "प्रधान उपवाक्य",
       "संज्ञा उपवाक्य",
@@ -17,9 +9,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "The clause starting with 'kyunki' (because) gives the reason, making it an adverbial clause of reason.",
     "explanationHindi": "'क्योंकि' से शुरू होने वाला उपवाक्य कारण बता रहा है, जो क्रिया-विशेषण उपवाक्य है।",
-    "subject": "Hindi",
-    "topic": "Clause (Upvakya)"
+    "subject": "हिंदी",
+    "topic": "उपवाक्य"
   }
 ]

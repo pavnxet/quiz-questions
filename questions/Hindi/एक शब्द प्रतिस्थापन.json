@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "What is the appropriate meaningful word for the phrase 'One who gives initiation' (Diksha)?",
     "qHindi": "'दीक्षा देने वाला' वाक्यांश के लिए उपयुक्त सार्थक शब्द है -",
-    "optionsEnglish": [
-      "Dikshak",
-      "Dikshant",
-      "Dikshit",
-      "Dakshinya",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "दीक्षक",
       "दीक्षांत",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 0,
-    "explanationEnglish": "'Dikshak' is the person who initiates someone.",
     "explanationHindi": "दीक्षा देने वाले व्यक्ति को 'दीक्षक' कहा जाता है।",
-    "subject": "Hindi",
-    "topic": "One Word Substitution"
+    "subject": "हिंदी",
+    "topic": "एक शब्द प्रतिस्थापन"
   },
   {
-    "qEnglish": "In which option is the word used for the phrase NOT appropriate?",
     "qHindi": "किस विकल्प में वाक्यांश के लिए प्रयुक्त शब्द उपयुक्त नहीं है ?",
-    "optionsEnglish": [
-      "One who fulfills desires - Kamya",
-      "Feeling of compassion - Karunik",
-      "Whose time has passed - Kalatit",
-      "After some time - Kalchakra",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "कामना पूरी करने वाला - काम्य",
       "करुणा का भाव - कारुणिक",
@@ -40,21 +23,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "'Kalchakra' means the wheel of time/cycle of time, not 'after some time'.",
     "explanationHindi": "'कालचक्र' का अर्थ समय का पहिया होता है, 'कुछ समय के बाद' के लिए यह अनुपयुक्त है।",
-    "subject": "Hindi",
-    "topic": "One Word Substitution"
+    "subject": "हिंदी",
+    "topic": "एक शब्द प्रतिस्थापन"
   },
   {
-    "qEnglish": "In which option is the word used for the phrase NOT appropriate?",
     "qHindi": "किस विकल्प में वाक्यांश के लिए प्रयुक्त शब्द उपयुक्त नहीं है ?",
-    "optionsEnglish": [
-      "One who has been protected - Rakshaniya",
-      "Worth planning - Yojya",
-      "Curtain of the stage - Yavanika",
-      "Night of the full moon - Raka",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "जिसकी रक्षा की गई हो - रक्षणीय",
       "योजना करने के योग्य - योज्य",
@@ -63,9 +37,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 0,
-    "explanationEnglish": "One who has been protected is 'Rakshit'. 'Rakshaniya' means worthy of being protected.",
     "explanationHindi": "जिसकी रक्षा की गई हो उसे 'रक्षित' कहते हैं। 'रक्षणीय' का अर्थ रक्षा करने योग्य होता है।",
-    "subject": "Hindi",
-    "topic": "One Word Substitution"
+    "subject": "हिंदी",
+    "topic": "एक शब्द प्रतिस्थापन"
   }
 ]

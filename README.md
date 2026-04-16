@@ -9,30 +9,30 @@
 ├── README.md
 ├── questions
 │   ├── Hindi
-│   │   ├── Adjective (Visheshan).json
-│   │   ├── Adverb (Kriya-Visheshan).json
-│   │   ├── Antonyms (Vilom).json
-│   │   ├── Case (Karak).json
-│   │   ├── Clause (Upvakya).json
-│   │   ├── Gender (Ling).json
-│   │   ├── Indeclinable (Avyay).json
-│   │   ├── Mood (Vritti).json
-│   │   ├── Nipat.json
-│   │   ├── Number (Vachan).json
-│   │   ├── One Word Substitution.json
-│   │   ├── Pronoun (Sarvanam).json
-│   │   ├── PunctuationSentence Correction.json
-│   │   ├── Sentence Classification.json
-│   │   ├── Sentence Components.json
-│   │   ├── Sentence Correction (Vakya Shuddhi).json
-│   │   ├── Sentence Structure (Vakya Rachna).json
-│   │   ├── Spelling (Vartani Shuddhi).json
-│   │   ├── Synonyms (Paryayvachi).json
-│   │   ├── Tense (Kaal).json
-│   │   ├── Verb (Kriya).json
-│   │   ├── Verb Aspect (Paksh).json
-│   │   ├── Voice (Vachya).json
-│   │   └── Word Pairs (Shabd-Yugm).json
+│   │   ├── विशेषण.json
+│   │   ├── क्रिया-विशेषण.json
+│   │   ├── विलोम.json
+│   │   ├── कारक.json
+│   │   ├── उपवाक्य.json
+│   │   ├── लिंग.json
+│   │   ├── अव्यय.json
+│   │   ├── वृत्ति.json
+│   │   ├── निपात.json
+│   │   ├── वचन.json
+│   │   ├── एक शब्द प्रतिस्थापन.json
+│   │   ├── सर्वनाम.json
+│   │   ├── विराम चिह्न एवं वाक्य शुद्धि.json
+│   │   ├── वाक्य वर्गीकरण.json
+│   │   ├── वाक्य के अंग.json
+│   │   ├── वाक्य शुद्धि.json
+│   │   ├── वाक्य रचना.json
+│   │   ├── वर्तनी शुद्धि.json
+│   │   ├── पर्यायवाची.json
+│   │   ├── काल.json
+│   │   ├── क्रिया.json
+│   │   ├── पक्ष.json
+│   │   ├── वाच्य.json
+│   │   └── शब्द-युग्म.json
 │   ├── गणित
 │   │   ├── आयु संबंधी प्रश्न.json
 │   │   ├── गुणनखंडों की संख्या.json

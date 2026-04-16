@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "Which of the following words is always used with a singular verb?",
     "qHindi": "निम्नलिखित में से सदैव एकवचन क्रिया के साथ प्रयुक्त होने वाला शब्द है :",
-    "optionsEnglish": [
-      "Daam (Price)",
-      "Hosh (Senses)",
-      "Aag (Fire)",
-      "Bhagya (Fate)",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "दाम",
       "होश",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 2,
-    "explanationEnglish": "'Aag' (Fire) is used as an uncountable noun and typically takes a singular verb.",
     "explanationHindi": "'आग' सदैव एकवचन में प्रयुक्त होती है, जबकि 'दाम', 'होश', और 'भाग्य' (अक्सर) बहुवचन में प्रयुक्त होते हैं।",
-    "subject": "Hindi",
-    "topic": "Number (Vachan)"
+    "subject": "हिंदी",
+    "topic": "वचन"
   },
   {
-    "qEnglish": "Which is an unmatched/incorrect singular-plural pair?",
     "qHindi": "एकवचन - बहुवचन का बेमेल विकल्प है -",
-    "optionsEnglish": [
-      "Vriddha - Vriddhajan",
-      "Daali - Daaliyan",
-      "Dibba - Dibiya",
-      "Chidiya - Chidiyan",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "वृद्ध - वृद्धजन",
       "डाली - डालियाँ",
@@ -40,9 +23,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 2,
-    "explanationEnglish": "'Dibba' (box) - 'Dibiya' is a diminutive form, not a plural. The plural would be 'Dibbe'.",
     "explanationHindi": "'डिब्बा' का बहुवचन 'डिब्बे' होता है, 'डिबिया' उसका उनवाचक (Diminutive) रूप है।",
-    "subject": "Hindi",
-    "topic": "Number (Vachan)"
+    "subject": "हिंदी",
+    "topic": "वचन"
   }
 ]

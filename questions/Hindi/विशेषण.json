@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "Which option contains an adjective word?",
     "qHindi": "किस विकल्प में विशेषण शब्द है ?",
-    "optionsEnglish": [
-      "Amatya (Minister)",
-      "Anuchit (Inappropriate)",
-      "Abhyas (Practice)",
-      "Amavas (New Moon)",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "अमात्य",
       "अनुचित",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "'Anuchit' (Inappropriate) is a qualitative adjective.",
     "explanationHindi": "'अनुचित' एक गुणवाचक विशेषण है।",
-    "subject": "Hindi",
-    "topic": "Adjective (Visheshan)"
+    "subject": "हिंदी",
+    "topic": "विशेषण"
   },
   {
-    "qEnglish": "In which option are all words examples of qualitative adjectives (Gunvachak Visheshan)?",
     "qHindi": "किस विकल्प में सभी शब्द गुणवाचक विशेषण के उदाहरण हैं ?",
-    "optionsEnglish": [
-      "Lamba (Long), Poora (Full), Bhaari (Heavy)",
-      "Tikau (Durable), Sthaniya (Local), Pheeka (Faint/Tasteless)",
-      "Saman (Equal), Samucha (Whole), Sukha (Dry)",
-      "Saara (All), Neecha (Low), Chauda (Broad)",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "लंबा, पूरा, भारी",
       "टिकाऊ, स्थानीय, फीका",
@@ -40,9 +23,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "Durable, local, and tasteless describe the qualities of a noun.",
     "explanationHindi": "टिकाऊ, स्थानीय और फीका वस्तु के गुणों का बोध कराते हैं।",
-    "subject": "Hindi",
-    "topic": "Adjective (Visheshan)"
+    "subject": "हिंदी",
+    "topic": "विशेषण"
   }
 ]
