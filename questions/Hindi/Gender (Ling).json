@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which of the following words is NOT masculine?",
+    "qHindi": "निम्नलिखित में से कौन सा शब्द पुल्लिंग नहीं है ?",
+    "optionsEnglish": [
+      "Sarovar",
+      "Rayta",
+      "Katahal",
+      "Sarson",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "सरोवर",
+      "रायता",
+      "कटहल",
+      "सरसों",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "'Sarson' (Mustard) is a feminine noun in Hindi.",
+    "explanationHindi": "'सरसों' स्त्रीलिंग शब्द है, बाकी सब पुल्लिंग हैं।",
+    "subject": "Hindi",
+    "topic": "Gender (Ling)"
+  },
+  {
+    "qEnglish": "Which of the following is a feminine word?",
+    "qHindi": "निम्नलिखित में से स्त्रीलिंग शब्द है :",
+    "optionsEnglish": [
+      "Mor",
+      "Maarg",
+      "Geru",
+      "Milan",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "मोर",
+      "मार्ग",
+      "गेरू",
+      "मिलान",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "'Geru' (ochre/red earth) is often treated as feminine in certain linguistic contexts/dialects, though some dictionaries list it as masculine. Re-evaluating standard RPSC keys is advised.",
+    "explanationHindi": "'गेरू' को कुछ संदर्भों में स्त्रीलिंग माना जाता है, हालांकि यह विवादित हो सकता है।",
+    "subject": "Hindi",
+    "topic": "Gender (Ling)"
+  }
+]
