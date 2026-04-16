@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "In which of the following sentences is the intransitive form of the verb used?",
+    "qHindi": "निम्न में से किस वाक्य में क्रिया का अकर्मक रूप में प्रयोग हुआ है ?",
+    "optionsEnglish": [
+      "The policeman catches the thief.",
+      "Mohan plays ball.",
+      "Shyam eats mango.",
+      "Ram studies in school.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "सिपाही चोर को पकड़ता है।",
+      "मोहन गेंद खेलता है।",
+      "श्याम आम खाता है।",
+      "राम स्कूल में पढ़ता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "In the sentence 'Ram studies in school', 'studies' is used intransitively as it lacks a direct object (school is a locative complement).",
+    "explanationHindi": "'राम स्कूल में पढ़ता है' वाक्य में 'पढ़ता है' अकर्मक रूप में है क्योंकि यहाँ कर्म का अभाव है (स्कूल स्थानवाचक आधार है)।",
+    "subject": "Hindi",
+    "topic": "Verb (Kriya)"
+  },
+  {
+    "qEnglish": "In which of the following sentences has the causative form of the verb NOT been used?",
+    "qHindi": "निम्नलिखित में से किस वाक्य में क्रिया के प्रेरणार्थक रूप का प्रयोग नहीं हुआ है ?",
+    "optionsEnglish": [
+      "Feed the child bread.",
+      "He wants to come home.",
+      "The father told the boy a story.",
+      "Mohan makes me write a book.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "बच्चे को रोटी खिलाओ ।",
+      "वह घर आना चाहता है।",
+      "पिता ने लड़के को कहानी सुनाई ।",
+      "मोहन मुझसे किताब लिखाता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "'He wants to come home' uses a simple finite verb, not a causative one where one subject inspires another to act.",
+    "explanationHindi": "'वह घर आना चाहता है' में सामान्य क्रिया है, जबकि अन्य विकल्पों में कर्ता किसी अन्य को कार्य के लिए प्रेरित कर रहा है।",
+    "subject": "Hindi",
+    "topic": "Verb (Kriya)"
+  }
+]
