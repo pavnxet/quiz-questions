@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "In which sentence is the doubtful past tense (Sandigdh Bhootkal) used?",
+    "qHindi": "इनमें से संदिग्ध भूतकाल का प्रयोग किस वाक्य में है ?",
+    "optionsEnglish": [
+      "She/He must have received our letter.",
+      "The dead horse is lying in the field.",
+      "A monk has come to the city.",
+      "The kings are sitting.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "उसे हमारी चिट्ठी मिली होगी।",
+      "मरा घोड़ा खेत में पड़ा है।",
+      "नगर में एक साधु आए हैं।",
+      "राजा बैठे हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "'Mili hogi' indicates an action that happened in the past but there is doubt about its completion.",
+    "explanationHindi": "'मिली होगी' भूतकाल की क्रिया है जिस पर संदेह व्यक्त किया गया है।",
+    "subject": "Hindi",
+    "topic": "Tense (Kaal)"
+  },
+  {
+    "qEnglish": "'Do this so that things work out.' What is the tense in the sentence?",
+    "qHindi": "'ऐसा करो जिसमें बात बन जाये।' वाक्य में काल है-",
+    "optionsEnglish": [
+      "Probable Future (Sambhavya Bhavishyat)",
+      "Simple Future (Samanya Bhavishyat)",
+      "Simple Present (Samanya Vartaman)",
+      "Doubtful Present (Sandigdh Vartaman)",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "संभाव्य भविष्यत् काल",
+      "सामान्य भविष्यत् काल",
+      "सामान्य वर्तमान काल",
+      "संदिग्ध वर्तमान काल",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "'Ban jaye' indicates a possibility in the future.",
+    "explanationHindi": "'बन जाये' क्रिया भविष्य में होने की संभावना को दर्शाती है।",
+    "subject": "Hindi",
+    "topic": "Tense (Kaal)"
+  }
+]
