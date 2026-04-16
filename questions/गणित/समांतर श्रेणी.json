@@ -1,0 +1,23 @@
+[
+  {
+    "qHindi": "श्रेणी 31 + 33 + ... + 57 का मान क्या है?",
+    "qEnglish": "What is the value of the series 31 + 33 + ... + 57?",
+    "optionsHindi": [
+      "617",
+      "615",
+      "616",
+      "601"
+    ],
+    "optionsEnglish": [
+      "617",
+      "615",
+      "616",
+      "601"
+    ],
+    "correct": 2,
+    "explanationHindi": "पहली संख्या = 31, अंतिम = 57, अंतर = 2। पदों की संख्या = (57-31)/2 + 1 = 14। योग = (31+57)/2 × 14 = 44 × 14 = 616।",
+    "explanationEnglish": "First term=31, last=57, difference=2. Number of terms = (57-31)/2 +1 =14. Sum = (31+57)/2 × 14 = 44 × 14 = 616.",
+    "subject": "गणित",
+    "topic": "समांतर श्रेणी"
+  }
+]
