@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which sentence is related to the impersonal voice (Bhavvachya)?",
+    "qHindi": "भाववाच्य से संबंधित वाक्य है -",
+    "optionsEnglish": [
+      "The book was read by me.",
+      "How will one sit there?",
+      "This is written to you.",
+      "The soldier was made the chief.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "मेरे द्वारा पुस्तक पढ़ी गई।",
+      "वहाँ कैसे बैठा जायेगा ।",
+      "तुमको यह लिखा जाता है।",
+      "सिपाही सरदार बनाया गया ।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "'Baitha jayega' focuses on the action/feeling and uses an intransitive verb in the passive structure, typical of Bhavvachya.",
+    "explanationHindi": "'बैठा जायेगा' अकर्मक क्रिया का वाच्य है जहाँ क्रिया की प्रधानता है।",
+    "subject": "Hindi",
+    "topic": "Voice (Vachya)"
+  },
+  {
+    "qEnglish": "In which option is there NO passive voice (Karmvachya)?",
+    "qHindi": "किस विकल्प में कर्मवाच्य नहीं है ?",
+    "optionsEnglish": [
+      "Information is given.",
+      "Exercise is done by me.",
+      "This will be seen again.",
+      "Rani called the friends.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "इत्तला दी जाती है।",
+      "मेरे द्वारा व्यायाम किया जाता है।",
+      "यह फिर देखा जायेगा ।",
+      "रानी ने सहेलियों को बुलाया ।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "'Rani ne saheliyon ko bulaya' is in the active voice (Kartrivachya).",
+    "explanationHindi": "'रानी ने सहेलियों को बुलाया' कर्तृवाच्य का उदाहरण है।",
+    "subject": "Hindi",
+    "topic": "Voice (Vachya)"
+  }
+]
