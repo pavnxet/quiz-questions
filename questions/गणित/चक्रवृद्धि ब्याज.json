@@ -1,0 +1,23 @@
+[
+  {
+    "qHindi": "चक्रवृद्धि ब्याज पर कोई राशि 2 वर्षों में 2.25 गुना हो जाती है। ब्याज की वार्षिक दर क्या है?",
+    "qEnglish": "A sum becomes 2.25 times itself in 2 years at compound interest. What is the rate of interest per annum?",
+    "optionsHindi": [
+      "25%",
+      "30%",
+      "45%",
+      "50%"
+    ],
+    "optionsEnglish": [
+      "25%",
+      "30%",
+      "45%",
+      "50%"
+    ],
+    "correct": 3,
+    "explanationHindi": "A = P(1 + r/100)^n। 2.25P = P(1 + r/100)²। (1 + r/100)² = 2.25 = (1.5)²। अतः 1 + r/100 = 1.5 ⇒ r = 50%।",
+    "explanationEnglish": "A = P(1 + r/100)^n. 2.25P = P(1 + r/100)². (1 + r/100)² = 2.25 = (1.5)². Thus 1 + r/100 = 1.5 ⇒ r = 50%.",
+    "subject": "गणित",
+    "topic": "चक्रवृद्धि ब्याज"
+  }
+]
