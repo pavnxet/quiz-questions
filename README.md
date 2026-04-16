@@ -17,12 +17,13 @@
 │   │   ├── भाजकता के नियम.json
 │   │   ├── लाभ और हानि.json
 │   │   ├── वर्गों का योग.json
+│   │   ├── संख्या पद्धति.json
 │   │   ├── समांतर श्रेणी.json
 │   │   └── स्थानीय मान.json
 │   └── जीव विज्ञान
 │       └── रोग.json
 └── tree.bak
 
-6 directories, 14 files
+6 directories, 15 files
 ```
 <!-- readme-tree end -->
