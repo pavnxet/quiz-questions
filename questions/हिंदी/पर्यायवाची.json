@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "In which option are all words NOT synonyms of each other?",
     "qHindi": "किस विकल्प के सभी शब्द परस्पर पर्यायवाची नहीं हैं ?",
-    "optionsEnglish": [
-      "Pangkti, Sarani, Paanti",
-      "Yuddh, Ran, Samar",
-      "Chhidra, Randhra, Vivar",
-      "Chawal, Tandul, Payas",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "पंक्ति, सरणि, पाँती",
       "युद्ध, रण, समर",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "While 'Chawal' and 'Tandul' mean rice, 'Payas' means kheer or milk.",
     "explanationHindi": "'चावल' और 'तंदुल' धान/चावल के लिए हैं, किंतु 'पायस' का अर्थ खीर या दूध होता है।",
-    "subject": "Hindi",
-    "topic": "Synonyms (Paryayvachi)"
+    "subject": "हिंदी",
+    "topic": "पर्यायवाची"
   },
   {
-    "qEnglish": "Which of the following is NOT a synonym of 'Peacock' (Mor)?",
     "qHindi": "निम्नलिखित में से 'मोर' का पर्यायवाची नहीं है :",
-    "optionsEnglish": [
-      "Kalapi",
-      "Mandook",
-      "Keki",
-      "Shikhi",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "कलापी",
       "मंडूक",
@@ -40,21 +23,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "'Mandook' means frog, not peacock.",
     "explanationHindi": "'मंडूक' मेंढक का पर्यायवाची है, मोर का नहीं।",
-    "subject": "Hindi",
-    "topic": "Synonyms (Paryayvachi)"
+    "subject": "हिंदी",
+    "topic": "पर्यायवाची"
   },
   {
-    "qEnglish": "In which option are all words NOT synonyms of each other?",
     "qHindi": "किस विकल्प के सभी शब्द परस्पर पर्यायवाची नहीं हैं ?",
-    "optionsEnglish": [
-      "Tam, Tamisra, Timir",
-      "Shar, Vishikh, Shilimukh",
-      "Khadga, Asi, Karval",
-      "Marut, Gandhavah, Tarani",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "तम, तमिस्र, तिमिर",
       "शर, विशिख, शिलीमुख",
@@ -63,9 +37,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "'Marut' and 'Gandhavah' mean wind, but 'Tarani' means sun or boat.",
     "explanationHindi": "'मरुत' और 'गंधवह' वायु के पर्यायवाची हैं, जबकि 'तरणी' सूर्य या नौका का पर्यायवाची है।",
-    "subject": "Hindi",
-    "topic": "Synonyms (Paryayvachi)"
+    "subject": "हिंदी",
+    "topic": "पर्यायवाची"
   }
 ]

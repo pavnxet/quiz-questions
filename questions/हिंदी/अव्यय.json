@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "In which option is a postposition (relation-indicating indeclinable) NOT used?",
     "qHindi": "किस विकल्प में संबंधसूचक अव्यय का प्रयोग नहीं हुआ है ?",
-    "optionsEnglish": [
-      "No one's work proceeds without money.",
-      "The servant lives at the master's place.",
-      "By the way, the King is also a servant of the subjects.",
-      "This work should be done before leaving.",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "धन के बिना किसी का काम नहीं चलता ।",
       "नौकर मालिक के यहाँ रहता है।",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 2,
-    "explanationEnglish": "The third sentence uses a conjunctional/adverbial structure rather than a specific postpositional relation between nouns.",
     "explanationHindi": "तीसरे वाक्य में 'वैसे तो' अव्यय है, पर यह संज्ञा के बीच संबंध स्थापित करने वाला संबंधसूचक अव्यय नहीं है।",
-    "subject": "Hindi",
-    "topic": "Indeclinable (Avyay)"
+    "subject": "हिंदी",
+    "topic": "अव्यय"
   },
   {
-    "qEnglish": "From the perspective of interjections (Vismaiadibodhak), which option is inconsistent?",
     "qHindi": "विस्मयादिबोधक अव्यय की दृष्टि से असंगत विकल्प है -",
-    "optionsEnglish": [
-      "Addressing - Are!",
-      "Contempt - Chhi!",
-      "Acceptance - Jee!",
-      "Wonder - Dhanya!",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "संबोधनद्योतक - अरे !",
       "तिरस्कारबोधक - छिः !",
@@ -40,9 +23,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "'Dhanya' (Blessed/Great) is usually indicative of praise or joy (Harshbodhak), while wonder is usually 'Aha' or 'Oho'.",
     "explanationHindi": "'धन्य' हर्षबोधक या प्रशंसात्मक है, आश्चर्यबोधक के लिए प्रायः 'ओह' या 'वाह' का प्रयोग होता है।",
-    "subject": "Hindi",
-    "topic": "Indeclinable (Avyay)"
+    "subject": "हिंदी",
+    "topic": "अव्यय"
   }
 ]

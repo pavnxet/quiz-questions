@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "In which option are all words pure (correctly spelled)?",
     "qHindi": "किस विकल्प के सभी शब्द शुद्ध हैं ?",
-    "optionsEnglish": [
-      "Andhera, Chanchalta",
-      "Duniya, Poonchkar",
-      "Sochenge, Tarange",
-      "Aantarik, Janti-Paanti",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "अँधेरा, चंचलता",
       "दुनियां, पूँछकर",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 0,
-    "explanationEnglish": "'Andhera' and 'Chanchalta' are spelled correctly with appropriate nasal sounds.",
     "explanationHindi": "'अँधेरा' और 'चंचलता' वर्तनी की दृष्टि से शुद्ध हैं।",
-    "subject": "Hindi",
-    "topic": "Spelling (Vartani Shuddhi)"
+    "subject": "हिंदी",
+    "topic": "वर्तनी शुद्धि"
   },
   {
-    "qEnglish": "Which word is NOT impure (is pure)?",
     "qHindi": "अशुद्ध शब्द नहीं है -",
-    "optionsEnglish": [
-      "Jhonpadi",
-      "Abhyast",
-      "Adhyavasay",
-      "Abhisht",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "झौंपड़ी",
       "अभ्यस्त",
@@ -40,21 +23,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "'Abhyast' (practiced) is the correct spelling; others have minor errors.",
     "explanationHindi": "'अभ्यस्त' शुद्ध शब्द है। 'अभीष्ट' में बड़ी ई होती है, 'अध्यवसाय' शुद्ध होता है।",
-    "subject": "Hindi",
-    "topic": "Spelling (Vartani Shuddhi)"
+    "subject": "हिंदी",
+    "topic": "वर्तनी शुद्धि"
   },
   {
-    "qEnglish": "Which of the following is a pure word?",
     "qHindi": "निम्नलिखित में से शुद्ध शब्द है :",
-    "optionsEnglish": [
-      "Arshivad",
-      "Akshauhini",
-      "Duskar",
-      "Pratichhaya",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "आर्शिवाद",
       "अक्षौहिणी",
@@ -63,21 +37,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "'Akshauhini' (a large army division) is the correct spelling.",
     "explanationHindi": "'अक्षौहिणी' शुद्ध वर्तनी है। 'आशीर्वाद' में रेफ 'व' पर आता है।",
-    "subject": "Hindi",
-    "topic": "Spelling (Vartani Shuddhi)"
+    "subject": "हिंदी",
+    "topic": "वर्तनी शुद्धि"
   },
   {
-    "qEnglish": "In which option are all words pure?",
     "qHindi": "किस विकल्प में सभी शब्द शुद्ध हैं ?",
-    "optionsEnglish": [
-      "Pramanik, Pauranik, Yaugik",
-      "Saundaryata, Kaushal, Bahulyata",
-      "Vedik, Dupahar, Nirdoshi",
-      "Vyavaharik, Yauvan, Laghuttar",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "प्रामाणिक, पौराणिक, यौगिक",
       "सौन्दर्यता, कौशल, बाहुल्यता",
@@ -86,21 +51,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 0,
-    "explanationEnglish": "All three words in the first option follow correct vowel increment rules (Pratyay).",
     "explanationHindi": "पहले विकल्प के सभी शब्दों में 'इक' प्रत्यय के नियमानुसार प्रथम स्वर में वृद्धि सही है।",
-    "subject": "Hindi",
-    "topic": "Spelling (Vartani Shuddhi)"
+    "subject": "हिंदी",
+    "topic": "वर्तनी शुद्धि"
   },
   {
-    "qEnglish": "Which word is impure?",
     "qHindi": "अशुद्ध शब्द है -",
-    "optionsEnglish": [
-      "Snigdh",
-      "Sparsh",
-      "Saurashtra",
-      "Swargiya",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "स्निग्ध",
       "स्पर्श",
@@ -109,21 +65,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "The correct spelling is 'Swargiya' (long i).",
     "explanationHindi": "'स्वर्गिय' गलत है, शुद्ध शब्द 'स्वर्गीय' (बड़ी ई) होता है।",
-    "subject": "Hindi",
-    "topic": "Spelling (Vartani Shuddhi)"
+    "subject": "हिंदी",
+    "topic": "वर्तनी शुद्धि"
   },
   {
-    "qEnglish": "Which word is impure?",
     "qHindi": "अशुद्ध शब्द है -",
-    "optionsEnglish": [
-      "Anusaran",
-      "Bhagirathi",
-      "Vimoodh",
-      "Prastavik",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "अनुसरण",
       "भगीरथी",
@@ -132,21 +79,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "The correct spelling is 'Prastavik' with 'ai' (Praastavik) due to 'ik' suffix.",
     "explanationHindi": "'प्रस्ताविक' अशुद्ध है, शुद्ध शब्द 'प्रास्ताविक' होगा।",
-    "subject": "Hindi",
-    "topic": "Spelling (Vartani Shuddhi)"
+    "subject": "हिंदी",
+    "topic": "वर्तनी शुद्धि"
   },
   {
-    "qEnglish": "In which option is there an impure word?",
     "qHindi": "किस विकल्प में अशुद्ध शब्द है ?",
-    "optionsEnglish": [
-      "Abhyagat",
-      "Arthantar",
-      "Aaharya",
-      "Aastik",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "अभ्यगत",
       "अर्थान्तर",
@@ -155,21 +93,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 0,
-    "explanationEnglish": "'Abhyagat' is usually written as 'Abhyagat' (Abhi + Aagat), but check for specific typos in the RPSC context.",
     "explanationHindi": "'अभ्यागत' (अभि + आगत) शुद्ध होता है, 'अभ्यगत' अशुद्ध है।",
-    "subject": "Hindi",
-    "topic": "Spelling (Vartani Shuddhi)"
+    "subject": "हिंदी",
+    "topic": "वर्तनी शुद्धि"
   },
   {
-    "qEnglish": "Which is a pure word?",
     "qHindi": "शुद्ध शब्द है -",
-    "optionsEnglish": [
-      "Sthayitva",
-      "Shuddhikaran",
-      "Anusangik",
-      "Hing",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "स्थायित्व",
       "शुद्धिकरण",
@@ -178,9 +107,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "'Shuddhikaran' is the correct spelling in many formal conventions where the 'i' becomes long before 'karan'.",
     "explanationHindi": "'शुद्धिकरण' शुद्ध है (करण प्रत्यय लगने पर ह्रस्व इ दीर्घ हो जाता है)।",
-    "subject": "Hindi",
-    "topic": "Spelling (Vartani Shuddhi)"
+    "subject": "हिंदी",
+    "topic": "वर्तनी शुद्धि"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "In which option is the second person (Madhyam Purush) used?",
     "qHindi": "किस विकल्प में मध्यम पुरुष का प्रयोग हुआ है ?",
-    "optionsEnglish": [
-      "We have written at the beginning of the first part.",
-      "The things that happened after the sage were told to him.",
-      "Hey Revatak, you call the commander.",
-      "Kumbalik - What is my fault, this is our family duty.",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "हम पहले भाग के आरम्भ में लिख आए हैं।",
       "जो बातें मुनि के पीछे हुई सो उनसे कह दीं।",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 2,
-    "explanationEnglish": "'Tum' (you) is a second-person pronoun.",
     "explanationHindi": "'तुम' मध्यम पुरुष सर्वनाम है।",
-    "subject": "Hindi",
-    "topic": "Pronoun (Sarvanam)"
+    "subject": "हिंदी",
+    "topic": "सर्वनाम"
   },
   {
-    "qEnglish": "In which option is the demonstrative pronoun (Nischayvachak Sarvanam) NOT used?",
     "qHindi": "किस विकल्प में निश्चयवाचक सर्वनाम का प्रयोग नहीं हुआ है ?",
-    "optionsEnglish": [
-      "This is not a new rule.",
-      "No one becomes big just by getting a big post.",
-      "Those are brave boys.",
-      "All these things are natural in Harishchandra.",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "यह नया नियम नहीं है।",
       "बड़ा पद मिलने से कोई बड़ा नहीं होता ।",
@@ -40,21 +23,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "'Koi' (No one) is an indefinite pronoun (Anischayvachak Sarvanam).",
     "explanationHindi": "'कोई' अनिश्चयवाचक सर्वनाम है।",
-    "subject": "Hindi",
-    "topic": "Pronoun (Sarvanam)"
+    "subject": "हिंदी",
+    "topic": "सर्वनाम"
   },
   {
-    "qEnglish": "'Who is he, who is lying and crying.' The underlined word (Jo) in the sentence is:",
     "qHindi": "'वह कौन है, जो पड़ा रो रहा है।' वाक्य में रेखांकित शब्द है -",
-    "optionsEnglish": [
-      "Reflexive pronoun (Nijvachak)",
-      "Demonstrative pronoun (Nischayvachak)",
-      "Indefinite pronoun (Anischayvachak)",
-      "Relative pronoun (Sambandhvachak)",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "निजवाचक सर्वनाम",
       "निश्चयवाचक सर्वनाम",
@@ -63,9 +37,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "'Jo' is used to connect two clauses by showing relationship, making it a relative pronoun.",
     "explanationHindi": "'जो' दो उपवाक्यों के बीच संबंध जोड़ रहा है, अतः यह सम्बन्धवाचक सर्वनाम है।",
-    "subject": "Hindi",
-    "topic": "Pronoun (Sarvanam)"
+    "subject": "हिंदी",
+    "topic": "सर्वनाम"
   }
 ]

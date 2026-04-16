@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "Which is an example of a compound sentence (Sanyukt Vakya)?",
     "qHindi": "संयुक्त वाक्य का उदाहरण है -",
-    "optionsEnglish": [
-      "When morning came, we went out.",
-      "We want the boys to remain healthy.",
-      "When is it worthy for you to live in the forest.",
-      "Neither did they feel sleepy, nor did they feel hungry or thirsty.",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "जब सबेरा हुआ, हम लोग बाहर गए ।",
       "हम चाहते हैं कि लड़के नीरोग रहें।",
@@ -17,21 +9,12 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 3,
-    "explanationEnglish": "The use of 'na... na...' (neither... nor...) connects two independent clauses.",
     "explanationHindi": "दो स्वतंत्र उपवाक्यों को 'न... न...' के द्वारा जोड़ा गया है।",
-    "subject": "Hindi",
-    "topic": "Sentence Structure (Vakya Rachna)"
+    "subject": "हिंदी",
+    "topic": "वाक्य रचना"
   },
   {
-    "qEnglish": "Which is an example of a complex sentence (Mishra Vakya)?",
     "qHindi": "मिश्र वाक्य का उदाहरण है -",
-    "optionsEnglish": [
-      "Whatever was worth seeing there, I saw it all.",
-      "I had to find out their secret, so I stayed there and started listening to them.",
-      "You are capable in every way, you can do this work.",
-      "Either you come yourself or send your servant.",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "वहाँ जो कुछ देखने योग्य था, मैंने सब देख लिया ।",
       "मुझे उन लोगों का भेद लेना था, सो मैं वहाँ ठहरकर उनकी बातें सुनने लगा ।",
@@ -40,9 +23,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 0,
-    "explanationEnglish": "The first sentence uses 'jo... vahan' (what... there) which creates a dependent relationship between clauses.",
     "explanationHindi": "इसमें 'जो... सब' का प्रयोग हुआ है जो एक मुख्य और एक आश्रित उपवाक्य को जोड़ता है।",
-    "subject": "Hindi",
-    "topic": "Sentence Structure (Vakya Rachna)"
+    "subject": "हिंदी",
+    "topic": "वाक्य रचना"
   }
 ]

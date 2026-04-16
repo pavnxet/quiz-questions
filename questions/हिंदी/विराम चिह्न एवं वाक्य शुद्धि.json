@@ -1,14 +1,6 @@
 [
   {
-    "qEnglish": "In which option is there NOT a pure sentence (it's impure)?",
     "qHindi": "किस विकल्प में शुद्ध वाक्य नहीं है ?",
-    "optionsEnglish": [
-      "Calling this a riot is inappropriate.",
-      "What kind of atmosphere is there in the house.",
-      "She learns music and studies Hindi.",
-      "There is a close relationship between life and literature.",
-      "Unanswered question"
-    ],
     "optionsHindi": [
       "इसको दंगा कहकर पुकारना अनुचित है।",
       "घर में कैसा वातावरण है ।",
@@ -17,9 +9,8 @@
       "अनुत्तरित प्रश्न"
     ],
     "correct": 1,
-    "explanationEnglish": "The sentence 'Ghar mein kaisa vatavaran hai' is a question but ends with a full stop instead of a question mark.",
     "explanationHindi": "दूसरे वाक्य में प्रश्नवाचक चिह्न (?) का अभाव है।",
-    "subject": "Hindi",
-    "topic": "Punctuation/Sentence Correction"
+    "subject": "हिंदी",
+    "topic": "विराम चिह्न एवं वाक्य शुद्धि"
   }
 ]
