@@ -8,7 +8,7 @@
 │       └── update-readme-tree.yml
 ├── README.md
 ├── questions
-│   ├── Hindi
+│   ├── हिंदी
 │   │   ├── विशेषण.json
 │   │   ├── क्रिया-विशेषण.json
 │   │   ├── विलोम.json
