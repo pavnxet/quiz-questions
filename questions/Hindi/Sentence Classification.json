@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "'If he had studied, he would have surely passed.' Based on meaning, this sentence is:",
+    "qHindi": "'यदि वह पढ़ाई करता, तो अवश्य उत्तीर्ण होता ।' अर्थ के आधार पर यह वाक्य है -",
+    "optionsEnglish": [
+      "Negative (Nishedhvachak)",
+      "Doubtful (Sandehvachak)",
+      "Desiderative (Ichhavachak)",
+      "Conditional (Sanketvachak)",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "निषेधवाचक",
+      "संदेहवाचक",
+      "इच्छावाचक",
+      "संकेतवाचक",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Sentences starting with 'If... then...' are conditional (Sanketvachak).",
+    "explanationHindi": "शर्त वाले वाक्य 'संकेतवाचक' कहलाते हैं।",
+    "subject": "Hindi",
+    "topic": "Sentence Classification"
+  }
+]
