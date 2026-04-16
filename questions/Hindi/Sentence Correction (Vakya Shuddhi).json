@@ -1,0 +1,140 @@
+[
+  {
+    "qEnglish": "Which is an impure sentence?",
+    "qHindi": "अशुद्ध वाक्य है -",
+    "optionsEnglish": [
+      "The people present made a resolution.",
+      "I thank them.",
+      "We present our demands.",
+      "Jain literature is written in Prakrit.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "उपस्थित लोगों ने संकल्प किया ।",
+      "मैं उनका धन्यवाद करता हूँ।",
+      "हम अपनी माँगें प्रस्तुत करते हैं।",
+      "जैन साहित्य प्राकृत में लिखा गया है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The standard idiom is 'dhanyavad dena' (to give thanks), so 'dhanyavad deta hoon' is preferred over 'dhanyavad karta hoon'.",
+    "explanationHindi": "'धन्यवाद' दिया जाता है, किया नहीं जाता। शुद्ध रूप: 'मैं उन्हें धन्यवाद देता हूँ।' ",
+    "subject": "Hindi",
+    "topic": "Sentence Correction (Vakya Shuddhi)"
+  },
+  {
+    "qEnglish": "Which is a pure sentence?",
+    "qHindi": "शुद्ध वाक्य है -",
+    "optionsEnglish": [
+      "Vindhyachal mountain is older than Himalaya.",
+      "Youth should come forward.",
+      "What happened again after this?",
+      "He is a clerk in the Secretariat office.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "विन्ध्याचल पर्वत हिमालय से प्राचीन है।",
+      "नौजवानों को आगे आना चाहिए ।",
+      "इसके बाद फिर क्या हुआ ?",
+      "वह सचिवालय कार्यालय में लिपिक है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Option 1 is redundant (Vindhyachal itself means mountain). Option 3 is redundant (Baad and Phir). Option 4 is redundant (Sachivalaya and Karyalaya).",
+    "explanationHindi": "अन्य विकल्पों में पुनरावृत्ति दोष है (विन्ध्याचल पर्वत, बाद फिर, सचिवालय कार्यालय)।",
+    "subject": "Hindi",
+    "topic": "Sentence Correction (Vakya Shuddhi)"
+  },
+  {
+    "qEnglish": "Which is an impure sentence?",
+    "qHindi": "अशुद्ध वाक्य है -",
+    "optionsEnglish": [
+      "The judge gave him the death penalty.",
+      "I have only one watch.",
+      "You go back return.",
+      "I study in the morning.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "जज ने उसे मृत्युदण्ड दिया ।",
+      "मेरे पास केवल एक घड़ी है।",
+      "तुम वापस लौट जाओ ।",
+      "मैं प्रातःकाल पढ़ता हूँ।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "'Wapas' and 'Laut' both mean return; using both is redundant.",
+    "explanationHindi": "'वापस' और 'लौटना' का एक साथ प्रयोग अशुद्ध है।",
+    "subject": "Hindi",
+    "topic": "Sentence Correction (Vakya Shuddhi)"
+  },
+  {
+    "qEnglish": "In which option is there an impure sentence?",
+    "qHindi": "किस विकल्प में अशुद्ध वाक्य है ?",
+    "optionsEnglish": [
+      "The book was written scholar-fully.",
+      "The students remained strongly organized.",
+      "They can neither understand it nor speak it.",
+      "If you listen to me, never go.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "पुस्तक विद्वतापूर्ण लिखी गयी ।",
+      "छात्र दृढ़ता से संगठित रहे ।",
+      "वे इसे न समझ सकते हैं, न बोल सकते हैं।",
+      "यदि मेरी सुनें तो कभी न जायें ।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The correct adverbial form is 'vidwata-purvak' or 'vidwata ke saath'.",
+    "explanationHindi": "'विद्वतापूर्ण' की जगह 'विद्वतापूर्वक' का प्रयोग होना चाहिए।",
+    "subject": "Hindi",
+    "topic": "Sentence Correction (Vakya Shuddhi)"
+  },
+  {
+    "qEnglish": "In which option is there a pure sentence?",
+    "qHindi": "किस विकल्प में शुद्ध वाक्य है ?",
+    "optionsEnglish": [
+      "There is peace everywhere in the country.",
+      "This letter is according to you.",
+      "There are only two solutions.",
+      "He left with a sad face.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "देश में सर्वत्र शान्ति है।",
+      "यह पत्र आपके अनुसार है।",
+      "एकमात्र दो उपाय हैं।",
+      "वह उदास चेहरे से चल दिये ।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Option 0 is precise. Option 2 has contradiction (Ekmatra vs Do). Option 3 has subject-verb agreement issue.",
+    "explanationHindi": "विकल्प 1 शुद्ध है। 'एकमात्र' और 'दो' एक साथ नहीं आ सकते।",
+    "subject": "Hindi",
+    "topic": "Sentence Correction (Vakya Shuddhi)"
+  },
+  {
+    "qEnglish": "In which option is there a pure sentence?",
+    "qHindi": "किस विकल्प में शुद्ध वाक्य है ?",
+    "optionsEnglish": [
+      "It has been told in many places.",
+      "There is a wall between these two houses.",
+      "She has gone to fill water in the river.",
+      "He has gone after putting on the kurta.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "कई स्थलों में ऐसा बताया गया है।",
+      "इन दोनों घरों के बीच एक दीवार है।",
+      "वह नदी में पानी भरने गयी है।",
+      "वह कुरता डालकर गया है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Option 1 is correctly structured. 'Nadi se' should be used instead of 'Nadi mein'.",
+    "explanationHindi": "विकल्प 2 व्याकरणिक रूप से शुद्ध है। नदी 'से' पानी भरा जाता है, 'में' नहीं।",
+    "subject": "Hindi",
+    "topic": "Sentence Correction (Vakya Shuddhi)"
+  }
+]
