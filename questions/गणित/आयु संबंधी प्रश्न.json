@@ -1,0 +1,23 @@
+[
+  {
+    "qHindi": "पिता और पुत्र की वर्तमान आयु का अनुपात 6 : 1 है। चार वर्ष बाद अनुपात 4 : 1 होगा। पुत्र की वर्तमान आयु क्या है?",
+    "qEnglish": "The ratio of present ages of father and son is 6:1. After 4 years, the ratio becomes 4:1. What is the present age of the son?",
+    "optionsHindi": [
+      "6 वर्ष",
+      "5 वर्ष",
+      "4 वर्ष",
+      "8 वर्ष"
+    ],
+    "optionsEnglish": [
+      "6 years",
+      "5 years",
+      "4 years",
+      "8 years"
+    ],
+    "correct": 0,
+    "explanationHindi": "माना वर्तमान आयु 6x और x। चार वर्ष बाद: (6x+4)/(x+4) = 4/1। 6x+4 = 4x+16 ⇒ 2x = 12 ⇒ x = 6। पुत्र की आयु = 6 वर्ष।",
+    "explanationEnglish": "Let present ages be 6x and x. After 4 years: (6x+4)/(x+4) = 4/1 ⇒ 6x+4 = 4x+16 ⇒ 2x = 12 ⇒ x = 6. Son's age = 6 years.",
+    "subject": "गणित",
+    "topic": "आयु संबंधी प्रश्न"
+  }
+]
