@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "In which sentence is a 'Nipat' (particle) used?",
+    "qHindi": "किस वाक्य में निपात का प्रयोग हुआ है ?",
+    "optionsEnglish": [
+      "Send some man.",
+      "I have come to you.",
+      "Even animals and birds understand their own benefit.",
+      "Our teachers ask questions.",
+      "Unanswered question"
+    ],
+    "optionsHindi": [
+      "किसी आदमी को भेज दो ।",
+      "मैं आपके पास आया हूँ।",
+      "पशु-पक्षी ही अपना हित समझते हैं ।",
+      "हमारे शिक्षक प्रश्न करते हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "'Hi' (only/even) in the third sentence is a Nipat used for emphasis.",
+    "explanationHindi": "तीसरे वाक्य में 'ही' निपात का प्रयोग बल देने के लिए किया गया है।",
+    "subject": "Hindi",
+    "topic": "Nipat"
+  }
+]
