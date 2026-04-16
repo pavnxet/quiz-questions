@@ -1,0 +1,23 @@
+[
+  {
+    "qHindi": "140 कितनी प्राकृत संख्याओं से पूर्णतः विभाज्य है?",
+    "qEnglish": "By how many natural numbers is 140 completely divisible?",
+    "optionsHindi": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "optionsEnglish": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correct": 2,
+    "explanationHindi": "140 = 2² × 5¹ × 7¹। कुल गुणनखंडों की संख्या = (2+1)×(1+1)×(1+1) = 3×2×2 = 12।",
+    "explanationEnglish": "Prime factorization: 140 = 2² × 5¹ × 7¹. Number of factors = (2+1)(1+1)(1+1) = 3×2×2 = 12.",
+    "subject": "गणित",
+    "topic": "गुणनखंडों की संख्या"
+  }
+]
