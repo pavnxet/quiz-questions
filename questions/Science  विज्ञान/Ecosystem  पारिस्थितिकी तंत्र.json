@@ -1258,5 +1258,635 @@
     "explanationHindi": "पोषी स्तर स्थिति है; इल्टोनियन पिरामिड ग्राफ है; जैव-भार वजन है।",
     "subject": "Science  विज्ञान",
     "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which of the following is an example of a 'Sedimentary Cycle'?",
+    "qHindi": "निम्नलिखित में से कौन 'अवसादी चक्र' का एक उदाहरण है?",
+    "optionsEnglish": [
+      "Nitrogen Cycle",
+      "Carbon Cycle",
+      "Phosphorus Cycle",
+      "Oxygen Cycle"
+    ],
+    "optionsHindi": [
+      "नाइट्रोजन चक्र",
+      "कार्बन चक्र",
+      "फास्फोरस चक्र",
+      "ऑक्सीजन चक्र"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Phosphorus and Sulfur cycles are sedimentary cycles, whereas Nitrogen and Carbon are gaseous cycles.",
+    "explanationHindi": "फास्फोरस और सल्फर चक्र अवसादी चक्र हैं, जबकि नाइट्रोजन और कार्बन गैसीय चक्र हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "In the Haber process of the industrial method, Nitrogen is converted into which substance?",
+    "qHindi": "औद्योगिक विधि की हैबर प्रक्रिया में, नाइट्रोजन को किस पदार्थ में बदला जाता है?",
+    "optionsEnglish": [
+      "Nitrate",
+      "Nitrite",
+      "Ammonia",
+      "Amino Acids"
+    ],
+    "optionsHindi": [
+      "नाइट्रेट",
+      "नाइट्राइट",
+      "अमोनिया",
+      "अमीनो एसिड"
+    ],
+    "correct": 2,
+    "explanationEnglish": "In the Haber process, N2 + 3H2 reacts to form Ammonia (2NH3).",
+    "explanationHindi": "हैबर प्रक्रिया में, N2 + 3H2 प्रतिक्रिया करके अमोनिया (2NH3) बनाते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Plants cannot absorb nitrogen directly from the atmosphere despite it being 78%.\nReason (R): Nitrogen must be converted into Nitrates and Nitrites for plant absorption.",
+    "qHindi": "कथन (A): वायुमंडल में 78% होने के बावजूद पौधे नाइट्रोजन को सीधे अवशोषित नहीं कर सकते।\nकारण (R): पौधों के अवशोषण के लिए नाइट्रोजन को नाइट्रेट और नाइट्राइट में बदलना आवश्यक है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Nitrogen fixation is necessary because plants cannot utilize atmospheric N2 gas directly.",
+    "explanationHindi": "नाइट्रोजन स्थिरीकरण आवश्यक है क्योंकि पौधे सीधे वायुमंडलीय N2 गैस का उपयोग नहीं कर सकते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following Bacteria with their specific Nitrogen-fixing role:\n1. Rhizobium - (i) Non-leguminous plants (Frankia)\n2. Azotobacter - (ii) Leguminous root nodules\n3. Clostridium - (iii) Aerobic free-living\n4. Frankia - (iv) Anaerobic free-living",
+    "qHindi": "निम्नलिखित जीवाणुओं को उनकी विशिष्ट नाइट्रोजन-स्थिरीकरण भूमिका के साथ सुमेलित करें:\n1. राइजोबियम - (i) अ-लेगुमिनेसी पादप (फ्रेंकिया)\n2. एजेटोबैक्टर - (ii) लेगुमिनेसी जड़ों की ग्रंथियां\n3. क्लोस्ट्रीडियम - (iii) वायवीय मुक्त-जीवी\n4. फ्रेंकिया - (iv) अवायवीय मुक्त-जीवी",
+    "optionsEnglish": [
+      "1-(ii), 2-(iii), 3-(iv), 4-(i)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(ii), 2-(i), 3-(iii), 4-(iv)",
+      "1-(iv), 2-(iii), 3-(ii), 4-(i)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(iii), 3-(iv), 4-(i)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(ii), 2-(i), 3-(iii), 4-(iv)",
+      "1-(iv), 2-(iii), 3-(ii), 4-(i)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Rhizobium is symbiotic with legumes; Azotobacter is aerobic free-living; Clostridium is anaerobic free-living; Frankia is symbiotic with non-legumes.",
+    "explanationHindi": "राइजोबियम लेगुमिनेसी के साथ सहजीवी है; एजेटोबैक्टर वायवीय मुक्त-जीवी है; क्लोस्ट्रीडियम अवायवीय मुक्त-जीवी है; फ्रेंकिया अ-लेगुमिनेसी के साथ सहजीवी है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which mineral is essential for the activity of the Nitrogenase enzyme?",
+    "qHindi": "नाइट्रोजनेज एंजाइम की क्रियाशीलता के लिए कौन सा खनिज आवश्यक है?",
+    "optionsEnglish": [
+      "Magnesium",
+      "Molybdenum",
+      "Iron",
+      "Calcium"
+    ],
+    "optionsHindi": [
+      "मैग्नीशियम",
+      "मोलिब्डेनम",
+      "लोहा",
+      "कैल्शियम"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Molybdenum (Mo) is the key mineral required for nitrogen fixation by the nitrogenase enzyme.",
+    "explanationHindi": "नाइट्रोजनेज एंजाइम द्वारा नाइट्रोजन स्थिरीकरण के लिए मोलिब्डेनम (Mo) प्रमुख आवश्यक खनिज है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "The process of converting Nitrates back into atmospheric Nitrogen is called:",
+    "qHindi": "नाइट्रेट को वापस वायुमंडलीय नाइट्रोजन में बदलने की प्रक्रिया कहलाती है:",
+    "optionsEnglish": [
+      "Nitrification",
+      "Ammonification",
+      "Denitrification",
+      "Nitrogen Fixation"
+    ],
+    "optionsHindi": [
+      "नाइट्रीकरण",
+      "अमोनीकरण",
+      "विनाइट्रीकरण",
+      "नाइट्रोजन स्थिरीकरण"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Denitrification is performed by bacteria like Bacillus denitrificans to convert Nitrate (NO3) back to N2.",
+    "explanationHindi": "विनाइट्रीकरण बेसिलस डिनाइट्रोफिकेंस जैसे जीवाणुओं द्वारा नाइट्रेट (NO3) को वापस N2 में बदलने के लिए किया जाता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which pigment is responsible for Nitrogen fixation in the root nodules of leguminous plants?",
+    "qHindi": "लेगुमिनेसी पादपों की जड़ ग्रंथियों में नाइट्रोजन स्थिरीकरण के लिए कौन सा वर्णक जिम्मेदार है?",
+    "optionsEnglish": [
+      "Chlorophyll",
+      "Haemoglobin",
+      "Leghaemoglobin",
+      "Melanin"
+    ],
+    "optionsHindi": [
+      "क्लोरोफिल",
+      "हीमोग्लोबिन",
+      "लेग-हीमोग्लोबिन",
+      "मेलानिन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Leghaemoglobin is a pink/red pigment that regulates oxygen and aids nitrogen fixation in legume nodules.",
+    "explanationHindi": "लेग-हीमोग्लोबिन एक गुलाबी/लाल वर्णक है जो ऑक्सीजन को नियंत्रित करता है और लेगुमिनेसी ग्रंथियों में नाइट्रोजन स्थिरीकरण में मदद करता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Azotobacter is an aerobic free-living nitrogen-fixing bacterium.\nReason (R): It requires oxygen for its respiratory processes while fixing nitrogen in the soil.",
+    "qHindi": "कथन (A): एजेटोबैक्टर एक वायवीय मुक्त-जीवी नाइट्रोजन-स्थिरीकारी जीवाणु है।\nकारण (R): मिट्टी में नाइट्रोजन स्थिर करते समय इसे अपनी श्वसन प्रक्रियाओं के लिए ऑक्सीजन की आवश्यकता होती है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Azotobacter is defined as an aerobic (oxygen-requiring) free-living bacterium in the soil.",
+    "explanationHindi": "एजेटोबैक्टर को मिट्टी में एक वायवीय (ऑक्सीजन की आवश्यकता वाले) मुक्त-जीवी जीवाणु के रूप में परिभाषित किया गया है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "In the Nitrogen cycle, Nitrosomonas bacteria convert Ammonia into:",
+    "qHindi": "नाइट्रोजन चक्र में, नाइट्रोसोमोनास जीवाणु अमोनिया को किसमें बदलते हैं?",
+    "optionsEnglish": [
+      "Nitrate",
+      "Nitrite",
+      "Nitrogen Gas",
+      "Amino Acids"
+    ],
+    "optionsHindi": [
+      "नाइट्रेट",
+      "नाइट्राइट",
+      "नाइट्रोजन गैस",
+      "अमीनो एसिड"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Nitrosomonas converts Ammonia (NH3) into Nitrite (NO2-).",
+    "explanationHindi": "नाइट्रोसोमोनास अमोनिया (NH3) को नाइट्राइट (NO2-) में परिवर्तित करता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which gene is specifically responsible for Nitrogen fixation in microorganisms?",
+    "qHindi": "सूक्ष्मजीवों में नाइट्रोजन स्थिरीकरण के लिए विशेष रूप से कौन सा जीन जिम्मेदार है?",
+    "optionsEnglish": [
+      "Nif gene",
+      "Lac operon",
+      "Bt gene",
+      "RNA gene"
+    ],
+    "optionsHindi": [
+      "Nif जीन",
+      "Lac ओपेरॉन",
+      "Bt जीन",
+      "RNA जीन"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The 'Nif' (Nitrogen Fixation) gene is responsible for producing enzymes involved in atmospheric nitrogen fixation.",
+    "explanationHindi": "'Nif' (Nitrogen Fixation) जीन वायुमंडलीय नाइट्रोजन स्थिरीकरण में शामिल एंजाइमों के उत्पादन के लिए जिम्मेदार है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following chemicals/substances with their biological role in Nitrogen and Phosphorus cycles:\n1. ATP - (i) Nitrogen fixing pigment\n2. Leghaemoglobin - (ii) Nitrogen fixing gene\n3. Nif - (iii) Energy currency containing Phosphorus\n4. Nitrobacter - (iv) Nitrite to Nitrate conversion",
+    "qHindi": "निम्नलिखित रसायनों/पदार्थों को नाइट्रोजन और फास्फोरस चक्रों में उनकी जैविक भूमिका के साथ सुमेलित करें:\n1. ATP - (i) नाइट्रोजन स्थिरीकारी वर्णक\n2. लेग-हीमोग्लोबिन - (ii) नाइट्रोजन स्थिरीकारी जीन\n3. Nif - (iii) फास्फोरस युक्त ऊर्जा मुद्रा\n4. नाइट्रोबक्टर - (iv) नाइट्राइट से नाइट्रेट परिवर्तन",
+    "optionsEnglish": [
+      "1-(iii), 2-(i), 3-(ii), 4-(iv)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(ii), 2-(iii), 3-(iv), 4-(i)",
+      "1-(iv), 2-(ii), 3-(i), 4-(iii)"
+    ],
+    "optionsHindi": [
+      "1-(iii), 2-(i), 3-(ii), 4-(iv)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(ii), 2-(iii), 3-(iv), 4-(i)",
+      "1-(iv), 2-(ii), 3-(i), 4-(iii)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "ATP contains phosphorus; Leghaemoglobin is a pigment; Nif is the gene; Nitrobacter performs nitrification.",
+    "explanationHindi": "ATP में फास्फोरस होता है; लेग-हीमोग्लोबिन एक वर्णक है; Nif जीन है; नाइट्रोबक्टर नाइट्रीकरण करता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Phosphorus is a crucial component of which of the following biological molecules?",
+    "qHindi": "फास्फोरस निम्नलिखित में से किस जैविक अणु का एक महत्वपूर्ण घटक है?",
+    "optionsEnglish": [
+      "Glucose",
+      "DNA and RNA",
+      "Haemoglobin",
+      "Starch"
+    ],
+    "optionsHindi": [
+      "ग्लूकोज",
+      "DNA और RNA",
+      "हीमोग्लोबिन",
+      "स्टार्च"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Phosphorus is found in the phosphate backbone of DNA, RNA, and also in ATP/ADP.",
+    "explanationHindi": "फास्फोरस DNA, RNA के फास्फेट बैकबोन में और ATP/ADP में भी पाया जाता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): The Phosphorus cycle is considered an 'incomplete' cycle compared to gaseous cycles.\nReason (R): It takes a very long time for phosphorus locked in rocks to be released and returned to the system.",
+    "qHindi": "कथन (A): गैसीय चक्रों की तुलना में फास्फोरस चक्र को 'अपूर्ण' चक्र माना जाता है।\nकारण (R): चट्टानों में बंद फास्फोरस को मुक्त होने और तंत्र में वापस आने में बहुत लंबा समय लगता है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "As a sedimentary cycle, phosphorus movement is very slow and lacks a significant gaseous phase, making it relatively incomplete.",
+    "explanationHindi": "एक अवसादी चक्र के रूप में, फास्फोरस की गति बहुत धीमी होती है और इसमें महत्वपूर्ण गैसीय अवस्था की कमी होती है, जो इसे अपेक्षाकृत अपूर्ण बनाती है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What are 'Heterocysts' in Blue-green algae like Nostoc and Anabaena?",
+    "qHindi": "नोस्टोक और एनाबीना जैसे नील-हरित शैवालों में 'हेटेरोसिस्ट' क्या हैं?",
+    "optionsEnglish": [
+      "Reproductive cells",
+      "Specialized Nitrogen-fixing cells",
+      "Photosynthetic cells",
+      "Storage cells"
+    ],
+    "optionsHindi": [
+      "प्रजनन कोशिकाएं",
+      "विशिष्ट नाइट्रोजन-स्थिरीकारी कोशिकाएं",
+      "प्रकाश संश्लेषक कोशिकाएं",
+      "भंडारण कोशिकाएं"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Heterocysts are specialized cells in cyanobacteria (BGA) that perform nitrogen fixation.",
+    "explanationHindi": "हेटेरोसिस्ट साइनोबैक्टीरिया (BGA) में विशिष्ट कोशिकाएं हैं जो नाइट्रोजन स्थिरीकरण करती हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "The conversion of organic nitrogen from dead organisms into Ammonia by decomposers is known as:",
+    "qHindi": "अपघटकों द्वारा मृत जीवों से कार्बनिक नाइट्रोजन को अमोनिया में बदलने की क्रिया कहलाती है:",
+    "optionsEnglish": [
+      "Nitrification",
+      "Denitrification",
+      "Ammonification",
+      "Nitrogen Fixation"
+    ],
+    "optionsHindi": [
+      "नाइट्रीकरण",
+      "विनाइट्रीकरण",
+      "अमोनीकरण",
+      "नाइट्रोजन स्थिरीकरण"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Ammonification is the process where bacteria and fungi break down dead matter into Ammonia.",
+    "explanationHindi": "अमोनीकरण वह प्रक्रिया है जिसमें जीवाणु और कवक मृत पदार्थ को अमोनिया में तोड़ देते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the correct form of absorption for the following elements:\n1. Nitrogen - (i) Phosphate ions\n2. Phosphorus - (ii) Nitrates (NO3-)\n3. Critical Elements - (iii) N, P, K",
+    "qHindi": "निम्नलिखित तत्वों के लिए अवशोषण के सही रूप का मिलान करें:\n1. नाइट्रोजन - (i) फास्फेट आयन\n2. फास्फोरस - (ii) नाइट्रेट (NO3-)\n3. क्रांतिक तत्व - (iii) N, P, K",
+    "optionsEnglish": [
+      "1-(ii), 2-(i), 3-(iii)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(i), 3-(ii)",
+      "1-(ii), 2-(iii), 3-(i)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(i), 3-(iii)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(i), 3-(ii)",
+      "1-(ii), 2-(iii), 3-(i)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Plants absorb nitrogen as nitrates and phosphorus as phosphates. N, P, and K are critical elements.",
+    "explanationHindi": "पौधे नाइट्रोजन को नाइट्रेट के रूप में और फास्फोरस को फास्फेट के रूप में अवशोषित करते हैं। N, P, और K क्रांतिक तत्व हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "In which part of the Sesbania plant does Azorhizobium bacterium perform nitrogen fixation?",
+    "qHindi": "सेस्बानिया पादप के किस भाग में एजोराइजोबियम जीवाणु नाइट्रोजन स्थिरीकरण करता है?",
+    "optionsEnglish": [
+      "Roots",
+      "Leaves",
+      "Stem (Stambh)",
+      "Flowers"
+    ],
+    "optionsHindi": [
+      "जड़",
+      "पत्तियां",
+      "तना (स्तंभ)",
+      "फूल"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Azorhizobium is unique because it fixes nitrogen in the stem nodules of Sesbania.",
+    "explanationHindi": "एजोराइजोबियम अद्वितीय है क्योंकि यह सेस्बानिया के तने की ग्रंथियों (nodules) में नाइट्रोजन स्थिर करता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "The primary reservoir of Phosphorus in the environment is:",
+    "qHindi": "पर्यावरण में फास्फोरस का प्राथमिक भंडार है:",
+    "optionsEnglish": [
+      "Atmosphere",
+      "Ocean water",
+      "Rocks (Ch चट्टानें)",
+      "Animal biomass"
+    ],
+    "optionsHindi": [
+      "वायुमंडल",
+      "समुद्र का पानी",
+      "चट्टानें",
+      "जंतु बायोमास"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Phosphorus is a sedimentary element, and its main reservoir is phosphate rocks.",
+    "explanationHindi": "फास्फोरस एक अवसादी तत्व है, और इसका मुख्य भंडार फास्फेट चट्टानें हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Denitrification is an essential step to maintain atmospheric nitrogen balance.\nReason (R): It returns fixed nitrogen from the soil back to the atmosphere as N2 gas.",
+    "qHindi": "कथन (A): वायुमंडलीय नाइट्रोजन संतुलन बनाए रखने के लिए विनाइट्रीकरण एक आवश्यक चरण है।\nकारण (R): यह मिट्टी से स्थिर नाइट्रोजन को N2 गैस के रूप में वापस वायुमंडल में लौटा देता है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Denitrification completes the cycle by releasing nitrogen gas back into the air.",
+    "explanationHindi": "विनाइट्रीकरण नाइट्रोजन गैस को वापस हवा में छोड़ कर चक्र को पूरा करता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following biological processes with their outcome:\n1. Nitrification - (i) Nitrogen Gas release\n2. Denitrification - (ii) Nitrate formation\n3. Ammonification - (iii) Ammonia formation",
+    "qHindi": "निम्नलिखित जैविक प्रक्रियाओं को उनके परिणाम के साथ सुमेलित करें:\n1. नाइट्रीकरण - (i) नाइट्रोजन गैस निकलना\n2. विनाइट्रीकरण - (ii) नाइट्रेट बनना\n3. अमोनीकरण - (iii) अमोनिया बनना",
+    "optionsEnglish": [
+      "1-(ii), 2-(i), 3-(iii)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(ii), 3-(i)",
+      "1-(ii), 2-(iii), 3-(i)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(i), 3-(iii)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(ii), 3-(i)",
+      "1-(ii), 2-(iii), 3-(i)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Nitrification forms nitrates; Denitrification releases N2 gas; Ammonification forms ammonia.",
+    "explanationHindi": "नाइट्रीकरण से नाइट्रेट बनता है; विनाइट्रीकरण से N2 गैस निकलती है; अमोनीकरण से अमोनिया बनता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which of the following elements are known as 'Critical Elements' for plant growth?",
+    "qHindi": "निम्नलिखित में से कौन से तत्व पौधों की वृद्धि के लिए 'क्रांतिक तत्व' के रूप में जाने जाते हैं?",
+    "optionsEnglish": [
+      "C, H, O",
+      "N, P, K",
+      "Ca, Mg, S",
+      "Fe, Mn, Zn"
+    ],
+    "optionsHindi": [
+      "C, H, O",
+      "N, P, K",
+      "Ca, Mg, S",
+      "Fe, Mn, Zn"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Nitrogen (N), Phosphorus (P), and Potassium (K) are called critical elements as they are often deficient in soils.",
+    "explanationHindi": "नाइट्रोजन (N), फास्फोरस (P), और पोटेशियम (K) को क्रांतिक तत्व कहा जाता है क्योंकि अक्सर मिट्टी में इनकी कमी होती है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What is the full form of ADP in the context of biological energy molecules?",
+    "qHindi": "जैविक ऊर्जा अणुओं के संदर्भ में ADP का पूर्ण रूप क्या है?",
+    "optionsEnglish": [
+      "Adenosine Diphosphate",
+      "Adenosine Di-protein",
+      "Ammonia Diphosphate",
+      "Adenosine Di-phosphate"
+    ],
+    "optionsHindi": [
+      "एडेनोसिन डाइफास्फेट",
+      "एडेनोसिन डाइ-प्रोटीन",
+      "अमोनिया डाइफास्फेट",
+      "एडेनोसिन डाइ-फास्फेट"
+    ],
+    "correct": 0,
+    "explanationEnglish": "ADP stands for Adenosine Diphosphate, which is formed by the removal of one phosphate from ATP.",
+    "explanationHindi": "ADP का अर्थ एडेनोसिन डाइफास्फेट है, जो ATP से एक फास्फेट को हटाने से बनता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Biogeochemical cycles involve the movement of nutrients between biotic and abiotic factors.\nReason (R): These cycles ensure that the limited supply of nutrients is recycled for reuse.",
+    "qHindi": "कथन (A): जैव-भू-रासायनिक चक्रों में जैविक और अजैविक कारकों के बीच पोषक तत्वों की गति शामिल है।\nकारण (R): ये चक्र यह सुनिश्चित करते हैं कि पोषक तत्वों की सीमित आपूर्ति का पुनः उपयोग के लिए पुनर्चक्रण किया जाए।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Biogeochemical cycles are the primary recycling mechanism for elements like C, N, P, and O in an ecosystem.",
+    "explanationHindi": "जैव-भू-रासायनिक चक्र पारिस्थितिकी तंत्र में C, N, P, और O जैसे तत्वों के लिए प्राथमिक पुनर्चक्रण तंत्र हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which of these is a free-living anaerobic nitrogen-fixing bacterium?",
+    "qHindi": "इनमें से कौन सा एक मुक्त-जीवी अवायवीय नाइट्रोजन-स्थिरीकारी जीवाणु है?",
+    "optionsEnglish": [
+      "Rhizobium",
+      "Azotobacter",
+      "Clostridium",
+      "Nitrobacter"
+    ],
+    "optionsHindi": [
+      "राइजोबियम",
+      "एजेटोबैक्टर",
+      "क्लोस्ट्रीडियम",
+      "नाइट्रोबक्टर"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Clostridium is an anaerobic (non-oxygen requiring) free-living bacterium found in soil.",
+    "explanationHindi": "क्लोस्ट्रीडियम मिट्टी में पाया जाने वाला एक अवायवीय (ऑक्सीजन की आवश्यकता नहीं) मुक्त-जीवी जीवाणु है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "The conversion of Nitrite (NO2-) to Nitrate (NO3-) is performed by which bacterium?",
+    "qHindi": "नाइट्राइट (NO2-) को नाइट्रेट (NO3-) में बदलने का कार्य किस जीवाणु द्वारा किया जाता है?",
+    "optionsEnglish": [
+      "Nitrosomonas",
+      "Nitrobacter",
+      "Bacillus",
+      "Frankia"
+    ],
+    "optionsHindi": [
+      "नाइट्रोसोमोनास",
+      "नाइट्रोबक्टर",
+      "बेसिलस",
+      "फ्रेंकिया"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Nitrobacter is the bacterium responsible for the second step of nitrification (Nitrite to Nitrate).",
+    "explanationHindi": "नाइट्रोबक्टर नाइट्रीकरण के दूसरे चरण (नाइट्राइट से नाइट्रेट) के लिए जिम्मेदार जीवाणु है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following phosphorus-containing structures with their function:\n1. Bones/Teeth - (i) Genetic material\n2. DNA/RNA - (ii) Structural strength\n3. ATP/ADP - (iii) Energy storage",
+    "qHindi": "निम्नलिखित फास्फोरस युक्त संरचनाओं को उनके कार्य के साथ सुमेलित करें:\n1. हड्डियाँ/दांत - (i) आनुवंशिक सामग्री\n2. DNA/RNA - (ii) संरचनात्मक मजबूती\n3. ATP/ADP - (iii) ऊर्जा भंडारण",
+    "optionsEnglish": [
+      "1-(ii), 2-(i), 3-(iii)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(ii), 3-(i)",
+      "1-(ii), 2-(iii), 3-(i)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(i), 3-(iii)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(ii), 3-(i)",
+      "1-(ii), 2-(iii), 3-(i)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Bones/teeth use calcium-phosphate for strength; DNA/RNA are genetic info; ATP/ADP manage energy.",
+    "explanationHindi": "हड्डियाँ/दांत मजबूती के लिए कैल्शियम-फास्फेट का उपयोग करते हैं; DNA/RNA आनुवंशिक जानकारी हैं; ATP/ADP ऊर्जा का प्रबंधन करते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): BGA (Blue-green algae) are effective natural fertilizers.\nReason (R): They possess heterocysts that can fix atmospheric nitrogen in soil or water.",
+    "qHindi": "कथन (A): BGA (नील-हरित शैवाल) प्रभावी प्राकृतिक उर्वरक हैं।\nकारण (R): उनके पास हेटेरोसिस्ट होते हैं जो मिट्टी या पानी में वायुमंडलीय नाइट्रोजन को स्थिर कर सकते हैं।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Cyanobacteria (BGA) like Anabaena are often used in rice fields as biofertilizers for nitrogen enrichment.",
+    "explanationHindi": "एनाबीना जैसे साइनोबैक्टीरिया (BGA) का उपयोग अक्सर चावल के खेतों में नाइट्रोजन संवर्धन के लिए जैव उर्वरकों के रूप में किया जाता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which bacterium is symbiotic with 'Non-leguminous' plants (like Alnus)?",
+    "qHindi": "'अ-लेगुमिनेसी' पादपों (जैसे एलनस) के साथ कौन सा जीवाणु सहजीवी है?",
+    "optionsEnglish": [
+      "Rhizobium",
+      "Frankia",
+      "Azotobacter",
+      "Azolla"
+    ],
+    "optionsHindi": [
+      "राइजोबियम",
+      "फ्रेंकिया",
+      "एजेटोबैक्टर",
+      "अजोला"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Frankia is a nitrogen-fixing actinomycete that forms symbiotic relationships with various non-leguminous plants.",
+    "explanationHindi": "फ्रेंकिया एक नाइट्रोजन-स्थिरीकारी एक्टिनोमाइसिट है जो विभिन्न अ-लेगुमिनेसी पादपों के साथ सहजीवी संबंध बनाता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "The conversion of atmospheric nitrogen to Ammonia or Nitrates is globally called:",
+    "qHindi": "वायुमंडलीय नाइट्रोजन का अमोनिया या नाइट्रेट में परिवर्तन वैश्विक स्तर पर कहलाता है:",
+    "optionsEnglish": [
+      "Nitrification",
+      "Nitrogen Fixation",
+      "Decomposition",
+      "Mineralization"
+    ],
+    "optionsHindi": [
+      "नाइट्रीकरण",
+      "नाइट्रोजन स्थिरीकरण",
+      "अपघटन",
+      "खनिजीकरण"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Nitrogen fixation is the process by which atmospheric N2 is converted into a form usable by living things.",
+    "explanationHindi": "नाइट्रोजन स्थिरीकरण वह प्रक्रिया है जिसके द्वारा वायुमंडलीय N2 को जीवित चीजों द्वारा उपयोग करने योग्य रूप में परिवर्तित किया जाता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which protein is involved in the formation of root nodules during nitrogen fixation?",
+    "qHindi": "नाइट्रोजन स्थिरीकरण के दौरान जड़ ग्रंथियों के निर्माण में कौन सा प्रोटीन शामिल होता है?",
+    "optionsEnglish": [
+      "Nif protein",
+      "Haemoglobin",
+      "Nodulin protein",
+      "Enzyme"
+    ],
+    "optionsHindi": [
+      "Nif प्रोटीन",
+      "हीमोग्लोबिन",
+      "नोड्यूलिन प्रोटीन",
+      "एंजाइम"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Nodulin proteins are specific proteins induced in plants during the formation of root nodules.",
+    "explanationHindi": "नोड्यूलिन प्रोटीन जड़ ग्रंथियों (nodules) के निर्माण के दौरान पौधों में प्रेरित विशिष्ट प्रोटीन होते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
   }
 ]
