@@ -628,5 +628,635 @@
     "explanationHindi": "अधिकांश ऊर्जा (90%) जीव द्वारा अपनी स्वयं की जीवन गतिविधियों और ऊष्मा हानि के लिए उपयोग की जाती है।",
     "subject": "Science | विज्ञान",
     "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What is a complex network formed by various interconnected food chains called?",
+    "qHindi": "विभिन्न आपस में जुड़ी हुई खाद्य श्रृंखलाओं द्वारा बनाए गए जटिल जाल को क्या कहा जाता है?",
+    "optionsEnglish": [
+      "Food Chain",
+      "Food Web",
+      "Ecological Pyramid",
+      "Trophic Level"
+    ],
+    "optionsHindi": [
+      "खाद्य श्रृंखला",
+      "खाद्य जाल",
+      "पारिस्थितिक स्तूप",
+      "पोषी स्तर"
+    ],
+    "correct": 1,
+    "explanationEnglish": "A food web is a network of food chains where different organisms are connected at various trophic levels.",
+    "explanationHindi": "खाद्य जाल खाद्य श्रृंखलाओं का एक नेटवर्क है जहाँ विभिन्न जीव विभिन्न पोषी स्तरों पर जुड़े होते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Who discovered the concept of Ecological Pyramids in 1927?",
+    "qHindi": "1927 में पारिस्थितिक स्तूप (पिरामिड) की अवधारणा की खोज किसने की थी?",
+    "optionsEnglish": [
+      "A.G. Tansley",
+      "Charles Elton",
+      "Ernst Haeckel",
+      "Lindeman"
+    ],
+    "optionsHindi": [
+      "ए.जी. टेंसले",
+      "चार्ल्स इल्टन",
+      "अर्न्स्ट हैकल",
+      "लिंडमैन"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Charles Elton discovered ecological pyramids, which is why they are often called 'Eltonian Pyramids'.",
+    "explanationHindi": "चार्ल्स इल्टन ने पारिस्थितिक पिरामिडों की खोज की थी, इसीलिए इन्हें अक्सर 'इल्टोनियन पिरामिड' कहा जाता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which type of ecological pyramid is always upright and never inverted?",
+    "qHindi": "किस प्रकार का पारिस्थितिक स्तूप हमेशा सीधा होता है और कभी उल्टा नहीं होता?",
+    "optionsEnglish": [
+      "Pyramid of Number",
+      "Pyramid of Biomass",
+      "Pyramid of Energy",
+      "None of these"
+    ],
+    "optionsHindi": [
+      "संख्या का स्तूप",
+      "जैव-भार का स्तूप",
+      "ऊर्जा का स्तूप",
+      "इनमें से कोई नहीं"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Pyramid of Energy is always upright because energy is lost as heat at each trophic level (10% law).",
+    "explanationHindi": "ऊर्जा का स्तूप हमेशा सीधा होता है क्योंकि प्रत्येक पोषी स्तर पर ऊर्जा ऊष्मा के रूप में नष्ट हो जाती है (10% नियम)।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): A food web provides more stability to the ecosystem than a food chain.\nReason (R): In a food web, if one prey species decreases, the predator has alternative options for food.",
+    "qHindi": "कथन (A): खाद्य जाल, खाद्य श्रृंखला की तुलना में पारिस्थितिकी तंत्र को अधिक स्थिरता प्रदान करता है।\nकारण (R): खाद्य जाल में, यदि एक शिकार प्रजाति कम हो जाती है, तो शिकारी के पास भोजन के वैकल्पिक विकल्प होते हैं।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Food webs offer multiple feeding pathways, ensuring the ecosystem remains balanced even if one species is affected.",
+    "explanationHindi": "खाद्य जाल कई भोजन मार्ग प्रदान करते हैं, जिससे यह सुनिश्चित होता है कि पारिस्थितिकी तंत्र संतुलित रहे, भले ही एक प्रजाति प्रभावित हो।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following pyramids with their shapes in specific ecosystems:\n1. Pyramid of Number (Grassland) - (i) Inverted\n2. Pyramid of Number (Tree) - (ii) Upright\n3. Pyramid of Biomass (Pond) - (iii) Inverted\n4. Pyramid of Energy - (iv) Always Upright",
+    "qHindi": "विशिष्ट पारिस्थितिकी तंत्रों में निम्नलिखित स्तूपों को उनके आकार के साथ सुमेलित करें:\n1. संख्या का स्तूप (घास का मैदान) - (i) उल्टा\n2. संख्या का स्तूप (पेड़) - (ii) सीधा\n3. जैव-भार का स्तूप (तालाब) - (iii) उल्टा\n4. ऊर्जा का स्तूप - (iv) हमेशा सीधा",
+    "optionsEnglish": [
+      "1-(ii), 2-(i), 3-(iii), 4-(iv)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(ii), 2-(iii), 3-(i), 4-(iv)",
+      "1-(iv), 2-(i), 3-(iii), 4-(ii)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(i), 3-(iii), 4-(iv)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(ii), 2-(iii), 3-(i), 4-(iv)",
+      "1-(iv), 2-(i), 3-(iii), 4-(ii)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Grassland number and Energy pyramids are upright; Tree number and Pond biomass pyramids are inverted.",
+    "explanationHindi": "घास के मैदान की संख्या और ऊर्जा के स्तूप सीधे होते हैं; पेड़ की संख्या और तालाब के जैव-भार के स्तूप उल्टे होते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "In an ecological pyramid, which organisms are always placed at the base (bottom)?",
+    "qHindi": "एक पारिस्थितिक स्तूप में, किन जीवों को हमेशा आधार (नीचे) पर रखा जाता है?",
+    "optionsEnglish": [
+      "Primary Consumers",
+      "Producers",
+      "Top Carnivores",
+      "Decomposers"
+    ],
+    "optionsHindi": [
+      "प्राथमिक उपभोक्ता",
+      "उत्पादक",
+      "शीर्ष मांसाहारी",
+      "अपघटक"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Producers (plants) form the base of all ecological pyramids because they capture energy from the sun.",
+    "explanationHindi": "उत्पादक (पौधे) सभी पारिस्थितिक स्तूपों का आधार बनते हैं क्योंकि वे सूर्य से ऊर्जा प्राप्त करते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What happens to the shape of the Pyramid of Number in a Single Tree ecosystem?",
+    "qHindi": "एक अकेले पेड़ के पारिस्थितिकी तंत्र में संख्या के स्तूप के आकार का क्या होता है?",
+    "optionsEnglish": [
+      "Upright",
+      "Inverted",
+      "Spindle-shaped",
+      "Square"
+    ],
+    "optionsHindi": [
+      "सीधा",
+      "उल्टा",
+      "तर्कु-रूपी",
+      "वर्गाकार"
+    ],
+    "correct": 1,
+    "explanationEnglish": "A single tree (one producer) supports many birds (primary consumers), which in turn support many parasites, making it inverted.",
+    "explanationHindi": "एक अकेला पेड़ (एक उत्पादक) कई पक्षियों (प्राथमिक उपभोक्ताओं) का समर्थन करता है, जो बदले में कई परजीवियों का समर्थन करते हैं, जिससे यह उल्टा हो जाता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): The Pyramid of Biomass in a pond or aquatic ecosystem is inverted.\nReason (R): The total dry weight of producers (phytoplankton) is much less than the biomass of small and large fish.",
+    "qHindi": "कथन (A): तालाब या जलीय पारिस्थितिकी तंत्र में जैव-भार का स्तूप उल्टा होता है।\nकारण (R): उत्पादकों (पादप प्लवक) का कुल शुष्क भार छोटी और बड़ी मछलियों के जैव-भार से बहुत कम होता है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "In aquatic ecosystems, producers are tiny and have low mass at any given time compared to the large consumers like fish.",
+    "explanationHindi": "जलीय पारिस्थितिकी तंत्र में, मछलियों जैसे बड़े उपभोक्ताओं की तुलना में उत्पादक बहुत छोटे होते हैं और उनका द्रव्यमान किसी भी समय कम होता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Why is the Pyramid of Energy never inverted in any natural ecosystem?",
+    "qHindi": "किसी भी प्राकृतिक पारिस्थितिकी तंत्र में ऊर्जा का स्तूप कभी उल्टा क्यों नहीं होता?",
+    "optionsEnglish": [
+      "Energy is gained at higher levels",
+      "Energy stays constant",
+      "Energy is lost as heat at each level",
+      "Organisms grow bigger at the top"
+    ],
+    "optionsHindi": [
+      "उच्च स्तरों पर ऊर्जा प्राप्त होती है",
+      "ऊर्जा स्थिर रहती है",
+      "प्रत्येक स्तर पर ऊष्मा के रूप में ऊर्जा नष्ट होती है",
+      "जीव शीर्ष पर बड़े होते जाते हैं"
+    ],
+    "correct": 2,
+    "explanationEnglish": "According to the 10% law, energy always decreases from producers to consumers, ensuring an upright pyramid.",
+    "explanationHindi": "10% नियम के अनुसार, ऊर्जा हमेशा उत्पादकों से उपभोक्ताओं की ओर कम होती है, जिससे सीधा स्तूप सुनिश्चित होता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the organisms to their trophic levels in a Pond Ecosystem pyramid:\n1. Phytoplankton - (i) Secondary Consumer\n2. Zooplankton - (ii) Producer\n3. Small Fish - (iii) Top Consumer\n4. Large Fish - (iv) Primary Consumer",
+    "qHindi": "तालाब पारिस्थितिकी तंत्र स्तूप में जीवों को उनके पोषी स्तरों से सुमेलित करें:\n1. पादप प्लवक - (i) द्वितीयक उपभोक्ता\n2. जंतु प्लवक - (ii) उत्पादक\n3. छोटी मछली - (iii) शीर्ष उपभोक्ता\n4. बड़ी मछली - (iv) प्राथमिक उपभोक्ता",
+    "optionsEnglish": [
+      "1-(ii), 2-(iv), 3-(i), 4-(iii)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(ii), 2-(iii), 3-(iv), 4-(i)",
+      "1-(iv), 2-(i), 3-(iii), 4-(ii)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(iv), 3-(i), 4-(iii)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(ii), 2-(iii), 3-(iv), 4-(i)",
+      "1-(iv), 2-(i), 3-(iii), 4-(ii)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Phytoplankton(P) -> Zooplankton(PC) -> Small Fish(SC) -> Large Fish(TC).",
+    "explanationHindi": "पादप प्लवक (उत्पादक) -> जंतु प्लवक (प्राथमिक उपभोक्ता) -> छोटी मछली (द्वितीयक उपभोक्ता) -> बड़ी मछली (शीर्ष उपभोक्ता)।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "A food web is considered better than a food chain for ecosystem health because:",
+    "qHindi": "पारिस्थितिकी तंत्र के स्वास्थ्य के लिए एक खाद्य जाल को खाद्य श्रृंखला से बेहतर माना जाता है क्योंकि:",
+    "optionsEnglish": [
+      "It is simpler",
+      "It is more stable and balanced",
+      "It has fewer species",
+      "Energy flows backward"
+    ],
+    "optionsHindi": [
+      "यह सरल है",
+      "यह अधिक स्थिर और संतुलित है",
+      "इसमें कम प्रजातियां हैं",
+      "ऊर्जा पीछे की ओर प्रवाहित होती है"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Complexity in a food web provides stability; if one link fails, other paths maintain balance.",
+    "explanationHindi": "खाद्य जाल में जटिलता स्थिरता प्रदान करती है; यदि एक कड़ी विफल हो जाती है, तो अन्य मार्ग संतुलन बनाए रखते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): The Pyramid of Biomass for a tree ecosystem is upright.\nReason (R): A single large tree has much more mass compared to the birds and parasites living on it.",
+    "qHindi": "कथन (A): एक पेड़ के पारिस्थितिकी तंत्र के लिए जैव-भार का स्तूप सीधा होता है।\nकारण (R): एक अकेले बड़े पेड़ का द्रव्यमान उस पर रहने वाले पक्षियों और परजीवियों की तुलना में बहुत अधिक होता है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Even if numbers of birds are high, their combined biomass cannot exceed the biomass of the massive tree.",
+    "explanationHindi": "भले ही पक्षियों की संख्या अधिक हो, उनका संयुक्त जैव-भार विशाल पेड़ के जैव-भार से अधिक नहीं हो सकता।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "The graphical representation of various trophic levels in terms of numbers, biomass, or energy is known as:",
+    "qHindi": "संख्या, जैव-भार या ऊर्जा के संदर्भ में विभिन्न पोषी स्तरों के ग्राफीय निरूपण को क्या कहा जाता है?",
+    "optionsEnglish": [
+      "Food Web",
+      "Ecological Pyramid",
+      "Succession",
+      "Niche"
+    ],
+    "optionsHindi": [
+      "खाद्य जाल",
+      "पारिस्थितिक स्तूप",
+      "अनुक्रमण",
+      "निश"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Ecological pyramids are the graphical way to show the relationship between producers and consumers.",
+    "explanationHindi": "पारिस्थितिक स्तूप उत्पादकों और उपभोक्ताओं के बीच संबंध दिखाने का ग्राफीय तरीका है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which of these ecosystems shows an upright Pyramid of Number?",
+    "qHindi": "इनमें से कौन सा पारिस्थितिकी तंत्र संख्या का सीधा स्तूप दिखाता है?",
+    "optionsEnglish": [
+      "Single Tree",
+      "Parasitic chain",
+      "Grassland",
+      "Pond (Number)"
+    ],
+    "optionsHindi": [
+      "अकेला पेड़",
+      "परजीवी श्रृंखला",
+      "घास का मैदान",
+      "तालाब (संख्या)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "In grasslands, the number of grass plants is high, fewer insects, even fewer frogs, and very few snakes, making it upright.",
+    "explanationHindi": "घास के मैदानों में, घास के पौधों की संख्या अधिक होती है, कीड़े कम, मेंढक और भी कम, और सांप बहुत कम होते हैं, जिससे यह सीधा हो जाता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the Pyramid Category with the unit of measurement used:\n1. Pyramid of Number - (i) Kilojoules or Calories\n2. Pyramid of Biomass - (ii) Count of Individuals\n3. Pyramid of Energy - (iii) Dry weight or Mass",
+    "qHindi": "स्तूप श्रेणी को उपयोग की जाने वाली माप की इकाई के साथ सुमेलित करें:\n1. संख्या का स्तूप - (i) किलोजूल या कैलोरी\n2. जैव-भार का स्तूप - (ii) व्यक्तियों की गणना\n3. ऊर्जा का स्तूप - (iii) शुष्क भार या द्रव्यमान",
+    "optionsEnglish": [
+      "1-(ii), 2-(iii), 3-(i)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(ii), 3-(i)",
+      "1-(ii), 2-(i), 3-(iii)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(iii), 3-(i)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(ii), 3-(i)",
+      "1-(ii), 2-(i), 3-(iii)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Number counts individuals, Biomass measures mass, and Energy measures heat/energy content.",
+    "explanationHindi": "संख्या व्यक्तियों की गणना करती है, जैव-भार द्रव्यमान को मापता है, और ऊर्जा ऊष्मा/ऊर्जा सामग्री को मापती है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "In which ecosystem does the 'Spindle' shaped pyramid of number usually occur?",
+    "qHindi": "किस पारिस्थितिकी तंत्र में संख्या का 'तर्कु' (Spindle) आकार का स्तूप आमतौर पर होता है?",
+    "optionsEnglish": [
+      "Grassland",
+      "Pond",
+      "Forest (Broadly)",
+      "Desert"
+    ],
+    "optionsHindi": [
+      "घास का मैदान",
+      "तालाब",
+      "वन (व्यापक रूप से)",
+      "रेगिस्तान"
+    ],
+    "correct": 2,
+    "explanationEnglish": "In a forest, many producers support a moderate number of herbivores, which support fewer top carnivores, often creating a spindle shape.",
+    "explanationHindi": "एक जंगल में, कई उत्पादक मध्यम संख्या में शाकाहारियों का समर्थन करते हैं, जो कम शीर्ष मांसाहारियों का समर्थन करते हैं, जिससे अक्सर एक तर्कु आकार बनता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): If a trophic level is removed from a food chain, the levels above it fail.\nReason (R): Food chains are linear and lack alternative energy paths.",
+    "qHindi": "कथन (A): यदि खाद्य श्रृंखला से एक पोषी स्तर को हटा दिया जाता है, तो उसके ऊपर के स्तर विफल हो जाते हैं।\nकारण (R): खाद्य श्रृंखलाएं रैखिक होती हैं और इनमें वैकल्पिक ऊर्जा मार्गों की कमी होती है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Linearity of food chains makes them unstable compared to food webs.",
+    "explanationHindi": "खाद्य श्रृंखलाओं की रैखिकता उन्हें खाद्य जालों की तुलना में अस्थिर बनाती है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "The term 'Biomass' refers to:",
+    "qHindi": "'जैव-भार' (Biomass) का तात्पर्य है:",
+    "optionsEnglish": [
+      "Total count of species",
+      "Total dry weight of living matter",
+      "Total energy in sun",
+      "Amount of water in plants"
+    ],
+    "optionsHindi": [
+      "प्रजातियों की कुल संख्या",
+      "जीवित पदार्थ का कुल शुष्क भार",
+      "सूर्य में कुल ऊर्जा",
+      "पौधों में पानी की मात्रा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Biomass is the total organic mass (usually dry weight) of organisms at a trophic level.",
+    "explanationHindi": "जैव-भार एक पोषी स्तर पर जीवों का कुल कार्बनिक द्रव्यमान (आमतौर पर शुष्क भार) होता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What is the shape of the Pyramid of Energy in a Pond ecosystem?",
+    "qHindi": "एक तालाब के पारिस्थितिकी तंत्र में ऊर्जा के स्तूप का आकार क्या होता है?",
+    "optionsEnglish": [
+      "Inverted",
+      "Upright",
+      "Circular",
+      "Spindle"
+    ],
+    "optionsHindi": [
+      "उल्टा",
+      "सीधा",
+      "गोलाकार",
+      "तर्कु"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The pyramid of energy is always upright in every ecosystem, including ponds.",
+    "explanationHindi": "ऊर्जा का स्तूप तालाबों सहित प्रत्येक पारिस्थितिकी तंत्र में हमेशा सीधा होता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): In the pyramid of number, top consumers are usually fewer than producers.\nReason (R): Energy available decreases as we move to higher trophic levels.",
+    "qHindi": "कथन (A): संख्या के स्तूप में, शीर्ष उपभोक्ता आमतौर पर उत्पादकों की तुलना में कम होते हैं।\nकारण (R): जैसे-जैसे हम उच्च पोषी स्तरों की ओर बढ़ते हैं, उपलब्ध ऊर्जा कम होती जाती है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Lower energy at top levels can support only a few individuals, keeping their population small.",
+    "explanationHindi": "शीर्ष स्तरों पर कम ऊर्जा केवल कुछ व्यक्तियों का ही समर्थन कर सकती है, जिससे उनकी जनसंख्या कम रहती है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the specific pyramid type with its characteristic example:\n1. Upright Number - (i) Aquatic Biomass\n2. Inverted Number - (ii) Grassland\n3. Inverted Biomass - (iii) Single Tree",
+    "qHindi": "विशिष्ट स्तूप प्रकार को उसके विशिष्ट उदाहरण के साथ सुमेलित करें:\n1. सीधा संख्या स्तूप - (i) जलीय जैव-भार\n2. उल्टा संख्या स्तूप - (ii) घास का मैदान\n3. उल्टा जैव-भार स्तूप - (iii) अकेला पेड़",
+    "optionsEnglish": [
+      "1-(ii), 2-(iii), 3-(i)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(i), 3-(ii)",
+      "1-(ii), 2-(i), 3-(iii)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(iii), 3-(i)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(i), 3-(ii)",
+      "1-(ii), 2-(i), 3-(iii)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Grassland has upright number; Tree has inverted number; Aquatic systems have inverted biomass.",
+    "explanationHindi": "घास के मैदान में सीधा संख्या स्तूप होता है; पेड़ में उल्टा संख्या स्तूप होता है; जलीय प्रणालियों में उल्टा जैव-भार स्तूप होता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "In an inverted pyramid of number (Tree), 'Parasites' are found at which level?",
+    "qHindi": "संख्या के उल्टे स्तूप (पेड़) में, 'परजीवी' किस स्तर पर पाए जाते हैं?",
+    "optionsEnglish": [
+      "Base (Bottom)",
+      "Second Level",
+      "Top (Apex)",
+      "Middle"
+    ],
+    "optionsHindi": [
+      "आधार (नीचे)",
+      "दूसरे स्तर",
+      "शीर्ष (Apex)",
+      "मध्य"
+    ],
+    "correct": 2,
+    "explanationEnglish": "In a parasitic chain on a tree, the parasites are the most numerous and occupy the top level of the pyramid.",
+    "explanationHindi": "पेड़ पर एक परजीवी श्रृंखला में, परजीवी सबसे अधिक संख्या में होते हैं और पिरामिड के शीर्ष स्तर पर होते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What does a wider base in an upright pyramid of number indicate?",
+    "qHindi": "संख्या के सीधे स्तूप में एक चौड़ा आधार क्या दर्शाता है?",
+    "optionsEnglish": [
+      "Few Producers",
+      "Large number of producers",
+      "Few Carnivores",
+      "High energy loss"
+    ],
+    "optionsHindi": [
+      "कम उत्पादक",
+      "उत्पादकों की बड़ी संख्या",
+      "कम मांसाहारी",
+      "उच्च ऊर्जा हानि"
+    ],
+    "correct": 1,
+    "explanationEnglish": "A wider base means the count of organisms at the starting level (producers) is high.",
+    "explanationHindi": "चौड़े आधार का अर्थ है कि प्रारंभिक स्तर (उत्पादकों) पर जीवों की संख्या अधिक है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Top carnivores like lions have the least total energy available to them.\nReason (R): Energy decreases at each trophic level following the 10% transfer rule.",
+    "qHindi": "कथन (A): शेरों जैसे शीर्ष मांसाहारियों के पास सबसे कम कुल ऊर्जा उपलब्ध होती है।\nकारण (R): 10% हस्तांतरण नियम का पालन करते हुए प्रत्येक पोषी स्तर पर ऊर्जा कम होती जाती है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Because most energy is lost as heat, very little reaches the final consumer in a chain.",
+    "explanationHindi": "चूंकि अधिकांश ऊर्जा ऊष्मा के रूप में नष्ट हो जाती है, इसलिए श्रृंखला में अंतिम उपभोक्ता तक बहुत कम ऊर्जा पहुँचती है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following levels with the organisms for a Grassland ecosystem:\n1. Producer - (i) Frog\n2. Primary Consumer - (ii) Grass\n3. Secondary Consumer - (iii) Snake\n4. Tertiary Consumer - (iv) Insect/Grasshopper",
+    "qHindi": "घास के मैदान के पारिस्थितिकी तंत्र के लिए निम्नलिखित स्तरों को जीवों के साथ सुमेलित करें:\n1. उत्पादक - (i) मेंढक\n2. प्राथमिक उपभोक्ता - (ii) घास\n3. द्वितीयक उपभोक्ता - (iii) सांप\n4. तृतीयक उपभोक्ता - (iv) कीट/टिड्डा",
+    "optionsEnglish": [
+      "1-(ii), 2-(iv), 3-(i), 4-(iii)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(iv), 2-(iii), 3-(ii), 4-(i)",
+      "1-(ii), 2-(i), 3-(iv), 4-(iii)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(iv), 3-(i), 4-(iii)",
+      "1-(i), 2-(ii), 3-(iii), 4-(iv)",
+      "1-(iv), 2-(iii), 3-(ii), 4-(i)",
+      "1-(ii), 2-(i), 3-(iv), 4-(iii)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Grass(P) -> Insect(PC) -> Frog(SC) -> Snake(TC).",
+    "explanationHindi": "घास (उत्पादक) -> कीट (प्राथमिक उपभोक्ता) -> मेंढक (द्वितीयक उपभोक्ता) -> सांप (तृतीयक उपभोक्ता)।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "In the Pyramid of Biomass for a Pond, what represents the primary consumer?",
+    "qHindi": "तालाब के जैव-भार के स्तूप में, प्राथमिक उपभोक्ता का प्रतिनिधित्व कौन करता है?",
+    "optionsEnglish": [
+      "Phytoplankton",
+      "Zooplankton",
+      "Small fish",
+      "Large fish"
+    ],
+    "optionsHindi": [
+      "पादप प्लवक",
+      "जंतु प्लवक",
+      "छोटी मछली",
+      "बड़ी मछली"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Zooplankton feed on phytoplankton, making them the primary consumers in the aquatic chain.",
+    "explanationHindi": "जंतु प्लवक पादप प्लवक को खाते हैं, जिससे वे जलीय श्रृंखला में प्राथमिक उपभोक्ता बन जाते हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which pyramid is best for comparing the overall functional efficiency of different ecosystems?",
+    "qHindi": "विभिन्न पारिस्थितिकी तंत्रों की समग्र कार्यात्मक दक्षता की तुलना करने के लिए कौन सा स्तूप सबसे अच्छा है?",
+    "optionsEnglish": [
+      "Pyramid of Number",
+      "Pyramid of Biomass",
+      "Pyramid of Energy",
+      "Pyramid of Species"
+    ],
+    "optionsHindi": [
+      "संख्या का स्तूप",
+      "जैव-भार का स्तूप",
+      "ऊर्जा का स्तूप",
+      "प्रजाति स्तूप"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Pyramid of Energy provides the most accurate picture of energy flow and ecosystem efficiency.",
+    "explanationHindi": "ऊर्जा का स्तूप ऊर्जा प्रवाह और पारिस्थितिकी तंत्र की दक्षता का सबसे सटीक चित्र प्रदान करता है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Natural ecosystems like forests are self-balanced.\nReason (R): Complex food webs prevent species from over-dominating or disappearing easily.",
+    "qHindi": "कथन (A): जंगलों जैसे प्राकृतिक पारिस्थितिकी तंत्र स्वयं संतुलित होते हैं।\nकारण (R): जटिल खाद्य जाल प्रजातियों को अत्यधिक प्रभावी होने या आसानी से गायब होने से रोकते हैं।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The presence of alternative food sources in complex webs maintains environmental equilibrium.",
+    "explanationHindi": "जटिल जालों में वैकल्पिक खाद्य स्रोतों की उपस्थिति पर्यावरणीय संतुलन बनाए रखती है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What does 'Lentic' ecosystem refer to in terms of water?",
+    "qHindi": "पानी के संदर्भ में 'स्थिर' (Lentic) पारिस्थितिकी तंत्र से क्या तात्पर्य है?",
+    "optionsEnglish": [
+      "Flowing water",
+      "Static or standing water",
+      "Polluted water",
+      "Sea water"
+    ],
+    "optionsHindi": [
+      "बहता हुआ जल",
+      "स्थिर या खड़ा जल",
+      "प्रदूषित जल",
+      "समुद्री जल"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Lentic ecosystems include standing water bodies like ponds and lakes.",
+    "explanationHindi": "स्थिर (Lentic) पारिस्थितिकी तंत्र में तालाबों और झीलों जैसे खड़े जल निकाय शामिल हैं।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following terms related to pyramids with their definitions:\n1. Trophic Level - (i) Total weight of living organisms\n2. Eltonian Pyramid - (ii) Position in a food chain\n3. Biomass - (iii) Graphical representation of ecosystem levels",
+    "qHindi": "स्तूपों से संबंधित निम्नलिखित शब्दों को उनकी परिभाषाओं के साथ सुमेलित करें:\n1. पोषी स्तर - (i) जीवित जीवों का कुल वजन\n2. इल्टोनियन पिरामिड - (ii) खाद्य श्रृंखला में स्थिति\n3. जैव-भार - (iii) पारिस्थितिकी तंत्र के स्तरों का ग्राफीय निरूपण",
+    "optionsEnglish": [
+      "1-(ii), 2-(iii), 3-(i)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(ii), 3-(i)",
+      "1-(ii), 2-(i), 3-(iii)"
+    ],
+    "optionsHindi": [
+      "1-(ii), 2-(iii), 3-(i)",
+      "1-(i), 2-(ii), 3-(iii)",
+      "1-(iii), 2-(ii), 3-(i)",
+      "1-(ii), 2-(i), 3-(iii)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Trophic level is the position; Eltonian pyramid is the graph; Biomass is the weight.",
+    "explanationHindi": "पोषी स्तर स्थिति है; इल्टोनियन पिरामिड ग्राफ है; जैव-भार वजन है।",
+    "subject": "Science  विज्ञान",
+    "topic": "Ecosystem  पारिस्थितिकी तंत्र"
   }
 ]
