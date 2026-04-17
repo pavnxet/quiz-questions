@@ -1,0 +1,632 @@
+[
+  {
+    "qEnglish": "Who is the scientist who coined the term 'Ecology'?",
+    "qHindi": "'इकोलॉजी' (Ecology) शब्द का प्रयोग सबसे पहले किस वैज्ञानिक ने किया था?",
+    "optionsEnglish": [
+      "A.G. Tansley",
+      "Ernst Haeckel",
+      "Reiter",
+      "Ramdev Mishra"
+    ],
+    "optionsHindi": [
+      "ए.जी. टेंसले",
+      "अर्न्स्ट हैकल",
+      "रीटर",
+      "रामदेव मिश्रा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The term Ecology was given by Ernst Haeckel (E. Haeckel) in 1866.",
+    "explanationHindi": "इकोलॉजी शब्द 1866 में अर्न्स्ट हैकल (ई. हैकल) द्वारा दिया गया था।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Who is known as the 'Father of Ecology'?",
+    "qHindi": "'पारिस्थितिकी के जनक' (Father of Ecology) के रूप में किसे जाना जाता है?",
+    "optionsEnglish": [
+      "Ramdev Mishra",
+      "Reiter",
+      "Warming",
+      "Charles Elton"
+    ],
+    "optionsHindi": [
+      "रामदेव मिश्रा",
+      "रीटर",
+      "वार्मिंग",
+      "चार्ल्स इल्टन"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Reiter is considered the Father of Ecology.",
+    "explanationHindi": "रीटर को पारिस्थितिकी का जनक माना जाता है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Professor Ramdev Mishra is known as the Father of which field?",
+    "qHindi": "प्रोफेसर रामदेव मिश्रा को किस क्षेत्र के जनक के रूप में जाना जाता है?",
+    "optionsEnglish": [
+      "Ecology",
+      "Indian Ecology",
+      "Global Ecology",
+      "Ecosystem"
+    ],
+    "optionsHindi": [
+      "पारिस्थितिकी",
+      "भारतीय पारिस्थितिकी",
+      "वैश्विक पारिस्थितिकी",
+      "पारिस्थितिकी तंत्र"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Professor Ramdev Mishra is recognized as the Father of Indian Ecology.",
+    "explanationHindi": "प्रोफेसर रामदेव मिश्रा को भारतीय पारिस्थितिकी के जनक के रूप में मान्यता प्राप्त है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "The term 'Ecosystem' was first proposed by which scientist?",
+    "qHindi": "'पारिस्थितिकी तंत्र' (Ecosystem) शब्द सबसे पहले किस वैज्ञानिक द्वारा प्रस्तावित किया गया था?",
+    "optionsEnglish": [
+      "E. Haeckel",
+      "Reiter",
+      "A.G. Tansley",
+      "Lindeman"
+    ],
+    "optionsHindi": [
+      "ई. हैकल",
+      "रीटर",
+      "ए.जी. टेंसले",
+      "लिंडमैन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A.G. Tansley coined the term 'Ecosystem' and defined it as the integration of biotic and abiotic factors.",
+    "explanationHindi": "ए.जी. टेंसले ने 'पारिस्थितिकी तंत्र' शब्द गढ़ा और इसे जैविक और अजैविक घटकों के समाकलन के रूप में परिभाषित किया।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which of the following is an example of an Abiotic component?",
+    "qHindi": "निम्नलिखित में से कौन अजैविक घटक का एक उदाहरण है?",
+    "optionsEnglish": [
+      "Plants",
+      "Bacteria",
+      "Light",
+      "Fungi"
+    ],
+    "optionsHindi": [
+      "पादप",
+      "जीवाणु",
+      "प्रकाश",
+      "कवक"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Abiotic factors are non-living physical and chemical elements like air, water, light, soil, and humidity.",
+    "explanationHindi": "अजैविक कारक वायु, जल, प्रकाश, मृदा और आर्द्रता जैसे निर्जीव भौतिक और रासायनिक तत्व हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Organisms that prepare their own food via photosynthesis are called:",
+    "qHindi": "वे जीव जो प्रकाश संश्लेषण के माध्यम से अपना भोजन स्वयं तैयार करते हैं, कहलाते हैं:",
+    "optionsEnglish": [
+      "Heterotrophs",
+      "Autotrophs (Producers)",
+      "Micro-consumers",
+      "Scavengers"
+    ],
+    "optionsHindi": [
+      "परपोषी",
+      "स्वपोषी (उत्पादक)",
+      "सूक्ष्म उपभोक्ता",
+      "अपमार्जक"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Producers or Autotrophs (like green plants) create their own food using sunlight and chlorophyll.",
+    "explanationHindi": "उत्पादक या स्वपोषी (जैसे हरे पौधे) सूर्य के प्रकाश और क्लोरोफिल का उपयोग करके अपना भोजन स्वयं बनाते हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Primary consumers are always categorized as:",
+    "qHindi": "प्राथमिक उपभोक्ताओं को हमेशा इस रूप में वर्गीकृत किया जाता है:",
+    "optionsEnglish": [
+      "Carnivores",
+      "Herbivores",
+      "Decomposers",
+      "Omnivores"
+    ],
+    "optionsHindi": [
+      "मांसाहारी",
+      "शाकाहारी",
+      "अपघटक",
+      "सर्वाहारी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Primary consumers eat green plants (producers), which makes them herbivores.",
+    "explanationHindi": "प्राथमिक उपभोक्ता हरे पौधों (उत्पादकों) को खाते हैं, जो उन्हें शाकाहारी बनाता है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which of the following falls under 'Micro-consumers' or Decomposers?",
+    "qHindi": "निम्नलिखित में से कौन 'सूक्ष्म उपभोक्ता' या अपघटकों के अंतर्गत आता है?",
+    "optionsEnglish": [
+      "Lion",
+      "Rabbit",
+      "Bacteria and Fungi",
+      "Vulture"
+    ],
+    "optionsHindi": [
+      "शेर",
+      "खरगोश",
+      "जीवाणु और कवक",
+      "गिद्ध"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Bacteria and fungi are micro-consumers because they break down dead organic matter into simpler forms.",
+    "explanationHindi": "जीवाणु और कवक सूक्ष्म उपभोक्ता हैं क्योंकि वे मृत कार्बनिक पदार्थों को सरल रूपों में तोड़ते हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which ecosystem is categorized as an Artificial or Man-made ecosystem?",
+    "qHindi": "किस पारिस्थितिकी तंत्र को कृत्रिम या मानव निर्मित पारिस्थितिकी तंत्र के रूप में वर्गीकृत किया गया है?",
+    "optionsEnglish": [
+      "Forest",
+      "Crop Field",
+      "River",
+      "Grassland"
+    ],
+    "optionsHindi": [
+      "वन",
+      "खेत",
+      "नदी",
+      "घास का मैदान"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Fields, gardens, and aquariums are artificial ecosystems created and managed by humans.",
+    "explanationHindi": "खेत, बगीचे और एक्वेरियम मनुष्यों द्वारा बनाए गए और प्रबंधित कृत्रिम पारिस्थितिकी तंत्र हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Energy flow in an ecosystem is unidirectional.\nReason (R): Energy captured by producers from the sun can return to the sun.",
+    "qHindi": "कथन (A): पारिस्थितिकी तंत्र में ऊर्जा का प्रवाह एकदिशीय होता है।\nकारण (R): उत्पादकों द्वारा सूर्य से प्राप्त ऊर्जा वापस सूर्य को लौट सकती है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is correct explanation",
+      "A is true but R is false",
+      "A is false but R is true",
+      "Both A and R are false"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R सही व्याख्या है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है",
+      "A और R दोनों गलत हैं"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Energy flow is unidirectional because energy moves from sun to plants and then to consumers, never backwards.",
+    "explanationHindi": "ऊर्जा प्रवाह एकदिशीय है क्योंकि ऊर्जा सूर्य से पौधों और फिर उपभोक्ताओं की ओर बढ़ती है, कभी पीछे नहीं लौटती।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following levels with their examples:\n1. Scavenger - i. Bacteria\n2. Decomposer - ii. Vulture\n3. Producer - iii. Grass\n4. Top Consumer - iv. Lion",
+    "qHindi": "निम्नलिखित स्तरों को उनके उदाहरणों के साथ सुमेलित करें:\n1. अपमार्जक - i. जीवाणु\n2. अपघटक - ii. गिद्ध\n3. उत्पादक - iii. घास\n4. शीर्ष उपभोक्ता - iv. शेर",
+    "optionsEnglish": [
+      "1-ii, 2-i, 3-iii, 4-iv",
+      "1-i, 2-ii, 3-iii, 4-iv",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-iii, 2-i, 3-iv, 4-ii"
+    ],
+    "optionsHindi": [
+      "1-ii, 2-i, 3-iii, 4-iv",
+      "1-i, 2-ii, 3-iii, 4-iv",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-iii, 2-i, 3-iv, 4-ii"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Scavengers (Vulture) eat dead animals; Decomposers (Bacteria) break down matter; Producer is Grass; Top Consumer is Lion.",
+    "explanationHindi": "अपमार्जक (गिद्ध) मरे हुए जानवरों को खाते हैं; अपघटक (जीवाणु) पदार्थ को तोड़ते हैं; उत्पादक घास है; शीर्ष उपभोक्ता शेर है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Producers are also called Autotrophs.\nReason (R): They can manufacture their own organic food from inorganic substances using solar energy.",
+    "qHindi": "कथन (A): उत्पादकों को स्वपोषी भी कहा जाता है।\nकारण (R): वे सौर ऊर्जा का उपयोग करके अकार्बनिक पदार्थों से अपना कार्बनिक भोजन स्वयं बना सकते हैं।",
+    "optionsEnglish": [
+      "Both A and R are true and R is correct explanation",
+      "Both A and R are true but R is not correct explanation",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Producers create their own organic matter (food) through photosynthesis, which defines them as autotrophs.",
+    "explanationHindi": "उत्पादक प्रकाश संश्लेषण के माध्यम से अपना कार्बनिक पदार्थ (भोजन) स्वयं बनाते हैं, जो उन्हें स्वपोषी के रूप में परिभाषित करता है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What is the ultimate and primary source of energy in any ecosystem?",
+    "qHindi": "किसी भी पारिस्थितिकी तंत्र में ऊर्जा का अंतिम और प्राथमिक स्रोत क्या है?",
+    "optionsEnglish": [
+      "Green Plants",
+      "Water",
+      "The Sun",
+      "Soil"
+    ],
+    "optionsHindi": [
+      "हरे पौधे",
+      "जल",
+      "सूर्य",
+      "मृदा"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Sun is the only primary source of energy that enters the ecosystem via producers.",
+    "explanationHindi": "सूर्य ऊर्जा का एकमात्र प्राथमिक स्रोत है जो उत्पादकों के माध्यम से पारिस्थितिकी तंत्र में प्रवेश करता है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the ecosystem types with their categories:\n1. River - i. Lotic (Flowing)\n2. Pond - ii. Lentic (Static)\n3. Aquarium - iii. Terrestrial\n4. Forest - iv. Artificial",
+    "qHindi": "पारिस्थितिकी तंत्र के प्रकारों को उनकी श्रेणियों के साथ सुमेलित करें:\n1. नदी - i. वाहित (बहता हुआ)\n2. तालाब - ii. स्थिर (रुका हुआ)\n3. एक्वेरियम - iii. स्थलीय\n4. वन - iv. कृत्रिम",
+    "optionsEnglish": [
+      "1-i, 2-ii, 3-iv, 4-iii",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-ii, 2-i, 3-iv, 4-iii",
+      "1-i, 2-ii, 3-iii, 4-iv"
+    ],
+    "optionsHindi": [
+      "1-i, 2-ii, 3-iv, 4-iii",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-ii, 2-i, 3-iv, 4-iii",
+      "1-i, 2-ii, 3-iii, 4-iv"
+    ],
+    "correct": 0,
+    "explanationEnglish": "River water flows (Lotic), Ponds are static (Lentic), Aquarium is artificial, and Forest is land-based (Terrestrial).",
+    "explanationHindi": "नदी का जल बहता है (वाहित), तालाब स्थिर होते हैं (स्थिर), एक्वेरियम कृत्रिम है, और वन भूमि आधारित (स्थलीय) है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Lindeman gave the 10% law of energy transfer.\nReason (R): Only 10% of energy is transferred to the next trophic level while 90% is lost.",
+    "qHindi": "कथन (A): लिंडमैन ने ऊर्जा हस्तांतरण का 10% नियम दिया था।\nकारण (R): अगले पोषी स्तर पर केवल 10% ऊर्जा हस्तांतरित होती है जबकि 90% नष्ट हो जाती है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is correct explanation",
+      "Both A and R are true but R is not correct explanation",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Lindeman's 10% rule states that only 10% of energy moves to the next consumer level for storage.",
+    "explanationHindi": "लिंडमैन का 10% नियम बताता है कि भंडारण के लिए अगले उपभोक्ता स्तर पर केवल 10% ऊर्जा ही जाती है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the specific terms with their discoverers:\n1. Term Ecology - i. E. Haeckel\n2. Term Ecosystem - ii. A.G. Tansley\n3. 10% Rule - iii. Lindeman\n4. Indian Ecology - iv. Ramdev Mishra",
+    "qHindi": "विशिष्ट शब्दों को उनके खोजकर्ताओं के साथ सुमेलित करें:\n1. इकोलॉजी शब्द - i. ई. हैकल\n2. पारिस्थितिकी तंत्र शब्द - ii. ए.जी. टेंसले\n3. 10% नियम - iii. लिंडमैन\n4. भारतीय पारिस्थितिकी - iv. रामदेव मिश्रा",
+    "optionsEnglish": [
+      "1-i, 2-ii, 3-iii, 4-iv",
+      "1-ii, 2-i, 3-iii, 4-iv",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-iii, 2-iv, 3-i, 4-ii"
+    ],
+    "optionsHindi": [
+      "1-i, 2-ii, 3-iii, 4-iv",
+      "1-ii, 2-i, 3-iii, 4-iv",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-iii, 2-iv, 3-i, 4-ii"
+    ],
+    "correct": 0,
+    "explanationEnglish": "These are the correct associations of terminology and scientists as stated in the lecture.",
+    "explanationHindi": "ये शब्दावली और वैज्ञानिकों के सही संबंध हैं जैसा कि व्याख्यान में बताया गया है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Organisms that eat dead organic matter like vultures and crows are called:",
+    "qHindi": "गिद्ध और कौवे जैसे मरे हुए कार्बनिक पदार्थों को खाने वाले जीवों को कहा जाता है:",
+    "optionsEnglish": [
+      "Producers",
+      "Scavengers (Apmaarjak)",
+      "Primary Consumers",
+      "Parasites"
+    ],
+    "optionsHindi": [
+      "उत्पादक",
+      "अपमार्जक",
+      "प्राथमिक उपभोक्ता",
+      "परजीवी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Scavengers are organisms that feed on the dead bodies of animals, helping to clean the environment.",
+    "explanationHindi": "अपमार्जक वे जीव हैं जो जानवरों के मृत शरीरों को खाते हैं, जिससे पर्यावरण को साफ करने में मदद मिलती है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which range of the light spectrum is specifically called 'Visible Light' for photosynthesis?",
+    "qHindi": "प्रकाश संश्लेषण के लिए प्रकाश स्पेक्ट्रम की किस श्रेणी को विशेष रूप से 'दृश्य प्रकाश' कहा जाता है?",
+    "optionsEnglish": [
+      "100-200 nm",
+      "390-760 nm",
+      "800-1000 nm",
+      "Above 1100 nm"
+    ],
+    "optionsHindi": [
+      "100-200 nm",
+      "390-760 nm",
+      "800-1000 nm",
+      "1100 nm से ऊपर"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Photosynthesis occurs in the visible spectrum range of 390 nm to 760 nm.",
+    "explanationHindi": "प्रकाश संश्लेषण 390 nm से 760 nm के दृश्य स्पेक्ट्रम रेंज में होता है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "In an ecosystem, green plants convert solar energy into which form of energy?",
+    "qHindi": "एक पारिस्थितिकी तंत्र में, हरे पौधे सौर ऊर्जा को ऊर्जा के किस रूप में परिवर्तित करते हैं?",
+    "optionsEnglish": [
+      "Mechanical Energy",
+      "Chemical Energy",
+      "Nuclear Energy",
+      "Electrical Energy"
+    ],
+    "optionsHindi": [
+      "यांत्रिक ऊर्जा",
+      "रासायनिक ऊर्जा",
+      "नाभिकीय ऊर्जा",
+      "विद्युत ऊर्जा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Through photosynthesis, solar energy is converted and stored as chemical energy in organic compounds (food).",
+    "explanationHindi": "प्रकाश संश्लेषण के माध्यम से, सौर ऊर्जा को कार्बनिक यौगिकों (भोजन) में रासायनिक ऊर्जा के रूप में परिवर्तित और संग्रहीत किया जाता है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Decomposers play a crucial role in the ecosystem.\nReason (R): They recycle minerals back into the soil by breaking down dead organisms.",
+    "qHindi": "कथन (A): अपघटक पारिस्थितिकी तंत्र में एक महत्वपूर्ण भूमिका निभाते हैं।\nकारण (R): वे मृत जीवों को तोड़कर खनिजों को वापस मिट्टी में पुनर्चक्रित करते हैं।",
+    "optionsEnglish": [
+      "Both A and R are true and R is correct explanation",
+      "Both A and R are true but R is not correct explanation",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Decomposers help maintain soil fertility by releasing nutrients from dead biomass.",
+    "explanationHindi": "अपघटक मृत बायोमास से पोषक तत्वों को मुक्त करके मिट्टी की उर्वरता बनाए रखने में मदद करते हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What happens in a Lotic ecosystem?",
+    "qHindi": "एक वाहित (Lotic) पारिस्थितिकी तंत्र में क्या होता है?",
+    "optionsEnglish": [
+      "Water is static",
+      "Water flows",
+      "It is a dry land",
+      "It is an artificial field"
+    ],
+    "optionsHindi": [
+      "जल स्थिर होता है",
+      "जल बहता है",
+      "यह शुष्क भूमि है",
+      "यह एक कृत्रिम खेत है"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Lotic ecosystems refer to moving water bodies like rivers, streams, and springs.",
+    "explanationHindi": "वाहित (Lotic) पारिस्थितिकी तंत्र से तात्पर्य बहने वाले जल निकायों जैसे नदियों, झरनों और धाराओं से है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following levels in a food chain with their category:\n1. Grass - i. Primary Consumer\n2. Rabbit - ii. Producer\n3. Fox - iii. Top Consumer\n4. Lion - iv. Secondary Consumer",
+    "qHindi": "खाद्य श्रृंखला में निम्नलिखित स्तरों को उनकी श्रेणी के साथ सुमेलित करें:\n1. घास - i. प्राथमिक उपभोक्ता\n2. खरगोश - ii. उत्पादक\n3. लोमड़ी - iii. शीर्ष उपभोक्ता\n4. शेर - iv. द्वितीयक उपभोक्ता",
+    "optionsEnglish": [
+      "1-ii, 2-i, 3-iv, 4-iii",
+      "1-i, 2-ii, 3-iii, 4-iv",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-iii, 2-iv, 3-i, 4-ii"
+    ],
+    "optionsHindi": [
+      "1-ii, 2-i, 3-iv, 4-iii",
+      "1-i, 2-ii, 3-iii, 4-iv",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-iii, 2-iv, 3-i, 4-ii"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Grass(P) -> Rabbit(PC) -> Fox(SC) -> Lion(TC) is the logical sequence of trophic levels.",
+    "explanationHindi": "घास(उत्पादक) -> खरगोश(प्राथमिक उपभोक्ता) -> लोमड़ी(द्वितीयक उपभोक्ता) -> शेर(शीर्ष उपभोक्ता) पोषी स्तरों का तार्किक क्रम है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): An ideal food chain usually has only 3 to 4 levels.\nReason (R): Energy becomes very low at the end of long food chains due to 10% transfer rule.",
+    "qHindi": "कथन (A): एक आदर्श खाद्य श्रृंखला में आमतौर पर केवल 3 से 4 स्तर होते हैं।\nकारण (R): 10% हस्तांतरण नियम के कारण लंबी खाद्य श्रृंखलाओं के अंत में ऊर्जा बहुत कम हो जाती है।",
+    "optionsEnglish": [
+      "Both A and R are true and R is correct explanation",
+      "Both A and R are true but R is not correct explanation",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Because energy decreases exponentially at each level, longer chains are not sustainable as very little energy reaches the top.",
+    "explanationHindi": "चूंकि प्रत्येक स्तर पर ऊर्जा तेजी से कम होती है, इसलिए लंबी श्रृंखलाएं टिकाऊ नहीं होती हैं क्योंकि शीर्ष तक बहुत कम ऊर्जा पहुँचती है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "According to the first law of thermodynamics in an ecosystem, energy can be:",
+    "qHindi": "पारिस्थितिकी तंत्र में ऊष्मागतिकी के पहले नियम के अनुसार, ऊर्जा को:",
+    "optionsEnglish": [
+      "Created",
+      "Destroyed",
+      "Transformed from one form to another",
+      "None of these"
+    ],
+    "optionsHindi": [
+      "उत्पन्न किया जा सकता है",
+      "नष्ट किया जा सकता है",
+      "एक रूप से दूसरे रूप में परिवर्तित किया जा सकता है",
+      "इनमें से कोई नहीं"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Energy can neither be created nor destroyed, only its form can be changed (e.g., light to chemical).",
+    "explanationHindi": "ऊर्जा को न तो उत्पन्न किया जा सकता है और न ही नष्ट किया जा सकता है, केवल उसका रूप बदला जा सकता है (जैसे, प्रकाश से रासायनिक)।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which of the following is a 'Macro-consumer' in an ecosystem?",
+    "qHindi": "पारिस्थितिकी तंत्र में निम्नलिखित में से कौन एक 'वृहद उपभोक्ता' (Macro-consumer) है?",
+    "optionsEnglish": [
+      "Bacteria",
+      "Fungi",
+      "Rabbit",
+      "Blue-green Algae"
+    ],
+    "optionsHindi": [
+      "जीवाणु",
+      "कवक",
+      "खरगोश",
+      "नील-हरित शैवाल"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Macro-consumers are larger organisms like herbivores and carnivores that ingest food, while decomposers are micro-consumers.",
+    "explanationHindi": "वृहद उपभोक्ता शाकाहारी और मांसाहारी जैसे बड़े जीव हैं जो भोजन निगलते हैं, जबकि अपघटक सूक्ष्म उपभोक्ता हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): The Sun is considered the only source of energy for the ecosystem.\nReason (R): Producers capture solar energy to start the food chain.",
+    "qHindi": "कथन (A): सूर्य को पारिस्थितिकी तंत्र के लिए ऊर्जा का एकमात्र स्रोत माना जाता है।\nकारण (R): खाद्य श्रृंखला शुरू करने के लिए उत्पादक सौर ऊर्जा प्राप्त करते हैं।",
+    "optionsEnglish": [
+      "Both A and R are true and R is correct explanation",
+      "Both A and R are true but R is not correct explanation",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "All energy in the ecosystem ultimately comes from the sun through the process of producers.",
+    "explanationHindi": "पारिस्थितिकी तंत्र की सारी ऊर्जा अंततः उत्पादकों की प्रक्रिया के माध्यम से सूर्य से आती है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Match the following physical factors with their category:\n1. Water - i. Biotic\n2. Plants - ii. Abiotic\n3. Humidity - iii. Abiotic\n4. Animals - iv. Biotic",
+    "qHindi": "निम्नलिखित भौतिक कारकों को उनकी श्रेणी के साथ सुमेलित करें:\n1. जल - i. जैविक\n2. पादप - ii. अजैविक\n3. आर्द्रता - iii. अजैविक\n4. जंतु - iv. जैविक",
+    "optionsEnglish": [
+      "1-ii, 2-i, 3-iii, 4-iv",
+      "1-i, 2-ii, 3-iii, 4-iv",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-iii, 2-i, 3-iv, 4-ii"
+    ],
+    "optionsHindi": [
+      "1-ii, 2-i, 3-iii, 4-iv",
+      "1-i, 2-ii, 3-iii, 4-iv",
+      "1-iv, 2-iii, 3-ii, 4-i",
+      "1-iii, 2-i, 3-iv, 4-ii"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Water and Humidity are abiotic (non-living), while Plants and Animals are biotic (living).",
+    "explanationHindi": "जल और आर्द्रता अजैविक (निर्जीव) हैं, जबकि पादप और जंतु जैविक (सजीव) हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Which of the following is a characteristic of a Secondary Consumer?",
+    "qHindi": "निम्नलिखित में से कौन एक द्वितीयक उपभोक्ता की विशेषता है?",
+    "optionsEnglish": [
+      "They eat producers",
+      "They perform photosynthesis",
+      "They eat primary consumers",
+      "They are large carnivores"
+    ],
+    "optionsHindi": [
+      "वे उत्पादकों को खाते हैं",
+      "वे प्रकाश संश्लेषण करते हैं",
+      "वे प्राथमिक उपभोक्ताओं को खाते हैं",
+      "वे बड़े मांसाहारी हैं"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Secondary consumers are small carnivores that feed on primary consumers (herbivores).",
+    "explanationHindi": "द्वितीयक उपभोक्ता छोटे मांसाहारी होते हैं जो प्राथमिक उपभोक्ताओं (शाकाहारियों) को खाते हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "Assertion (A): Humans are considered consumers.\nReason (R): Humans cannot produce their own food and rely on plants or animals.",
+    "qHindi": "कथन (A): मनुष्यों को उपभोक्ता माना जाता है।\nकारण (R): मनुष्य अपना भोजन स्वयं नहीं बना सकते और पौधों या जानवरों पर निर्भर रहते हैं।",
+    "optionsEnglish": [
+      "Both A and R are true and R is correct explanation",
+      "Both A and R are true but R is not correct explanation",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सही हैं और R सही व्याख्या है",
+      "A और R दोनों सही हैं लेकिन R सही व्याख्या नहीं है",
+      "A सही है लेकिन R गलत है",
+      "A गलत है लेकिन R सही है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Humans lack chlorophyll and cannot perform photosynthesis, making them heterotrophs/consumers.",
+    "explanationHindi": "मनुष्यों में क्लोरोफिल की कमी होती है और वे प्रकाश संश्लेषण नहीं कर सकते, जिससे वे परपोषी/उपभोक्ता बन जाते हैं।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  },
+  {
+    "qEnglish": "What happens to the 90% of energy that is not transferred to the next trophic level?",
+    "qHindi": "अगले पोषी स्तर पर हस्तांतरित नहीं होने वाली 90% ऊर्जा का क्या होता है?",
+    "optionsEnglish": [
+      "It is stored in the soil",
+      "It is returned to the sun",
+      "It is used in biological processes like respiration and lost as heat",
+      "It is transformed into minerals"
+    ],
+    "optionsHindi": [
+      "यह मिट्टी में जमा हो जाती है",
+      "यह सूर्य को वापस मिल जाती है",
+      "इसका उपयोग श्वसन जैसी जैविक प्रक्रियाओं में किया जाता है और ऊष्मा के रूप में नष्ट हो जाती है",
+      "यह खनिजों में परिवर्तित हो जाती है"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Most of the energy (90%) is consumed by the organism for its own survival activities and heat loss.",
+    "explanationHindi": "अधिकांश ऊर्जा (90%) जीव द्वारा अपनी स्वयं की जीवन गतिविधियों और ऊष्मा हानि के लिए उपयोग की जाती है।",
+    "subject": "Science | विज्ञान",
+    "topic": "Ecosystem | पारिस्थितिकी तंत्र"
+  }
+]
