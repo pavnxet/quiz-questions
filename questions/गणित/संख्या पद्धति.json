@@ -1048,5 +1048,205 @@
     "explanationEnglish": "(a-b)(a+b) = 45. Factor pairs: (1,45), (3,15), (5,9) and negatives. Each gives a solution. Total 6 pairs.",
     "subject": "गणित",
     "topic": "संख्या पद्धति"
+  },
+  {
+    "qEnglish": "What is the value of 'iota' (i) in the context of imaginary numbers?",
+    "qHindi": "काल्पनिक संख्याओं के संदर्भ में 'आयोटा' (i) का मान क्या होता है?",
+    "optionsEnglish": [
+      "Square root of 1",
+      "Square root of -1",
+      "Square root of 0",
+      "Square root of 2"
+    ],
+    "optionsHindi": [
+      "1 का वर्गमूल",
+      "-1 का वर्गमूल",
+      "0 का वर्गमूल",
+      "2 का वर्गमूल"
+    ],
+    "correct": 1,
+    "explanationEnglish": "An imaginary number is one where a negative number is inside a square root, represented by iota (i = √-1).",
+    "explanationHindi": "एक काल्पनिक संख्या वह होती है जहां वर्गमूल के अंदर ऋणात्मक संख्या होती है, जिसे आयोटा (i = √-1) द्वारा दर्शाया जाता है।",
+    "subject": "गणित",
+    "topic": "संख्या पद्धति"
+  },
+  {
+    "qEnglish": "Which of the following statements is true regarding π (Pi) and 22/7?",
+    "qHindi": "π (पाई) और 22/7 के संबंध में निम्नलिखित में से कौन सा कथन सत्य है?",
+    "optionsEnglish": [
+      "Both are rational numbers",
+      "Both are irrational numbers",
+      "π is irrational, while 22/7 is rational",
+      "π is rational, while 22/7 is irrational"
+    ],
+    "optionsHindi": [
+      "दोनों परिमेय संख्याएँ हैं",
+      "दोनों अपरिमेय संख्याएँ हैं",
+      "π अपरिमेय है, जबकि 22/7 परिमेय है",
+      "π परिमेय है, जबकि 22/7 अपरिमेय है"
+    ],
+    "correct": 2,
+    "explanationEnglish": "π is irrational because its value is non-terminating and non-repeating. 22/7 is a rational approximation in p/q form.",
+    "explanationHindi": "π अपरिमेय है क्योंकि इसका मान अशांत और अनावर्ती है। 22/7 p/q रूप में एक परिमेय सन्निकटन है।",
+    "subject": "गणित",
+    "topic": "संख्या पद्धति"
+  },
+  {
+    "qEnglish": "How is the number Zero (0) classified in the number system?",
+    "qHindi": "संख्या पद्धति में शून्य (0) को कैसे वर्गीकृत किया जाता है?",
+    "optionsEnglish": [
+      "Positive Integer",
+      "Negative Integer",
+      "Odd Number",
+      "Even Number"
+    ],
+    "optionsHindi": [
+      "धनात्मक पूर्णांक",
+      "ऋणात्मक पूर्णांक",
+      "विषम संख्या",
+      "सम संख्या"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Zero is an even number because it sits between two odd numbers (-1 and 1) and is divisible by 2.",
+    "explanationHindi": "शून्य एक सम संख्या है क्योंकि यह दो विषम संख्याओं (-1 और 1) के बीच स्थित है और 2 से विभाज्य है।",
+    "subject": "गणित",
+    "topic": "संख्या पद्धति"
+  },
+  {
+    "qEnglish": "What is the smallest 4-digit prime number?",
+    "qHindi": "4 अंकों की सबसे छोटी अभाज्य संख्या कौन सी है?",
+    "optionsEnglish": [
+      "1001",
+      "1003",
+      "1007",
+      "1009"
+    ],
+    "optionsHindi": [
+      "1001",
+      "1003",
+      "1007",
+      "1009"
+    ],
+    "correct": 3,
+    "explanationEnglish": "1001 is divisible by 7, 11, and 13. The smallest 4-digit prime number is 1009.",
+    "explanationHindi": "1001 संख्या 7, 11 और 13 से विभाज्य है। 4 अंकों की सबसे छोटी अभाज्य संख्या 1009 है।",
+    "subject": "गणित",
+    "topic": "संख्या पद्धति"
+  },
+  {
+    "qEnglish": "Match the following number types with their correct definitions:",
+    "qHindi": "निम्नलिखित संख्या प्रकारों को उनकी सही परिभाषाओं के साथ सुमेलित करें:",
+    "matchItemsEnglish": {
+      "col1Label": "Number Type",
+      "col2Label": "Definition",
+      "col1": [
+        "Natural Numbers",
+        "Twin Primes",
+        "Co-Primes",
+        "Perfect Numbers"
+      ],
+      "col2": [
+        "Starts from 1 to infinity",
+        "Prime numbers with a difference of 2",
+        "Numbers whose HCF is 1",
+        "Sum of factors (excl. self) equals the number"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "संख्या का प्रकार",
+      "col2Label": "परिभाषा",
+      "col1": [
+        "प्राकृतिक संख्याएँ",
+        "जुड़वा अभाज्य",
+        "सह-अभाज्य",
+        "परिपूर्ण संख्याएँ"
+      ],
+      "col2": [
+        "1 से अनंत तक शुरू होती हैं",
+        "2 के अंतर वाली अभाज्य संख्याएँ",
+        "वे संख्याएँ जिनका HCF 1 है",
+        "गुणनखंडों का योग (स्वयं को छोड़कर) संख्या के बराबर"
+      ]
+    },
+    "optionsEnglish": [
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-i, C-iv, D-iii",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-i, B-iii, C-ii, D-iv"
+    ],
+    "optionsHindi": [
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-i, C-iv, D-iii",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-i, B-iii, C-ii, D-iv"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Natural numbers start from 1. Twin primes like (3,5) have a difference of 2. Co-primes have HCF 1. Perfect numbers like 6 (1+2+3=6) equal the sum of their factors.",
+    "explanationHindi": "प्राकृतिक संख्याएँ 1 से शुरू होती हैं। (3,5) जैसे जुड़वा अभाज्य में 2 का अंतर होता है। सह-अभाज्य का HCF 1 होता है। 6 जैसी परिपूर्ण संख्या (1+2+3=6) अपने गुणनखंडों के योग के बराबर होती है।",
+    "subject": "गणित",
+    "topic": "संख्या पद्धति"
+  },
+  {
+    "qEnglish": "Assertion (A): 1 is neither a prime number nor a composite number.\nReason (R): A prime number must have exactly two distinct factors (1 and itself), while a composite number must have more than two distinct factors.",
+    "qHindi": "अभिकथन (A): 1 न तो अभाज्य संख्या है और न ही भाज्य संख्या।\nकारण (R): एक अभाज्य संख्या के ठीक दो अलग-अलग गुणनखंड (1 और स्वयं) होने चाहिए, जबकि एक भाज्य संख्या के दो से अधिक अलग-अलग गुणनखंड होने चाहिए।",
+    "optionsEnglish": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "optionsHindi": [
+      "A और R दोनों सत्य हैं और R, A की सही व्याख्या है",
+      "A और R दोनों सत्य हैं लेकिन R, A की सही व्याख्या नहीं है",
+      "A सत्य है लेकिन R असत्य है",
+      "A असत्य है लेकिन R सत्य है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "1 only has one factor (itself), so it does not meet the requirement of having exactly two factors (prime) or more than two factors (composite).",
+    "explanationHindi": "1 का केवल एक ही गुणनखंड (स्वयं) है, इसलिए यह ठीक दो गुणनखंड (अभाज्य) या दो से अधिक गुणनखंड (भाज्य) होने की आवश्यकता को पूरा नहीं करता है।",
+    "subject": "गणित",
+    "topic": "संख्या पद्धति"
+  },
+  {
+    "qEnglish": "Which of the following is the largest 4-digit prime number?",
+    "qHindi": "निम्नलिखित में से 4 अंकों की सबसे बड़ी अभाज्य संख्या कौन सी है?",
+    "optionsEnglish": [
+      "9997",
+      "9973",
+      "9991",
+      "9967"
+    ],
+    "optionsHindi": [
+      "9997",
+      "9973",
+      "9991",
+      "9967"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The largest 4-digit prime number is 9973. Other numbers like 9991 and 9997 are composite.",
+    "explanationHindi": "4 अंकों की सबसे बड़ी अभाज्य संख्या 9973 है। 9991 और 9997 जैसी अन्य संख्याएँ भाज्य हैं।",
+    "subject": "गणित",
+    "topic": "संख्या पद्धति"
+  },
+  {
+    "qEnglish": "Which of the following numbers is a Perfect Number (परिपूर्ण संख्या)?",
+    "qHindi": "निम्नलिखित में से कौन सी संख्या एक परिपूर्ण संख्या (Perfect Number) है?",
+    "optionsEnglish": [
+      "6",
+      "28",
+      "496",
+      "All of the above"
+    ],
+    "optionsHindi": [
+      "6",
+      "28",
+      "496",
+      "उपरोक्त सभी"
+    ],
+    "correct": 3,
+    "explanationEnglish": "6, 28, 496, and 8128 are the first four perfect numbers where the sum of their factors (excluding the number itself) equals the number.",
+    "explanationHindi": "6, 28, 496, और 8128 पहली चार परिपूर्ण संख्याएँ हैं जहाँ उनके गुणनखंडों का योग (स्वयं संख्या को छोड़कर) संख्या के बराबर होता है।",
+    "subject": "गणित",
+    "topic": "संख्या पद्धति"
   }
 ]
