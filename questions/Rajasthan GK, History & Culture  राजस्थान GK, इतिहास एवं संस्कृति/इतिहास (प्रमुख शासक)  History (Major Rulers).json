@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Assertion A: The Hurda Conference was presided by Jagat Singh II. Reason R: Hurda Conference was a successful effort to maintain unity among the various rulers of Rajasthan.",
+    "qHindi": "अभिकथन A: हुरडा सम्मेलन की अध्यक्षता जगत सिंह II द्वारा की गई थी। कारण R: हुरडा सम्मेलन राजस्थान के विभिन्न शासकों के मध्य एकता बनाए रखने का सफल प्रयास था।",
+    "optionsEnglish": [
+      "A is correct but R is not correct.",
+      "A is not correct but R is correct.",
+      "Both A and R are correct and R is the correct explanation of A.",
+      "Both A and R are correct but R is not the correct explanation of A."
+    ],
+    "optionsHindi": [
+      "A सही है लेकिन R सही नहीं है।",
+      "A सही नहीं है लेकिन R सही है।",
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है।",
+      "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं है।"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Jagat Singh II presided [cite: 172, 180], but the conference was not a 'successful' effort for unity[cite: 177, 184].",
+    "explanationHindi": "जगत सिंह II ने अध्यक्षता की [cite: 172, 180], लेकिन एकता का प्रयास 'सफल' नहीं रहा [cite: 177, 184] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "इतिहास (प्रमुख शासक) | History (Major Rulers)"
+  }
+]
