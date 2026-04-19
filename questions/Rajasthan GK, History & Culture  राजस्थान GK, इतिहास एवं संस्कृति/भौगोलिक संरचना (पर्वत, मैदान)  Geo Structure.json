@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Arrange regions from SE to NW:",
+    "qHindi": "भौतिक प्रदेशों को दक्षिण-पूर्व से उत्तर-पश्चिम व्यवस्थित करें:",
+    "optionsEnglish": [
+      "(c), (d), (a), (b)",
+      "(d), (a), (b), (c)",
+      "(a), (b), (c), (d)",
+      "(b), (c), (d), (a)"
+    ],
+    "optionsHindi": [
+      "(c), (d), (a), (b)",
+      "(d), (a), (b), (c)",
+      "(a), (b), (c), (d)",
+      "(b), (c), (d), (a)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Hadoti (a) -> Banas (b) -> Aravalli (c) -> Western sandy (d)[cite: 2094, 2095, 2098, 2102, 2119].",
+    "explanationHindi": "हाड़ौती (a) -> बनास (b) -> अरावली (c) -> पश्चिमी रेतीला (d) [cite: 2094, 2095, 2098, 2102, 2119] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना (पर्वत, मैदान) | Geo Structure"
+  }
+]
