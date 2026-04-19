@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Thornthwaite climatic region for Churu, Ajmer, Tonk, etc.?",
+    "qHindi": "थॉर्नथवे के अनुसार चुरू, अजमेर, टोंक का जलवायु प्रदेश?",
+    "optionsEnglish": [
+      "DB'w",
+      "DA'w",
+      "EA'd",
+      "CA'w"
+    ],
+    "optionsHindi": [
+      "DB'w",
+      "DA'w",
+      "EA'd",
+      "CA'w"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Districts included in DA'w[cite: 1565, 1572].",
+    "explanationHindi": "DA'w जलवायु प्रदेश में सम्मिलित जिले [cite: 1565, 1572] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना (जलवायु) | Geo Structure (Climate)"
+  }
+]
