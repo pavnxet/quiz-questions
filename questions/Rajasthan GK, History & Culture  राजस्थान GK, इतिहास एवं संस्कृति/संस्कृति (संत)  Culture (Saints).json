@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Chronologically arrange saints of Rajasthan:",
+    "qHindi": "राजस्थान के संतों को कालक्रमानुसार व्यवस्थित करें:",
+    "optionsEnglish": [
+      "(c), (d), (a), (b)",
+      "(d), (a), (b), (c)",
+      "(a), (b), (c), (d)",
+      "(b), (c), (d), (a)"
+    ],
+    "optionsHindi": [
+      "(c), (d), (a), (b)",
+      "(d), (a), (b), (c)",
+      "(a), (b), (c), (d)",
+      "(b), (c), (d), (a)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Saints ordered by era[cite: 2834].",
+    "explanationHindi": "संतों का सही कालक्रम [cite: 2834] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "संस्कृति (संत) | Culture (Saints)"
+  }
+]
