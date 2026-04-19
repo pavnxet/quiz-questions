@@ -1,0 +1,245 @@
+[
+  {
+    "qEnglish": "Match the following appropriately:",
+    "matchItemsEnglish": {
+      "col1Label": "Tourist Center",
+      "col2Label": "District",
+      "col1": [
+        "Siliserh Lake",
+        "Rishabhdeo",
+        "Kumbhalgarh",
+        "Ranakpur"
+      ],
+      "col2": [
+        "Udaipur",
+        "Alwar",
+        "Pali",
+        "Rajasamand"
+      ]
+    },
+    "qHindi": "सूची-I को सूची-II से सुमेलित करें (पर्यटक केन्द्र को जिला से):",
+    "matchItemsHindi": {
+      "col1Label": "पर्यटक केन्द्र",
+      "col2Label": "जिला",
+      "col1": [
+        "सिलिसेढ़ झील",
+        "ऋषभदेव",
+        "कुम्भलगढ़",
+        "रणकपुर"
+      ],
+      "col2": [
+        "उदयपुर",
+        "अलवर",
+        "पाली",
+        "राजसमंद"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "optionsHindi": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Siliserh is in Alwar, Rishabhdeo in Udaipur, Kumbhalgarh in Rajsamand, and Ranakpur in Pali[cite: 47, 48, 66].",
+    "explanationHindi": "सिलिसेढ़ अलवर में, ऋषभदेव उदयपुर में, कुम्भलगढ़ राजसमंद में और रणकपुर पाली में है [cite: 47, 48, 66] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना | Geographical Structure"
+  },
+  {
+    "qEnglish": "Match the following Thermal Power Projects with Districts:",
+    "matchItemsEnglish": {
+      "col1Label": "Project",
+      "col2Label": "District",
+      "col1": [
+        "Suratgarh",
+        "Chhabra",
+        "Kalisindh",
+        "Gurha"
+      ],
+      "col2": [
+        "Jhalawar",
+        "Bikaner",
+        "Ganganagar",
+        "Baran"
+      ]
+    },
+    "qHindi": "सूची-I को सूची-II से सुमेलित करें (विद्युत परियोजना को जिला से):",
+    "matchItemsHindi": {
+      "col1Label": "परियोजना",
+      "col2Label": "जिला",
+      "col1": [
+        "सूरतगढ़",
+        "छाबड़ा",
+        "कालीसिंध",
+        "गुरहा"
+      ],
+      "col2": [
+        "झालावाड़",
+        "बीकानेर",
+        "गंगानगर",
+        "बारां"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    ],
+    "optionsHindi": [
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Suratgarh (Ganganagar), Chhabra (Baran), Kalisindh (Jhalawar), Gurha (Bikaner)[cite: 463, 464, 475].",
+    "explanationHindi": "सूरतगढ़ (गंगानगर), छाबड़ा (बारां), कालीसिंध (झालावाड़), गुरहा (बीकानेर) [cite: 463, 464, 475] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना | Geographical Structure"
+  },
+  {
+    "qEnglish": "Which statements are true for Keoladeo Ghana National Park?",
+    "qHindi": "केवलादेव घाना राष्ट्रीय उद्यान के लिए कौन से कथन सत्य हैं?",
+    "optionsEnglish": [
+      "(a) and (d)",
+      "(a) and (c)",
+      "(a), (c) and (d)",
+      "(b), (c) and (d)"
+    ],
+    "optionsHindi": [
+      "(a) और (d)",
+      "(a) और (c)",
+      "(a), (c) और (d)",
+      "(b), (c) और (d)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Paradise for birds [cite: 564] and a World Heritage site[cite: 570]. Not Ramsar site in 1985 (was 1981)[cite: 574, 587].",
+    "explanationHindi": "पक्षियों का स्वर्ग [cite: 564] और विश्व विरासत स्थल [cite: 570]। 1985 में रामसर स्थल नहीं बना (1981 था) [cite: 574, 587] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना | Geographical Structure"
+  },
+  {
+    "qEnglish": "Which statements are correct regarding Tungsten?",
+    "qHindi": "टंगस्टन के संबंध में कौन से कथन सही हैं?",
+    "optionsEnglish": [
+      "(b) and (c)",
+      "(c) and (d)",
+      "(a) and (b)",
+      "(a) and (d)"
+    ],
+    "optionsHindi": [
+      "(b) और (c)",
+      "(c) और (d)",
+      "(a) और (b)",
+      "(a) और (d)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "From Wolframite ore [cite: 610] and found with granite[cite: 611]. It is strategic, not 'no strategic महत्ता'[cite: 604, 627].",
+    "explanationHindi": "वोलफ्रेमाइट अयस्क [cite: 610] और ग्रेनाइट में पाया जाता है [cite: 611]। यह सामरिक महत्व का है [cite: 604, 627] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना | Geographical Structure"
+  },
+  {
+    "qEnglish": "Match water conservation methods with characteristics:",
+    "matchItemsEnglish": {
+      "col1Label": "Method",
+      "col2Label": "Feature",
+      "col1": [
+        "Bawari",
+        "Johad",
+        "Taanka",
+        "Kund"
+      ],
+      "col2": [
+        "Stepwells",
+        "Earthen check dam",
+        "Underground pit",
+        "Saucer-shaped"
+      ]
+    },
+    "qHindi": "सूची-I को सूची-II से सुमेलित करें:",
+    "matchItemsHindi": {
+      "col1Label": "विधि",
+      "col2Label": "विशेषता",
+      "col1": [
+        "बावड़ी",
+        "जोहड़",
+        "टांका",
+        "कुण्ड"
+      ],
+      "col2": [
+        "सीढ़ीकुंए",
+        "मिट्टी के बांध",
+        "भूमिगत कुंए",
+        "तश्तरीनुमा"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    ],
+    "optionsHindi": [
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Correct features for traditional water methods[cite: 1172, 1173, 1191].",
+    "explanationHindi": "परंपरागत जल संरक्षण विधियों का सही मिलान [cite: 1172, 1173, 1191] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना | Geographical Structure"
+  },
+  {
+    "qEnglish": "Rajasthan divided into how many wildlife circles?",
+    "qHindi": "राजस्थान को कितने वन्यजीव मंडलों में बांटा गया है?",
+    "optionsEnglish": [
+      "16",
+      "18",
+      "15",
+      "17"
+    ],
+    "optionsHindi": [
+      "16",
+      "18",
+      "15",
+      "17"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Divided into 16 circles[cite: 2441, 2443].",
+    "explanationHindi": "16 मंडलों में बांटा गया है [cite: 2441, 2443] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना | Geographical Structure"
+  },
+  {
+    "qEnglish": "Assertion A: Conservation Reserves protect landscape/flora. Reason R: Plan for Urban Forest in Muhana, etc.",
+    "qHindi": "अभिकथन A: संरक्षण आरक्षित क्षेत्र परिदृश्य के लिए होते हैं। कारण R: मुहाना आदि में शहरी वन बाग योजना है।",
+    "optionsEnglish": [
+      "A correct but R not.",
+      "A not correct but R is.",
+      "Both correct and R is explanation.",
+      "Both correct but R is not explanation."
+    ],
+    "optionsHindi": [
+      "A सही पर R नहीं।",
+      "A नहीं पर R सही।",
+      "दोनों सही और R व्याख्या है।",
+      "दोनों सही पर R व्याख्या नहीं।"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Both facts are true[cite: 2486, 2488, 2512].",
+    "explanationHindi": "दोनों तथ्य सत्य हैं [cite: 2486, 2488, 2512] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना | Geographical Structure"
+  }
+]
