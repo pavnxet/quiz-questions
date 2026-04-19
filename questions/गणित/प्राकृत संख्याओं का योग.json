@@ -18,6 +18,10 @@
     "explanationHindi": "प्रथम n प्राकृत संख्याओं का योग = n(n+1)/2। n=40 पर योग = 40×41/2 = 820।",
     "explanationEnglish": "Sum of first n natural numbers = n(n+1)/2. For n=40, sum = 40×41/2 = 820.",
     "subject": "गणित",
-    "topic": "प्राकृत संख्याओं का योग"
+    "topic": "प्राकृत संख्याओं का योग",
+    "topics": [
+      "गणित",
+      "प्राकृत संख्याओं का योग"
+    ]
   }
 ]

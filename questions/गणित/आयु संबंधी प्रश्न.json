@@ -18,6 +18,10 @@
     "explanationHindi": "माना वर्तमान आयु 6x और x। चार वर्ष बाद: (6x+4)/(x+4) = 4/1। 6x+4 = 4x+16 ⇒ 2x = 12 ⇒ x = 6। पुत्र की आयु = 6 वर्ष।",
     "explanationEnglish": "Let present ages be 6x and x. After 4 years: (6x+4)/(x+4) = 4/1 ⇒ 6x+4 = 4x+16 ⇒ 2x = 12 ⇒ x = 6. Son's age = 6 years.",
     "subject": "गणित",
-    "topic": "आयु संबंधी प्रश्न"
+    "topic": "आयु संबंधी प्रश्न",
+    "topics": [
+      "गणित",
+      "आयु संबंधी प्रश्न"
+    ]
   }
 ]

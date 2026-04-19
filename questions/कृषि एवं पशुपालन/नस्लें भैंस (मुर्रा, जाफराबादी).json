@@ -1,0 +1,27 @@
+[
+  {
+    "qEnglish": "Popular buffalo breeds in India?",
+    "qHindi": "भारत में भैंस की प्रचलित नस्लें?",
+    "optionsEnglish": [
+      "(b) and (c)",
+      "(a) and (b)",
+      "(a), (b) and (c)",
+      "(b), (c) and (d)"
+    ],
+    "optionsHindi": [
+      "(b) और (c)",
+      "(a) और (b)",
+      "(a), (b) और (c)",
+      "(b), (c) और (d)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Murrah (b), Mehsana (c), Jaffarabadi (d)[cite: 1768, 1773, 1775, 1794]. Sahiwal (a) is cattle[cite: 1765].",
+    "explanationHindi": "मुर्रा (b), मेहसाणा (c), जाफराबादी (d) [cite: 1768, 1773, 1775, 1794] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "नस्लें भैंस (मुर्रा, जाफराबादी)",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "नस्लें भैंस (मुर्रा, जाफराबादी)"
+    ]
+  }
+]

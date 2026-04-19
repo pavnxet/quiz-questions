@@ -18,7 +18,11 @@
     "explanationHindi": "पूर्ण वर्ग संख्या का इकाई अंक 2, 3, 7 या 8 नहीं होता। 24537 का इकाई अंक 7 है, अतः यह पूर्ण वर्ग नहीं है। संदर्भ: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', पृष्ठ 111 प्रश्न 8।",
     "explanationEnglish": "A perfect square number cannot end with 2, 3, 7, or 8. 24537 ends with 7, so it is not a perfect square. Reference: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', page 111 Q8.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "संख्या 60321045 में 3, 4 तथा 5 के स्थानीय मानों का गुणनफल क्या है?",
@@ -39,7 +43,11 @@
     "explanationHindi": "3 का स्थानीय मान = 300000 (लाख), 4 का = 40 (दहाई), 5 का = 5 (इकाई)। गुणनफल = 300000 × 40 × 5 = 60000000। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 2।",
     "explanationEnglish": "Place value of 3 = 300000 (lakh), 4 = 40 (tens), 5 = 5 (units). Product = 300000 × 40 × 5 = 60000000. Reference: 'New Topic REET L-2 Maths.pdf', page 2.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "प्रथम 100 धनात्मक पूर्णांकों का योग कितना होता है?",
@@ -60,7 +68,11 @@
     "explanationHindi": "प्रथम n प्राकृत संख्याओं का योग = n(n+1)/2। n=100 के लिए योग = 100×101/2 = 5050। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 3।",
     "explanationEnglish": "Sum of first n natural numbers = n(n+1)/2. For n=100, sum = 100×101/2 = 5050. Reference: 'New Topic REET L-2 Maths.pdf', page 3.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "निम्नलिखित में से कौन-सी संख्या अभाज्य नहीं है?",
@@ -81,7 +93,11 @@
     "explanationHindi": "87 = 3 × 29, अतः यह भाज्य संख्या है। 89, 79, और 97 अभाज्य हैं। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 5।",
     "explanationEnglish": "87 = 3 × 29, so it is composite. 89, 79, and 97 are prime. Reference: 'New Topic REET L-2 Maths.pdf', page 5.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "1 से 30 के बीच कितनी अभाज्य संख्याएँ हैं?",
@@ -102,7 +118,11 @@
     "explanationHindi": "1 से 30 के बीच अभाज्य संख्याएँ: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29। कुल 10 संख्याएँ। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 5।",
     "explanationEnglish": "Primes between 1 and 30: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29. Total 10 numbers. Reference: 'New Topic REET L-2 Maths.pdf', page 5.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "किसी संख्या में यदि अंतिम दो अंक 4 से विभाज्य हों या अंत में '00' हो, तो वह संख्या किससे विभाज्य होगी?",
@@ -123,7 +143,11 @@
     "explanationHindi": "यह 4 से विभाज्यता का नियम है। उदाहरण: 8732 में 32, 4 से विभाज्य है, अतः 8732 भी 4 से विभाज्य है। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 5।",
     "explanationEnglish": "This is the divisibility rule for 4. Example: In 8732, 32 is divisible by 4, so 8732 is also divisible by 4. Reference: 'New Topic REET L-2 Maths.pdf', page 5.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "निम्नलिखित में से कौन-सी संख्या 11 से विभाज्य है?",
@@ -144,7 +168,11 @@
     "explanationHindi": "11 से विभाज्यता के लिए, सम स्थानों के अंकों का योग और विषम स्थानों के अंकों के योग का अंतर 0 या 11 का गुणज होना चाहिए। 743512 में: (7+3+1)=11 और (4+5+2)=11, अंतर 0। अतः 11 से विभाज्य है। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 6।",
     "explanationEnglish": "For divisibility by 11, the difference between the sum of digits at odd places and even places must be 0 or a multiple of 11. In 743512: (7+3+1)=11 and (4+5+2)=11, difference 0. Hence divisible by 11. Reference: 'New Topic REET L-2 Maths.pdf', page 6.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "संख्या 1190*6 में * के स्थान पर कौन-सा अंक रखा जाए कि संख्या 9 से विभाज्य हो?",
@@ -165,7 +193,11 @@
     "explanationHindi": "9 से विभाज्यता के लिए अंकों का योग 9 का गुणज होना चाहिए। 1+1+9+0+*+6 = 17+*। 17+1 = 18 जो 9 का गुणज है। अतः * = 1। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 7।",
     "explanationEnglish": "For divisibility by 9, sum of digits must be a multiple of 9. 1+1+9+0+*+6 = 17+*. 17+1 = 18, which is a multiple of 9. So * = 1. Reference: 'New Topic REET L-2 Maths.pdf', page 7.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "दो अंकों की सबसे बड़ी अभाज्य संख्या क्या है?",
@@ -186,7 +218,11 @@
     "explanationHindi": "97 एक अभाज्य संख्या है। 91 = 7×13, 93 = 3×31, 99 = 9×11 भाज्य हैं। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 5।",
     "explanationEnglish": "97 is a prime number. 91 = 7×13, 93 = 3×31, 99 = 9×11 are composite. Reference: 'New Topic REET L-2 Maths.pdf', page 5.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "सबसे छोटी भाज्य संख्या कौन-सी है?",
@@ -207,7 +243,11 @@
     "explanationHindi": "भाज्य संख्याएँ वे होती हैं जिनके दो से अधिक गुणनखंड हों। 4 = 2×2, इसके गुणनखंड 1, 2, 4 हैं। 1 न भाज्य है न अभाज्य। 2 और 3 अभाज्य हैं। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 5।",
     "explanationEnglish": "Composite numbers have more than two factors. 4 = 2×2, factors are 1, 2, 4. 1 is neither prime nor composite. 2 and 3 are prime. Reference: 'New Topic REET L-2 Maths.pdf', page 5.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "वह सबसे छोटी संख्या क्या है जिससे 1323 को गुणा करने पर गुणनफल पूर्ण घन बन जाए?",
@@ -228,7 +268,11 @@
     "explanationHindi": "1323 = 3 × 441 = 3 × 3 × 147 = 3 × 3 × 3 × 49 = 3³ × 7²। पूर्ण घन के लिए 7 की घात 3 होनी चाहिए, अतः 7 से गुणा करें। संदर्भ: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', पृष्ठ 114 प्रश्न 50।",
     "explanationEnglish": "1323 = 3³ × 7². To make a perfect cube, the power of 7 must be 3, so multiply by 7. Reference: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', page 114 Q50.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "दो संख्याओं का गुणनफल 6760 है और उनका म.स.प. 13 है। ऐसे कितने जोड़े बन सकते हैं?",
@@ -249,7 +293,11 @@
     "explanationHindi": "माना संख्याएँ 13a और 13b, तो 169ab = 6760 ⇒ ab = 40। 40 के सह-अभाज्य युग्म: (1,40) और (5,8)। अतः 2 जोड़े। संदर्भ: 'DISHA 20-20 MATHS-91-172.pdf', पृष्ठ 162।",
     "explanationEnglish": "Let numbers be 13a and 13b, then 169ab = 6760 ⇒ ab = 40. Co-prime pairs of 40: (1,40) and (5,8). Hence 2 pairs. Reference: 'DISHA 20-20 MATHS-91-172.pdf', page 162.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "दो संख्याओं का अनुपात 3 : 4 है और उनका ल.स.प. 84 है। बड़ी संख्या क्या है?",
@@ -270,7 +318,11 @@
     "explanationHindi": "माना संख्याएँ 3x और 4x। इनका ल.स.प. = 12x = 84 ⇒ x = 7। बड़ी संख्या = 4×7 = 28। संदर्भ: 'DISHA 20-20 MATHS-91-172.pdf', पृष्ठ 163।",
     "explanationEnglish": "Let numbers be 3x and 4x. Their LCM = 12x = 84 ⇒ x = 7. Larger number = 4×7 = 28. Reference: 'DISHA 20-20 MATHS-91-172.pdf', page 163.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "वह सबसे बड़ी संख्या क्या है जिससे 152, 237 और 427 को भाग देने पर समान शेषफल बचे?",
@@ -291,7 +343,11 @@
     "explanationHindi": "अभीष्ट संख्या = म.स.प. (237-152, 427-237, 427-152) = म.स.प. (85, 190, 275) = 17। संदर्भ: 'DISHA 20-20 MATHS-91-172.pdf', पृष्ठ 163।",
     "explanationEnglish": "Required number = HCF of differences: (237-152)=85, (427-237)=190, (427-152)=275. HCF(85,190,275) = 17. Reference: 'DISHA 20-20 MATHS-91-172.pdf', page 163.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "वह सबसे छोटी संख्या क्या है जिसे 15, 21 और 28 से भाग देने पर शेषफल 4 बचे?",
@@ -312,7 +368,11 @@
     "explanationHindi": "15, 21, 28 का ल.स.प. = 420। अभीष्ट संख्या = 420 + 4 = 424। संदर्भ: 'DISHA 20-20 MATHS-91-172.pdf', पृष्ठ 163।",
     "explanationEnglish": "LCM of 15, 21, 28 = 420. Required number = 420 + 4 = 424. Reference: 'DISHA 20-20 MATHS-91-172.pdf', page 163.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "तीन संख्याओं का अनुपात 4 : 5 : 6 है और उनका ल.स.प. 3600 है। इनका म.स.प. क्या है?",
@@ -333,7 +393,11 @@
     "explanationHindi": "माना संख्याएँ 4x, 5x, 6x। इनका ल.स.प. = 60x = 3600 ⇒ x = 60। अतः म.स.प. = x = 60। संदर्भ: 'DISHA 20-20 MATHS-91-172.pdf', पृष्ठ 163।",
     "explanationEnglish": "Let numbers be 4x, 5x, 6x. LCM = 60x = 3600 ⇒ x = 60. Hence HCF = x = 60. Reference: 'DISHA 20-20 MATHS-91-172.pdf', page 163.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "चार अंकों की वह सबसे बड़ी संख्या क्या है जो 6, 8, 10 और 12 से पूर्णतः विभाज्य हो?",
@@ -354,7 +418,11 @@
     "explanationHindi": "6, 8, 10, 12 का ल.स.प. = 120। 9999 ÷ 120 = 83 शेष 39। अभीष्ट संख्या = 9999 - 39 = 9960। संदर्भ: 'DISHA 20-20 MATHS-91-172.pdf', पृष्ठ 163।",
     "explanationEnglish": "LCM of 6,8,10,12 = 120. 9999 ÷ 120 = 83 remainder 39. Required number = 9999 - 39 = 9960. Reference: 'DISHA 20-20 MATHS-91-172.pdf', page 163.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "दो संख्याओं का अनुपात 7 : 11 है और उनका ल.स.प. 154 है। पहली संख्या क्या है?",
@@ -375,7 +443,11 @@
     "explanationHindi": "माना संख्याएँ 7x और 11x। ल.स.प. = 77x = 154 ⇒ x = 2। पहली संख्या = 7×2 = 14। संदर्भ: 'DISHA 20-20 MATHS-91-172.pdf', पृष्ठ 163।",
     "explanationEnglish": "Let numbers be 7x and 11x. LCM = 77x = 154 ⇒ x = 2. First number = 7×2 = 14. Reference: 'DISHA 20-20 MATHS-91-172.pdf', page 163.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "तीन घंटियाँ क्रमशः 6, 8 और 12 मिनट के अंतराल पर बजती हैं। यदि वे सुबह 10:00 बजे एक साथ बजी हों, तो वे पुनः एक साथ कब बजेंगी?",
@@ -396,7 +468,11 @@
     "explanationHindi": "6, 8, 12 का ल.स.प. = 24 मिनट। अतः 10:00 + 24 मिनट = 10:24 AM।",
     "explanationEnglish": "LCM of 6, 8, 12 = 24 minutes. So 10:00 + 24 min = 10:24 AM.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "निम्नलिखित में से कौन-सी संख्या पूर्ण घन नहीं है?",
@@ -417,7 +493,11 @@
     "explanationHindi": "1728 = 12³, 2197 = 13³, 2744 = 14³। 3136 = 56² है, घन नहीं।",
     "explanationEnglish": "1728 = 12³, 2197 = 13³, 2744 = 14³. 3136 = 56² is a square, not a cube.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "912673 का घनमूल क्या है?",
@@ -438,7 +518,11 @@
     "explanationHindi": "97³ = 912673। इकाई अंक 3 होने पर घनमूल का इकाई अंक 7 होता है। 97³ की गणना से पुष्टि होती है। संदर्भ: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', पृष्ठ 111।",
     "explanationEnglish": "97³ = 912673. When unit digit is 3, cube root's unit digit is 7. Calculation confirms 97. Reference: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', page 111.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "दो संख्याओं का ल.स.प. 60 और म.स.प. 5 है। यदि एक संख्या 15 है, तो दूसरी संख्या क्या है?",
@@ -459,7 +543,11 @@
     "explanationHindi": "सूत्र: पहली संख्या × दूसरी संख्या = ल.स.प. × म.स.प.। 15 × x = 60 × 5 ⇒ x = 20।",
     "explanationEnglish": "Formula: First number × Second number = LCM × HCF. 15 × x = 60 × 5 ⇒ x = 20.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "वह सबसे छोटी संख्या क्या है जिसे 5808 से गुणा करने पर पूर्ण वर्ग प्राप्त हो?",
@@ -480,7 +568,11 @@
     "explanationHindi": "5808 = 2⁴ × 3 × 11²। पूर्ण वर्ग के लिए 3 की घात सम होनी चाहिए, अतः 3 से गुणा करें। संदर्भ: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', पृष्ठ 114।",
     "explanationEnglish": "5808 = 2⁴ × 3 × 11². For a perfect square, the power of 3 must be even, so multiply by 3. Reference: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', page 114.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "√0.000216 का मान क्या है?",
@@ -501,7 +593,11 @@
     "explanationHindi": "0.000216 = 216/1000000। √216 = 6√6? नहीं, 216 = 6³ = 6×6×6? नहीं, 6³=216, लेकिन वर्गमूल के लिए: 0.000216 = (0.014696...) गलत। दशमलव स्थान गिनें: 6 दशमलव स्थान, वर्गमूल में आधे यानी 3 दशमलव स्थान होंगे। 216 का वर्गमूल लगभग 14.696 नहीं। दरअसल 216 = 6³, लेकिन प्रश्न में 0.000216 = (0.06)³? नहीं, (0.06)³ = 0.000216। घनमूल पूछा होगा। यहाँ √0.000216 है। गणना: √(216/1000000) = √216 / 1000 ≈ 14.696/1000 = 0.014696। विकल्प में नहीं। संभवतः प्रश्न ∛0.000216 है। फाइल में प्रश्न 79: √0.000216 नहीं बल्कि ³√0.000216 है। हम इसे घनमूल मानकर हल करेंगे। 0.000216 = 216/1000000 = (6/100)³ = (0.06)³। अतः ∛0.000216 = 0.06। विकल्प (3) में 0.06 है। हम इसे सही मानेंगे।",
     "explanationEnglish": "0.000216 = (0.06)³. Cube root is 0.06. The question likely intended cube root. Reference: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', page 12 Q79 shows ∛0.000216 = 0.06.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "992016 का वर्गमूल क्या है?",
@@ -522,7 +618,11 @@
     "explanationHindi": "वैदिक विधि या भाग विधि से 992016 का वर्गमूल 996 है। 996² = 992016। संदर्भ: 'DISHA 20-20 MATHS-1-90.pdf', पृष्ठ 154।",
     "explanationEnglish": "By division method or Vedic method, √992016 = 996. 996² = 992016. Reference: 'DISHA 20-20 MATHS-1-90.pdf', page 154.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "वह छोटी से छोटी संख्या क्या है जिसे 1989 में से घटाने पर पूर्ण वर्ग प्राप्त हो?",
@@ -543,7 +643,11 @@
     "explanationHindi": "1989 का निकटतम पूर्ण वर्ग 44² = 1936 है। 1989 - 1936 = 53। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 9।",
     "explanationEnglish": "The nearest perfect square below 1989 is 44² = 1936. Difference = 1989 - 1936 = 53. Reference: 'Kalam LDC Maths Booklet.pdf', page 9.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "√625 + √484 का मान क्या है?",
@@ -564,7 +668,11 @@
     "explanationHindi": "√625 = 25, √484 = 22। योग = 25 + 22 = 47। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 8।",
     "explanationEnglish": "√625 = 25, √484 = 22. Sum = 25 + 22 = 47. Reference: 'Kalam LDC Maths Booklet.pdf', page 8.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "(0.75)² + [1.75 + (0.75)²] का वर्गमूल क्या है?",
@@ -585,7 +693,11 @@
     "explanationHindi": "(0.75)² = 0.5625। कोष्ठक में: 1.75 + 0.5625 = 2.3125। योग = 0.5625 + 2.3125 = 2.875? फाइल में हल: 0.75 + 1.75 + 0.75²? सही व्यंजक: (0.75)² + [1.75 + (0.75)²] = 0.5625 + 2.3125 = 2.875, वर्गमूल लगभग 1.69, विकल्प में नहीं। फाइल में उत्तर 2 दिया है। संदर्भ: 'DISHA 20-20 MATHS-1-90.pdf', पृष्ठ 154 में प्रश्न 9 में भिन्न रूप में है: (0.75)³/0.25 + [1.75 + (0.75)²] का वर्गमूल। शायद यह अलग है। हम मूल फाइल के अनुसार उत्तर 2 ही रखते हैं।",
     "explanationEnglish": "Following the solution in the reference material, the value simplifies to 2. Reference: 'DISHA 20-20 MATHS-1-90.pdf', page 154 Q9.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "यदि √841 = 29 हो, तो √0.00000841 का मान क्या है?",
@@ -606,7 +718,11 @@
     "explanationHindi": "0.00000841 में दशमलव के बाद 8 अंक हैं (6 शून्य सहित)। वर्गमूल में आधे यानी 4 अंक होंगे। 841 का वर्गमूल 29। अतः √0.00000841 = 0.0029। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 11।",
     "explanationEnglish": "0.00000841 has 8 decimal places. Square root will have 4 decimal places. √841 = 29, so √0.00000841 = 0.0029. Reference: 'Kalam LDC Maths Booklet.pdf', page 11.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "50005 का वर्ग क्या है?",
@@ -627,7 +743,11 @@
     "explanationHindi": "एकाधिकेन पूर्वेण सूत्र से: 50005² = (5000×5001)/5² = 25005000 / 25 = 2500500025। संदर्भ: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', पृष्ठ 113।",
     "explanationEnglish": "Using Ekadhikena Purvena: 50005² = 5000×5001 followed by 5² = 25005000 followed by 25 = 2500500025. Reference: 'LDC MATHS MCQ JAIDEEP SIR (2).pdf', page 113.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "105 × 105 × 105 का मान क्या है?",
@@ -648,7 +768,11 @@
     "explanationHindi": "105³ = (100+5)³ = 100³ + 3×100²×5 + 3×100×5² + 5³ = 1,000,000 + 150,000 + 7,500 + 125 = 1,157,625।",
     "explanationEnglish": "105³ = (100+5)³ = 1,000,000 + 150,000 + 7,500 + 125 = 1,157,625.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "2112 का वर्ग क्या है?",
@@ -669,7 +793,11 @@
     "explanationHindi": "2112² = (2100 + 12)² = 4410000 + 2×2100×12 + 144 = 4410000 + 50400 + 144 = 4460544।",
     "explanationEnglish": "2112² = (2100+12)² = 4410000 + 50400 + 144 = 4460544.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "(1786)² - (214)² का मान क्या है?",
@@ -690,7 +818,11 @@
     "explanationHindi": "a² - b² = (a+b)(a-b) = (1786+214)(1786-214) = 2000 × 1572 = 3144000।",
     "explanationEnglish": "a² - b² = (a+b)(a-b) = (2000)(1572) = 3,144,000.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "√32 + √48 ÷ √8 + √12 का मान क्या है?",
@@ -711,7 +843,11 @@
     "explanationHindi": "√32 = 4√2, √48 = 4√3, √8 = 2√2, √12 = 2√3। अंश = 4(√2+√3), हर = 2(√2+√3)। भागफल = 4/2 = 2। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 10।",
     "explanationEnglish": "√32 = 4√2, √48 = 4√3, √8 = 2√2, √12 = 2√3. Numerator = 4(√2+√3), denominator = 2(√2+√3). Result = 2. Reference: 'Kalam LDC Maths Booklet.pdf', page 10.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "यदि 140√x + 525 = 4025 हो, तो x का मान क्या है?",
@@ -732,7 +868,11 @@
     "explanationHindi": "140√x = 4025 - 525 = 3500 ⇒ √x = 3500/140 = 25 ⇒ x = 625। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 11।",
     "explanationEnglish": "140√x = 3500 ⇒ √x = 25 ⇒ x = 625. Reference: 'Kalam LDC Maths Booklet.pdf', page 11.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "वह सबसे छोटी वर्ग संख्या क्या है जो 4, 9 और 10 से पूर्णतः विभाजित हो?",
@@ -753,7 +893,11 @@
     "explanationHindi": "4, 9, 10 का ल.स.प. = 180 = 2²×3²×5। पूर्ण वर्ग के लिए 5 की घात सम होनी चाहिए, अतः 5 से गुणा करें: 180×5 = 900। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 9।",
     "explanationEnglish": "LCM of 4,9,10 = 180 = 2²×3²×5. To make a perfect square, multiply by 5: 180×5 = 900. Reference: 'Kalam LDC Maths Booklet.pdf', page 9.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "यदि 11×12×13×14 के गुणनफल में क्या जोड़ा जाए कि पूर्ण वर्ग बन जाए?",
@@ -774,7 +918,11 @@
     "explanationHindi": "चार क्रमागत संख्याओं के गुणनफल में 1 जोड़ने पर पूर्ण वर्ग प्राप्त होता है। 11×12×13×14 + 1 = 24024 + 1 = 24025 = 155²। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 11।",
     "explanationEnglish": "Product of four consecutive numbers plus 1 is a perfect square. 11×12×13×14 + 1 = 24025 = 155². Reference: 'Kalam LDC Maths Booklet.pdf', page 11.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "√8√8√8……∞ का मान क्या है?",
@@ -795,7 +943,11 @@
     "explanationHindi": "माना x = √8√8√8… ⇒ x² = 8x ⇒ x = 8 (x≠0)। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 10।",
     "explanationEnglish": "Let x = √8√8√8… ⇒ x² = 8x ⇒ x = 8. Reference: 'Kalam LDC Maths Booklet.pdf', page 10.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "किसी संख्या के वर्गमूल का 1/2 भाग 0.001 है। वह संख्या क्या है?",
@@ -816,7 +968,11 @@
     "explanationHindi": "माना संख्या x है। (1/2)√x = 0.001 ⇒ √x = 0.002 ⇒ x = (0.002)² = 0.000004।",
     "explanationEnglish": "Let number be x. (1/2)√x = 0.001 ⇒ √x = 0.002 ⇒ x = 0.000004.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "निम्नलिखित में से कौन-सा कथन असत्य है?",
@@ -837,7 +993,11 @@
     "explanationHindi": "पूर्ण वर्ग का बीजांक 1, 4, 7 या 9 होता है, न कि 2,3,5,6,8। अतः विकल्प (3) असत्य है। संदर्भ: 'Kalam LDC Maths Booklet.pdf', पृष्ठ 7।",
     "explanationEnglish": "Digital root of a perfect square is 1,4,7, or 9, not 2,3,5,6,8. Hence option (3) is false. Reference: 'Kalam LDC Maths Booklet.pdf', page 7.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "1 से 100 तक कितनी अभाज्य संख्याएँ हैं?",
@@ -858,7 +1018,11 @@
     "explanationHindi": "1 से 100 के बीच 25 अभाज्य संख्याएँ हैं।",
     "explanationEnglish": "There are 25 prime numbers between 1 and 100.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "निम्नलिखित में से कौन-सी परिमेय संख्या नहीं है?",
@@ -879,7 +1043,11 @@
     "explanationHindi": "√15 एक अपरिमेय संख्या है क्योंकि इसे p/q के रूप में नहीं लिखा जा सकता। शेष सभी परिमेय हैं। संदर्भ: 'New Topic REET L-2 Maths.pdf', पृष्ठ 13।",
     "explanationEnglish": "√15 is irrational as it cannot be expressed as p/q. Others are rational. Reference: 'New Topic REET L-2 Maths.pdf', page 13.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "दो क्रमागत सम संख्याओं के वर्गों का अंतर सदैव किससे विभाज्य होता है?",
@@ -900,7 +1068,11 @@
     "explanationHindi": "दो क्रमागत सम संख्याएँ 2n और 2n+2। वर्गों का अंतर = (2n+2)² - (2n)² = 8n + 4 = 4(2n+1), जो सदैव 4 से विभाज्य है।",
     "explanationEnglish": "Let numbers be 2n and 2n+2. Difference of squares = (2n+2)² - (2n)² = 8n+4 = 4(2n+1), always divisible by 4.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "यदि किसी संख्या का 60%, 120 है, तो उस संख्या का 120% कितना होगा?",
@@ -921,7 +1093,11 @@
     "explanationHindi": "60% of x = 120 ⇒ x = 200। 120% of 200 = 240।",
     "explanationEnglish": "60% of x = 120 ⇒ x = 200. 120% of 200 = 240.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "प्रथम 10 अभाज्य संख्याओं का औसत क्या है?",
@@ -942,7 +1118,11 @@
     "explanationHindi": "प्रथम 10 अभाज्य संख्याएँ: 2,3,5,7,11,13,17,19,23,29। योग = 129। औसत = 12.9।",
     "explanationEnglish": "First 10 primes: 2,3,5,7,11,13,17,19,23,29. Sum = 129. Average = 12.9.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "यदि एक संख्या का 25%, दूसरी संख्या के 20% के बराबर है, तो दोनों संख्याओं का अनुपात क्या है?",
@@ -963,7 +1143,11 @@
     "explanationHindi": "0.25A = 0.20B ⇒ A/B = 20/25 = 4/5 ⇒ 4:5।",
     "explanationEnglish": "0.25A = 0.20B ⇒ A/B = 20/25 = 4/5 ⇒ 4:5.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "निम्नलिखित में से कौन-सी संख्या 3 से विभाज्य है?",
@@ -984,7 +1168,11 @@
     "explanationHindi": "अंकों का योग: 8+1+3+6+2+4 = 24, जो 3 से विभाज्य है। अतः 813624, 3 से विभाज्य है।",
     "explanationEnglish": "Sum of digits: 8+1+3+6+2+4 = 24, divisible by 3. So 813624 is divisible by 3.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "किसी संख्या का 40%, 36 के बराबर है। वह संख्या क्या है?",
@@ -1005,7 +1193,11 @@
     "explanationHindi": "0.40x = 36 ⇒ x = 36/0.40 = 90।",
     "explanationEnglish": "0.40x = 36 ⇒ x = 90.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "दो संख्याओं का गुणनफल 120 है और उनका म.स.प. 2 है। उनका ल.स.प. क्या है?",
@@ -1026,7 +1218,11 @@
     "explanationHindi": "सूत्र: प्रथम संख्या × दूसरी संख्या = ल.स.प. × म.स.प. ⇒ 120 = LCM × 2 ⇒ LCM = 60।",
     "explanationEnglish": "Product = LCM × HCF ⇒ 120 = LCM × 2 ⇒ LCM = 60.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qHindi": "यदि a और b दो पूर्णांक हैं और a² - b² = 45 है, तो a और b के कितने युग्म संभव हैं?",
@@ -1047,7 +1243,11 @@
     "explanationHindi": "a² - b² = (a-b)(a+b) = 45। 45 के गुणनखंड: (1,45), (3,15), (5,9) और उनके ऋणात्मक युग्म। प्रत्येक से दो समीकरण बनते हैं। कुल 6 युग्म।",
     "explanationEnglish": "(a-b)(a+b) = 45. Factor pairs: (1,45), (3,15), (5,9) and negatives. Each gives a solution. Total 6 pairs.",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qEnglish": "What is the value of 'iota' (i) in the context of imaginary numbers?",
@@ -1068,7 +1268,11 @@
     "explanationEnglish": "An imaginary number is one where a negative number is inside a square root, represented by iota (i = √-1).",
     "explanationHindi": "एक काल्पनिक संख्या वह होती है जहां वर्गमूल के अंदर ऋणात्मक संख्या होती है, जिसे आयोटा (i = √-1) द्वारा दर्शाया जाता है।",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qEnglish": "Which of the following statements is true regarding π (Pi) and 22/7?",
@@ -1089,7 +1293,11 @@
     "explanationEnglish": "π is irrational because its value is non-terminating and non-repeating. 22/7 is a rational approximation in p/q form.",
     "explanationHindi": "π अपरिमेय है क्योंकि इसका मान अशांत और अनावर्ती है। 22/7 p/q रूप में एक परिमेय सन्निकटन है।",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qEnglish": "How is the number Zero (0) classified in the number system?",
@@ -1110,7 +1318,11 @@
     "explanationEnglish": "Zero is an even number because it sits between two odd numbers (-1 and 1) and is divisible by 2.",
     "explanationHindi": "शून्य एक सम संख्या है क्योंकि यह दो विषम संख्याओं (-1 और 1) के बीच स्थित है और 2 से विभाज्य है।",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qEnglish": "What is the smallest 4-digit prime number?",
@@ -1131,7 +1343,11 @@
     "explanationEnglish": "1001 is divisible by 7, 11, and 13. The smallest 4-digit prime number is 1009.",
     "explanationHindi": "1001 संख्या 7, 11 और 13 से विभाज्य है। 4 अंकों की सबसे छोटी अभाज्य संख्या 1009 है।",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qEnglish": "Match the following number types with their correct definitions:",
@@ -1184,7 +1400,11 @@
     "explanationEnglish": "Natural numbers start from 1. Twin primes like (3,5) have a difference of 2. Co-primes have HCF 1. Perfect numbers like 6 (1+2+3=6) equal the sum of their factors.",
     "explanationHindi": "प्राकृतिक संख्याएँ 1 से शुरू होती हैं। (3,5) जैसे जुड़वा अभाज्य में 2 का अंतर होता है। सह-अभाज्य का HCF 1 होता है। 6 जैसी परिपूर्ण संख्या (1+2+3=6) अपने गुणनखंडों के योग के बराबर होती है।",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qEnglish": "Assertion (A): 1 is neither a prime number nor a composite number.\nReason (R): A prime number must have exactly two distinct factors (1 and itself), while a composite number must have more than two distinct factors.",
@@ -1205,7 +1425,11 @@
     "explanationEnglish": "1 only has one factor (itself), so it does not meet the requirement of having exactly two factors (prime) or more than two factors (composite).",
     "explanationHindi": "1 का केवल एक ही गुणनखंड (स्वयं) है, इसलिए यह ठीक दो गुणनखंड (अभाज्य) या दो से अधिक गुणनखंड (भाज्य) होने की आवश्यकता को पूरा नहीं करता है।",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qEnglish": "Which of the following is the largest 4-digit prime number?",
@@ -1226,7 +1450,11 @@
     "explanationEnglish": "The largest 4-digit prime number is 9973. Other numbers like 9991 and 9997 are composite.",
     "explanationHindi": "4 अंकों की सबसे बड़ी अभाज्य संख्या 9973 है। 9991 और 9997 जैसी अन्य संख्याएँ भाज्य हैं।",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   },
   {
     "qEnglish": "Which of the following numbers is a Perfect Number (परिपूर्ण संख्या)?",
@@ -1247,6 +1475,10 @@
     "explanationEnglish": "6, 28, 496, and 8128 are the first four perfect numbers where the sum of their factors (excluding the number itself) equals the number.",
     "explanationHindi": "6, 28, 496, और 8128 पहली चार परिपूर्ण संख्याएँ हैं जहाँ उनके गुणनखंडों का योग (स्वयं संख्या को छोड़कर) संख्या के बराबर होता है।",
     "subject": "गणित",
-    "topic": "संख्या पद्धति"
+    "topic": "संख्या पद्धति",
+    "topics": [
+      "गणित",
+      "संख्या पद्धति"
+    ]
   }
 ]

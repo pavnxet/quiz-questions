@@ -18,6 +18,10 @@
     "explanationHindi": "छह बार एक ही अंक की पुनरावृत्ति से बनी संख्या 3, 7, 11, 13, 21 और 37 से विभाज्य होती है। 23 से विभाजित नहीं होती।",
     "explanationEnglish": "A number consisting of a digit repeated six times is divisible by 3, 7, 11, 13, 21, and 37. It is not divisible by 23.",
     "subject": "गणित",
-    "topic": "भाजकता के नियम"
+    "topic": "भाजकता के नियम",
+    "topics": [
+      "गणित",
+      "भाजकता के नियम"
+    ]
   }
 ]

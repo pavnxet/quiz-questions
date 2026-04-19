@@ -1,0 +1,27 @@
+[
+  {
+    "qEnglish": "Which is dual-purpose breed of cattle?",
+    "qHindi": "मवेशियों की द्वि-प्रयोजनी नस्ल कौन सी है?",
+    "optionsEnglish": [
+      "Dangi",
+      "Tharparkar",
+      "Sindhi",
+      "Sahiwal"
+    ],
+    "optionsHindi": [
+      "डांगी",
+      "थारपारकर",
+      "सिन्धी",
+      "साहिवाल"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Tharparkar is a dual-purpose breed[cite: 1652, 1655].",
+    "explanationHindi": "थारपारकर एक द्वि-प्रयोजनी नस्ल है [cite: 1652, 1655] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "नस्लें गाय (थारपारकर)",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "नस्लें गाय (थारपारकर)"
+    ]
+  }
+]

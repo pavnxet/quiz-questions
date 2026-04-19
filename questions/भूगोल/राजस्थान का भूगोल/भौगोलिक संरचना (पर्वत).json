@@ -1,0 +1,60 @@
+[
+  {
+    "qEnglish": "Match peaks with districts:",
+    "matchItemsEnglish": {
+      "col1Label": "Peak",
+      "col2Label": "District",
+      "col1": [
+        "Kho",
+        "Bairath",
+        "Devgarh",
+        "Risa Pok"
+      ],
+      "col2": [
+        "Jaipur",
+        "Alwar",
+        "Bhilwara",
+        "Jalore"
+      ]
+    },
+    "qHindi": "सूची-I को सूची-II से सुमेलित करें:",
+    "matchItemsHindi": {
+      "col1Label": "चोटी",
+      "col2Label": "जिला",
+      "col1": [
+        "खो",
+        "बैराठ",
+        "देवगढ़",
+        "रिसा पोक"
+      ],
+      "col2": [
+        "जयपुर",
+        "अलवर",
+        "भीलवाड़ा",
+        "जालोर"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Matches: Kho (Jaipur), Bairath (Alwar), Devgarh (Bhilwara), Risa Pok (Jalore)[cite: 2249, 2261].",
+    "explanationHindi": "चोटियों और जिलों का सही मिलान [cite: 2249, 2261] ।",
+    "subject": "भूगोल",
+    "topic": "भौगोलिक संरचना (पर्वत)",
+    "topics": [
+      "भूगोल",
+      "राजस्थान का भूगोल",
+      "भौगोलिक संरचना (पर्वत)"
+    ]
+  }
+]

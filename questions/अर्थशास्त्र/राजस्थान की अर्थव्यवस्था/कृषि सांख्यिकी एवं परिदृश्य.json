@@ -1,0 +1,80 @@
+[
+  {
+    "qEnglish": "District known as 'mini-Nagpur'?",
+    "qHindi": "कौन सा जिला 'मिनी-नागपुर' कहलाता है?",
+    "optionsEnglish": [
+      "Sawai Madhopur",
+      "Jhalawar",
+      "Bhilwara",
+      "Chittor"
+    ],
+    "optionsHindi": [
+      "सवाई माधोपुर",
+      "झालावाड़",
+      "भीलवाड़ा",
+      "चित्तौड़"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Jhalawar is mini-Nagpur[cite: 2937, 2939].",
+    "explanationHindi": "झालावाड़ को मिनी-नागपुर कहते हैं [cite: 2937, 2939] ।",
+    "subject": "अर्थशास्त्र",
+    "topic": "कृषि सांख्यिकी एवं परिदृश्य",
+    "topics": [
+      "अर्थशास्त्र",
+      "राजस्थान की अर्थव्यवस्था",
+      "कृषि सांख्यिकी एवं परिदृश्य"
+    ]
+  },
+  {
+    "qEnglish": "Arrange the following districts in descending order based on concentration of tribal population (2011):",
+    "qHindi": "निम्नलिखित जिलों को जनजातीय आबादी के संकेन्द्रण के आधार पर अवरोही क्रम में व्यवस्थित करें:",
+    "optionsEnglish": [
+      "(c), (d), (a), (b)",
+      "(d), (a), (b), (c)",
+      "(a), (b), (c), (d)",
+      "(b), (c), (d), (a)"
+    ],
+    "optionsHindi": [
+      "(c), (d), (a), (b)",
+      "(d), (a), (b), (c)",
+      "(a), (b), (c), (d)",
+      "(b), (c), (d), (a)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Tribal order: Banswara > Dungarpur > Pratapgarh > Udaipur[cite: 295, 304].",
+    "explanationHindi": "जनजातीय क्रम: बांसवाड़ा > डूंगरपुर > प्रतापगढ़ > उदयपुर [cite: 295, 304] ।",
+    "subject": "अर्थशास्त्र",
+    "topic": "कृषि सांख्यिकी एवं परिदृश्य",
+    "topics": [
+      "अर्थशास्त्र",
+      "राजस्थान की अर्थव्यवस्था",
+      "कृषि सांख्यिकी एवं परिदृश्य"
+    ]
+  },
+  {
+    "qEnglish": "Assertion A: Modern cotton mills in Rajasthan established without govt support. Reason R: Cotton is traditional industry.",
+    "qHindi": "अभिकथन A: राजस्थान में सूती वस्त्र मिलें सरकार की सहायता के बिना स्थापित हुईं। कारण R: सूती वस्त्र परंपरागत उद्योग है।",
+    "optionsEnglish": [
+      "A is correct but R is not correct.",
+      "A is not correct but R is correct.",
+      "Both A and R are correct and R is the correct explanation of A.",
+      "Both A and R are correct but R is not the correct explanation of A."
+    ],
+    "optionsHindi": [
+      "A सही है लेकिन R सही नहीं है।",
+      "A सही नहीं है लेकिन R सही है।",
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है।",
+      "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं है।"
+    ],
+    "correct": 1,
+    "explanationEnglish": "R is correct [cite: 645], but A is not (govt support was involved)[cite: 643, 657].",
+    "explanationHindi": "R सही है [cite: 645], पर A नहीं (सरकारी सहायता शामिल थी) [cite: 643, 657] ।",
+    "subject": "अर्थशास्त्र",
+    "topic": "कृषि सांख्यिकी एवं परिदृश्य",
+    "topics": [
+      "अर्थशास्त्र",
+      "राजस्थान की अर्थव्यवस्था",
+      "कृषि सांख्यिकी एवं परिदृश्य"
+    ]
+  }
+]

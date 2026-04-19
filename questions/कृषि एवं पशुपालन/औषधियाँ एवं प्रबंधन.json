@@ -1,0 +1,298 @@
+[
+  {
+    "qEnglish": "Match the following disease with their causal organisms:",
+    "matchItemsEnglish": {
+      "col1Label": "Disease",
+      "col2Label": "Organism",
+      "col1": [
+        "Q. Fever",
+        "Cholera",
+        "Typhoid",
+        "Tuberculosis"
+      ],
+      "col2": [
+        "Vibrio cholerae",
+        "Salmonella typhi",
+        "Coxiella burnetii",
+        "Mycobacterium tuberculosis"
+      ]
+    },
+    "qHindi": "सूची-I को सूची-II से सुमेलित करें (रोग को कारक जीव से):",
+    "matchItemsHindi": {
+      "col1Label": "रोग",
+      "col2Label": "कारक जीव",
+      "col1": [
+        "क्यू. फिवर",
+        "हैजा",
+        "टाइफाइड",
+        "ट्यूबरकुलोसिस"
+      ],
+      "col2": [
+        "विब्रियो कॉलरी",
+        "साल्मोनेला टाइफी",
+        "कॉक्सिएला बरनेती",
+        "माइकोबैक्टीरियम ट्यूबरकुलोसिस"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    ],
+    "optionsHindi": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iii), (b)-(ii), (c)-(i), (d)-(iv)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Matches Q. Fever (Coxiella), Cholera (Vibrio), Typhoid (Salmonella), TB (Mycobacterium)[cite: 101, 102, 113].",
+    "explanationHindi": "क्यू फिवर (कॉक्सिएला), हैजा (विब्रियो), टाइफाइड (साल्मोनेला), टीबी (माइकोबैक्टीरियम) [cite: 101, 102, 113] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "औषधियाँ एवं प्रबंधन",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "औषधियाँ एवं प्रबंधन"
+    ]
+  },
+  {
+    "qEnglish": "Match the deficiency syndromes with Vitamins:",
+    "matchItemsEnglish": {
+      "col1Label": "Deficiency",
+      "col2Label": "Disease",
+      "col1": [
+        "Vit A",
+        "Vit B complex",
+        "Vit C",
+        "Vit D"
+      ],
+      "col2": [
+        "Pellagra",
+        "Rickets",
+        "Night blindness",
+        "Scurvy"
+      ]
+    },
+    "qHindi": "सूची-I को सूची-II से सुमेलित करें (विटामिन को रोग से):",
+    "matchItemsHindi": {
+      "col1Label": "विटामिन",
+      "col2Label": "रोग",
+      "col1": [
+        "विटामिन ए",
+        "विटामिन बी",
+        "विटामिन सी",
+        "विटामिन डी"
+      ],
+      "col2": [
+        "पैलेग्रा",
+        "रिकैट्स",
+        "रतौंधी",
+        "स्कर्वी"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    ],
+    "optionsHindi": [
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(i), (c)-(iv), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "A (Night blindness), B (Pellagra), C (Scurvy), D (Rickets)[cite: 490, 494, 507].",
+    "explanationHindi": "ए (रतौंधी), बी (पैलेग्रा), सी (स्कर्वी), डी (रिकैट्स) [cite: 490, 494, 507] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "औषधियाँ एवं प्रबंधन",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "औषधियाँ एवं प्रबंधन"
+    ]
+  },
+  {
+    "qEnglish": "Probiotics for gut health:",
+    "qHindi": "आंतो के स्वास्थ्य के लिए प्रोबायोटिक्स:",
+    "optionsEnglish": [
+      "(b) and (d)",
+      "(a) and (d)",
+      "(a) and (b)",
+      "(b) and (c)"
+    ],
+    "optionsHindi": [
+      "(b) और (d)",
+      "(a) और (d)",
+      "(a) और (b)",
+      "(b) और (c)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Lactobacillus bulgaricus and Streptococcus lactis are probiotics[cite: 813, 821, 829].",
+    "explanationHindi": "लैक्टोबैसीलस और स्ट्रेप्टोकॉकस प्रोबायोटिक्स हैं [cite: 813, 821, 829] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "औषधियाँ एवं प्रबंधन",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "औषधियाँ एवं प्रबंधन"
+    ]
+  },
+  {
+    "qEnglish": "Which Vitamins are fat soluble?",
+    "qHindi": "कौन से विटामिन वसा में घुलनशील हैं?",
+    "optionsEnglish": [
+      "(b) and (d)",
+      "(c) and (d)",
+      "(a), (b) and (c)",
+      "(a), (b) and (d)"
+    ],
+    "optionsHindi": [
+      "(b) और (d)",
+      "(c) और (d)",
+      "(a), (b) और (c)",
+      "(a), (b) और (d)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A, D, and E are fat soluble[cite: 1606, 1607, 1617, 1636]. B complex is not[cite: 1619].",
+    "explanationHindi": "ए, डी, और ई वसा में घुलनशील हैं [cite: 1606, 1607, 1617, 1636] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "औषधियाँ एवं प्रबंधन",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "औषधियाँ एवं प्रबंधन"
+    ]
+  },
+  {
+    "qEnglish": "Assertion A: Probiotics promote cattle health. Reason R: Contain beneficial microbes.",
+    "qHindi": "अभिकथन A: प्रोबायोटिक्स पशु स्वास्थ्य बढ़ाते हैं। कारण R: इनमें लाभकारी सूक्ष्मजीव होते हैं।",
+    "optionsEnglish": [
+      "A correct but R not.",
+      "A not correct but R is.",
+      "Both correct and R is explanation.",
+      "Both correct but R is not explanation."
+    ],
+    "optionsHindi": [
+      "A सही पर R नहीं।",
+      "A नहीं पर R सही।",
+      "दोनों सही और R व्याख्या है।",
+      "दोनों सही पर R व्याख्या नहीं।"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Both correct[cite: 1887, 1889, 1897].",
+    "explanationHindi": "दोनों कथन सही हैं [cite: 1887, 1889, 1897] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "औषधियाँ एवं प्रबंधन",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "औषधियाँ एवं प्रबंधन"
+    ]
+  },
+  {
+    "qEnglish": "SLST Test used for detection of which disease?",
+    "qHindi": "एस.एल.एस.टी परीक्षण किस रोग के लिए किया जाता है?",
+    "optionsEnglish": [
+      "Brucellosis",
+      "FMD",
+      "Anthrax",
+      "Mastitis"
+    ],
+    "optionsHindi": [
+      "ब्रूसेलोसिस",
+      "खुरपका मुंहपका",
+      "एन्थ्रेक्स",
+      "मैस्टाइटिस"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Used for Mastitis[cite: 2387].",
+    "explanationHindi": "मैस्टाइटिस (थनैला) के लिए उपयोग होता है [cite: 2387] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "औषधियाँ एवं प्रबंधन",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "औषधियाँ एवं प्रबंधन"
+    ]
+  },
+  {
+    "qEnglish": "Arrange feed by TDN content (ascending):",
+    "qHindi": "चारा सामग्री को टी.डी.एन. के आरोही क्रम में व्यवस्थित करें:",
+    "optionsEnglish": [
+      "(b), (a), (d), (c)",
+      "(a), (b), (d), (c)",
+      "(a), (b), (c), (d)",
+      "(d), (c), (b), (a)"
+    ],
+    "optionsHindi": [
+      "(b), (a), (d), (c)",
+      "(a), (b), (d), (c)",
+      "(a), (b), (c), (d)",
+      "(d), (c), (b), (a)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Wheat bhusa (a) < Jowar green (b) < Wheat bran (d) < Gram (c)[cite: 2744, 2746, 2753, 2751, 2770].",
+    "explanationHindi": "भूसा (a) < ज्वार (b) < चोकर (d) < चना (c) [cite: 2744, 2746, 2753, 2751, 2770] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "औषधियाँ एवं प्रबंधन",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "औषधियाँ एवं प्रबंधन"
+    ]
+  },
+  {
+    "qEnglish": "Match disease with cause:",
+    "matchItemsEnglish": {
+      "col1Label": "Disease",
+      "col2Label": "Cause",
+      "col1": [
+        "Anthrax",
+        "FMD",
+        "Pleuro-Pneumonia",
+        "Trypanosomiasis"
+      ],
+      "col2": [
+        "Bacteria",
+        "Virus",
+        "Mycoplasma",
+        "Protozoa"
+      ]
+    },
+    "qHindi": "सूची-I को सूची-II से सुमेलित करें:",
+    "matchItemsHindi": {
+      "col1Label": "रोग",
+      "col2Label": "कारण",
+      "col1": [
+        "एन्ट्रैक्स",
+        "खुरपका मुँहपका",
+        "प्लूरो-निमोनिया",
+        "ट्राइपेनोसोमिएसिस"
+      ],
+      "col2": [
+        "जीवाणु",
+        "विषाणु",
+        "माइकोप्लास्मा",
+        "प्रोटोजोआ"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "optionsHindi": [
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Anthrax (Bacteria), FMD (Virus), Pleuro-Pneumonia (Mycoplasma), Trypanosomiasis (Protozoa)[cite: 3014, 3015, 3034].",
+    "explanationHindi": "एन्ट्रैक्स (जीवाणु), FMD (विषाणु), प्लूरो-निमोनिया (माइकोप्लास्मा), ट्राइपेनोसोमिएसिस (प्रोटोजोआ) [cite: 3014, 3015, 3034] ।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "औषधियाँ एवं प्रबंधन",
+    "topics": [
+      "कृषि एवं पशुपालन",
+      "औषधियाँ एवं प्रबंधन"
+    ]
+  }
+]

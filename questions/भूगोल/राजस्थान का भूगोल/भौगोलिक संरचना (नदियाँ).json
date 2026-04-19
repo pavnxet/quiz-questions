@@ -1,0 +1,28 @@
+[
+  {
+    "qEnglish": "Which is the only perennial river of Rajasthan?",
+    "qHindi": "कौन सी राजस्थान की एकमात्र सदानीरा/वर्षवाही नदी है?",
+    "optionsEnglish": [
+      "Banganga",
+      "Sabarmati",
+      "Chambal",
+      "Luni"
+    ],
+    "optionsHindi": [
+      "बाणगंगा",
+      "साबरमती",
+      "चंबल",
+      "लूणी"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Chambal is the only perennial river in Rajasthan[cite: 73, 74, 87].",
+    "explanationHindi": "चंबल राजस्थान की एकमात्र वर्षवाही नदी है [cite: 73, 74, 87] ।",
+    "subject": "भूगोल",
+    "topic": "भौगोलिक संरचना (नदियाँ)",
+    "topics": [
+      "भूगोल",
+      "राजस्थान का भूगोल",
+      "भौगोलिक संरचना (नदियाँ)"
+    ]
+  }
+]

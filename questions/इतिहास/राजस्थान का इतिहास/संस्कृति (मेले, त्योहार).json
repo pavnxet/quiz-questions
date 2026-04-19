@@ -1,0 +1,28 @@
+[
+  {
+    "qEnglish": "Assertion A: Rajasthan is land of fairs and festivals. Reason R: Important fairs include Teej, Gangaur, Pushkar, etc.",
+    "qHindi": "अभिकथन A: राजस्थान मेलों और पर्वों की भूमि है। कारण R: प्रमुख मेलें तीज, गणगौर, पुष्कर आदि हैं।",
+    "optionsEnglish": [
+      "A correct but R not.",
+      "A not correct but R is.",
+      "Both correct and R is explanation.",
+      "Both correct but R is not explanation."
+    ],
+    "optionsHindi": [
+      "A सही पर R नहीं।",
+      "A नहीं पर R सही।",
+      "दोनों सही और R व्याख्या है।",
+      "दोनों सही पर R व्याख्या नहीं।"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Both statements are correct[cite: 1234, 1236, 1253].",
+    "explanationHindi": "दोनों कथन सही हैं [cite: 1234, 1236, 1253] ।",
+    "subject": "इतिहास",
+    "topic": "संस्कृति (मेले, त्योहार)",
+    "topics": [
+      "इतिहास",
+      "राजस्थान का इतिहास",
+      "संस्कृति (मेले, त्योहार)"
+    ]
+  }
+]
