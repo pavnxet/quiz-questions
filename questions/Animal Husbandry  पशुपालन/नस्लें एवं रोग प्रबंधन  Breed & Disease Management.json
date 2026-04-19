@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Which of the following diseases are caused by bacteria?",
+    "qHindi": "निम्नलिखित में से कौन से रोग जीवाणुओं (बैक्टीरिया) द्वारा होते हैं?",
+    "optionsEnglish": [
+      "(c) and (d)",
+      "(a) and (d)",
+      "(a) and (b)",
+      "(b) and (c)"
+    ],
+    "optionsHindi": [
+      "(c) और (d)",
+      "(a) और (d)",
+      "(a) और (b)",
+      "(b) और (c)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Black quarter and Johne's disease are bacterial[cite: 13, 16, 24]. FMD and Rinderpest are viral[cite: 5, 11].",
+    "explanationHindi": "ब्लैक क्वार्टर और जॉन्स रोग जीवाणु जनित हैं [cite: 15, 18, 24]। खुरपका-मुँहपका और रिंडरपेस्ट विषाणु जनित हैं [cite: 5, 11] ।",
+    "subject": "Animal Husbandry | पशुपालन",
+    "topic": "नस्लें एवं रोग प्रबंधन | Breed & Disease Management"
+  }
+]
