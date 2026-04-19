@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Assertion A: Rajasthan's minerals are diversified. Reason R: Rajasthan is leading producer of calcite.",
+    "qHindi": "अभिकथन A: राजस्थान के खनिज विविध हैं। कारण R: राजस्थान कैल्साइट का अग्रणी उत्पादक है।",
+    "optionsEnglish": [
+      "A is correct but R is not correct.",
+      "A is not correct but R is correct.",
+      "Both A and R are correct and R is the correct explanation of A.",
+      "Both A and R are correct but R is not the correct explanation of A."
+    ],
+    "optionsHindi": [
+      "A सही है लेकिन R सही नहीं है।",
+      "A सही नहीं है लेकिन R सही है।",
+      "A और R दोनों सही हैं और R, A की सही व्याख्या है।",
+      "A और R दोनों सही हैं, लेकिन R, A की सही व्याख्या नहीं है।"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Both are correct [cite: 525, 528], but leading in calcite is not the sole 'explanation' for general diversity[cite: 551].",
+    "explanationHindi": "दोनों सही हैं [cite: 525, 528], पर कैल्साइट में अग्रणी होना विविधता की एकमात्र व्याख्या नहीं है [cite: 551] ।",
+    "subject": "Rajasthan GK, History & Culture | राजस्थान GK, इतिहास एवं संस्कृति",
+    "topic": "भौगोलिक संरचना (मृदा एवं खनिज) | Geo Structure (Minerals)"
+  }
+]
