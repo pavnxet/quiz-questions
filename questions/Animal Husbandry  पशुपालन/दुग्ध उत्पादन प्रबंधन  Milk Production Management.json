@@ -1,0 +1,128 @@
+[
+  {
+    "qEnglish": "Arrange Ghee making steps from butter:",
+    "qHindi": "मक्खन से घी बनाने के चरणों को व्यवस्थित करें:",
+    "optionsEnglish": [
+      "(d), (e), (a), (c), (b)",
+      "(b), (d), (e), (c), (a)",
+      "(b), (d), (a), (c), (e)",
+      "(a), (b), (c), (d), (e)"
+    ],
+    "optionsHindi": [
+      "(d), (e), (a), (c), (b)",
+      "(b), (d), (e), (c), (a)",
+      "(b), (d), (a), (c), (e)",
+      "(a), (b), (c), (d), (e)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Melting (b) -> Evaporating (d) -> Lumps (a) -> Granular (c) -> Filtering (e)[cite: 728, 741, 725, 733, 737, 760].",
+    "explanationHindi": "पिघलना (b) -> वाष्पित करना (d) -> ढेले (a) -> कणमय (c) -> छानना (e) [cite: 728, 741, 725, 733, 737, 760] ।",
+    "subject": "Animal Husbandry | पशुपालन",
+    "topic": "दुग्ध उत्पादन प्रबंधन | Milk Production Management"
+  },
+  {
+    "qEnglish": "Assertion A: Freezing point test detects water in milk. Reason R: Adulteration reduces solids and fat, raising freezing point.",
+    "qHindi": "अभिकथन A: हिमांक परीक्षण दूध में पानी का पता लगाता है। कारण R: मिलावट ठोस पदार्थों को कम करती है जिससे हिमांक बढ़ जाता है।",
+    "optionsEnglish": [
+      "A correct but R not.",
+      "A not correct but R is.",
+      "Both correct and R is explanation.",
+      "Both correct but R is not explanation."
+    ],
+    "optionsHindi": [
+      "A सही पर R नहीं।",
+      "A नहीं पर R सही।",
+      "दोनों सही और R व्याख्या है।",
+      "दोनों सही पर R व्याख्या नहीं।"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Both correct and R explains A[cite: 882, 892, 901].",
+    "explanationHindi": "दोनों सही हैं और R, A की व्याख्या करता है [cite: 882, 892, 901] ।",
+    "subject": "Animal Husbandry | पशुपालन",
+    "topic": "दुग्ध उत्पादन प्रबंधन | Milk Production Management"
+  },
+  {
+    "qEnglish": "Assertion A: India is largest milk producer. Reason R: Milk is rich in Iron and Vit C.",
+    "qHindi": "अभिकथन A: भारत सबसे बड़ा दुग्ध उत्पादक है। कारण R: दुग्ध आयरन और विटामिन सी का समृद्ध स्रोत है।",
+    "optionsEnglish": [
+      "A correct but R not.",
+      "A not correct but R is.",
+      "Both correct and R is explanation.",
+      "Both correct but R is not explanation."
+    ],
+    "optionsHindi": [
+      "A सही पर R नहीं।",
+      "A नहीं पर R सही।",
+      "दोनों सही और R व्याख्या है।",
+      "दोनों सही पर R व्याख्या नहीं।"
+    ],
+    "correct": 0,
+    "explanationEnglish": "India is largest producer [cite: 1851], but milk is poor in Iron/Vit C[cite: 1854, 1856].",
+    "explanationHindi": "भारत सबसे बड़ा उत्पादक है [cite: 1851], पर दूध में आयरन/Vit C कम होता है [cite: 1854, 1856] ।",
+    "subject": "Animal Husbandry | पशुपालन",
+    "topic": "दुग्ध उत्पादन प्रबंधन | Milk Production Management"
+  },
+  {
+    "qEnglish": "Assertion A: Silage is palatable feed. Reason R: Green forage preserved by fermentation.",
+    "qHindi": "अभिकथन A: साइलेज रूचिकर चारा है। कारण R: साइलेज किण्वन द्वारा परिरक्षित हरा चारा है।",
+    "optionsEnglish": [
+      "A correct but R not.",
+      "A not correct but R is.",
+      "Both correct and R is explanation.",
+      "Both correct but R is not explanation."
+    ],
+    "optionsHindi": [
+      "A सही पर R नहीं।",
+      "A नहीं पर R सही।",
+      "दोनों सही और R व्याख्या है।",
+      "दोनों सही पर R व्याख्या नहीं।"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Both correct[cite: 1982, 1984, 1992].",
+    "explanationHindi": "दोनों कथन सही हैं [cite: 1982, 1984, 1992] ।",
+    "subject": "Animal Husbandry | पशुपालन",
+    "topic": "दुग्ध उत्पादन प्रबंधन | Milk Production Management"
+  },
+  {
+    "qEnglish": "Arrange steps of curd making:",
+    "qHindi": "दही बनाने के चरणों को व्यवस्थित करें:",
+    "optionsEnglish": [
+      "(b), (a), (c), (d), (e)",
+      "(c), (d), (b), (a), (e)",
+      "(a), (b), (c), (d), (e)",
+      "(b), (a), (e), (c), (d)"
+    ],
+    "optionsHindi": [
+      "(b), (a), (c), (d), (e)",
+      "(c), (d), (b), (a), (e)",
+      "(a), (b), (c), (d), (e)",
+      "(b), (a), (e), (c), (d)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Preheating (b) -> Homogenization (a) -> Pasteurization (e) -> Inoculation (c) -> Incubation (d)[cite: 2013, 2009, 2026, 2017, 2022, 2044].",
+    "explanationHindi": "पूर्वतापित (b) -> समांगीकरण (a) -> पास्तेरीकरण (e) -> संरोपण (c) -> उद्भवन (d) [cite: 2013, 2009, 2026, 2017, 2022, 2044] ।",
+    "subject": "Animal Husbandry | पशुपालन",
+    "topic": "दुग्ध उत्पादन प्रबंधन | Milk Production Management"
+  },
+  {
+    "qEnglish": "Arrange milk by fat % (ascending):",
+    "qHindi": "दूध को वसा प्रतिशत के आरोही क्रम में व्यवस्थित करें:",
+    "optionsEnglish": [
+      "(a), (c), (b), (d)",
+      "(d), (c), (a), (b)",
+      "(d), (a), (c), (b)",
+      "(c), (a), (d), (b)"
+    ],
+    "optionsHindi": [
+      "(a), (c), (b), (d)",
+      "(d), (c), (a), (b)",
+      "(d), (a), (c), (b)",
+      "(c), (a), (d), (b)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Ascending fat: Cow (a) < Goat (c) < Buffalo (b) < Sheep (d)[cite: 2202].",
+    "explanationHindi": "वसा आरोही: गाय (a) < बकरी (c) < भैंस (b) < भेड़ (d) [cite: 2202] ।",
+    "subject": "Animal Husbandry | पशुपालन",
+    "topic": "दुग्ध उत्पादन प्रबंधन | Milk Production Management"
+  }
+]
