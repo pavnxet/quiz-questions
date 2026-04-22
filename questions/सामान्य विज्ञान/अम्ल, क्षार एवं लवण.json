@@ -1,0 +1,44 @@
+[
+  {
+    "qEnglish": "Vanilla can be used as an olfactory indicator.",
+    "qHindi": "वनीला का उपयोग सुंगध संकेतक के रूप में किया जा सकता है।",
+    "optionsEnglish": [
+      "Tamarind",
+      "Amla",
+      "Alum",
+      "Vanilla"
+    ],
+    "optionsHindi": [
+      "इमली",
+      "ऑवला",
+      "फिटकरी",
+      "वनीला"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Olfactory indicators like vanilla change their smell in acidic or basic solutions[cite: 240, 243].",
+    "explanationHindi": "वनीला जैसे गंधकीय (Olfactory) सूचक अम्लीय या क्षारीय विलयनों में अपनी गंध बदलते हैं [cite: 240, 243] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "अम्ल, क्षार एवं लवण"
+  },
+  {
+    "qEnglish": "What is the reason for the acidic nature of ethyne?",
+    "qHindi": "एथाइन की अम्लीय प्रकृति का कारण क्या है?",
+    "optionsEnglish": [
+      "sp3 hybridization",
+      "sp-hybridization",
+      "sp2-hybridization",
+      "π-bond"
+    ],
+    "optionsHindi": [
+      "sp3 संकरण",
+      "sp-संकरण",
+      "sp2-संकरण",
+      "π-बन्ध"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The high s-character (50%) in sp-hybridized carbon makes the C-H bond more polar and acidic[cite: 283, 286].",
+    "explanationHindi": "sp-संकरित कार्बन में उच्च s-गुण (50%) C-H बंध को अधिक ध्रुवीय और अम्लीय बनाता है [cite: 283, 286] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "अम्ल, क्षार एवं लवण"
+  }
+]
