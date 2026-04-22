@@ -1,0 +1,632 @@
+[
+  {
+    "qEnglish": "We can control the urge to urinate when -",
+    "qHindi": "हम मूत्रत्याग की उत्तेजना को नियंत्रित कर सकते है -",
+    "optionsEnglish": [
+      "the muscular bladder is under nervous control",
+      "the sphincter muscle is present between the bladder and the urethra",
+      "the bladder is not very full",
+      "the bladder does not fill easily"
+    ],
+    "optionsHindi": [
+      "मांसपेशीय मूत्राशय के तंत्रिका नियंत्रण में होने पर",
+      "स्पिन्चर मांसपेशी के मूत्राशय और मूत्रमार्ग के बीच मौजूद होने पर",
+      "मूत्राशय में कम पानी भरा होने पर",
+      "मूत्राशय के आसानी से नहीं भरने पर"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Urination is controlled by the nervous system which sends signals to the muscular walls of the bladder[cite: 101, 237].",
+    "explanationHindi": "मूत्रत्याग को तंत्रिका तंत्र द्वारा नियंत्रित किया जाता है जो मूत्राशय की मांसपेशियों की दीवारों को संकेत भेजता है [cite: 101, 237] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "A single nerve cell can be as long as:",
+    "qHindi": "एक व्यक्तिगत तंत्रिका कोशिका कितनी लंबी हो सकती है?",
+    "optionsEnglish": [
+      "80 cm",
+      "50 cm",
+      "100 cm",
+      "10 cm"
+    ],
+    "optionsHindi": [
+      "80 cm",
+      "50 cm",
+      "100 cm",
+      "10 cm"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Some neurons in the human body, particularly those extending to the limbs, can reach lengths of about 1 meter (100 cm)[cite: 238].",
+    "explanationHindi": "मानव शरीर में कुछ न्यूरॉन्स, विशेष रूप से अंगों तक फैले हुए, लगभग 1 मीटर (100 सेमी) की लंबाई तक पहुँच सकते हैं [cite: 238] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "What is the junction between the axonal terminal of one nerve cell and the dendrite of another nerve cell called?",
+    "qHindi": "किसी तंत्रिका कोशिका के अक्षांशीय सिरे और दूसरी तंत्रिका कोशिका के द्रुमाश्म के बीच की संधि को क्या कहते हैं ?",
+    "optionsEnglish": [
+      "Node of Ranvier",
+      "Synaptic cleft",
+      "Synapse",
+      "Neuron"
+    ],
+    "optionsHindi": [
+      "नाड ऑफ रनवियर",
+      "सिनैप्टिक क्लेफ्ट",
+      "सिनैप्स",
+      "न्यूरॉन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A synapse is the functional junction where a nerve impulse passes from one neuron to another[cite: 239, 242].",
+    "explanationHindi": "सिनैप्स वह कार्यात्मक संधि है जहाँ एक तंत्रिका आवेग एक न्यूरॉन से दूसरे न्यूरॉन तक जाता है [cite: 239, 242] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "The cerebellum is related to?",
+    "qHindi": "अनुमस्तिष्क किससे संबंधित है ?",
+    "optionsEnglish": [
+      "Thinking",
+      "Memory and hunger",
+      "All involuntary actions",
+      "Coordination of muscular activities"
+    ],
+    "optionsHindi": [
+      "सोचने",
+      "स्मरण रखना और भूख",
+      "सभी अनैच्छिक कार्य",
+      "मांसपेशीय गतिविधियों का समन्वय"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The cerebellum coordinates voluntary movements such as posture, balance, and coordination[cite: 241, 244].",
+    "explanationHindi": "अनुमस्तिष्क स्वैच्छिक गतिविधियों जैसे आसन, संतुलन और समन्वय का समन्वय करता है [cite: 241, 244] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Voluntary muscles are present in -",
+    "qHindi": "स्वैच्छिक मांसपेशियां किसमें विद्यमान होती है?",
+    "optionsEnglish": [
+      "Liver",
+      "Heart",
+      "Lungs",
+      "Hand"
+    ],
+    "optionsHindi": [
+      "जिगर",
+      "हृदय",
+      "फेफड़ा",
+      "हाथ"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Skeletal muscles in the hands are voluntary as they can be controlled by conscious thought[cite: 245].",
+    "explanationHindi": "हाथों की कंकाल मांसपेशियां स्वैच्छिक होती हैं क्योंकि उन्हें सचेत विचार द्वारा नियंत्रित किया जा सकता है [cite: 245] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Thermoregulation in humans is controlled by -",
+    "qHindi": "मनुष्य में ताप-नियमन को किसके द्वारा नियंत्रित किया जाता है?",
+    "optionsEnglish": [
+      "Liver",
+      "Heart",
+      "Hypothalamus",
+      "Lungs"
+    ],
+    "optionsHindi": [
+      "यकृत",
+      "दिल/हृदय",
+      "हाइपोथेलेमस",
+      "फेफेड़े"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The hypothalamus acts as the body's thermostat to maintain a constant internal temperature[cite: 246].",
+    "explanationHindi": "हाइपोथैलेमस शरीर के थर्मोस्टेट के रूप में कार्य करता है ताकि निरंतर आंतरिक तापमान बना रहे [cite: 246] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Nodes of Ranvier are microscopic gaps found in -",
+    "qHindi": "रैनवियर के नोड्स सूक्ष्म रिक्त स्थान होते हैं, जो किसमें पाया जाता है?",
+    "optionsEnglish": [
+      "Myelinated axons",
+      "Osteoblasts",
+      "Glandular cells",
+      "Chondroblasts"
+    ],
+    "optionsHindi": [
+      "मायेलिनकृत एक्सोन",
+      "ऑस्टिओब्लास्ट्स",
+      "ग्रंधि कोशिकाओं",
+      "कोन्ड्रोब्लास्ट्स"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Nodes of Ranvier are the gaps in the myelin sheath along the axon of a neuron[cite: 247, 248].",
+    "explanationHindi": "रैनवियर के नोड्स एक न्यूरॉन के एक्सोन के साथ मायलिन आवरण में अंतराल होते हैं [cite: 247, 248] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Which of the following is the part of the human brain that stores thoughts?",
+    "qHindi": "निम्नलिखित में से मानव मस्तिष्क का वह हिस्सा कौन सा है जिसमें विचारों का संग्रह होता है?",
+    "optionsEnglish": [
+      "Cerebellum",
+      "Forebrain",
+      "Hindbrain",
+      "Midbrain"
+    ],
+    "optionsHindi": [
+      "सेरिबेलम",
+      "अग्र मस्तिष्क",
+      "अनु मस्तिष्क",
+      "मध्य मस्तिष्क"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The forebrain (specifically the cerebrum) is responsible for cognitive functions, including thinking and memory[cite: 248, 254].",
+    "explanationHindi": "अग्र मस्तिष्क (विशेष रूप से प्रमस्तिष्क) सोचने और स्मृति सहित संज्ञानात्मक कार्यों के लिए जिम्मेदार है [cite: 248, 254] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Involuntary actions in humans such as blood pressure, salivation and vomiting are controlled by-",
+    "qHindi": "मनुष्यों में अनैच्छिक क्रियाएँ जैसे कि रक्त दबाव, लार और उल्टी को किसके द्वारा नियंत्रित किया जाता हैं?",
+    "optionsEnglish": [
+      "Medulla",
+      "Spinal cord",
+      "Pons",
+      "Hypothalamus"
+    ],
+    "optionsHindi": [
+      "मड्यूला",
+      "स्पाइनल कोर्ड",
+      "पान्य",
+      "हाइपोथैलेमस"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The medulla oblongata in the hindbrain controls vital involuntary functions[cite: 249].",
+    "explanationHindi": "पश्च मस्तिष्क में मड्यूला ऑबलांगेटा महत्वपूर्ण अनैच्छिक कार्यों को नियंत्रित करता है [cite: 249] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "How long does the echo of sound persist in the human brain?",
+    "qHindi": "मानव मस्तिष्क में ध्वनि की अनुगूंज कितनी देर तक कायम रहती है?",
+    "optionsEnglish": [
+      "1 second",
+      "0.2 seconds",
+      "0.1 seconds",
+      "0.5 seconds"
+    ],
+    "optionsHindi": [
+      "1 सेकंड",
+      "0.2 सेकंड",
+      "0.1 सेकंड",
+      "0.5 सेकेंड"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The persistence of hearing in the human brain is approximately 0.1 seconds[cite: 250, 255].",
+    "explanationHindi": "मानव मस्तिष्क में श्रवण की दृढ़ता लगभग 0.1 सेकंड होती है [cite: 250, 255] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Which part of the brain is responsible for ensuring precision in voluntary actions, maintaining posture and balance?",
+    "qHindi": "स्वैच्छिक कार्यों के लिए सुनिश्चितता, अंग-विन्यास संतुलन बनाए रखने के लिए उत्तरदायी होता है?",
+    "optionsEnglish": [
+      "Midbrain",
+      "Cerebellum",
+      "Cerebrum",
+      "Spinal cord"
+    ],
+    "optionsHindi": [
+      "मध्य मस्तिष्क",
+      "अनुमस्तिष्क",
+      "प्रमस्तिष्क",
+      "मेरू रन्जु"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The cerebellum maintains equilibrium and controls the precise execution of voluntary movements[cite: 251, 256].",
+    "explanationHindi": "अनुमस्तिष्क संतुलन बनाए रखता है और स्वैच्छिक आंदोलनों के सटीक निष्पादन को नियंत्रित करता है [cite: 251, 256] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Which part of the brain controls breathing?",
+    "qHindi": "मस्तिष्क का कौन सा हिस्सा साँस लेने को नियंत्रित करता है?",
+    "optionsEnglish": [
+      "Midbrain",
+      "Forebrain",
+      "Medulla",
+      "Cerebellum"
+    ],
+    "optionsHindi": [
+      "मस्तिष्क का मध्य भाग",
+      "मस्तिष्क का अगला भाग",
+      "मज्जा",
+      "अनुमस्तिष्क"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The medulla oblongata houses the respiratory center that controls the rate of breathing[cite: 252, 257].",
+    "explanationHindi": "मड्यूला ऑबलांगेटा में श्वसन केंद्र होता है जो साँस लेने की दर को नियंत्रित करता है [cite: 252, 257] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "A person's brown eyes, blue eyes or black eyes are due to the presence of a specific pigment in which of the following?",
+    "qHindi": "एक व्यक्ति की भूरी आँखें, नीली आँखें या काली आँखें इनमें से किसमें विशेष रंजक की मौजूदगी के कारण होता है ?",
+    "optionsEnglish": [
+      "Pupil",
+      "Iris",
+      "Cornea",
+      "Choroid"
+    ],
+    "optionsHindi": [
+      "पुतली",
+      "आइरिस",
+      "कॉर्निया",
+      "कोरॉयड"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The iris contains pigments like melanin that determine the color of a person's eyes[cite: 253, 258].",
+    "explanationHindi": "आइरिस में मेलेनिन जैसे रंजक होते हैं जो व्यक्ति की आंखों का रंग निर्धारित करते हैं [cite: 253, 258] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Cerebrum is related to?",
+    "qHindi": "सेरिब्रम (Cerebrum) किससे संबंधित है ?",
+    "optionsEnglish": [
+      "Liver",
+      "Heart",
+      "Brain",
+      "Nerve"
+    ],
+    "optionsHindi": [
+      "यकृत",
+      "हृदय",
+      "मस्तिष्क",
+      "नाड़ी"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The cerebrum is the largest part of the brain responsible for higher cognitive functions[cite: 261, 263].",
+    "explanationHindi": "प्रमस्तिष्क (Cerebrum) मस्तिष्क का सबसे बड़ा हिस्सा है जो उच्च संज्ञानात्मक कार्यों के लिए जिम्मेदार है [cite: 261, 263] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "How many muscles are used to control the eyeball?",
+    "qHindi": "नेत्रगोलक को नियंत्रित करने के लिए कितनी मांसपेशियों का इस्तेमाल किया जाता है?",
+    "optionsEnglish": [
+      "Five",
+      "Six",
+      "Four",
+      "Seven"
+    ],
+    "optionsHindi": [
+      "पांच",
+      "छः",
+      "चार",
+      "सात"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Six extraocular muscles control the movement of each eyeball[cite: 264, 265].",
+    "explanationHindi": "छह अतिरिक्त मांसपेशियां प्रत्येक नेत्रगोलक की गति को नियंत्रित करती हैं [cite: 264, 265] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Which part of the donor's eye is transplanted in eye donation?",
+    "qHindi": "नेत्रदान में दाता के आँख का कौन-सा भाग प्रत्यारोपित किया जाता है?",
+    "optionsEnglish": [
+      "Cornea",
+      "Lens",
+      "Retina",
+      "Entire eye"
+    ],
+    "optionsHindi": [
+      "कोर्निया",
+      "लेंस",
+      "रेटिना",
+      "पूरी आँख"
+    ],
+    "correct": 0,
+    "explanationEnglish": "In eye donation, only the transparent front part called the cornea is typically used for transplant[cite: 266, 268].",
+    "explanationHindi": "नेत्रदान में, आमतौर पर केवल पारदर्शी अग्र भाग जिसे कॉर्निया कहा जाता है, प्रत्यारोपण के लिए उपयोग किया जाता है [cite: 266, 268] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "What is the function of the iris?",
+    "qHindi": "आयरिस का क्या काम होता है ?",
+    "optionsEnglish": [
+      "To control the amount of light entering the eye",
+      "To reflect the amount of light entering the eye",
+      "To send the image to the lens",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "आँख में जाने वाले प्रकाश की मात्रा को नियंत्रित करना",
+      "आँख में जाने वाले प्रकाश की मात्रा को लौटाना",
+      "प्रतिबिम्व लेंस को चित्र भेजना",
+      "इनमें से कोई नहीं"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The iris adjusts the size of the pupil to regulate how much light reaches the retina[cite: 267, 269].",
+    "explanationHindi": "आयरिस रेटिना तक पहुँचने वाले प्रकाश की मात्रा को विनियमित करने के लिए पुतली के आकार को समायोजित करता है [cite: 267, 269] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "In terms of function, to which are cardiac muscles similar?",
+    "qHindi": "कार्य की दृष्टि से हृदय पेशियाँ किसके समान है-",
+    "optionsEnglish": [
+      "Involuntary muscles",
+      "Unstriated muscles",
+      "Striated and unstriated muscles",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "अनैच्छिक पेशियाँ",
+      "अरेखित पेशियाँ",
+      "रेखित तथा अरेखित पेशियाँ",
+      "उपरोक्त में से कोई नहीं"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Cardiac muscles are involuntary as they contract automatically without conscious control[cite: 273].",
+    "explanationHindi": "हृदय की मांसपेशियां अनैच्छिक होती हैं क्योंकि वे सचेत नियंत्रण के बिना स्वचालित रूप से सिकुड़ती हैं [cite: 273] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "The sheath of muscles is:",
+    "qHindi": "पेशियों की आच्छद है -",
+    "optionsEnglish": [
+      "Epimysium",
+      "Perimysium",
+      "Endomysium",
+      "Sarcolemma"
+    ],
+    "optionsHindi": [
+      "एपिमाइसियम",
+      "पेरीमाइसियम",
+      "एन्डोमाइसियम",
+      "सार्कोलेमा"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The epimysium is the dense layer of connective tissue that surrounds the entire muscle[cite: 274, 280].",
+    "explanationHindi": "एपिमाइसियम संयोजी ऊतक की वह घनी परत है जो पूरी मांसपेशी को घेरती है [cite: 274, 280] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Myofibrils contain:",
+    "qHindi": "मायोफाइब्रिल रखते है : -",
+    "optionsEnglish": [
+      "Actin",
+      "Myosin",
+      "ATP",
+      "All of the above"
+    ],
+    "optionsHindi": [
+      "एक्टिन",
+      "मायोसिन",
+      "ATP",
+      "उक्त सभी"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Myofibrils are composed of long proteins including actin, myosin, and use ATP for energy[cite: 275].",
+    "explanationHindi": "मायोफाइब्रिल लंबे प्रोटीन से बने होते हैं जिनमें एक्टिन, मायोसिन शामिल हैं, और ऊर्जा के लिए एटीपी (ATP) का उपयोग करते हैं [cite: 275] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "During muscle contraction -",
+    "qHindi": "पेशीय संकुचन के समय -",
+    "optionsEnglish": [
+      "Actin filaments slide over actin",
+      "Myosin filaments slide over myosin",
+      "Actin filaments slide over myosin",
+      "Myosin filaments slide over actin"
+    ],
+    "optionsHindi": [
+      "एक्टिन तन्तु, एक्टिन के ऊपर विसर्पित होते है",
+      "मायोसीन तन्तु, मायोसीन के ऊपर विसर्पित होते है",
+      "एक्टिन तन्तु, मायोसीन के ऊपर विसर्पित होते है",
+      "मायोसीन तन्तु, एक्टिन के ऊपर विसर्पित होते है"
+    ],
+    "correct": 2,
+    "explanationEnglish": "According to the sliding filament theory, thin actin filaments slide over thick myosin filaments during contraction[cite: 276].",
+    "explanationHindi": "स्लाइडिंग फिलामेंट थ्योरी के अनुसार, संकुचन के दौरान पतले एक्टिन तंतु मोटे मायोसिन तंतुओं के ऊपर खिसकते हैं [cite: 276] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Purkinje fibers are:",
+    "qHindi": "पुरकिन्जे के तन्तु है :-",
+    "optionsEnglish": [
+      "Muscle fibers",
+      "Nerve fibers",
+      "Axons",
+      "Dendrites"
+    ],
+    "optionsHindi": [
+      "पेशी तन्तु",
+      "तंत्रिका तन्तु",
+      "एक्सान",
+      "डेन्ड्रान"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Purkinje fibers are specialized cardiac muscle fibers that conduct electrical impulses in the heart[cite: 276].",
+    "explanationHindi": "पुरकिन्जे फाइबर विशेष हृदय पेशी तंतु हैं जो हृदय में विद्युत आवेगों का संचालन करते हैं [cite: 276] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Mitochondria in cardiac muscles: -",
+    "qHindi": "हृदय पेशियों में माइटोकोण्ड्रिया :-",
+    "optionsEnglish": [
+      "Are more numerous than in other muscle fibers",
+      "Are less numerous than in other muscle fibers",
+      "Are similar to other muscle fibers",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "अन्य पेशी तन्तुओं की तुलना में अधिक होते है",
+      "अन्य पेशी तन्तुओं की तुलना में कम होते है",
+      "अन्य पेशी तन्तुओं के समान होते है",
+      "उपरोक्त में से कोई नहीं"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Cardiac muscles have a very high concentration of mitochondria to support continuous energy needs[cite: 277, 278].",
+    "explanationHindi": "हृदय की मांसपेशियों में निरंतर ऊर्जा आवश्यकताओं का समर्थन करने के लिए माइटोकॉन्ड्रिया की बहुत उच्च सांद्रता होती है [cite: 277, 278] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "The SA Node is: -",
+    "qHindi": "SA Node है:",
+    "optionsEnglish": [
+      "A group of specialized muscle fibers",
+      "Cartilage in the node of the heart",
+      "Connective tissue node",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "विशिष्टकृत पेशी तन्तुओं का समूह",
+      "हृदय के नोड में उपास्थि",
+      "संयोजी ऊतक नोड",
+      "उपरोक्त में से कोई नहीं"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The Sinoatrial (SA) node is a small mass of specialized muscle tissue in the heart's right atrium[cite: 278].",
+    "explanationHindi": "सिनोआट्रियल (SA) नोड हृदय के दाएं आलिंद में विशिष्ट मांसपेशी ऊतक का एक छोटा द्रव्यमान है [cite: 278] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Red muscle fibers are most abundant in: -",
+    "qHindi": "लाल पेशी तन्तु सर्वाधिक किसमें पाए जाते हैं?",
+    "optionsEnglish": [
+      "Smooth muscles",
+      "Skeletal muscles",
+      "Cardiac muscles",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "चिकनी पेशियों में",
+      "कंकाल पेशियों में",
+      "हृदय पेशियों में",
+      "उक्त से कोई नहीं"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Skeletal muscles often contain a mix, but red fibers (type I) are abundant in muscles requiring endurance[cite: 278].",
+    "explanationHindi": "कंकाल की मांसपेशियों में अक्सर मिश्रण होता है, लेकिन धीरज की आवश्यकता वाली मांसपेशियों में लाल तंतु (प्रकार I) प्रचुर मात्रा में होते हैं [cite: 278] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Unstriated muscles are also called: -",
+    "qHindi": "अरेखित पेशियाँ यह भी कहलाती है :-",
+    "optionsEnglish": [
+      "Visceral",
+      "Smooth",
+      "Involuntary",
+      "All of the above"
+    ],
+    "optionsHindi": [
+      "विसरल",
+      "चिकनी",
+      "अनेच्छिक",
+      "उपरोक्त सभी"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Unstriated muscles are found in internal organs (visceral), appear smooth, and act involuntarily[cite: 279].",
+    "explanationHindi": "अरेखित पेशियाँ आंतरिक अंगों (विसरल) में पाई जाती हैं, चिकनी दिखाई देती हैं, और अनैच्छिक रूप से कार्य करती हैं [cite: 279] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Myofibers are also called: -",
+    "qHindi": "मायोफाइबर कहलाते है : -",
+    "optionsEnglish": [
+      "Sarcoaxis",
+      "Sarcomysium",
+      "Sarcolemmas",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "सार्कोएक्सिस",
+      "सार्कोमाइसियम",
+      "सार्कोसाइलेट्स",
+      "उक्त नहीं"
+    ],
+    "correct": 3,
+    "explanationEnglish": "A myofiber is simply another term for a muscle cell or muscle fiber[cite: 279].",
+    "explanationHindi": "मायोफाइबर केवल मांसपेशी कोशिका या मांसपेशी फाइबर के लिए एक अन्य शब्द है [cite: 279] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "The contractile unit of a muscle fiber is:",
+    "qHindi": "पेशी तन्तु संकुचने इकाई है:-",
+    "optionsEnglish": [
+      "H-line",
+      "Sarcomere",
+      "H-zone",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "एच-रेखा",
+      "सार्कोमीयर",
+      "एच-क्षेत्र",
+      "उक्त कोई नहीं"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The sarcomere is the basic functional unit of a myofibril, where contraction takes place[cite: 279].",
+    "explanationHindi": "सार्कोमीयर मायोफाइब्रिल की मूल कार्यात्मक इकाई है, जहाँ संकुचन होता है [cite: 279] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "Which of the following has the property of contractility?",
+    "qHindi": "निम्न में किसमें सकुंचन शीलता का गुण होता है?",
+    "optionsEnglish": [
+      "Actin",
+      "Myosin",
+      "Troponin",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "एक्टिन",
+      "मायोसीन",
+      "ट्रोपोनीन",
+      "उक्त कोई नहीं"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Myosin is the motor protein that provides the driving force for muscle contraction[cite: 280].",
+    "explanationHindi": "मायोसीन वह मोटर प्रोटीन है जो मांसपेशियों के संकुचन के लिए प्रेरक शक्ति प्रदान करता है [cite: 280] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "The epimysium of a muscle is made up of:",
+    "qHindi": "पेशी का एपिमाइसियम बना होता है :-",
+    "optionsEnglish": [
+      "White fibrous connective tissue",
+      "Adipose connective tissue",
+      "Reticular connective tissue",
+      "Areolar connective tissue"
+    ],
+    "optionsHindi": [
+      "श्वेत तन्तुमय संयोजी ऊतक",
+      "एडिपोस संयोजी ऊतक",
+      "रेटिकुलर संयोजी ऊतक",
+      "एरिओलर संयोजी ऊतक"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The epimysium is composed of dense, white fibrous connective tissue[cite: 280].",
+    "explanationHindi": "एपिमाइसियम घने, सफेद रेशेदार संयोजी ऊतक से बना होता है [cite: 280] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  }
+]
