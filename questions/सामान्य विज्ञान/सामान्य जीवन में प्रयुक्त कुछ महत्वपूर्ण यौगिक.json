@@ -1,0 +1,548 @@
+[
+  {
+    "qEnglish": "Which of the following is obtained at the lowest temperature from the fractional distillation of petroleum? [cite: 307, 310]",
+    "qHindi": "निम्न में कौन-सा पेट्रोलियम के प्रभाजी आसवन से न्यूनतम ताप पर प्राप्त होता है। [cite: 307, 310]",
+    "optionsEnglish": [
+      "Gasoline",
+      "Furnace oil",
+      "Kerosene",
+      "Diesel oil"
+    ],
+    "optionsHindi": [
+      "गैसोलीन",
+      "भट्टी तेल",
+      "केरोसीन",
+      "डीजल ऑयल"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Gasoline (petrol) has a lower boiling point range compared to kerosene, diesel, and furnace oil, thus it is obtained at a lower temperature during fractional distillation. [cite: 307, 310]",
+    "explanationHindi": "गैसोलीन (पेट्रोल) का क्वथनांक मिट्टी के तेल, डीजल और भट्टी के तेल की तुलना में कम होता है, इसलिए यह प्रभाजी आसवन के दौरान कम तापमान पर प्राप्त होता है। [cite: 307, 310]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "When ethyl alcohol is heated with concentrated H2SO4, the substance obtained is: [cite: 308]",
+    "qHindi": "एथिल एल्कोहॉल को सान्द्र H2SO4 के साथ गर्म किया जाता है, प्राप्त पदार्थ है। [cite: 308]",
+    "optionsEnglish": [
+      "CH3COOC2H5",
+      "CH3COH",
+      "C2H4",
+      "CH3H2"
+    ],
+    "optionsHindi": [
+      "CH3COOC2H5",
+      "CH3COH",
+      "C2H4",
+      "CH3H2"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Dehydration of ethyl alcohol with concentrated sulfuric acid at 170°C produces ethene (C2H4). [cite: 308]",
+    "explanationHindi": "170°C पर सांद्र सल्फ्यूरिक एसिड के साथ एथिल अल्कोहल के निर्जलीकरण से एथीन (C2H4) प्राप्त होता है। [cite: 308]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The compound obtained on hydrolysis of calcium carbide is: [cite: 310]",
+    "qHindi": "कैल्शियम कार्बाइड का जल अपघटन होने पर प्राप्त यौगिक होता है [cite: 310]",
+    "optionsEnglish": [
+      "Acetylene",
+      "Methane",
+      "Ethylene",
+      "Ethylene glycol"
+    ],
+    "optionsHindi": [
+      "ऐसीटलीन",
+      "मेथेन",
+      "एथिलीन",
+      "ऐथिलीन ग्लाइकॉल"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Hydrolysis of calcium carbide (CaC2) yields acetylene (ethyne) gas. [cite: 310]",
+    "explanationHindi": "कैल्शियम कार्बाइड (CaC2) के जल अपघटन से एसीटलीन (एथाइन) गैस प्राप्त होती है। [cite: 310]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The compound with the highest boiling point is: [cite: 309, 310]",
+    "qHindi": "अधिकतम क्वथनांक वाला यौगिक है। [cite: 309, 310]",
+    "optionsEnglish": [
+      "Isobutane",
+      "n-octane",
+      "2,2,3,3-tetramethylbutane",
+      "n-butane"
+    ],
+    "optionsHindi": [
+      "आइसो ब्यूटेन",
+      "n-ऑक्टेन",
+      "2,2,3,3-टेट्रा मेथिल ब्यूटेन",
+      "n-ब्यूटेन"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Boiling point increases with the number of carbon atoms; n-octane (C8) has a higher boiling point than C4 hydrocarbons like butane. [cite: 309, 310]",
+    "explanationHindi": "कार्बन परमाणुओं की संख्या के साथ क्वथनांक बढ़ता है; n-ऑक्टेन (C8) का क्वथनांक ब्यूटेन जैसे C4 हाइड्रोकार्बन से अधिक होता है। [cite: 309, 310]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "2-Hexyne reacts with Li/NH3 to give: [cite: 311, 312]",
+    "qHindi": "2-हेक्साइन Li/NH3 के साथ अभिक्रिया करके देता है: [cite: 311, 312]",
+    "optionsEnglish": [
+      "trans-2-hexene",
+      "cis-2-hexene",
+      "hexane",
+      "1-hexene"
+    ],
+    "optionsHindi": [
+      "विपक्ष-2-हेक्सीन",
+      "समपक्ष-2-हेक्सीन",
+      "हेक्सेन",
+      "1-हेक्सीन"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The reduction of an internal alkyne with lithium in liquid ammonia (Birch reduction) produces a trans-alkene. [cite: 311, 312]",
+    "explanationHindi": "तरल अमोनिया में लिथियम के साथ एक आंतरिक एल्काइन का अपचयन (बर्च अपचयन) एक विपक्ष-एल्कीन (trans-alkene) उत्पन्न करता है। [cite: 311, 312]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Oxidation of toluene yields: [cite: 313]",
+    "qHindi": "टालूईन के आक्सीकरण से प्राप्त होता है- [cite: 313]",
+    "optionsEnglish": [
+      "Benzene",
+      "Chlorobenzene",
+      "Benzaldehyde",
+      "Benzoic acid"
+    ],
+    "optionsHindi": [
+      "बेन्जीन",
+      "क्लोरो बेन्जीन",
+      "बेन्जेल्डिहाइड",
+      "बेन्जोइक अम्ल"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Complete oxidation of the methyl group in toluene (using agents like KMnO4) results in benzoic acid. [cite: 313]",
+    "explanationHindi": "टोल्यूनि में मिथाइल समूह के पूर्ण ऑक्सीकरण (KMnO4 जैसे एजेंटों का उपयोग करके) के परिणामस्वरूप बेंजोइक एसिड प्राप्त होता है। [cite: 313]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which compound is formed when C2H2 is heated in red-hot tubes at 773K? [cite: 314, 315]",
+    "qHindi": "जब C2H2 को 773K पर रक्त तप्त नलियों में गर्म किया जाता है, तो कौन सा यौगिक बनता है? [cite: 314, 315]",
+    "optionsEnglish": [
+      "Ethylene",
+      "Ethane",
+      "Benzene",
+      "Methane"
+    ],
+    "optionsHindi": [
+      "एथिलीन",
+      "ऐथेन",
+      "बेन्जीन",
+      "मेथेन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Trimerization of acetylene (ethyne) in red-hot tubes leads to the formation of benzene. [cite: 314, 315]",
+    "explanationHindi": "रक्त-तप्त नलियों में एसिटिलीन (एथाइन) के त्रिलकीकरण (Trimerization) से बेंजीन का निर्माण होता है। [cite: 314, 315]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "In the Newman projection of 2,2-dimethylbutane, x and y can be, respectively: [cite: 314]",
+    "qHindi": "2,2-डाई मेथिल ब्यूटेन के न्यूमैन प्रक्षेपण में x और y क्रमशः हो सकते हैं: [cite: 314]",
+    "optionsEnglish": [
+      "H and H",
+      "CH3 and C2H5",
+      "C2H5 and H",
+      "CH3 and CH3"
+    ],
+    "optionsHindi": [
+      "H और H",
+      "CH3 और C2H5",
+      "C2H5 और H",
+      "CH3 और CH3"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Based on the structural configuration of 2,2-dimethylbutane, the bulky groups on the quaternary carbon would be represented as methyl groups. [cite: 314]",
+    "explanationHindi": "2,2-डाइमिथाइल ब्यूटेन के संरचनात्मक विन्यास के आधार पर, चतुर्धातुक कार्बन (quaternary carbon) पर भारी समूहों को मिथाइल समूहों के रूप में दर्शाया जाएगा। [cite: 314]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "When a mixture of sodium benzoate and soda lime is heated: [cite: 315]",
+    "qHindi": "सोडियम बेन्जोएट और सोडा लाइम के मिश्रण को गरम करने पर - [cite: 315]",
+    "optionsEnglish": [
+      "Benzene",
+      "Chlorobenzene",
+      "Benzaldehyde",
+      "Benzoic acid"
+    ],
+    "optionsHindi": [
+      "बेन्जीन",
+      "क्लोरो बेन्जीन",
+      "बेन्जेल्डिहाइड",
+      "बेन्जोइक अम्ल"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Decarboxylation of sodium benzoate using soda lime produces benzene. [cite: 315]",
+    "explanationHindi": "सोडा लाइम का उपयोग करके सोडियम बेंजोएट के वि-कार्बोक्सीकरण से बेंजीन प्राप्त होता है। [cite: 315]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following does not exhibit geometrical isomerism? [cite: 316, 317]",
+    "qHindi": "निम्न में से कौन ज्यामिति समावयवता प्रदर्शित नहीं करता। [cite: 316, 317]",
+    "optionsEnglish": [
+      "1,2-Dichloropent-1-ene",
+      "1,3-Dichloropent-2-ene",
+      "1,1-Dichloropent-1-ene",
+      "1,4-Dichloropent-2-ene"
+    ],
+    "optionsHindi": [
+      "1,2-डाइक्लोरो पेन्ट-1-ईन",
+      "1,3-डाइक्लोरो पेन्ट-2-ईन",
+      "1,1-डाइक्लोरो पेन्ट-1-ईन",
+      "1,4-डाइक्लोरो पेन्ट-2-ईन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "1,1-Dichloropent-1-ene has two identical chlorine atoms on the same double-bonded carbon, preventing geometrical (cis-trans) isomerism. [cite: 316, 317]",
+    "explanationHindi": "1,1-डाइक्लोरोपेंट-1-ईन में एक ही डबल-बॉन्डेड कार्बन पर दो समान क्लोरीन परमाणु होते हैं, जो ज्यामितीय (सिस-ट्रांस) समावयवता को रोकता है। [cite: 316, 317]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "How many chiral compounds are possible on monochlorination of 2-methylbutane? [cite: 318, 321]",
+    "qHindi": "2-मेथिल ब्यूटेन के मोनो क्लोरोनीकरण पर कितने किरेल यौगिक सम्भव है। [cite: 318, 321]",
+    "optionsEnglish": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "optionsHindi": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Monochlorination of 2-methylbutane produces several isomers, four of which contain chiral centers. [cite: 318, 321]",
+    "explanationHindi": "2-मिथाइलब्यूटेन के मोनोक्लोरीनीकरण से कई समावयवी बनते हैं, जिनमें से चार में किरेल केंद्र (chiral centers) होते हैं। [cite: 318, 321]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The methyl group in the benzene ring is: [cite: 319, 322]",
+    "qHindi": "बेन्जीन वलय में मेथिल समूह होता है। [cite: 319, 322]",
+    "optionsEnglish": [
+      "Ortho directing",
+      "Ortho and meta directing",
+      "Para directing",
+      "Ortho and para directing"
+    ],
+    "optionsHindi": [
+      "ऑर्थो निर्देशी",
+      "ऑर्थो तथा मेटा निर्देशी",
+      "पैरा निर्देशी",
+      "ऑर्थो तथा पैरा निर्देशी"
+    ],
+    "correct": 3,
+    "explanationEnglish": "A methyl group is an activating group that directs incoming electrophiles to the ortho and para positions of the benzene ring. [cite: 319, 322]",
+    "explanationHindi": "मिथाइल समूह एक सक्रियकारी समूह है जो आने वाले इलेक्ट्रोफाइल को बेंजीन वलय की ऑर्थो और पैरा स्थितियों पर निर्देशित करता है। [cite: 319, 322]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The catalyst used in the nitration of benzene is -",
+    "qHindi": "बेन्जीन के नाइट्रेशन में प्रयुक्त उत्प्रेरक है -",
+    "optionsEnglish": [
+      "H2SO4",
+      "HNO3",
+      "FeCl3",
+      "AlCl3"
+    ],
+    "optionsHindi": [
+      "H2SO4",
+      "HNO3",
+      "FeCl3",
+      "AlCl3"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Concentrated sulfuric acid (H2SO4) acts as a catalyst and generates the nitronium ion in benzene nitration[cite: 240].",
+    "explanationHindi": "सांद्र सल्फ्यूरिक एसिड (H2SO4) एक उत्प्रेरक के रूप में कार्य करता है और बेंजीन नाइट्रेशन में नाइट्रोनियम आयन उत्पन्न करता है [cite: 240] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following is obtained by Wurtz reaction?",
+    "qHindi": "वुर्ज अभिक्रिया द्वारा निम्न में से क्या प्राप्त होता है?",
+    "optionsEnglish": [
+      "Asymmetrical alkane",
+      "Symmetrical alkane",
+      "Alkene",
+      "Alkyne"
+    ],
+    "optionsHindi": [
+      "असममित एल्केन",
+      "सममित एल्केन",
+      "एल्कीन",
+      "एल्काइन"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Wurtz reaction is primarily used to synthesize symmetrical alkanes by reacting alkyl halides with sodium[cite: 260, 262].",
+    "explanationHindi": "वुर्ज अभिक्रिया का उपयोग मुख्य रूप से अल्काइल हैलाइड्स की सोडियम के साथ प्रतिक्रिया करके सममित एल्केन को संश्लेषित करने के लिए किया जाता है [cite: 260, 262] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following methods can be used to produce both alkenes and alkynes?",
+    "qHindi": "निम्न में से कौन-सी विधि से एल्कीन और एल्काइन दोनो बनाए जा सकते हैं?",
+    "optionsEnglish": [
+      "Wurtz reaction",
+      "Dehalogenation",
+      "Kolbe electrolysis",
+      "Soda lime reaction"
+    ],
+    "optionsHindi": [
+      "वुर्ज अभिक्रिया",
+      "डी हैलोजनीकरण जनीकरण",
+      "कोल्बे विद्युत अपघटन",
+      "सोडा लाइम अभिक्रियो"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Kolbe's electrolytic method can be used for the preparation of alkanes, alkenes, and alkynes[cite: 274, 276].",
+    "explanationHindi": "कोल्बे की विद्युत अपघटनी विधि का उपयोग एल्केन, एल्कीन और एल्काइन तैयार करने के लिए किया जा सकता है [cite: 274, 276] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "What is the main reason for the decolorization of bromine water in ethene?",
+    "qHindi": "एथीन में ब्रोमीन जल का रंग उड़ जाने का मुख्य कारण है?",
+    "optionsEnglish": [
+      "Oxidation",
+      "Reduction",
+      "Addition reaction",
+      "Substitution reaction"
+    ],
+    "optionsHindi": [
+      "आक्सीकरण",
+      "अपचयन",
+      "योग अभिक्रिया",
+      "प्रतिस्थापन अभिक्रिया"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Ethene reacts with bromine via an addition reaction, forming 1,2-dibromoethane and removing the color[cite: 282, 285].",
+    "explanationHindi": "एथीन एक योग (Addition) अभिक्रिया के माध्यम से ब्रोमीन के साथ प्रतिक्रिया करता है, जिससे 1,2-डिब्रोमोइथेन बनता है और रंग उड़ जाता है [cite: 282, 285] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The general formula for alkynes is:",
+    "qHindi": "एल्काइन का सामान्य सूत्र है -",
+    "optionsEnglish": [
+      "C_n H_2n",
+      "C_n H_2n+2",
+      "C_n H_2n-2",
+      "C_n H_n"
+    ],
+    "optionsHindi": [
+      "C_n H_2n",
+      "C_n H_2n+2",
+      "C_n H_2n-2",
+      "C_n H_n"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Alkynes are unsaturated hydrocarbons with the general chemical formula CnH2n-2[cite: 287].",
+    "explanationHindi": "एल्काइन असंतृप्त हाइड्रोकार्बन हैं जिनका सामान्य रासायनिक सूत्र CnH2n-2 है [cite: 287] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The test for alkenes is called the Baeyer test. It uses:",
+    "qHindi": "एल्कीन का परीक्षण बेयर टेस्ट कहलाता है। इसमें क्या प्रयुक्त होता है?",
+    "optionsEnglish": [
+      "KMnO4",
+      "K2Cr2O7",
+      "HNO3",
+      "Br2"
+    ],
+    "optionsHindi": [
+      "KMnO4",
+      "K2Cr2O7",
+      "HNO3",
+      "Br2"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The Baeyer test involves the use of cold, alkaline potassium permanganate (KMnO4) to detect unsaturation[cite: 288, 289].",
+    "explanationHindi": "बेयर परीक्षण में असंतृप्ति का पता लगाने के लिए ठंडे, क्षारीय पोटेशियम परमैंगनेट (KMnO4) का उपयोग किया जाता है [cite: 288, 289] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Two different carbonyl compounds are obtained from an alkene after ozonolysis. What conclusion can be drawn from this?",
+    "qHindi": "ओजोनी अपघटन के बाद किसी एल्कीन से दो अलग-अलग कार्बोनिल यौगिक प्राप्त होते है। इससे क्या निष्कर्ष निकलता है?",
+    "optionsEnglish": [
+      "The alkene is symmetrical",
+      "The alkene is asymmetrical",
+      "The alkene is cyclic",
+      "The alkene is aromatic"
+    ],
+    "optionsHindi": [
+      "एल्कीन सममित है",
+      "एल्कीन असममित है",
+      "एल्कीन चक्रीय है",
+      "एल्कीन ऐरोमेटिक है।"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Asymmetrical alkenes yield two different products upon ozonolysis[cite: 290, 292].",
+    "explanationHindi": "असममित एल्कीन ओजोनी अपघटन पर दो अलग-अलग उत्पाद देते हैं [cite: 290, 292] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "What does the burning of a fuel with a clean blue flame indicate?",
+    "qHindi": "किसी ईंधन का स्वच्छ नीली ज्वाला के साथ जलना किसका संकेत है?",
+    "optionsEnglish": [
+      "High carbon percentage",
+      "Aromatic nature",
+      "Complete combustion",
+      "Incomplete combustion"
+    ],
+    "optionsHindi": [
+      "उच्च कार्बन प्रतिशत",
+      "एरोमेटिक प्रकृति",
+      "पूर्ण दहन",
+      "अपूर्ण दहन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A clean blue flame indicates that the fuel is undergoing complete combustion with sufficient oxygen[cite: 294, 299].",
+    "explanationHindi": "एक स्वच्छ नीली लौ इंगित करती है कि ईंधन पर्याप्त ऑक्सीजन के साथ पूर्ण दहन कर रहा है [cite: 294, 299] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "A hydrocarbon decolorizes both bromine water and alkaline KMnO4 but does not react with ammoniacal AgNO3. The compound is:",
+    "qHindi": "एक हाइड्रोकार्बन ब्रोमीन जल व क्षारीय KMnO4 दोनों को रंगहीन करता है लेकिन अमोनिकल AgNO3 से अभिक्रिया नहीं देता। यौगिक है:",
+    "optionsEnglish": [
+      "Alkene",
+      "Alkane",
+      "Terminal alkyne",
+      "Benzene"
+    ],
+    "optionsHindi": [
+      "एल्कीन",
+      "एल्केन",
+      "टर्मिनल एल्काइन",
+      "बेन्जीन"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Alkenes are unsaturated (test positive for Br2 and KMnO4) but lack the acidic terminal H of alkynes[cite: 295, 300].",
+    "explanationHindi": "एल्कीन असंतृप्त होते हैं (Br2 और KMnO4 के लिए सकारात्मक परीक्षण) लेकिन उनमें एल्काइन के अम्लीय टर्मिनल H की कमी होती है [cite: 295, 300] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "What type of addition occurs in the reduction of alkenes?",
+    "qHindi": "एल्कीन के अपचयन में किस प्रकार का योग होता है?",
+    "optionsEnglish": [
+      "Syn addition",
+      "Anti addition",
+      "Markovnikov addition",
+      "Free radical addition"
+    ],
+    "optionsHindi": [
+      "सिन योग",
+      "एन्टी योग",
+      "मार्कोविनिकोव योग",
+      "मुक्त मूलक योग"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Catalytic hydrogenation of alkenes typically involves syn addition where both H atoms add from the same side[cite: 296, 301].",
+    "explanationHindi": "एल्कीन के उत्प्रेरक हाइड्रोजनीकरण में आमतौर पर सिन (Syn) योग शामिल होता है जहाँ दोनों H परमाणु एक ही तरफ से जुड़ते हैं [cite: 296, 301] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The main hydrocarbon formed by Kolbe's electrolysis of sodium acetate is?",
+    "qHindi": "सोडियम एसीटेट का कोल्बे विद्युत अपघटन से बनने वाला मुख्य हाइड्रोकार्बन है?",
+    "optionsEnglish": [
+      "CH4",
+      "C2H6",
+      "C3H8",
+      "C2H4"
+    ],
+    "optionsHindi": [
+      "CH4",
+      "C2H6",
+      "C3H8",
+      "C2H4"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The electrolysis of sodium acetate at the anode results in the formation of Ethane (C2H6)[cite: 297, 302].",
+    "explanationHindi": "एनोड पर सोडियम एसीटेट के विद्युत अपघटन के परिणामस्वरूप इथेन (C2H6) का निर्माण होता है [cite: 297, 302] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following will not give Kolbe electrolysis?",
+    "qHindi": "निम्न में से कौन कोल्बे विद्युत अपघटन नहीं देगा?",
+    "optionsEnglish": [
+      "CH3COONa",
+      "C6H5COONa",
+      "HCOONa",
+      "CH3CH2COOK"
+    ],
+    "optionsHindi": [
+      "CH3COONa",
+      "C6H5COONa",
+      "HCOONa",
+      "CH3CH2COOK"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Sodium formate (HCOONa) gives H2 at the anode instead of a hydrocarbon chain[cite: 297, 303].",
+    "explanationHindi": "सोडियम फॉर्मेट (HCOONa) एनोड पर हाइड्रोकार्बन श्रृंखला के बजाय H2 देता है [cite: 297, 303] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The product of the following reaction will be C6H6+3Cl2 (sunlight)?",
+    "qHindi": "निम्न अभिक्रिया का उत्पाद होगा C6H6+3Cl2 (सूर्य का प्रकाश)?",
+    "optionsEnglish": [
+      "C6H5Cl",
+      "ortho C6H4Cl2",
+      "C6H6Cl6",
+      "para C6H4Cl2"
+    ],
+    "optionsHindi": [
+      "C6H5Cl",
+      "ऑर्थो C6H4Cl2",
+      "C6H6Cl6",
+      "पेरा C6H4Cl2"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Under UV light/sunlight, benzene reacts with chlorine to form Benzene Hexachloride (BHC or C6H6Cl6)[cite: 298, 304].",
+    "explanationHindi": "यूवी प्रकाश/सूर्य के प्रकाश के तहत, बेंजीन क्लोरीन के साथ प्रतिक्रिया करके बेंजीन हेक्साक्लोराइड (BHC या C6H6Cl6) बनाता है [cite: 298, 304] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The formation of C4H10 from C4H6 and H4 (H2) by catalytic combination is:",
+    "qHindi": "C4H6 और H4 के उत्प्रेरकीय संयोग से C4H10 का बनना है -",
+    "optionsEnglish": [
+      "Polymerization",
+      "Chain reaction",
+      "Alkylation",
+      "Thermal decomposition"
+    ],
+    "optionsHindi": [
+      "बहुलीकरण",
+      "श्रंखलन",
+      "ऐल्कलीकरण",
+      "ताप अपघटन"
+    ],
+    "correct": 0,
+    "explanationEnglish": "This process refers to an addition/combination reaction which is often grouped under synthetic transformations[cite: 305, 306].",
+    "explanationHindi": "यह प्रक्रिया एक योग/संयोग अभिक्रिया को संदर्भित करती है जिसे अक्सर सिंथेटिक परिवर्तनों के तहत समूहीकृत किया जाता है [cite: 305, 306] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  }
+]
