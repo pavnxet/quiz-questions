@@ -1,0 +1,338 @@
+[
+  {
+    "qEnglish": "What are the unlined wells constructed for water harvesting in the Shekhawati region called in the local language?",
+    "qHindi": "शेखावाटी क्षेत्र में जल संग्रहण के लिए बनाए गए कच्चे कुओं को स्थानीय भाषा में क्या कहा जाता है?",
+    "optionsEnglish": [
+      "Nali",
+      "Nehad",
+      "Johad",
+      "Dhand"
+    ],
+    "optionsHindi": [
+      "नाली",
+      "नेहड़",
+      "जोहड़",
+      "ढाँड"
+    ],
+    "correct": 2,
+    "explanationEnglish": "In the Shekhawati region (Sikar, Jhunjhunu, Churu), traditional unlined wells for rainwater harvesting are locally known as 'Johad'[cite: 149, 155].",
+    "explanationHindi": "शेखावाटी क्षेत्र (सीकर, झुंझुनू, चूरू) में वर्षा जल संचयन के लिए बनाए गए पारंपरिक कच्चे कुओं को स्थानीय रूप से 'जोहड़' कहा जाता है [cite: 149, 155]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "Approximately what percentage of the total drainage area of Rajasthan falls under the internal drainage system?",
+    "qHindi": "राजस्थान के कुल अपवाह क्षेत्र का लगभग कितना प्रतिशत भाग आंतरिक अपवाह तंत्र के अंतर्गत आता है?",
+    "optionsEnglish": [
+      "17%",
+      "23%",
+      "60%",
+      "40%"
+    ],
+    "optionsHindi": [
+      "17%",
+      "23%",
+      "60%",
+      "40%"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Rajasthan has a unique internal drainage system where rivers do not reach the sea, accounting for about 60% of the state's total drainage[cite: 184, 191].",
+    "explanationHindi": "राजस्थान में एक अद्वितीय आंतरिक अपवाह तंत्र है जहाँ नदियाँ समुद्र तक नहीं पहुँचती हैं, जो राज्य के कुल अपवाह का लगभग 60% है [cite: 184, 191]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "Which mountain range of the Himalayas is the source of the Ghaggar River?",
+    "qHindi": "घग्घर नदी का उद्गम स्थल हिमालय की कौन सी पर्वत श्रेणी है?",
+    "optionsEnglish": [
+      "Ladakh Range",
+      "Shivalik Range",
+      "Karakoram Range",
+      "Pir Panjal Range"
+    ],
+    "optionsHindi": [
+      "लद्दाख श्रेणी",
+      "शिवालिक श्रेणी",
+      "काराकोरम श्रेणी",
+      "पीर पंजाल श्रेणी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Ghaggar River originates in the Shivalik Hills of Himachal Pradesh[cite: 185, 192].",
+    "explanationHindi": "घग्घर नदी का उद्गम हिमाचल प्रदेश की शिवालिक पहाड़ियों में होता है [cite: 185, 192]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "From which district of Rajasthan does the Chambal River enter the state?",
+    "qHindi": "चम्बल नदी राजस्थान के किस जिले से प्रवेश करती है?",
+    "optionsEnglish": [
+      "Dholpur",
+      "Kota",
+      "Sawai Madhopur",
+      "Chittorgarh"
+    ],
+    "optionsHindi": [
+      "धौलपुर",
+      "कोटा",
+      "सवाई माधोपुर",
+      "चित्तौड़गढ़"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The Chambal River enters Rajasthan at Chaurasigarh in the Chittorgarh district[cite: 186, 193].",
+    "explanationHindi": "चम्बल नदी राजस्थान में चित्तौड़गढ़ जिले के चौरासीगढ़ से प्रवेश करती है [cite: 186, 193]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "Where is the source of the Banas River located?",
+    "qHindi": "बनास नदी का उद्‌गम स्थल कहाँ स्थित है?",
+    "optionsEnglish": [
+      "Gogunda Hills",
+      "Khamnor Hills",
+      "Bairath Hills",
+      "Sevar Hills"
+    ],
+    "optionsHindi": [
+      "गोगुन्दा की पहाड़ियाँ",
+      "खमनोर की पहाड़ियाँ",
+      "बैराठ की पहाड़ियों",
+      "सेवर की पहाड़ियाँ"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Banas River originates from the Khamnor Hills in the Rajsamand district of Rajasthan[cite: 187, 194].",
+    "explanationHindi": "बनास नदी राजस्थान के राजसमंद जिले में खमनोर की पहाड़ियों से निकलती है [cite: 187, 194]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "From which place does the Banganga River, also known as 'Arjun ki Ganga', originate?",
+    "qHindi": "बाणगंगा नदी जिसे अर्जुन की गंगा' भी कहा जाता है, किस स्थान से निकलती है?",
+    "optionsEnglish": [
+      "Bichhameda Hills",
+      "Janapav Hills",
+      "Bairath Hills (Jaipur)",
+      "Vindhyachal Mountains"
+    ],
+    "optionsHindi": [
+      "बिछामेड़ा की पहाड़ियाँ",
+      "जनापाव की पहाड़ियाँ",
+      "बैराठ की पहाड़ियाँ (जयपुर)",
+      "विन्ध्याचल पर्वत"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Banganga River originates from the Bairath Hills in the Jaipur district[cite: 188, 196].",
+    "explanationHindi": "बाणगंगा नदी जयपुर जिले की बैराठ पहाड़ियों से निकलती है [cite: 188, 196]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "The Mahi River forms the border between which two southern districts of Rajasthan?",
+    "qHindi": "माही नदी राजस्थान के किन दो दक्षिणी जिलों की सीमा बनाती है?",
+    "optionsEnglish": [
+      "Kota and Bundi",
+      "Dungarpur and Banswara",
+      "Udaipur and Rajsamand",
+      "Pratapगढ़ and Chittorgarh"
+    ],
+    "optionsHindi": [
+      "कोटा और बूंदी",
+      "डूंगरपुर और बांसवाड़ा",
+      "उदयपुर और राजसमंद",
+      "प्रतापगढ़ और चित्तौड़गढ़"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Mahi River flows along the border of Banswara and Dungarpur districts in southern Rajasthan[cite: 196, 197].",
+    "explanationHindi": "माही नदी दक्षिणी राजस्थान में बांसवाड़ा और डूंगरपुर जिलों की सीमा के साथ बहती है [cite: 196, 197]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "After which place does the water of the Luni River become saline?",
+    "qHindi": "लूणी नदी का जल किस स्थान के बाद खारा हो जाता है?",
+    "optionsEnglish": [
+      "Ajmer",
+      "Jodhpur",
+      "Balotra",
+      "Jalore"
+    ],
+    "optionsHindi": [
+      "अजमेर",
+      "जोधपुर",
+      "बालोतरा",
+      "जालोर"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The water of the Luni River is fresh until Balotra (in the new Balotra/Barmer region) and turns saline thereafter due to salt deposits in the soil[cite: 199, 205].",
+    "explanationHindi": "लूणी नदी का जल बालोतरा (नये बालोतरा/बाड़मेर क्षेत्र में) तक मीठा रहता है और मिट्टी में लवणीय जमाव के कारण उसके बाद खारा हो जाता है [cite: 199, 205]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "Which river of Rajasthan flows in an 'inverted U' shape and crosses the Tropic of Cancer twice?",
+    "qHindi": "राजस्थान की कौन सी नदी 'उल्टे U' आकार में बहती है और कर्क रेखा को दो बार काटती है?",
+    "optionsEnglish": [
+      "Sabarmati",
+      "Mahi",
+      "Western Banas",
+      "Chambal"
+    ],
+    "optionsHindi": [
+      "साबरमती",
+      "माही",
+      "पश्चिमी बनास",
+      "चम्बल"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Mahi River enters Rajasthan from the south, turns back, and crosses the Tropic of Cancer twice, forming an inverted 'U' shape[cite: 200, 206].",
+    "explanationHindi": "माही नदी दक्षिण से राजस्थान में प्रवेश करती है, वापस मुड़ती है, और कर्क रेखा को दो बार काटती है, जिससे एक उल्टा 'U' आकार बनता है [cite: 200, 206]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "In which district is the confluence (Triveni Sangam) of the Som, Mahi, and Jakham rivers (Beneshwar) located?",
+    "qHindi": "सोम, माही और जाखम नदियों का त्रिवेणी संगम (बेणेश्वर) किस जिले में स्थित है?",
+    "optionsEnglish": [
+      "Banswara",
+      "Pratapगढ़",
+      "Dungarpur",
+      "Udaipur"
+    ],
+    "optionsHindi": [
+      "बांसवाड़ा",
+      "प्रतापगढ़",
+      "डूंगरपुर",
+      "उदयपुर"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Beneshwar Dham, located in the Dungarpur district, is the site of the sacred Triveni Sangam of the Som, Mahi, and Jakham rivers[cite: 201, 207].",
+    "explanationHindi": "डूंगरपुर जिले में स्थित बेणेश्वर धाम, सोम, माही और जाखम नदियों के पवित्र त्रिवेणी संगम का स्थल है [cite: 201, 207]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "Which are the main rivers that flow into Sambhar Lake?",
+    "qHindi": "सांभर झील में गिरने वाली मुख्य नदियाँ कौन सी हैं?",
+    "optionsEnglish": [
+      "Kantli and Sabi",
+      "Mentha, Rupangarh, Khari and Khandela",
+      "Luni and Sukri",
+      "Chambal and Banas"
+    ],
+    "optionsHindi": [
+      "'कांतली और साबी",
+      "मेंथा, रूपनगढ़, खारी और खंडेला",
+      "लूणी और सुकड़ी",
+      "चम्बल और बनास"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Sambhar Lake, India's largest inland salt lake, is fed by rivers like Mentha, Rupangarh, Khari, and Khandela[cite: 202, 208].",
+    "explanationHindi": "भारत की सबसे बड़ी अंतर्देशीय खारे पानी की झील, सांभर झील, मेंथा, रूपनगढ़, खारी और खंडेला जैसी नदियों द्वारा पोषित होती है [cite: 202, 208]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "Which is the highest lake in Rajasthan?",
+    "qHindi": "राजस्थान की सबसे ऊँची झील कौन सी है?",
+    "optionsEnglish": [
+      "Pichola Lake",
+      "Rajsamand Lake",
+      "Nakki Lake",
+      "Fateh Sagar Lake"
+    ],
+    "optionsHindi": [
+      "पिछोला झील",
+      "राजसमंद झील",
+      "नक्की झील",
+      "फतेहसागर झील"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Nakki Lake, located in Mount Abu (Sirohi), is the highest altitude lake in Rajasthan[cite: 203, 209].",
+    "explanationHindi": "माउंट आबू (सिरोही) में स्थित नक्की झील राजस्थान की सर्वाधिक ऊंचाई पर स्थित झील है [cite: 203, 209]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "On the banks of which lake did the Mughal Emperor Jahangir build 'Daulat Bagh' (Subhash Garden)?",
+    "qHindi": "किस झील के किनार मुगल सम्राट जहाँगीर ने 'दौलत बाग' (सुभाष उद्यान) बनवाया था?",
+    "optionsEnglish": [
+      "Pushkar Lake",
+      "Anasagar Lake",
+      "Foysagar Lake",
+      "Siliserh Lake"
+    ],
+    "optionsHindi": [
+      "पुष्कर झील",
+      "आनासागर झील",
+      "फयसागर झील",
+      "सिलीसेढ़ झील"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Emperor Jahangir built 'Daulat Bagh' (now Subhash Garden) on the banks of Anasagar Lake in Ajmer[cite: 204, 211].",
+    "explanationHindi": "सम्राट जहाँगीर ने अजमेर में आनासागर झील के किनारे 'दौलत बाग' (अब सुभाष उद्यान) बनवाया था [cite: 204, 211]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "In which language is the 'Raj Prashasti' located on the embankment of Rajsamand Lake written?",
+    "qHindi": "राजसमंद झील की पाल पर स्थित 'राज प्रशस्ति' किस भाषा में लिखी गई है?",
+    "optionsEnglish": [
+      "Hindi",
+      "Rajasthani",
+      "Sanskrit",
+      "Prakrit"
+    ],
+    "optionsHindi": [
+      "हिंदी",
+      "राजस्थानी",
+      "संस्कृत",
+      "प्राकृत"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The 'Raj Prashasti', the largest inscription in India, is written in Sanskrit on 25 black marble slabs[cite: 210, 212].",
+    "explanationHindi": "भारत का सबसे बड़ा शिलालेख 'राज प्रशस्ति', 25 काले संगमरमर के शिलापट्टों पर संस्कृत में लिखा गया है [cite: 210, 212]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "Which district in Rajasthan has the highest number of ponds, and they are the main source of irrigation?",
+    "qHindi": "राजस्थान में सर्वाधिक तालाब किस जिले में पाए जाते हैं और वे सिंचाई के प्रमुख स्रोत हैं?",
+    "optionsEnglish": [
+      "Jaipur",
+      "Bhilwara",
+      "Jodhpur",
+      "Kota"
+    ],
+    "optionsHindi": [
+      "जयपुर",
+      "भीलवाड़ा",
+      "जोधपुर",
+      "कोटा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Bhilwara district is known for having the highest number of ponds (talabs) used for agricultural irrigation in the state[cite: 215, 222].",
+    "explanationHindi": "भीलवाड़ा जिला राज्य में कृषि सिंचाई के लिए उपयोग किए जाने वाले तालाबों की सर्वाधिक संख्या के लिए जाना जाता है [cite: 215, 222]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "In which river basin of Rajasthan is 'gully erosion' most commonly observed?",
+    "qHindi": "राजस्थान में 'अवनालिका अपरदन' किस नदी बेसिन में सर्वाधिक देखने को मिलता है?",
+    "optionsEnglish": [
+      "Banas Basin",
+      "Chambal Basin",
+      "Luni Basin",
+      "Mahi Basin"
+    ],
+    "optionsHindi": [
+      "बनास बेसिन",
+      "चम्बल बेसिन",
+      "लूनी बेसिन",
+      "माही बेसिन"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Chambal Basin is famous for its 'badland topography' and extensive gully erosion (ravines)[cite: 228, 233].",
+    "explanationHindi": "चम्बल बेसिन अपनी 'उत्खात भूमि' (badland topography) और व्यापक अवनालिका अपरदन (बीहड़) के लिए प्रसिद्ध है [cite: 228, 233]।",
+    "subject": "भूगोल",
+    "topic": "अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  }
+]
