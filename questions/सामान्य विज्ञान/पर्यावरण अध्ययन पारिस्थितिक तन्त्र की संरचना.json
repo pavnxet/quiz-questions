@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "The construction of dams and reservoirs affects all of the following, except:",
+    "qHindi": "बाँधों और जलाशयों के निर्माण के फलस्वरूप निम्न सभी पर प्रभाव पड़ता है, सिवाय :",
+    "optionsEnglish": [
+      "Destruction of flora and fauna",
+      "Reservoir-induced seismicity",
+      "Waterborne diseases",
+      "Desertification"
+    ],
+    "optionsHindi": [
+      "वनस्पतियों और जीवों का हनन",
+      "जलाशय भूकंपनीयता",
+      "जलजनित बीमारियाँ",
+      "मरुस्थलीकरण"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Dams typically lead to waterlogging or changes in land use but not directly to desertification; in fact, they often provide irrigation to arid areas.",
+    "explanationHindi": "बांध आमतौर पर जलभराव या भूमि उपयोग में बदलाव का कारण बनते हैं, लेकिन सीधे तौर पर मरुस्थलीकरण का नहीं; वास्तव में, वे अक्सर शुष्क क्षेत्रों को सिंचाई प्रदान करते हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "पर्यावरण अध्ययन: पारिस्थितिक तन्त्र की संरचना"
+  }
+]
