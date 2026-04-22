@@ -1,0 +1,149 @@
+[
+  {
+    "qEnglish": "In which district of Rajasthan is 'saline and alkaline soil' mainly found?",
+    "qHindi": "राजस्थान के किस जिले में 'खारी व लवणीय मृदा' मुख्य रूप से पाई जाती है?",
+    "optionsEnglish": [
+      "Jhalawar",
+      "Barmer",
+      "Udaipur",
+      "Sawai Madhopur"
+    ],
+    "optionsHindi": [
+      "झालावाड़",
+      "बाड़मेर",
+      "उदयपुर",
+      "सवाई माधोपुर"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Saline and alkaline soils are prevalent in the western arid districts like Barmer and Jalore due to high evaporation rates[cite: 216, 223].",
+    "explanationHindi": "उच्च वाष्पीकरण दर के कारण बाड़मेर और जालौर जैसे पश्चिमी शुष्क जिलों में खारी और लवणीय मिट्टी प्रचलित है [cite: 216, 223]।",
+    "subject": "भूगोल",
+    "topic": "मृदाएं"
+  },
+  {
+    "qEnglish": "Due to the presence of which element does red-yellow soil have its red-yellow color?",
+    "qHindi": "लाल-पीली मृदा में किस तत्व की उपस्थिति के कारण इसका रंग लाल-पीला होता है?",
+    "optionsEnglish": [
+      "Phosphorus",
+      "Lime",
+      "Iron content",
+      "Nitrogen"
+    ],
+    "optionsHindi": [
+      "फास्फोरस",
+      "चूना",
+      "लौह अंश",
+      "नाइट्रोजन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The red-yellow color of the soil is primarily due to the oxidation of iron compounds (iron oxides) present in it[cite: 217, 224].",
+    "explanationHindi": "मिट्टी का लाल-पीला रंग मुख्य रूप से इसमें मौजूद लौह यौगिकों (लौह ऑक्साइड) के ऑक्सीकरण के कारण होता है [cite: 217, 224]।",
+    "subject": "भूगोल",
+    "topic": "मृदाएं"
+  },
+  {
+    "qEnglish": "Which soil of Rajasthan is also known as 'self-ploughing soil' or 'Regur soil'?",
+    "qHindi": "राजस्थान की किस मृदा को 'स्वतः जुताई वाली मृदा' या 'रेगुर मृदा' के नाम से भी जाना जाता है?",
+    "optionsEnglish": [
+      "Brown sandy soil",
+      "Alluvial soil",
+      "Black soil",
+      "Red loamy soil"
+    ],
+    "optionsHindi": [
+      "भूरी रेतीली मृदा",
+      "कछारी मृदा",
+      "काली मृदा",
+      "लाल-लोमी मृदा"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Black soil (Vertisols), found in the Hadoti region, is called 'self-ploughing soil' because it develops deep cracks when dry, facilitating aeration[cite: 218, 225].",
+    "explanationHindi": "हाड़ौती क्षेत्र में पाई जाने वाली काली मिट्टी (वर्टिसोल्स) को 'स्वतः जुताई वाली मिट्टी' कहा जाता है क्योंकि सूखने पर इसमें गहरी दरारें विकसित हो जाती हैं, जिससे वातन (aeration) में मदद मिलती है [cite: 218, 225]।",
+    "subject": "भूगोल",
+    "topic": "मृदाएं"
+  },
+  {
+    "qEnglish": "How many categories have the soils of the state been classified into by the Agriculture Department of Rajasthan?",
+    "qHindi": "राजस्थान के कृषि विभाग द्वारा प्रदेश की मिट्टियों को कितने भागों में वर्गीकृत किया गया है?",
+    "optionsEnglish": [
+      "5 categories",
+      "10 categories",
+      "14 categories",
+      "8 categories"
+    ],
+    "optionsHindi": [
+      "5 भाग",
+      "10 भाग",
+      "14 भाग",
+      "8 भाग"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Agriculture Department of Rajasthan has classified the state's soils into 14 distinct groups based on fertility and characteristics[cite: 219].",
+    "explanationHindi": "राजस्थान के कृषि विभाग ने उर्वरता और विशेषताओं के आधार पर राज्य की मिट्टियों को 14 अलग-अलग समूहों में वर्गीकृत किया है [cite: 219]।",
+    "subject": "भूगोल",
+    "topic": "मृदाएं"
+  },
+  {
+    "qEnglish": "According to the modern scientific classification (USDA), which soil type is found in the largest area in Rajasthan?",
+    "qHindi": "आधुनिक वैज्ञानिक वर्गीकरण (USDA) के अनुसार, राजस्थान में सर्वाधिक विस्तृत क्षेत्र पर कौन-सी मृदा पाई जाती है?",
+    "optionsEnglish": [
+      "Alfisol",
+      "Vertisol",
+      "Aridisol",
+      "Inceptisol"
+    ],
+    "optionsHindi": [
+      "अल्फीसॉल",
+      "वर्टीसॉल",
+      "एरिडोसोल",
+      "इन्सेप्टीसॉल"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Aridisols are the most extensive soil orders in Rajasthan, covering the vast arid and semi-arid regions of the state[cite: 220, 226].",
+    "explanationHindi": "राजस्थान में एरिडोसोल (Aridisols) सबसे विस्तृत मृदा क्रम है, जो राज्य के विशाल शुष्क और अर्ध-शुष्क क्षेत्रों को कवर करता है [cite: 220, 226]।",
+    "subject": "भूगोल",
+    "topic": "मृदाएं"
+  },
+  {
+    "qEnglish": "By what other name is soil erosion known, which reflects its severity?",
+    "qHindi": "मृदा अपरदन को किस अन्य नाम से भी जाना जाता है, जो इसकी गंभीरता को दर्शाता है?",
+    "optionsEnglish": [
+      "Waterlogging",
+      "Creeping Death",
+      "Capillarity",
+      "Land Degradation"
+    ],
+    "optionsHindi": [
+      "जल भराव",
+      "रेंगती हुई मौत",
+      "केशिकत्व",
+      "भू-अवनयन"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Soil erosion is often called the 'Creeping Death' of the land because it slowly but surely destroys the fertile top layer[cite: 229, 234].",
+    "explanationHindi": "मृदा अपरदन को अक्सर भूमि की 'रेंगती हुई मौत' कहा जाता है क्योंकि यह धीरे-धीरे लेकिन निश्चित रूप से उपजाऊ ऊपरी परत को नष्ट कर देता है [cite: 229, 234]।",
+    "subject": "भूगोल",
+    "topic": "मृदाएं"
+  },
+  {
+    "qEnglish": "Which trees are planted to solve the problem of 'waterlogging' caused by excessive irrigation in canal areas?",
+    "qHindi": "नहरी क्षेत्रों में सिंचाई के कारण उत्पन्न होने वाली 'सेम' (जलाक्रान्ता) की समस्या के समाधान हेतु किन वृक्षों का रोपण किया जाता है?",
+    "optionsEnglish": [
+      "Babool",
+      "Khejri",
+      "Eucalyptus",
+      "Neem"
+    ],
+    "optionsHindi": [
+      "बबूल",
+      "खेजड़ी",
+      "यूकेलिप्टस (सफेदा)",
+      "नीम"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Eucalyptus (Safeda) trees are planted in waterlogged canal areas because they transpire vast amounts of water, helping to lower the water table[cite: 230, 235].",
+    "explanationHindi": "नहरी जलभराव (सेम) क्षेत्रों में यूकेलिप्टस (सफेदा) के पेड़ लगाए जाते हैं क्योंकि वे भारी मात्रा में जल का वाष्पोत्सर्जन करते हैं, जिससे जल स्तर को कम करने में मदद मिलती है [cite: 230, 235]।",
+    "subject": "भूगोल",
+    "topic": "मृदाएं"
+  }
+]
