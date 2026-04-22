@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "According to Köppen's climate classification, which climate region does the code 'BWhw' represent?",
+    "qHindi": "कोपेन के जलवायु वर्गीकरण के अनुसार 'BWhw' कोड किस जलवायु प्रदेश को दर्शाता है?",
+    "optionsEnglish": [
+      "Tropical Humid Region",
+      "Sub-humid Climate Region",
+      "Tropical Dry Climate Region",
+      "Semi-arid or Steppe Region"
+    ],
+    "optionsHindi": [
+      "उष्ण कटिबंधीय आर्द्र प्रदेश",
+      "उप-आर्द्र जलवायु प्रदेश",
+      "उष्ण कटिबंधीय शुष्क जलवायु प्रदेश",
+      "अर्दधशुष्क या स्टेपी प्रदेश"
+    ],
+    "correct": 2,
+    "explanationEnglish": "In Köppen's classification, 'BWhw' stands for the Hot Desert Climate (Tropical Arid), which covers the westernmost parts of Rajasthan[cite: 181, 189].",
+    "explanationHindi": "कोपेन के वर्गीकरण में, 'BWhw' का अर्थ उष्ण मरुस्थलीय जलवायु (उष्ण कटिबंधीय शुष्क) है, जो राजस्थान के सबसे पश्चिमी हिस्सों को कवर करती है [cite: 181, 189]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु वर्गीकरण (कोपेन)"
+  }
+]
