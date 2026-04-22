@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "According to the 'Economic Survey 2024-25', what percentage higher was the actual rainfall in Rajasthan during the year 2024 (June-September) compared to the normal rainfall?",
+    "qHindi": "'आर्थिक समीक्षा 2024-25' के अनुसार वर्ष 2024 (जून-सितम्बर) में हुई वास्तविक वर्षा सामान्य से कितने प्रतिशत अधिक रही?",
+    "optionsEnglish": [
+      "15.50%",
+      "35.25%",
+      "58.68%",
+      "75.10%"
+    ],
+    "optionsHindi": [
+      "15.50%",
+      "35.25%",
+      "58.68%",
+      "75.10%"
+    ],
+    "correct": 2,
+    "explanationEnglish": "As per current data, the year 2024 saw exceptionally high rainfall in Rajasthan, being 58.68% above the long-term normal[cite: 171, 177].",
+    "explanationHindi": "वर्तमान आंकड़ों के अनुसार, वर्ष 2024 में राजस्थान में अत्यधिक वर्षा हुई, जो दीर्घकालिक सामान्य से 58.68% अधिक थी [cite: 171, 177]।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था"
+  }
+]
