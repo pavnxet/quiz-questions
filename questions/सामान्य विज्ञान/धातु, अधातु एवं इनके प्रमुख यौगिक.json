@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "What is used as a catalyst in the Friedel-Crafts reaction?",
+    "qHindi": "फ्रीडल क्राफ्ट अभिक्रिया में उत्प्रेरक के रूप में क्या प्रयोग होता है?",
+    "optionsEnglish": [
+      "H2SO4",
+      "ZnCl2",
+      "AlCl3",
+      "FeCl3"
+    ],
+    "optionsHindi": [
+      "H2SO4",
+      "ZnCl2",
+      "AlCl3",
+      "FeCl3"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Anhydrous AlCl3 is a Lewis acid commonly used as a catalyst in Friedel-Crafts alkylation/acylation[cite: 284, 287].",
+    "explanationHindi": "निर्जल AlCl3 एक लुईस एसिड है जिसका उपयोग आमतौर पर फ्रीडल-क्राफ्ट अल्काइलेशन/एसिलेशन में उत्प्रेरक के रूप में किया जाता है [cite: 284, 287] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  }
+]
