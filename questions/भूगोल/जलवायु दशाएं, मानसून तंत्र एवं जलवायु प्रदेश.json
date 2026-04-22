@@ -1,0 +1,191 @@
+[
+  {
+    "qEnglish": "What is the generally accepted length of time for weather conditions used to define the climate of Rajasthan?",
+    "qHindi": "राजस्थान की जलवायु को परिभाषित करने के लिए लंबी समयावधि की मौसम स्थितियों को आधार माना जाता है सामान्यतः कितनी लंबी समयावधि?",
+    "optionsEnglish": [
+      "More than 10 years",
+      "More than 20 years",
+      "More than 30 years",
+      "More than 50 years"
+    ],
+    "optionsHindi": [
+      "10 वर्ष से अधिक",
+      "20 वर्ष से अधिक",
+      "30 वर्ष से अधिक",
+      "50 वर्ष से अधिक"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Climate is defined as the average weather patterns over a long period, typically 30 years or more[cite: 153, 159].",
+    "explanationHindi": "जलवायु को एक लंबी अवधि, आमतौर पर 30 वर्ष या उससे अधिक समय के औसत मौसम पैटर्न के रूप में परिभाषित किया जाता है [cite: 153, 159]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "The 'Mawath' rainfall in Rajasthan is caused by which cyclones?",
+    "qHindi": "राजस्थान में 'मावठ' की वर्षा किन चक्रवातों के कारण होती है?",
+    "optionsEnglish": [
+      "Bay of Bengal cyclones",
+      "Arabian Sea cyclones",
+      "Western Disturbances (Mediterranean cyclones)",
+      "Indian Ocean cyclones"
+    ],
+    "optionsHindi": [
+      "बंगाल की खाड़ी के चक्रवात",
+      "अरब सागर के चक्रवात",
+      "पश्चिमी विक्षोभ (भूमध्य सागरीय चक्रवात)",
+      "हिंद महासागरीय चक्रवात"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Winter rainfall in Rajasthan, known as 'Mawath', is caused by Western Disturbances originating from the Mediterranean Sea[cite: 161].",
+    "explanationHindi": "राजस्थान में सर्दियों में होने वाली वर्षा, जिसे 'मावठ' कहा जाता है, भूमध्य सागर से उत्पन्न होने वाले पश्चिमी विक्षोभों के कारण होती है [cite: 161]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "Which district of Rajasthan shows the highest 'variability' in annual rainfall?",
+    "qHindi": "राजस्थान के किस जिले में वार्षिक वर्षा में सर्वाधिक 'परिवर्तनशीलता' पाई जाती है?",
+    "optionsEnglish": [
+      "Jhalawar",
+      "Jaisalmer",
+      "Kota",
+      "Sirohi"
+    ],
+    "optionsHindi": [
+      "झालावाड़",
+      "जैसलमेर",
+      "कोटा",
+      "सिरोही"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Jaisalmer district has the lowest annual rainfall and consequently the highest coefficient of variation (variability) in rainfall[cite: 163, 171].",
+    "explanationHindi": "जैसलमेर जिले में वार्षिक वर्षा सबसे कम होती है और परिणामस्वरूप वर्षा में सर्वाधिक परिवर्तनशीलता (वार्षिक वर्षा में भिन्नता) पाई जाती है [cite: 163, 171]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "What are the extremely hot and dry winds that blow in the western desert region of Rajasthan during the summer season called?",
+    "qHindi": "ग्रीष्म ऋतु में राजस्थान के पश्चिमी मरुस्थलीय भाग में चलने वाली अत्यंत गर्म और शुष्क हवाओं को क्या कहा जाता है?",
+    "optionsEnglish": [
+      "Winter rain (Mawath)",
+      "Hot wind (Loo)",
+      "Cyclone",
+      "Easterly wind"
+    ],
+    "optionsHindi": [
+      "मावठ",
+      "लू",
+      "चक्रवात",
+      "पुरवाई"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The scorching, dusty, and dry winds that blow across Rajasthan in summer are locally known as 'Loo'[cite: 165, 172].",
+    "explanationHindi": "ग्रीष्मकाल में राजस्थान में चलने वाली अत्यंत गर्म, धूल भरी और शुष्क हवाओं को स्थानीय रूप से 'लू' कहा जाता है [cite: 165, 172]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "In which district of Rajasthan do the most dust storms occur?",
+    "qHindi": "राजस्थान में सर्वाधिक आँधियाँ किस जिले में आती हैं?",
+    "optionsEnglish": [
+      "Jaisalmer",
+      "Bikaner",
+      "Sri Ganganagar",
+      "Jodhpur"
+    ],
+    "optionsHindi": [
+      "जैसलमेर",
+      "बीकानेर",
+      "श्रीगंगानगर",
+      "जोधपुर"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Sri Ganganagar experiences the highest average number of dusty storm days (approx. 27 days) per year in Rajasthan[cite: 166, 173].",
+    "explanationHindi": "श्रीगंगानगर में राजस्थान में प्रति वर्ष धूल भरी आँधियों के दिनों की औसत संख्या सर्वाधिक (लगभग 27 दिन) होती है [cite: 166, 173]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "What is considered the normal date for the arrival of the monsoon in Rajasthan?",
+    "qHindi": "राजस्थान में मानसून के प्रवेश की सामान्य तिथि क्या मानी जाती है?",
+    "optionsEnglish": [
+      "June 1",
+      "June 15",
+      "July 1",
+      "July 15"
+    ],
+    "optionsHindi": [
+      "1 जून",
+      "15 जून",
+      "1 जुलाई",
+      "15 जुलाई"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The normal arrival date of the southwest monsoon in Rajasthan is June 15, usually entering through the southern and southeastern parts[cite: 167, 174].",
+    "explanationHindi": "राजस्थान में दक्षिण-पश्चिमी मानसून के प्रवेश की सामान्य तिथि 15 जून है, जो आमतौर पर दक्षिणी और दक्षिण-पूर्वी भागों से प्रवेश करती है [cite: 167, 174]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "In which part of Rajasthan does the Arabian Sea monsoon branch receive the most rainfall?",
+    "qHindi": "राजस्थान के किस भाग में अरब सागर की मानसूनी शाखा से सर्वाधिक वर्षा होती है?",
+    "optionsEnglish": [
+      "Northern Rajasthan",
+      "Eastern Rajasthan",
+      "Western Rajasthan",
+      "Southern Rajasthan (mainly Sirohi)"
+    ],
+    "optionsHindi": [
+      "उत्तरी राजस्थान",
+      "पूर्वी राजस्थान",
+      "पश्चिमी राजस्थान",
+      "दक्षिणी राजस्थान (मुख्यतः सिरोही)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The Arabian Sea branch of the monsoon enters through Southern Rajasthan, providing significant rainfall to the high-altitude areas like Sirohi (Mt. Abu)[cite: 168, 175].",
+    "explanationHindi": "मानसून की अरब सागर शाखा दक्षिणी राजस्थान से प्रवेश करती है, जो सिरोही (माउंट आबू) जैसे ऊंचाई वाले क्षेत्रों में महत्वपूर्ण वर्षा प्रदान करती है [cite: 168, 175]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "Which isohyet divides Rajasthan into two distinct climatic regions (western and eastern)?",
+    "qHindi": "राजस्थान को दो स्पष्ट जलवायु भागों (पश्चिमी और पूर्वी) में विभाजित करने वाली समवर्षा रेखा कौन सी है?",
+    "optionsEnglish": [
+      "25 cm isohyet",
+      "50 cm isohyet",
+      "75 cm isohyet",
+      "100 cm isohyet"
+    ],
+    "optionsHindi": [
+      "25 सेमी. समवर्षा रेखा",
+      "50 सेमी. समवर्षा रेखा",
+      "75 सेमी. समवर्षा रेखा",
+      "100 सेमी. समवर्षा रेखा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The 50 cm isohyet, which roughly aligns with the Aravalli range, divides Rajasthan into the arid/semi-arid west and the more humid east[cite: 169, 176].",
+    "explanationHindi": "50 सेमी. समवर्षा रेखा, जो लगभग अरावली श्रेणी के साथ संरेखित होती है, राजस्थान को शुष्क/अर्द्ध-शुष्क पश्चिम और अधिक आर्द्र पूर्व में विभाजित करती है [cite: 169, 176]।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "Which is the 'wettest' district of Rajasthan where the highest rainfall occurs?",
+    "qHindi": "राजस्थान का सबसे 'आर्द्र' जिला कौन सा है जहाँ सर्वाधिक वर्षा होती है?",
+    "optionsEnglish": [
+      "Sirohi",
+      "Jhalawar",
+      "Banswara",
+      "Kota"
+    ],
+    "optionsHindi": [
+      "सिरोही",
+      "झालावाड़",
+      "बाँसवाड़ा",
+      "कोटा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Jhalawar is the district receiving the highest annual rainfall (approx. 100 cm) in Rajasthan[cite: 179]. Note: Mount Abu is the wettest 'place', but Jhalawar is the wettest 'district'.",
+    "explanationHindi": "झालावाड़ राजस्थान में सर्वाधिक वार्षिक वर्षा (लगभग 100 सेमी) प्राप्त करने वाला जिला है [cite: 179] । नोट: माउंट आबू सबसे आर्द्र 'स्थान' है, लेकिन झालावाड़ सबसे आर्द्र 'जिला' है।",
+    "subject": "भूगोल",
+    "topic": "जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  }
+]
