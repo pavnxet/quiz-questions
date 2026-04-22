@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Which of the following rays cannot be seen by the eyes?",
+    "qHindi": "निम्नलिखित में से कौन-सी किरणें आँखों से नहीं देखी जा सकती है?",
+    "optionsEnglish": [
+      "Ultraviolet rays",
+      "Gamma rays",
+      "Infrared rays",
+      "All of the above"
+    ],
+    "optionsHindi": [
+      "पराबैंगनी किरणें",
+      "गामा किरणें",
+      "अवरक्त किरणें",
+      "उपर्युक्त सभी"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The human eye can only see the visible spectrum; UV, Gamma, and IR rays are outside this range[cite: 270, 272].",
+    "explanationHindi": "मानव आँख केवल दृश्य स्पेक्ट्रम देख सकती है; पराबैंगनी, गामा और अवरक्त किरणें इस सीमा से बाहर हैं [cite: 270, 272] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "प्रकाश का वर्ण विश्लेषण"
+  }
+]
