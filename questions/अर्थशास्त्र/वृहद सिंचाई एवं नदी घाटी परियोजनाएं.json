@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "What is Rajasthan's rank in the country in the implementation of the Pradhan Mantri Kusum Yojana (PM-KUSUM)?",
+    "qHindi": "प्रधानमंत्री कुसुम योजना (PM-KUSUM) के क्रियान्वयन में राजस्थान का देश में कौन सा स्थान है?",
+    "optionsEnglish": [
+      "First",
+      "Second",
+      "Third",
+      "Fifth"
+    ],
+    "optionsHindi": [
+      "प्रथम",
+      "द्वितीय",
+      "तृतीय",
+      "पाँचवाँ"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Rajasthan consistently holds the first rank in India for installing solar pumps and implementing the PM-KUSUM scheme.",
+    "explanationHindi": "सौर पंप स्थापित करने और पीएम-कुसुम योजना को लागू करने में राजस्थान भारत में लगातार प्रथम स्थान पर है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "वृहद सिंचाई एवं नदी घाटी परियोजनाएं"
+  }
+]
