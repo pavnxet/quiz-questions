@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Kamlesh Sharma, the craftswoman from Rajasthan who received the 'Shilp Guru' award in 2024, is associated with which craft?",
+    "qHindi": "वर्ष 2024 का शिल्प गुरु' पुरस्कार प्राप्त करने वाली राजस्थान की शिल्पकार कमलेश शर्मा का संबंध किस शिल्प कला से है?",
+    "optionsEnglish": [
+      "Meenakari craft",
+      "Terracotta craft",
+      "Wood craft (Inlay work on tables)",
+      "Metal craft"
+    ],
+    "optionsHindi": [
+      "मीनाकारी शिल्प",
+      "टेराकोटा शिल्प",
+      "वुड क्राफ्ट (मेज पर तारकशी)",
+      "धातु शिल्प"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Kamlesh Sharma is recognized for her excellence in the traditional wood craft involving intricate inlay work on furniture/tables.",
+    "explanationHindi": "कमलेश शर्मा को फर्नीचर/मेजों पर जटिल तारकशी (इनले वर्क) वाली पारंपरिक लकड़ी शिल्प कला में उनकी उत्कृष्टता के लिए पहचाना जाता है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थानी हस्तकला"
+  }
+]
