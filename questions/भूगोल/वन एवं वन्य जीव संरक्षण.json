@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Which is the latest (5th) Ramsar site of Rajasthan declared in December 2025?",
+    "qHindi": "दिसम्बर 2025 में घोषित राजस्थान की नवीनतम (5वीं) रामसर साइट कौन सी है?",
+    "optionsEnglish": [
+      "Sambhar Lake (Jaipur)",
+      "Siliserh Lake (Alwar)",
+      "Khichan (Phalodi)",
+      "Menar (Udaipur)"
+    ],
+    "optionsHindi": [
+      "सांभर झील (जयपुर)",
+      "सिलीसेढ़ झील (अलवर)",
+      "खींचन (फलोदी)",
+      "मेनार (उदयपुर)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Khichan in Phalodi, known for migratory Demoiselle Cranes, was declared a Ramsar site in December 2025.",
+    "explanationHindi": "फलोदी के खींचन को, जो प्रवासी कुरजां पक्षियों (डिमोसेले क्रेन) के लिए जाना जाता है, दिसंबर 2025 में रामसर साइट घोषित किया गया था।",
+    "subject": "भूगोल",
+    "topic": "वन एवं वन्य जीव संरक्षण"
+  }
+]
