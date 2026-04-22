@@ -1,0 +1,653 @@
+[
+  {
+    "qEnglish": "The approximate ratio of resistances in forward bias and reverse bias configurations of a PN junction diode is: [cite: 324]",
+    "qHindi": "PN- संधि डायोड के अग्र अभिनति तथा उत्क्रमित वायस व्यवस्था में प्रतिरोधों का लगभग अनुपात होता है [cite: 324]",
+    "optionsEnglish": [
+      "10^2 : 1",
+      "10^-2 : 1",
+      "1 : 10^2",
+      "1 : 10^4"
+    ],
+    "optionsHindi": [
+      "10^2 : 1",
+      "10^-2 : 1",
+      "1 : 10^2",
+      "1 : 10^4"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Forward resistance is low (approx. 10-100 ohms) while reverse resistance is very high (approx. 10^6 ohms), giving a typical ratio of 1 : 10^4. [cite: 324]",
+    "explanationHindi": "अग्र प्रतिरोध कम (लगभग 10-100 ओम) होता है जबकि उत्क्रम प्रतिरोध बहुत अधिक (लगभग 10^6 ओम) होता है, जो 1 : 10^4 का विशिष्ट अनुपात देता है। [cite: 324]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The reason for the formation of holes in a junction diode is: [cite: 325]",
+    "qHindi": "संधि डायोड में होल (Holes) बनने का कारण है [cite: 325]",
+    "optionsEnglish": [
+      "Protons",
+      "Neutrons",
+      "Excess electrons",
+      "Loss of electrons"
+    ],
+    "optionsHindi": [
+      "प्रोटॉन",
+      "न्यूट्रॉन",
+      "अतिरिक्त इलेक्ट्रॉन",
+      "इलेक्ट्रॉनों का खोना"
+    ],
+    "correct": 3,
+    "explanationEnglish": "A hole is created in the valence band of a semiconductor when an electron gains enough energy to jump to the conduction band. [cite: 325]",
+    "explanationHindi": "अर्धचालक के वैलेंस बैंड में एक होल तब बनता है जब एक इलेक्ट्रॉन कंडक्शन बैंड में जाने के लिए पर्याप्त ऊर्जा प्राप्त करता है। [cite: 325]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In a PN junction diode, the width of the potential barrier in the forward bias condition: [cite: 325]",
+    "qHindi": "PN संधि डायोड में अग्र अभिनति की अवस्था में विभव प्राचीर की चौड़ाई [cite: 325]",
+    "optionsEnglish": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "First increases and then decreases"
+    ],
+    "optionsHindi": [
+      "बढ़ती है",
+      "घटती है",
+      "स्थिर रहती है",
+      "पहले बढ़ती है और फिर घटती"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Forward biasing opposes the built-in potential, reducing the width of the depletion layer and the potential barrier. [cite: 325]",
+    "explanationHindi": "अग्र अभिनति (Forward biasing) अंतर्निहित विभव का विरोध करती है, जिससे अवक्षय परत की चौड़ाई और विभव प्राचीर कम हो जाती है। [cite: 325]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The cause of the potential barrier in a PN diode is: [cite: 326]",
+    "qHindi": "PN डायोड में विभव प्राचीर का कारण है [cite: 326]",
+    "optionsEnglish": [
+      "Depletion of positive charges near the junction",
+      "Concentration of positive charges near the junction",
+      "Depletion of negative charges near the junction",
+      "Concentration of positive and negative ions near the junction"
+    ],
+    "optionsHindi": [
+      "सन्धि के निकट धन आवेशों का अवक्षय",
+      "सन्धि के निकट धन आवेशों की सान्द्रता",
+      "सन्धि के निकट ऋण आवेशों की अवक्षय",
+      "सन्धि के निकट धन व ऋण आयनों की सान्द्रता"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The potential barrier is formed by immobile positive ions in the N-region and negative ions in the P-region near the junction. [cite: 326]",
+    "explanationHindi": "विभव प्राचीर संधि के पास N-क्षेत्र में अचल धनात्मक आयनों और P-क्षेत्र में ऋणात्मक आयनों द्वारा बनता है। [cite: 326]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In a PN junction diode that is not connected to any circuit: [cite: 328]",
+    "qHindi": "किसी PN संधि डायोड में जो किसी परिपथ में जुड़ा हुआ नहीं है [cite: 328]",
+    "optionsEnglish": [
+      "The potential will be the same everywhere",
+      "The potential of the P-type will be higher than the N-type",
+      "An electric field exists at the junction directed from N-type to P-type",
+      "An electric field exists at the junction directed from P-type to N-type"
+    ],
+    "optionsHindi": [
+      "सभी जगह विभव समान होगा",
+      "P-प्रकार का विभव N-प्रकार से उच्च होगा",
+      "संधि पर एक विद्युत क्षेत्र होगा जिसकी दिशा N-प्रकार से P-प्रकार की ओर होगी",
+      "संधि पर एक विद्युत क्षेत्र होगा जिसकी दिशा P-प्रकार से N-प्रकार की ओर होगी"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Due to the diffusion of carriers, a built-in electric field is established at the junction pointing from N to P. [cite: 328]",
+    "explanationHindi": "वाहकों के विसरण के कारण, संधि पर N से P की ओर इशारा करते हुए एक अंतर्निहित विद्युत क्षेत्र स्थापित होता है। [cite: 328]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "Which of the following statements is false? [cite: 327, 329]",
+    "qHindi": "निम्न में से कौनसा कथन असत्य है [cite: 327, 329]",
+    "optionsEnglish": [
+      "Intrinsic semiconductor resistance decreases with temperature",
+      "Doping Si with a trivalent impurity forms a P-type semiconductor",
+      "In an N-type semiconductor, the majority carriers are holes",
+      "A PN junction can behave like a semiconductor diode"
+    ],
+    "optionsHindi": [
+      "निज अर्दधचालक का प्रतिरोध तापक्रम वृद्धि के साथ घटता है",
+      "Si में त्रिसंयोजी अशुद्धि की डोपिंग से P-प्रकार का अर्धचालक बनता है",
+      "N-प्रकार अर्धचालक में बहुसंख्यक वाहक होल होते हैं",
+      "एक PN सन्धि अर्धचालक डायोड की तरह व्यवहार कर सकता है"
+    ],
+    "correct": 2,
+    "explanationEnglish": "In an N-type semiconductor, electrons are the majority carriers and holes are the minority carriers. [cite: 327, 329]",
+    "explanationHindi": "N-प्रकार के अर्धचालक में, इलेक्ट्रॉन बहुसंख्यक वाहक होते हैं और होल अल्पसंख्यक वाहक होते हैं। [cite: 327, 329]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "Avalanche current flows in a PN junction when it is: [cite: 329]",
+    "qHindi": "PN सन्धि में एवलाश (Avalanche) धारा बहती है जबकि [cite: 329]",
+    "optionsEnglish": [
+      "Forward biased",
+      "Reverse biased",
+      "Zero biased",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "अग्र अभिनति",
+      "पश्च अभिनति",
+      "शून्य",
+      "अधिक"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Avalanche breakdown occurs in a reverse-biased PN junction when a high electric field imparts enough energy to carriers to cause impact ionization. [cite: 329]",
+    "explanationHindi": "एवलांश ब्रेकडाउन एक पश्च-अभिनत PN संधि में तब होता है जब एक उच्च विद्युत क्षेत्र वाहकों को संघट्ट आयनीकरण (impact ionization) करने के लिए पर्याप्त ऊर्जा प्रदान करता है। [cite: 329]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The depletion layer in a PN junction region is formed due to: [cite: 330]",
+    "qHindi": "PN संधि क्षेत्र में अवक्षय परत बनती है [cite: 330]",
+    "optionsEnglish": [
+      "Drift of holes",
+      "Diffusion of charge carriers",
+      "Migration of impurity ions",
+      "Drift of electrons"
+    ],
+    "optionsHindi": [
+      "होलों के अनुगमन के कारण",
+      "आवेश वाहकों के विसरण के कारण",
+      "अशुद्धि आयनों के पलायन के कारण",
+      "इलेक्ट्रॉनों के अनुगमन के कारण"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The depletion region is formed when electrons from the N-side and holes from the P-side diffuse across the junction and recombine. [cite: 330]",
+    "explanationHindi": "अवक्षय क्षेत्र तब बनता है जब N-पक्ष के इलेक्ट्रॉन और P-पक्ष के होल संधि के पार विसरित होते हैं और पुनर्संयोजित (recombine) होते हैं। [cite: 330]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "Which of the following is reverse biased? [cite: 331, 332]",
+    "qHindi": "निम्न में से कौन सा उत्क्रम अभिनत है [cite: 331, 332]",
+    "optionsEnglish": [
+      "P (+15V) to N (+10V)",
+      "P (-5V) to N (-10V)",
+      "P (-10V) to N (-5V)",
+      "P (+10V) to N (+5V)"
+    ],
+    "optionsHindi": [
+      "P (+15V) to N (+10V)",
+      "P (-5V) to N (-10V)",
+      "P (-10V) to N (-5V)",
+      "P (+10V) to N (+5V)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A diode is reverse biased when the P-side is at a lower potential (-10V) than the N-side (-5V). [cite: 331, 332]",
+    "explanationHindi": "एक डायोड तब पश्च-अभिनत (reverse biased) होता है जब P-पक्ष N-पक्ष (-5V) की तुलना में कम विभव (-10V) पर होता है। [cite: 331, 332]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In a PN junction diode, if the P region is more heavily doped than the N region, the depletion layer will be: [cite: 330, 331]",
+    "qHindi": "PN सन्धि डायोड में यदि P क्षेत्र को N क्षेत्र से अधिक अपमिश्रित किया जाये तो अवक्षय पर्त होगी [cite: 330, 331]",
+    "optionsEnglish": [
+      "Thicker in the P region",
+      "Thicker in the N region",
+      "Of equal thickness in both regions",
+      "No depletion layer will be formed"
+    ],
+    "optionsHindi": [
+      "P क्षेत्र में अधिक मोटी",
+      "N क्षेत्र में अधिक मोटी",
+      "दोनों क्षेत्रों में समान मोटाई की",
+      "कोई अवक्षय पर्त नहीं बनेगी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The depletion layer extends deeper into the more lightly doped (N) region. [cite: 330, 331]",
+    "explanationHindi": "अवक्षय परत कम अपमिश्रित (N) क्षेत्र में अधिक गहराई तक फैली होती है। [cite: 330, 331]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In forward bias, the current flow in a PN junction is due to: [cite: 331, 334]",
+    "qHindi": "अग्र अभिनति में, PN सन्धि में धारा प्रवाह का कारण है [cite: 331, 334]",
+    "optionsEnglish": [
+      "Drift of charge carriers",
+      "Majority charge carriers",
+      "Diffusion of charge carriers",
+      "All of the above"
+    ],
+    "optionsHindi": [
+      "आवेश वाहकों का अनुगमन",
+      "बहुसंख्यक आवेश वाहक",
+      "आवेश वाहकों का विसरण",
+      "उपरोक्त सभी"
+    ],
+    "correct": 3,
+    "explanationEnglish": "In forward bias, current is primarily due to the diffusion of majority carriers across the junction, aided by drift. [cite: 331, 334]",
+    "explanationHindi": "अग्र अभिनति में, धारा मुख्य रूप से संधि के पार बहुसंख्यक वाहकों के विसरण के कारण होती है, जिसमें अनुगमन (drift) द्वारा सहायता मिलती है। [cite: 331, 334]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The reverse bias resistance of a PN junction diode is approximately: [cite: 331, 334]",
+    "qHindi": "PN सन्धि डायोड की उत्क्रम अभिनति का प्रतिरोध है लगभग [cite: 331, 334]",
+    "optionsEnglish": [
+      "1 ohm",
+      "10^2 ohm",
+      "10^3 ohm",
+      "10^6 ohm"
+    ],
+    "optionsHindi": [
+      "1 ohm",
+      "10^2 ohm",
+      "10^3 ohm",
+      "10^6 ohm"
+    ],
+    "correct": 3,
+    "explanationEnglish": "A PN junction in reverse bias offers a very high resistance, typically around 10^6 ohms. [cite: 331, 334]",
+    "explanationHindi": "पश्च अभिनति में एक PN संधि बहुत उच्च प्रतिरोध प्रदान करती है, जो आमतौर पर लगभग 10^6 ओम होता है। [cite: 331, 334]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The function of a rectifier is to: [cite: 335]",
+    "qHindi": "दिष्टकारी का कार्य होता है [cite: 335]",
+    "optionsEnglish": [
+      "Convert AC to DC",
+      "Convert DC to AC",
+      "Both a and b",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "ac को de में परिवर्तित करना",
+      "dc को ac में परिवर्तित करना",
+      "a तथा b दोनों",
+      "उपरोक्त में से कोई नहीं"
+    ],
+    "correct": 0,
+    "explanationEnglish": "A rectifier is an electrical device that converts alternating current (AC) to direct current (DC). [cite: 335]",
+    "explanationHindi": "दिष्टकारी (Rectifier) एक विद्युत उपकरण है जो प्रत्यावर्ती धारा (AC) को दिष्ट धारा (DC) में परिवर्तित करता है। [cite: 335]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "When the P terminal of a PN junction is connected to the negative and N to the positive terminal of the battery, it behaves as: [cite: 335, 336]",
+    "qHindi": "जब PN सन्धि का P सिरा बैटरी के ऋण सिरे से तथा N सिरा बैटरी के धन सिरे से जोड़ दिया जाये तो यह व्यवहार करेगा: [cite: 335, 336]",
+    "optionsEnglish": [
+      "Conductor",
+      "Insulator",
+      "Superconductor",
+      "Semiconductor"
+    ],
+    "optionsHindi": [
+      "चालक",
+      "कुचालक",
+      "अतिचालक",
+      "अर्दधचालक"
+    ],
+    "correct": 1,
+    "explanationEnglish": "This configuration is reverse bias, where the depletion layer wide and resistance is high, mimicking an insulator. [cite: 335, 336]",
+    "explanationHindi": "यह विन्यास पश्च अभिनति (reverse bias) है, जहाँ अवक्षय परत चौड़ी होती है और प्रतिरोध उच्च होता है, जो एक कुचालक की तरह कार्य करता है। [cite: 335, 336]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "If both the P and N ends of a PN junction diode are connected by a wire: [cite: 335]",
+    "qHindi": "यदि किसी PN सन्धि डायोड के P तथा N दोनों सिरे एक तार से जोड़ दिये जायें तो [cite: 335]",
+    "optionsEnglish": [
+      "There will be no steady current",
+      "Current will flow from N to P",
+      "Current will flow from P to N",
+      "Depends on wire resistance"
+    ],
+    "optionsHindi": [
+      "परिपथ में स्थायी धारा नहीं होगी",
+      "N क्षेत्र से P क्षेत्र की ओर स्थायी धारा बहेगी",
+      "P क्षेत्र से N क्षेत्र की ओर स्थायी धारा बहेगी",
+      "संयोजी तार के प्रतिरोध पर निर्भर"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Connecting the ends of a single diode with a wire does not create a closed loop with a power source, so no steady current flows. [cite: 335]",
+    "explanationHindi": "एक डायोड के सिरों को एक तार से जोड़ने से विद्युत स्रोत के साथ एक बंद लूप नहीं बनता है, इसलिए कोई स्थायी धारा नहीं बहती है। [cite: 335]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "A potential barrier of 0.50 V is produced across a PN junction. If the width of the depletion layer is 5 x 10^-7 m, then the electric field intensity is: [cite: 335, 337, 338]",
+    "qHindi": "PN सन्धि के परितः 0.50 V का विभव प्राचीर उत्पन्न होता है। यदि अवक्षय पर्त की चौड़ाई 5 × 10^-7 m हो तो विद्युत क्षेत्र की तीव्रता है [cite: 335, 337, 338]",
+    "optionsEnglish": [
+      "1.0 x 10^6 V/m",
+      "1.0 x 10^5 V/m",
+      "2.0 x 10^5 V/m",
+      "2.0 x 10^6 V/m"
+    ],
+    "optionsHindi": [
+      "1.0 x 10^6 V/m",
+      "1.0 x 10^5 V/m",
+      "2.0 x 10^5 V/m",
+      "2.0 x 10^6 V/m"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Electric field E = V / d = 0.50 / (5 x 10^-7) = 1.0 x 10^6 V/m. [cite: 335, 337, 338]",
+    "explanationHindi": "विद्युत क्षेत्र E = V / d = 0.50 / (5 x 10^-7) = 1.0 x 10^6 V/m। [cite: 335, 337, 338]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "If no external voltage is applied across a PN junction, then: [cite: 335, 339]",
+    "qHindi": "यदि PN सन्धि के परितः कोई बाह्य वोल्टेज न लगाया जाये तो [cite: 335, 339]",
+    "optionsEnglish": [
+      "There will be no electric field",
+      "Field exists from P to N direction",
+      "Field exists from N to P direction",
+      "Field exists only during formation"
+    ],
+    "optionsHindi": [
+      "सन्धि के परितः कोई विद्युत क्षेत्र नहीं होगा",
+      "P-प्रकार से N-प्रकार की दिशा में विद्युत क्षेत्र होगा",
+      "N-प्रकार से P-प्रकार की दिशा में विद्युत क्षेत्र होगा",
+      "निर्माण के समय ही अस्थाई विद्युत क्षेत्र रहता है"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A built-in electric field exists across the depletion layer, directed from the N-region (positive ions) to the P-region (negative ions). [cite: 335, 339]",
+    "explanationHindi": "अवक्षय परत के पार एक अंतर्निहित विद्युत क्षेत्र मौजूद होता है, जो N-क्षेत्र (धनात्मक आयन) से P-क्षेत्र (ऋणात्मक आयन) की ओर निर्देशित होता है। [cite: 335, 339]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In a PN junction: [cite: 340, 342]",
+    "qHindi": "PN सन्धि में [cite: 340, 342]",
+    "optionsEnglish": [
+      "Both P and N are at same potential",
+      "N-region is at higher and P-region at lower potential",
+      "P-region is at higher and N-region at lower potential",
+      "N-region at lower and P-region at zero potential"
+    ],
+    "optionsHindi": [
+      "P तथा N दोनों समान विभव पर होते हैं",
+      "N-क्षेत्र उच्च विभव पर तथा P-क्षेत्र निम्न विभव पर होता है",
+      "P-क्षेत्र उच्च विभव पर तथा N-क्षेत्र निम्न विभव पर होता है",
+      "N-क्षेत्र निम्न विभव पर तथा P-क्षेत्र शून्य विभव पर होता है"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The N-region is at a positive potential relative to the P-region due to the donor ions near the junction. [cite: 340, 342]",
+    "explanationHindi": "संधि के पास दाता आयनों (donor ions) के कारण N-क्षेत्र P-क्षेत्र के सापेक्ष धनात्मक विभव पर होता है। [cite: 340, 342]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "When a PN junction diode is forward biased: [cite: 340]",
+    "qHindi": "PN सन्धि डायोड को अग्र अभिनति में रखने पर [cite: 340]",
+    "optionsEnglish": [
+      "Width of depletion layer increases",
+      "Resistance increases",
+      "Both width and resistance decrease",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "अवक्षय पर्त की चौड़ाई बढ़ती है",
+      "प्रतिरोध बढ़ता है",
+      "दोनों घटते हैं",
+      "उपरोक्त में से कोई नहीं"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Forward biasing lowers the potential barrier, leading to a decrease in both the depletion layer width and the junction resistance. [cite: 340]",
+    "explanationHindi": "अग्र अभिनति विभव प्राचीर को कम करती है, जिससे अवक्षय परत की चौड़ाई और संधि प्रतिरोध दोनों में कमी आती है। [cite: 340]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In the middle of the depletion layer of a reverse-biased PN junction: [cite: 340, 341]",
+    "qHindi": "उत्क्रम अभिनति PN सन्धि की अवक्षय पर्त के मध्य [cite: 340, 341]",
+    "optionsEnglish": [
+      "Potential is zero",
+      "Electric field is zero",
+      "Potential is maximum",
+      "Electric field is maximum"
+    ],
+    "optionsHindi": [
+      "विभव शून्य होता है",
+      "विद्युत क्षेत्र शून्य होता है",
+      "विभव अधिकतम होता है",
+      "विद्युत क्षेत्र अधिकतम होता है"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The electric field is maximum at the junction (middle of the depletion layer) where the charge distribution changes sign. [cite: 340, 341]",
+    "explanationHindi": "विद्युत क्षेत्र संधि पर (अवक्षय परत के मध्य में) अधिकतम होता है जहाँ आवेश वितरण चिन्ह बदलता है। [cite: 340, 341]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "A crystal diode is a: [cite: 340]",
+    "qHindi": "एक क्रिस्टल डायोड होता है [cite: 340]",
+    "optionsEnglish": [
+      "Non-linear device",
+      "Amplifying device",
+      "Linear device",
+      "Variable device"
+    ],
+    "optionsHindi": [
+      "अरेखीय उपकरण",
+      "आवर्धक उपकरण",
+      "रेखीय उपकरण",
+      "परिवर्ती उपकरण"
+    ],
+    "correct": 0,
+    "explanationEnglish": "A diode's current-voltage characteristic is non-linear as it does not follow Ohm's law. [cite: 340]",
+    "explanationHindi": "डायोड की धारा-वोल्टेज विशेषता अरेखीय (non-linear) होती है क्योंकि यह ओम के नियम का पालन नहीं करती है। [cite: 340]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "Which of the diodes shown in figures (a)-(d) is reverse biased? [cite: 343, 344]",
+    "qHindi": "चित्रों (a)-(d) में दर्शाये गये डायोडों में से कौन सी पश्चदिशिक बायसित है [cite: 343, 344]",
+    "optionsEnglish": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "optionsHindi": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "correct": 1,
+    "explanationEnglish": "In figure (b), the P-side is connected to a lower potential than the N-side, making it reverse biased. [cite: 343, 344]",
+    "explanationHindi": "चित्र (b) में, P-पक्ष N-पक्ष की तुलना में कम विभव से जुड़ा है, जो इसे पश्च-अभिनत (reverse biased) बनाता है। [cite: 343, 344]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The photo-electromotive force generated in a PN junction photocell is proportional to: [cite: 345, 346]",
+    "qHindi": "PN संधि फोटो सेल में उत्पन्न किया गया प्रकाश विद्युतवाहक बल समानुपाती होता है [cite: 345, 346]",
+    "optionsEnglish": [
+      "Applied voltage",
+      "Barrier voltage",
+      "Frequency of light",
+      "Intensity of light"
+    ],
+    "optionsHindi": [
+      "लगाई गई वोल्टता का",
+      "प्राचीर वोल्टता का",
+      "आपतित प्रकाश की आवृत्ति का",
+      "आपतित प्रकाश की तीव्रता का"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The number of photo-generated carriers, and thus the emf, is proportional to the intensity of the incident light. [cite: 345, 346]",
+    "explanationHindi": "फोटो-जनरेटेड वाहकों की संख्या, और इस प्रकार विद्युत वाहक बल (emf), आपतित प्रकाश की तीव्रता के समानुपाती होती है। [cite: 345, 346]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "For transistor constants alpha and beta: [cite: 345]",
+    "qHindi": "ट्रांजिस्टर स्थिरांक α एवं β के लिए [cite: 345]",
+    "optionsEnglish": [
+      "alpha = beta",
+      "beta < 1, alpha > 1",
+      "alpha * beta = 1",
+      "beta > 1, alpha < 1"
+    ],
+    "optionsHindi": [
+      "α = β",
+      "β < 1, α > 1",
+      "αβ = 1",
+      "β > 1, α < 1"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Alpha (current gain in common base) is slightly less than 1, while beta (current gain in common emitter) is typically much greater than 1. [cite: 345]",
+    "explanationHindi": "अल्फा (कॉमन बेस में धारा लाभ) 1 से थोड़ा कम होता है, जबकि बीटा (कॉमन एमिटर में धारा लाभ) आमतौर पर 1 से बहुत अधिक होता है। [cite: 345]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In the shown transistor circuit, the base current is 35µA. The value of R is: [cite: 345, 347]",
+    "qHindi": "दिखाये गये ट्रांजिस्टर परिपथ में आधार धारा 35µA है प्रतिरोधक R का मान है [cite: 345, 347]",
+    "optionsEnglish": [
+      "123.5 kΩ",
+      "257 kΩ",
+      "380.05 kΩ",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "123.5 kΩ",
+      "257 kΩ",
+      "380.05 kΩ",
+      "उपरोक्त में से कोई नहीं"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The resistor value can be calculated using Ohm's law (V=IR) for the base circuit loop shown. [cite: 345, 347]",
+    "explanationHindi": "दिखाए गए बेस सर्किट लूप के लिए ओम के नियम (V=IR) का उपयोग करके प्रतिरोधक मान की गणना की जा सकती है। [cite: 345, 347]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In a transistor, a change of 8.0mA in emitter current produces a change of 7.8mA in collector current. What is the required change in base current? [cite: 345, 348, 349]",
+    "qHindi": "एक ट्रांजिस्टर में उत्सर्जक धारा में 8.0mA का परिवर्तन संग्राहक धारा में 7.8mA का परिवर्तन उत्पन्न करता है। आधार धारा में कितना परिवर्तन करना पड़ेगा [cite: 345, 348, 349]",
+    "optionsEnglish": [
+      "50µA",
+      "100µA",
+      "150µA",
+      "200µA"
+    ],
+    "optionsHindi": [
+      "50μΑ",
+      "100μΑ",
+      "150μΑ",
+      "200μΑ"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Base current change = Emitter current change - Collector current change = 8.0 - 7.8 = 0.2 mA = 200µA. [cite: 345, 348, 349]",
+    "explanationHindi": "आधार धारा परिवर्तन = उत्सर्जक धारा परिवर्तन - संग्राहक धारा परिवर्तन = 8.0 - 7.8 = 0.2 mA = 200µA। [cite: 345, 348, 349]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The alpha parameter in a transistor configuration is: [cite: 350, 351]",
+    "qHindi": "ट्रांजिस्टर व्यवस्था में α प्राचल है [cite: 350, 351]",
+    "optionsEnglish": [
+      "ib / ic",
+      "ic / ib",
+      "ic / ie",
+      "ie / ic"
+    ],
+    "optionsHindi": [
+      "ib / ic",
+      "ic / ib",
+      "ic / ie",
+      "ie / ic"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Alpha (α) is defined as the ratio of collector current to emitter current. [cite: 350, 351]",
+    "explanationHindi": "अल्फा (α) को संग्राहक धारा और उत्सर्जक धारा के अनुपात के रूप में परिभाषित किया गया है। [cite: 350, 351]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "Which of the following is a unipolar transistor? [cite: 350, 352]",
+    "qHindi": "निम्न में से कौन एक ध्रुवी (Unipolar) ट्रांजिस्टर है [cite: 350, 352]",
+    "optionsEnglish": [
+      "Point contact transistor",
+      "Field effect transistor",
+      "PNP transistor",
+      "None of the above"
+    ],
+    "optionsHindi": [
+      "बिन्दु सम्पर्क ट्रांजिस्टर",
+      "क्षेत्र प्रभावी ट्रांजिस्टर",
+      "PNP ट्रांजिस्टर",
+      "उपरोक्त में से कोई नहीं"
+    ],
+    "correct": 1,
+    "explanationEnglish": "A Field Effect Transistor (FET) is unipolar because the current is carried by only one type of charge carrier. [cite: 350, 352]",
+    "explanationHindi": "फील्ड इफेक्ट ट्रांजिस्टर (FET) एकध्रुवीय होता है क्योंकि धारा केवल एक प्रकार के आवेश वाहक द्वारा ले जाई जाती है। [cite: 350, 352]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In a PNP transistor, the N-region is the base; its thickness compared to the P-region is: [cite: 350, 353]",
+    "qHindi": "PNP ट्रांजिस्टर में N क्षेत्र आधार है, इसकी मोटाई P क्षेत्र की तुलना में होती है [cite: 350, 353]",
+    "optionsEnglish": [
+      "Less",
+      "More",
+      "Same",
+      "Not related"
+    ],
+    "optionsHindi": [
+      "कम",
+      "अधिक",
+      "समान",
+      "इससे सम्बन्धित नहीं है"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The base region in a transistor is always designed to be very thin to ensure efficient carrier transport. [cite: 350, 353]",
+    "explanationHindi": "कुशल वाहक परिवहन सुनिश्चित करने के लिए ट्रांजिस्टर में आधार क्षेत्र को हमेशा बहुत पतला डिज़ाइन किया जाता है। [cite: 350, 353]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "In an NPN common emitter amplifier, if alpha=0.99 and Ri=1k, Rl=10k, the voltage gain is: [cite: 350, 354, 355]",
+    "qHindi": "एक NPN ट्रांजिस्टर उभयनिष्ठ उत्सर्जक प्रवर्धक के लिए α=0.99 एवं निवेशी प्रतिबाधा तथा लोड प्रतिरोध क्रमशः 1k और 10k हैं तो वोल्टेज लब्धि होगी [cite: 350, 354, 355]",
+    "optionsEnglish": [
+      "9.9",
+      "99",
+      "990",
+      "9900"
+    ],
+    "optionsHindi": [
+      "9.9",
+      "99",
+      "990",
+      "9900"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Beta = alpha / (1 - alpha) = 0.99 / 0.01 = 99. Voltage gain = Beta * (Rl / Ri) = 99 * (10 / 1) = 990. [cite: 350, 354, 355]",
+    "explanationHindi": "बीटा = α / (1 - α) = 0.99 / 0.01 = 99। वोल्टेज लाभ = बीटा * (Rl / Ri) = 99 * (10 / 1) = 990। [cite: 350, 354, 355]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The symbol shown in the figure is: [cite: 350, 351]",
+    "qHindi": "चित्र में दिया संकेत है [cite: 350, 351]",
+    "optionsEnglish": [
+      "NPN transistor",
+      "PNP transistor",
+      "Forward biased NP junction diode",
+      "Reverse biased PN junction diode"
+    ],
+    "optionsHindi": [
+      "NPN ट्रांजिस्टर",
+      "PNP ट्रांजिस्टर",
+      "अग्र अभिनति NP संधि डायोड",
+      "पश्च अभिनति PN संधि डायोड"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The arrow pointing outwards on the emitter terminal identifies this as an NPN transistor. [cite: 350, 351]",
+    "explanationHindi": "एमिटर टर्मिनल पर बाहर की ओर इशारा करने वाला तीर इसे NPN ट्रांजिस्टर के रूप में पहचानता है। [cite: 350, 351]",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  }
+]
