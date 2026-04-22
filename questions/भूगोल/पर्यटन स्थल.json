@@ -1,0 +1,65 @@
+[
+  {
+    "qEnglish": "The 'Jag Niwas' palace located in the middle of Pichola Lake is currently being used as what?",
+    "qHindi": "पिछोला झील के मध्य में स्थित 'जग निवास' महल को वर्तमान में किस रूप में उपयोग किया जा रहा है?",
+    "optionsEnglish": [
+      "Museum",
+      "Library",
+      "Lake Palace Hotel",
+      "Government Office"
+    ],
+    "optionsHindi": [
+      "संग्रहालय",
+      "पुस्तकालय",
+      "लेक पैलेस होटल",
+      "सरकारी कार्यालय"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Jag Niwas palace in Udaipur is now a world-famous luxury heritage hotel known as the Taj Lake Palace[cite: 214, 221].",
+    "explanationHindi": "उदयपुर में स्थित जग निवास महल अब एक विश्व प्रसिद्ध लक्जरी हेरिटेज होटल है जिसे 'ताज लेक पैलेस' के नाम से जाना जाता है [cite: 214, 221]।",
+    "subject": "भूगोल",
+    "topic": "पर्यटन स्थल"
+  },
+  {
+    "qEnglish": "Under the 'Rajasthan Film Tourism Promotion Policy-2025', what is the maximum subsidy provided for shooting a feature film?",
+    "qHindi": "'राजस्थान फिल्म पर्यटन प्रोत्साहन नीति-2025' के तहत फीचर फिल्म की शूटिंग के लिए अधिकतम कितनी सब्सिडी का प्रावधान किया गया है?",
+    "optionsEnglish": [
+      "₹1 crore",
+      "₹2 crore",
+      "₹3 crore",
+      "₹50 lakh"
+    ],
+    "optionsHindi": [
+      "1 करोड़ रुपए",
+      "2 करोड़ रुपए",
+      "3 करोड़ रुपए",
+      "50 लाख रुपए"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The updated film policy of Rajasthan provides a maximum subsidy of up to 2 crore rupees for feature film production in the state.",
+    "explanationHindi": "राजस्थान की अद्यतन फिल्म नीति राज्य में फीचर फिल्म निर्माण के लिए अधिकतम 2 करोड़ रुपये तक की सब्सिडी प्रदान करती है।",
+    "subject": "भूगोल",
+    "topic": "पर्यटन स्थल"
+  },
+  {
+    "qEnglish": "With what amount has the 'Rajasthan Tourism Infrastructure and Capacity Building Fund (RTICF)' been established for the development of tourism infrastructure?",
+    "qHindi": "पर्यटन अवसंरचना संरचना के विकास के लिए 'राजस्थान पर्यटन अवसंरचना एवं क्षमता निर्माण कोष (RTICF)' की स्थापना कितनी राशि के साथ की गई है?",
+    "optionsEnglish": [
+      "₹1,000 crore",
+      "₹2,500 crore",
+      "₹5,000 crore",
+      "₹10,000 crore"
+    ],
+    "optionsHindi": [
+      "1,000 करोड़ रुपये",
+      "2,500 करोड़ रुपये",
+      "5,000 करोड़ रुपये",
+      "10,000 करोड़ रुपये"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Rajasthan government announced a dedicated fund of 5,000 crore rupees to upgrade tourism facilities and capacity building.",
+    "explanationHindi": "राजस्थान सरकार ने पर्यटन सुविधाओं के उन्नयन और क्षमता निर्माण के लिए 5,000 करोड़ रुपये के समर्पित कोष की घोषणा की।",
+    "subject": "भूगोल",
+    "topic": "पर्यटन स्थल"
+  }
+]
