@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "According to ISRO's Atlas (2021), which is the most responsible factor for desertification in Rajasthan?",
+    "qHindi": "According to ISRO's Atlas (2021), which is the most responsible factor for desertification in Rajasthan?",
+    "optionsEnglish": [
+      "Water Erosion",
+      "Vegetation Degradation",
+      "Wind Erosion",
+      "Barren Land"
+    ],
+    "optionsHindi": [
+      "जल अपरदन",
+      "वनस्पति क्षरण",
+      "पवन अपरदन",
+      "बंजर भूमि"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Wind erosion is the leading cause of desertification in Rajasthan, contributing significantly to soil loss and dune movement in the arid west[cite: 232, 237].",
+    "explanationHindi": "पवन अपरदन राजस्थान में मरुस्थलीकरण का प्रमुख कारण है, जो शुष्क पश्चिम में मिट्टी के नुकसान और रेत के टीलों की गतिशीलता में महत्वपूर्ण योगदान देता है [cite: 232, 237]।",
+    "subject": "भूगोल",
+    "topic": "मरुस्थलीकरण"
+  }
+]
