@@ -1,0 +1,275 @@
+[
+  {
+    "qEnglish": "Consider the following statements: \n1. The east-west extent of Rajasthan is greater than its north-south extent.\n2. Most of Rajasthan is located north of the Tropic of Cancer.\n3. The Aravalli mountain range acts as a water divide for the state.\nThe correct statement is:",
+    "qHindi": "निम्नलिखित कथनों पर विचार कीजिए\n1. राजस्थान का पूर्व-पश्चिम विस्तार, उत्तर-दक्षिण विस्तार से अधिक है।\n2. राजस्थान का अधिकांश भाग कर्क रेखा के उत्तर में स्थित है।\n3. अरावली पर्वतमाला राज्य के जल विभाजक का कार्य करती है।\nसही कथन है-",
+    "optionsEnglish": [
+      "Only 1 and 2",
+      "Only 2 and 3",
+      "Only 1 and 3",
+      "1, 2 and 3"
+    ],
+    "optionsHindi": [
+      "केवल 1 और 2",
+      "केवल 2 और 3",
+      "केवल 1 और 3",
+      "1, 2 और 3"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All three statements are correct: E-W extent (869 km) is greater than N-S (826 km) [cite: 126], only the southern tips of Banswara and Dungarpur are below the Tropic of Cancer [cite: 127], and the Aravalli range separates the drainage of the Arabian Sea and Bay of Bengal[cite: 128].",
+    "explanationHindi": "तीनों कथन सही हैं: पूर्व-पश्चिम विस्तार (869 किमी) उत्तर-दक्षिण (826 किमी) से अधिक है [cite: 123], केवल बांसवाड़ा और डूंगरपुर के दक्षिणी हिस्से कर्क रेखा के नीचे हैं [cite: 124], और अरावली श्रेणी अरब सागर और बंगाल की खाड़ी के अपवाह को अलग करती है [cite: 125] ।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "What is the difference between the north-south length and east-west width of Rajasthan?",
+    "qHindi": "राजस्थान की उत्तर-दक्षिण लंबाई और पूर्व-पश्चिम चौड़ाई के बीच कितना अंतर है?",
+    "optionsEnglish": [
+      "33 km.",
+      "43 km.",
+      "53 km.",
+      "63 km."
+    ],
+    "optionsHindi": [
+      "33 किमी.",
+      "43 किमी.",
+      "53 किमी.",
+      "63 किमी."
+    ],
+    "correct": 1,
+    "explanationEnglish": "The north-south length of Rajasthan is 826 km and the east-west width is 869 km[cite: 130]. The difference is 869 - 826 = 43 km[cite: 131].",
+    "explanationHindi": "राजस्थान की उत्तर-दक्षिण लंबाई 826 किमी और पूर्व-पश्चिम चौड़ाई 869 किमी है [cite: 130]। इनका अंतर 869 - 826 = 43 किमी है [cite: 131]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "From which place in northern Rajasthan does the Radcliffe Line (India-Pakistan border) begin?",
+    "qHindi": "रेडक्लिफ रेखा (भारत-पाकिस्तान सीमा) उत्तर में राजस्थान के किस स्थान से प्रारंभ होती है?",
+    "optionsEnglish": [
+      "Hindumal Kot (Ganganagar)",
+      "Kona Village (Ganganagar)",
+      "Bakhasar (Barmer)",
+      "Silan (Dholpur)"
+    ],
+    "optionsHindi": [
+      "हिन्दुमल कोट (गंगानगर)",
+      "कोणा गाँव (गंगानगर)",
+      "बाखासर (बाड़मेर)",
+      "सिलाण (धौलपुर)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The international border (Radcliffe Line) in Rajasthan starts at Hindumal Kot in Ganganagar district[cite: 133, 139].",
+    "explanationHindi": "राजस्थान में अंतर्राष्ट्रीय सीमा (रेडक्लिफ रेखा) गंगानगर जिले के हिन्दुमल कोट से शुरू होती है [cite: 133, 139]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which districts of Rajasthan share both international and inter-state borders?",
+    "qHindi": "राजस्थान के वे कौन से जिले हैं जो अन्तर्राष्ट्रीय और अन्तर्राज्यीय दोनों प्रकार की सीमाएँ बनाते हैं?",
+    "optionsEnglish": [
+      "Jaisalmer and Bikaner",
+      "Hanumangarh and Dholpur",
+      "Ganganagar and Barmer",
+      "Jalore and Sirohi"
+    ],
+    "optionsHindi": [
+      "जैसलमेर और बीकानेर",
+      "हनुमानगढ़ और धौलपुर",
+      "गंगानगर और बाड़मेर",
+      "जालौर और सिरोही"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Sri Ganganagar (bordering Pakistan and Punjab) and Barmer (bordering Pakistan and Gujarat) share both international and inter-state borders[cite: 134, 140].",
+    "explanationHindi": "श्री गंगानगर (पाकिस्तान और पंजाब की सीमा) और बाड़मेर (पाकिस्तान और गुजरात की सीमा) अंतरराष्ट्रीय और अंतरराज्यीय दोनों सीमाएं साझा करते हैं [cite: 134, 140]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which districts' areas were included in Pratapgarh, the 33rd district of Rajasthan, formed on January 26, 2008?",
+    "qHindi": "26 जनवरी 2008 को गठित राजस्थान के 33वें जिले 'प्रतापगढ़' में किन जिलों के क्षेत्रों को शामिल किया गया था?",
+    "optionsEnglish": [
+      "Only Udaipur and Chittorgarh",
+      "Udaipur, Chittorgarh and Banswara",
+      "Dungarpur, Banswara and Udaipur",
+      "Kota, Bundi and Jhalawar"
+    ],
+    "optionsHindi": [
+      "केवल उदयपुर और चित्तौड़गढ़",
+      "उदयपुर, चित्तौड़गढ़ और बाँसवाड़ा",
+      "डूंगरपुर, बाँसवाड़ा और उदयपुर",
+      "कोटा, बूंदी और झालावाड़"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Pratapgarh district was formed by taking tehsils from Udaipur (Dhariyawad), Chittorgarh (Pratapgarh, Arnod, Chhoti Sadri), and Banswara (Peepalkhoot)[cite: 135, 141].",
+    "explanationHindi": "प्रतापगढ़ जिले का गठन उदयपुर (धरियावद), चित्तौड़गढ़ (प्रतापगढ़, अरनोद, छोटी सादड़ी) और बांसवाड़ा (पीपलखूंट) की तहसीलों को मिलाकर किया गया था [cite: 135, 141]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "According to geographical terminology, in which districts is the 'Thali' region mainly spread?",
+    "qHindi": "भौगोलिक शब्दावली के अनुसार, 'थली' क्षेत्र का विस्तार मुख्य रूप से किन जिलों में है?",
+    "optionsEnglish": [
+      "Dungarpur and Banswara",
+      "Bharatpur and Dholpur",
+      "Bikaner and Churu",
+      "Kota and Jhalawar"
+    ],
+    "optionsHindi": [
+      "डूंगरपुर और बाँसवाड़ा",
+      "भरतपुर और धौलपुर",
+      "बीकानेर और चूरू",
+      "कोटा और झालावाड़"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The 'Thali' region, characterized by a Lack of flowing surface water, is primarily located in Bikaner and Churu districts[cite: 136, 142].",
+    "explanationHindi": "सतही बहते जल के अभाव वाली 'थली' क्षेत्र मुख्य रूप से बीकानेर और चूरू जिलों में स्थित है [cite: 136, 142]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Through which districts of Rajasthan does the Tropic of Cancer pass?",
+    "qHindi": "कर्क रेखा राजस्थान के किन जिलों से होकर गुजरती है?",
+    "optionsEnglish": [
+      "Jalore and Sirohi",
+      "Udaipur and Pratapgarh",
+      "Dungarpur and Banswara",
+      "Jodhpur and Barmer"
+    ],
+    "optionsHindi": [
+      "जालौर और सिरोही",
+      "उदयपुर और प्रतापगढ़",
+      "डूंगरपुर और बाँसवाड़ा",
+      "जोधपुर और बाड़मेर"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Tropic of Cancer passes through Banswara (the center) and touches the southern border of Dungarpur district in Rajasthan[cite: 137, 143].",
+    "explanationHindi": "कर्क रेखा राजस्थान में बांसवाड़ा (मध्य से) और डूंगरपुर जिले की दक्षिणी सीमा को छूती हुई गुजरती है [cite: 137, 143]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which physical region of Rajasthan is considered to be a remnant of the 'Tethys Sea'?",
+    "qHindi": "राजस्थान का कौन सा भौतिक प्रदेश 'टेथिस सागर' का अवशेष माना जाता है?",
+    "optionsEnglish": [
+      "Aravalli Mountain Region",
+      "North-Western Desert Region",
+      "South-Eastern Plateau Region",
+      "All of the above"
+    ],
+    "optionsHindi": [
+      "अरावली पर्वतीय प्रदेश",
+      "उत्तर-पश्चिमी मरुस्थलीय प्रदेश",
+      "दक्षिण-पूर्वी पठारी प्रदेश",
+      "उपर्युक्त सभी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The North-Western Desert Region (Thar) and the Eastern Plains of Rajasthan are believed to have originated from the sediment of the ancient Tethys Sea[cite: 144, 145].",
+    "explanationHindi": "राजस्थान का उत्तर-पश्चिमी मरुस्थलीय प्रदेश (थार) और पूर्वी मैदान प्राचीन टेथिस सागर के अवशेषों से उत्पन्न माने जाते हैं [cite: 144, 145]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which rainfall line divides the desert region into 'arid desert' and 'semi-arid desert'?",
+    "qHindi": "मरुस्थलीय प्रदेश को 'शुष्क मरुस्थल' और 'अर्द्धशुष्क मरुस्थल' में विभाजित करने वाली वर्षा रेखा कौन सी है?",
+    "optionsEnglish": [
+      "50 cm isohyet",
+      "25 cm isohyet",
+      "10 cm isohyet",
+      "40 cm isohyet"
+    ],
+    "optionsHindi": [
+      "50 सेमी. समवर्षा रेखा",
+      "25 सेमी. समवर्षा रेखा",
+      "10 सेमी. समवर्षा रेखा",
+      "40 सेमी. समवर्षा रेखा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The 25 cm isohyet (rainfall line) divides the Thar desert into the Western Arid region and the Eastern Semi-Arid region[cite: 147, 154].",
+    "explanationHindi": "25 सेमी. समवर्षा रेखा थार मरुस्थल को पश्चिमी शुष्क क्षेत्र और पूर्वी अर्द्ध-शुष्क क्षेत्र में विभाजित करती है [cite: 147, 154]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "The 'Banka Patti' or 'Humpback Belt' is associated with which districts of Rajasthan?",
+    "qHindi": "'बांका पट्टी' या 'कूबड़ पट्टी का संबंध राजस्थान के किन जिलों से है?",
+    "optionsEnglish": [
+      "Jaisalmer and Barmer",
+      "Nagaur and Ajmer",
+      "Jaipur and Dausa",
+      "Alwar and Bharatpur"
+    ],
+    "optionsHindi": [
+      "जैसलमेर और बाड़मेर",
+      "नागौर और अजमेर",
+      "जयपुर और दौसा",
+      "अलवर और भरतपुर"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The region between Nagaur and Ajmer has high fluoride levels in groundwater, leading to skeletal fluorosis (humped backs), hence it is called 'Banka Patti' or 'Kūbaṛ Paṭṭī'[cite: 150, 156].",
+    "explanationHindi": "नागौर और अजमेर के बीच के क्षेत्र के भूजल में फ्लोराइड का स्तर अधिक है, जिससे हड्डियाँ टेढ़ी (कूबड़) हो जाती हैं, इसलिए इसे 'बांका पट्टी' या 'कूबड़ पट्टी' कहा जाता है [cite: 150, 156]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Where in Rajasthan are 180 million-year-old plant fossils from the Jurassic period found?",
+    "qHindi": "जुरासिक काल के 18 करोड़ वर्ष पुराने वानस्पतिक जीवाश्म राजस्थान में कहाँ पाए जाते हैं?",
+    "optionsEnglish": [
+      "Chandan Tubewell",
+      "Baap Boulders",
+      "Akal Wood Fossil Park",
+      "Pokaran region"
+    ],
+    "optionsHindi": [
+      "चांदन नलकूप",
+      "बाप बोल्डर्स",
+      "आकल काष्ठ जीवाश्म उद्यान",
+      "पोकरण क्षेत्र"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Akal Wood Fossil Park, located near Jaisalmer, contains fossils of large trees dating back to the Jurassic period[cite: 151, 157].",
+    "explanationHindi": "जैसलमेर के पास स्थित आकल काष्ठ जीवाश्म उद्यान में जुरासिक काल के बड़े पेड़ों के जीवाश्म पाए जाते हैं [cite: 151, 157]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "The Aravalli mountain range is compared to which ancient mountain range in the world?",
+    "qHindi": "अरावली पर्वतमाला की तुलना विश्व की किस प्राचीन पर्वत श्रेणी से की जाती है?",
+    "optionsEnglish": [
+      "Himalayas (India)",
+      "Andes Mountains (South America)",
+      "Appalachian Mountains (USA)",
+      "Alps Mountains (Europe)"
+    ],
+    "optionsHindi": [
+      "हिमालय पर्वत (भारत)",
+      "एंडजी पर्वत (दक्षिण अमेरिका)",
+      "अप्लेशियन पर्वत (U.S.A.)",
+      "आल्प्स पर्वत (यूरोप)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Aravallis are one of the oldest fold mountain systems in the world and are often geologically compared to the Appalachian Mountains in the USA[cite: 152, 158].",
+    "explanationHindi": "अरावली दुनिया की सबसे पुरानी वलित पर्वत प्रणालियों में से एक है और भूवैज्ञानिक रूप से इसकी तुलना अक्सर अमेरिका के अप्लेशियन पर्वत से की जाती है [cite: 152, 158]।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "The Meghalaya Plateau is a part of:",
+    "qHindi": "मेघालय का पठार भाग है-",
+    "optionsEnglish": [
+      "Himalayan Range",
+      "Peninsular Block",
+      "Eastern Ghat Mountains",
+      "Satpura Range"
+    ],
+    "optionsHindi": [
+      "हिमालय श्रेणी का",
+      "प्रायद्धीपीय खण्ड का",
+      "पूर्वी घाट पर्वतों का",
+      "सतपुड़ा श्रेणी का"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Geologically, the Meghalaya (Shillong) Plateau is an extension of the Peninsular Indian Plateau, separated by the Malda Gap.",
+    "explanationHindi": "भूवैज्ञानिक रूप से, मेघालय (शिलांग) का पठार प्रायद्वीपीय भारतीय पठार का विस्तार है, जो मालदा गैप द्वारा अलग किया गया है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  }
+]
