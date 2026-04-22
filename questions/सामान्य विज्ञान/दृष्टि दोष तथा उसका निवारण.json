@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "The image formed on the retina of the eye is -",
+    "qHindi": "आँखों के दृष्टिपटल पर बनने वाला प्रतिबिम्ब है -",
+    "optionsEnglish": [
+      "Real and inverted",
+      "Erect and real",
+      "Virtual and erect",
+      "Magnified and real"
+    ],
+    "optionsHindi": [
+      "वास्तविक एवं उल्टा",
+      "सीधा एवं वास्तविक",
+      "आभासी एवं सीधा",
+      "परिवर्धित एवं वास्तविक"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The eye lens produces a real and inverted image of objects on the light-sensitive retina[cite: 260].",
+    "explanationHindi": "आंख का लेंस प्रकाश-संवेदनशील रेटिना पर वस्तुओं की वास्तविक और उलटी छवि बनाता है [cite: 260] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "दृष्टि दोष तथा उसका निवारण"
+  }
+]
