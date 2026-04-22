@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "What was the year of the 'Chhappaniya Famine' in Rajasthan according to the English calendar?",
+    "qHindi": "राजस्थान में पड़ने वाले 'छप्पनियाँ अकाल' का वर्ष अंग्रेजी कैलेंडर के अनुसार कौन सा था?",
+    "optionsEnglish": [
+      "1856 AD",
+      "1899 AD",
+      "1956 AD",
+      "2002 AD"
+    ],
+    "optionsHindi": [
+      "1856 ई.",
+      "1899 ई.",
+      "1956 ई.",
+      "2002"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The severe famine occurred in Vikram Samvat 1956, which corresponds to 1899-1900 AD in the Gregorian calendar[cite: 183, 190].",
+    "explanationHindi": "भीषण अकाल विक्रम संवत 1956 में पड़ा था, जो ग्रेगोरियन कैलेंडर में 1899-1900 ईस्वी के अनुरूप है [cite: 183, 190]।",
+    "subject": "अर्थशास्त्र",
+    "topic": "बंजर भूमि एवं सूखा क्षेत्र विकास परियोजनाएं"
+  }
+]
