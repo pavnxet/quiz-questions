@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Most of the refraction of light occurs in the -",
+    "qHindi": "प्रकाश का अधिकतर अपवर्तन होता है -",
+    "optionsEnglish": [
+      "Iris",
+      "Cornea",
+      "Pupil",
+      "Retina"
+    ],
+    "optionsHindi": [
+      "परितारिका में",
+      "स्वच्छमंडल में",
+      "पुतली में",
+      "दृष्टिपटल में"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The cornea (outer surface) performs about 70-80% of the total light refraction in the eye[cite: 259, 261].",
+    "explanationHindi": "कॉर्निया (बाहरी सतह) आंख में कुल प्रकाश अपवर्तन का लगभग 70-80% हिस्सा करती है [cite: 259, 261] ।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "प्रकाश का परावर्तन व इसके नियम"
+  }
+]
