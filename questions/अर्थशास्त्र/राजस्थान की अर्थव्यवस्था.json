@@ -19,5 +19,143 @@
     "explanationHindi": "वर्तमान आंकड़ों के अनुसार, वर्ष 2024 में राजस्थान में अत्यधिक वर्षा हुई, जो दीर्घकालिक सामान्य से 58.68% अधिक थी [cite: 171, 177]।",
     "subject": "अर्थशास्त्र",
     "topic": "राजस्थान की अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Regarding the Peer Review Campaign: A. Organized for 'Suposhit Gram Panchayat Abhiyan'. B. Conducted by Kerala State team. C. Conducted in 16 selected districts[cite: 1568]:",
+    "qHindi": "पीयर रिव्यू अभियान के सम्बन्ध में: A. 'सुपोषित ग्राम पंचायत अभियान' हेतु। B. केरल राज्य की टीम द्वारा आयोजित। C. राजस्थान के चयनित 16 जिलों में चलाया गया[cite: 1557]:",
+    "optionsEnglish": [
+      "Only A and C [cite: 1573]",
+      "Only B and C [cite: 1574]",
+      "Only A and B [cite: 1575]",
+      "A, B and C [cite: 1576]",
+      "Question not attempted [cite: 1577]"
+    ],
+    "optionsHindi": [
+      "केवल A व C [cite: 1563]",
+      "केवल B व C [cite: 1564]",
+      "केवल A व B [cite: 1565]",
+      "A, B व C [cite: 1566]",
+      "अनुत्तरित प्रश्न [cite: 1567]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All statements A, B, and C regarding the Peer Review Campaign are true as per the scheme evaluation[cite: 1566, 1576].",
+    "explanationHindi": "पीयर रिव्यू अभियान के संबंध में दिए गए तीनों कथन (A, B, C) सत्य हैं [cite: 1566, 1576]‌।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Regarding the Vishwakarma Youth Entrepreneurship Promotion Scheme, which statement is NOT true[cite: 1599]:",
+    "qHindi": "विश्वकर्मा युवा उद्यमी प्रोत्साहन योजना के सम्बन्ध में कौनसा कथन सत्य नहीं है[cite: 1581]:",
+    "optionsEnglish": [
+      "Only A and B [cite: 1600]",
+      "Only A [cite: 1604]",
+      "Only B and C [cite: 1601]",
+      "Only A and C [cite: 1605]",
+      "Question not attempted [cite: 1603]"
+    ],
+    "optionsHindi": [
+      "केवल A व B [cite: 1588]",
+      "केवल A [cite: 1589]",
+      "केवल B व C [cite: 1590]",
+      "केवल A व C [cite: 1591]",
+      "अनुत्तरित प्रश्न [cite: 1592]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Statements B and C are often modified or incorrect in context of specific loan limits for youth entrepreneurs under this scheme[cite: 1590, 1601].",
+    "explanationHindi": "इस योजना के संदर्भ में कथन B और C सत्य नहीं हैं [cite: 1590, 1601]‌।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "On August 28, 2025, a 'non-financial MoU' was signed between which two institutions for state artisans and SHGs[cite: 1615]:",
+    "qHindi": "28 अगस्त, 2025 को राज्य के शिल्पकारों व स्वयं सहायता समूहों हेतु किन दो संस्थानों के मध्य 'गैर वित्तीय समझौते पत्र' हस्ताक्षरित किया गया[cite: 1606]:",
+    "optionsEnglish": [
+      "RAJIVIKA and V. Shakti Trust [cite: 1618]",
+      "RAJIVIKA and CONFED [cite: 1619]",
+      "RAJSICO and V. Shakti Trust [cite: 1620]",
+      "RIICO and CONFED [cite: 1621]",
+      "Question not attempted [cite: 1622]"
+    ],
+    "optionsHindi": [
+      "राजीविका व वी. शक्ति ट्रस्ट [cite: 1610]",
+      "राजीविका व कॉनफेड [cite: 1611]",
+      "राजसीको व वी. शक्ति ट्रस्ट [cite: 1612]",
+      "रीको व कॉनफेड [cite: 1613]",
+      "अनुत्तरित प्रश्न [cite: 1614]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The agreement was signed between RAJIVIKA and V. Shakti Trust to promote products of SHG women[cite: 1610, 1618].",
+    "explanationHindi": "स्वयं सहायता समूहों के उत्पादों को मंच देने हेतु राजीविका और वी. शक्ति ट्रस्ट के बीच समझौता हुआ [cite: 1610, 1618]‌।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "On August 22, 2025, an MoU was signed between which two institutions for renewable energy livelihoods[cite: 1650]:",
+    "qHindi": "22 अगस्त 2025 को नवीकरणीय ऊर्जा क्षेत्र में आजीविका हेतु किन दो संस्थानों के मध्य MoU हस्ताक्षरित किया गया[cite: 1650]:",
+    "optionsEnglish": [
+      "RAJEEVIKA and Energy Efficiency Limited (EESL) [cite: 1650]",
+      "RAJEEVIKA and RVJVVS [cite: 1650]",
+      "RAJEEVIKA and RVUNL [cite: 1650]",
+      "RAJEEVIKA and Adani Energy Limited [cite: 1650]",
+      "Question not attempted [cite: 1650]"
+    ],
+    "optionsHindi": [
+      "राजीविका व एनर्जी एफिशिएंसी लिमिटेड (EESL) [cite: 1650]",
+      "राजीविका व RVJVVS के मध्य [cite: 1650]",
+      "राजीविका व RVUNL के मध्य [cite: 1650]",
+      "राजीविका व अडानी एनर्जी लिमिटेड के मध्य [cite: 1650]",
+      "अनुत्तरित प्रश्न [cite: 1650]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "RAJEEVIKA partnered with EESL to create jobs in the renewable energy sector[cite: 1650].",
+    "explanationHindi": "नवीकरणीय ऊर्जा में अवसर बढ़ाने हेतु राजीविका और EESL के मध्य समझौता हुआ [cite: 1650]‌।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Regarding India Electric Mobility Index-2025: A. Released by NITI Aayog. B. Assesses power transmission. C. Rajasthan in front runner category[cite: 1663]:",
+    "qHindi": "भारत इलेक्ट्रिक मोबिलिटी इण्डेक्स 2025 के सम्बन्ध में: A. नीति आयोग द्वारा जारी। B. विद्युत पारेषण की जाँच करना उद्देश्य। C. राजस्थान फ्रन्ट रनर श्रेणी में[cite: 1657]:",
+    "optionsEnglish": [
+      "Only A and C [cite: 1675]",
+      "Only A [cite: 1676]",
+      "Only A and B [cite: 1677]",
+      "A, B and C [cite: 1678]",
+      "Question not attempted [cite: 1679]"
+    ],
+    "optionsHindi": [
+      "केवल A व C [cite: 1670]",
+      "केवल A [cite: 1671]",
+      "केवल A व B [cite: 1672]",
+      "A, B व C [cite: 1673]",
+      "अनुत्तरित प्रश्न [cite: 1674]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All statements provided about the Electric Mobility Index are correct based on the index parameters[cite: 1673, 1678].",
+    "explanationHindi": "भारत इलेक्ट्रिक मोबिलिटी इंडेक्स 2025 के संबंध में दिए गए सभी कथन सत्य हैं [cite: 1673, 1678]‌।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Select the odd one out (Event - Venue)[cite: 1718]:",
+    "qHindi": "निम्नलिखित में से असंगत युग्म का चयन कीजिए (कार्यक्रम - आयोजन स्थल)[cite: 1707]:",
+    "optionsEnglish": [
+      "Mill Medicon-2025 - New Delhi [cite: 1726]",
+      "Biofach India-2025 - Patna [cite: 1730]",
+      "ASSOCHAM Conference - New Delhi [cite: 1734]",
+      "Lok Samvardhan Parv - Kochi [cite: 1738]",
+      "Question not attempted [cite: 1740]"
+    ],
+    "optionsHindi": [
+      "मिल मेडिकॉन-2025 - नई दिल्ली [cite: 1723]",
+      "बॉयोफैच इण्डिया-2025 - पटना [cite: 1727]",
+      "एसोचैम सम्मेलन - नई दिल्ली [cite: 1731]",
+      "लोक संवर्धन पर्व - कोच्चि [cite: 1735]",
+      "अनुत्तरित प्रश्न [cite: 1739]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Biofach India is usually held in the NCR/Delhi region, not Patna[cite: 1727, 1730].",
+    "explanationHindi": "बॉयोफैच इण्डिया का आयोजन सामान्यतः दिल्ली/एनसीआर में होता है, पटना में नहीं [cite: 1727, 1730]‌।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था"
   }
 ]
