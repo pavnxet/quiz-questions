@@ -1,0 +1,874 @@
+[
+  {
+    "qEnglish": "Which of the following is 'Fenta'-",
+    "qHindi": "निम्न में से 'फेंटा' है-",
+    "optionsEnglish": [
+      "Head wear of tribal men",
+      "Turban of Bhil men",
+      "Dhoti of Bhil men",
+      "A type of shawl of tribal women",
+      "Question Not Attempted"
+    ],
+    "optionsHindi": [
+      "आदिवासी पुरुषों के सिर का वस्त्र",
+      "भील पुरुषों का साफा",
+      "भील पुरुषों की धोती",
+      "आदिवासी महिलाओं की ओढ़नी का एक प्रकार",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "In Rajasthani culture, 'Fenta' refers specifically to the turban worn by Bhil men.",
+    "explanationHindi": "राजस्थानी संस्कृति में, 'फेंटा' विशेष रूप से भील पुरुषों द्वारा पहने जाने वाले साफे को कहा जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "What is 'Daamni' in Rajasthani folk culture?",
+    "qHindi": "राजस्थानी लोक संस्कृति में 'दामणी' क्या है?",
+    "optionsEnglish": [
+      "A marriage ritual",
+      "Marwari women's shawl",
+      "A type of Mewar turban",
+      "A woman's neck ornament",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "विवाह की एक रस्म",
+      "मारवाड़ी स्त्रियों की ओढ़नी",
+      "मेवाड़ की पगड़ी का एक प्रकार",
+      "महिला के गले का आभूषण",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Daamni is a type of traditional shawl or mantle worn by Marwari women.",
+    "explanationHindi": "दामणी मारवाड़ी स्त्रियों द्वारा ओढ़ी जाने वाली एक प्रकार की ओढ़नी है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which is not correctly matched in the context of turban-",
+    "qHindi": "पगड़ी के संदर्भ में सही सुमेलित नहीं है-",
+    "matchItemsEnglish": {
+      "col1Label": "Turban",
+      "col2Label": "Occasion",
+      "col1": [
+        "Mothade ki turban",
+        "Lahariya turban",
+        "Madil turban",
+        "Kesariya turban"
+      ],
+      "col2": [
+        "Marriage",
+        "Shravan",
+        "Holi",
+        "War"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "पगड़ी",
+      "col2Label": "अवसर",
+      "col1": [
+        "मोठड़े की पगड़ी",
+        "लहरिया पगड़ी",
+        "मदील पगड़ी",
+        "केसरिया पगड़ी"
+      ],
+      "col2": [
+        "विवाह",
+        "श्रावण",
+        "होली",
+        "युद्ध"
+      ]
+    },
+    "optionsEnglish": [
+      "Mothade ki turban - Marriage",
+      "Lahariya turban - Shravan",
+      "Madil turban - Holi",
+      "Kesariya turban - War"
+    ],
+    "optionsHindi": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Madil turban is traditionally worn on the occasion of Dussehra, not Holi.",
+    "explanationHindi": "मदील पगड़ी मुख्य रूप से दशहरे के अवसर पर पहनी जाती है, न कि होली पर।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "When was the 'Amova' cloth worn?",
+    "qHindi": "'अमोवा' वस्त्र कब पहना जाता था?",
+    "optionsEnglish": [
+      "On the occasion of marriage",
+      "While going for hunting",
+      "On the birth of a child",
+      "On the birth of a girl",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "विवाह अवसर पर",
+      "शिकार पर जाते समय",
+      "बालक के जन्म पर",
+      "बालिका के जन्म पर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Amova is a traditional garment specifically worn during hunting expeditions.",
+    "explanationHindi": "अमोवा वस्त्र पारंपरिक रूप से शिकार पर जाते समय पहना जाता था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "In Rajasthan, there is a tradition of giving which coloured pomcha to the mother of a newborn baby on the birth of a daughter from the maternal side?",
+    "qHindi": "राजस्थान में नवजात शिशु की माँ के लिए पीहर पक्ष की ओर से बेटी के जन्म पर किस रंग का पोमचा देने की परम्परा है?",
+    "optionsEnglish": [
+      "Yellow",
+      "Pink",
+      "Green",
+      "Saffron",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पीला",
+      "गुलाबी",
+      "हरा",
+      "केसरिया",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "In Rajasthan, a yellow pomcha is given on the birth of a son, while a pink pomcha is given on the birth of a daughter.",
+    "explanationHindi": "राजस्थान में पुत्र जन्म पर पीला पोमचा और पुत्री जन्म पर गुलाबी पोमचा देने का रिवाज है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "In the verse 'Maru, thare desh mein nipje Teen Ratan, Ek dhole, Duji Marwan, teejo Kasumal Rang', which colour is referred to by the underlined word 'Kasumal'?",
+    "qHindi": "'मारू थारे देश में निपजे तीन रत्न, एक ढोलो दूजी मारवण तीजो कसूमल रंग।' राजस्थानी वेशभूषा के लिए रेखांकित शब्द (कसूमल) किस रंग को संदर्भित करता है?",
+    "optionsEnglish": [
+      "Red",
+      "Yellow",
+      "Pink",
+      "Green",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "लाल",
+      "पीला",
+      "गुलाबी",
+      "हरा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Kasumal refers to a deep red or saffron-red colour in Rajasthani culture.",
+    "explanationHindi": "राजस्थानी संस्कृति में कसूमल शब्द गहरे लाल रंग के लिए प्रयुक्त होता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following pairs of ornaments and body parts is correctly matched-",
+    "qHindi": "निम्न में से आभूषण व अंग का कौनसा युग्म सही सुमेलित है-",
+    "optionsEnglish": [
+      "Nogri - Hand",
+      "Ramjhoul - Waist",
+      "Besar - Ear",
+      "Latkan - Nose",
+      "Question Not Attempted"
+    ],
+    "optionsHindi": [
+      "नोगरी - हाथ",
+      "रमझौल - कमर",
+      "बेसर - कान",
+      "लटकन - नाक",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Nogri is an ornament worn on the hand/wrist. Ramjhoul is for feet, Besar is for the nose, and Latkan can be for the nose or ears.",
+    "explanationHindi": "नोगरी हाथ में पहना जाने वाला आभूषण है। रमझौल पैर का, बेसर नाक का आभूषण है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Match List-I with List-II:",
+    "qHindi": "सूची-I को सूची-II के साथ सुमेलित कीजिए-",
+    "matchItemsEnglish": {
+      "col1Label": "List-I",
+      "col2Label": "List-II",
+      "col1": [
+        "Gedi",
+        "Toti",
+        "Chop",
+        "Aarsi"
+      ],
+      "col2": [
+        "Head",
+        "Nose",
+        "Hand",
+        "Ear"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-I",
+      "col2Label": "सूची-II",
+      "col1": [
+        "गेडी",
+        "टोटी",
+        "चोप",
+        "आरसि"
+      ],
+      "col2": [
+        "सिर",
+        "नाक",
+        "हाथ",
+        "कान"
+      ]
+    },
+    "optionsEnglish": [
+      "A-i, B-ii, C-iv, D-iii",
+      "A-i, B-iv, C-ii, D-iii",
+      "A-iii, B-iv, C-ii, D-i",
+      "A-iii, B-ii, C-iv, D-i"
+    ],
+    "optionsHindi": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Gedi is for the head, Toti is for the ear, Chop is for the nose, and Aarsi is a mirror-ring worn on the thumb (hand).",
+    "explanationHindi": "गेडी सिर का, टोटी कान का, चोप नाक का और आरसि हाथ (अंगूठे) का आभूषण है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following groups of ornaments is not correctly matched?",
+    "qHindi": "निम्नलिखित आभूषण समूहों में से कौन सा समूह सही सुमेलित नहीं है?",
+    "optionsEnglish": [
+      "Angotya, Karnaphool, Peepalpatra, Jhela",
+      "Timaniya, Tulsi, Bajtti, Halro",
+      "Kangan, Nogri, Gajra, Nevri",
+      "Langar, Payal, Nupur, Jhanjhar",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अंगोट्या, कर्णफूल, पीपलपत्रा, झेला",
+      "तिमणिया, तुलसी, बजट्टी, हालरो",
+      "कंगन, नोगरी, गजरा, नेवरी",
+      "लंगर, पायल, नुपूर, झांझर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "In group 3, Nevri is an ornament for the feet, while Kangan, Nogri, and Gajra are for the hands.",
+    "explanationHindi": "तीसरे समूह में नेवरी पैर का आभूषण है, जबकि कंगन, नोगरी और गजरा हाथ के आभूषण हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Anavat, Anota, Jara and Polra are ornaments for which part of the body?",
+    "qHindi": "अनुवट, अनोटा, जरा और पोलरा शरीर के किस अंग के आभूषण है?",
+    "optionsEnglish": [
+      "Ear",
+      "Hand",
+      "Leg",
+      "Throat",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कान",
+      "हाथ",
+      "पैर",
+      "गला",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "These are traditional ornaments worn on the feet or legs.",
+    "explanationHindi": "ये सभी पैर/पाँव में पहने जाने वाले पारंपरिक आभूषण हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Tulsi ornaments are worn by women in ...........",
+    "qHindi": "तुलसी आभूषण महिलाओं द्वारा ........... में पहना जाता है-",
+    "optionsEnglish": [
+      "Ears",
+      "Neck",
+      "Hands",
+      "Feet",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कान",
+      "गला",
+      "हाथ",
+      "पैर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Tulsi is a type of neck ornament worn by women in Rajasthan.",
+    "explanationHindi": "तुलसी महिलाओं द्वारा गले में पहना जाने वाला एक प्रमुख आभूषण है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following ornaments belong to men- (1. Chhailkadi, 2. Narmukh, 3. Bhanwarkadi, 4. Tedhad)",
+    "qHindi": "निम्न में से कौनसा कौनसे आभूषण पुरुषों के है- (1. छैलकड़ी, 2. नरमुख, 3. भंवरकड़ी, 4. तेधड़)",
+    "optionsEnglish": [
+      "Only 1 and 2",
+      "Only 1, 2 and 4",
+      "Only 3 and 4",
+      "1, 2 and 3",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल 1 व 2",
+      "केवल 1, 2 व 4",
+      "केवल 3 व 4",
+      "1, 2 व 3",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Chhailkadi, Narmukh, and Bhanwarkadi are ornaments worn by men. Tedhad is primarily a women's ornament for the feet.",
+    "explanationHindi": "छैलकड़ी, नरमुख और भंवरकड़ी पुरुषों के आभूषण हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Assertion (A): Jasnath ji considered the guidance of a guru essential for attaining salvation. Reason (R): Jasnath ji performed rigorous penance for 12 years in Gorakhmaliya.",
+    "qHindi": "अभिकथन (A): जसनाथ जी ने मोक्ष प्राप्ति के लिए गुरू के निर्देशन को अनिवार्य माना है। कारण (R): जसनाथ जी ने गोरखमालिया में 12 वर्ष तक कठोर तपस्या की।",
+    "optionsEnglish": [
+      "A is correct, but R is incorrect.",
+      "A is incorrect, but R is correct.",
+      "Both A and R are correct, and R is the correct explanation of A.",
+      "Both A and R are correct, but R is not the correct explanation of A.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A सही है लेकिन R सही नहीं है।",
+      "A सही है नहीं है, लेकिन R सही है।",
+      "A और R दोनों सही है, और R, A की सही व्याख्या है।",
+      "A और R दोनों सही है, लेकिन R, A की सही व्याख्या नहीं हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Both statements are factually correct, but the act of penance (R) is not the direct reason why he emphasized the guidance of a guru (A).",
+    "explanationHindi": "दोनों कथन सत्य हैं, लेकिन कठोर तपस्या करना गुरु के महत्व को बताने का प्रत्यक्ष कारण नहीं है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following pairs is not correctly matched? (Sect - Main Seat)",
+    "qHindi": "निम्न में से कौनसा युग्म सही सुमेलित नहीं है? (सम्प्रदाय - मुख्य पीठ)",
+    "optionsEnglish": [
+      "Naval sect - Jodhpur",
+      "Gudad sect - Dantada (Bhilwara)",
+      "Charandasi sect - Delhi",
+      "Niranjani sect - Sulakhia (Churu)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "नवल सम्प्रदाय - जोधपुर",
+      "गूदड़ सम्प्रदाय - दांतड़ा (भीलवाड़ा)",
+      "चरणदासी सम्प्रदाय - दिल्ली",
+      "निरंजनी सम्प्रदाय - सुलाखिया (चुरू)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The main seat of the Niranjani sect is in Gada (Didwana), not Sulakhia.",
+    "explanationHindi": "निरंजनी सम्प्रदाय की मुख्य पीठ गाड़ा (डीडवाना) में स्थित है, सुलाखिया में नहीं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Match the following (Location - Deity/Icon):",
+    "qHindi": "सुमेलित कीजिए (स्थान - विग्रह/देवता):",
+    "matchItemsEnglish": {
+      "col1Label": "List-1 (Location)",
+      "col2Label": "List-2 (Deity)",
+      "col1": [
+        "Kaman",
+        "Kota",
+        "Nathdwara",
+        "Surat"
+      ],
+      "col2": [
+        "Madan Mohan Ji",
+        "Mathuresh Ji",
+        "Vithalnath Ji",
+        "Balkrishna Ji"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-I",
+      "col2Label": "सूची-II",
+      "col1": [
+        "कामां",
+        "कोटा",
+        "नाथद्वारा",
+        "सूरत"
+      ],
+      "col2": [
+        "मदनमोहन जी",
+        "मथुरेश जी",
+        "विट्ठलनाथ जी",
+        "बालकृष्ण जी"
+      ]
+    },
+    "optionsEnglish": [
+      "A-2, B-1, C-3, D-4",
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-3, C-4, D-1",
+      "A-3, B-4, C-1, D-2"
+    ],
+    "optionsHindi": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "In the Vallabh sect, Madan Mohan is in Kaman, Mathuresh in Kota, Vithalnath in Nathdwara (Gokulnath), and Balkrishna in Surat.",
+    "explanationHindi": "कामां में मदनमोहन जी, कोटा में मथुरेश जी, नाथद्वारा में विट्ठलनाथ जी और सूरत में बालकृष्ण जी की मुख्य पीठ है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Consider the following statements about Sant Dadu Dayal: (1. Met Akbar in 1585 at Fatehpur Sikri. 2. Teachings in 'Daduji ki Vaani'. 3. Lalnath and Chokhannath were disciples. 4. First teachings in Sambhar.)",
+    "qHindi": "संत दादूदयाल के बारे में निम्न कथनों पर विचार कीजिए- (1. अकबर से 1585 में भेंट की। 2. उपदेश 'दादूजी की वाणी' में। 3. लालनाथजी व चोखननाथजी शिष्य थे। 4. प्रथम उपदेश सांभर में दिये।)",
+    "optionsEnglish": [
+      "Only 1, 2, 3",
+      "Only 1, 3",
+      "Only 2, 3",
+      "1, 2 and 4",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल 1, 2, 3",
+      "केवल 1, 3",
+      "केवल 2, 3",
+      "1, 2 व 4",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Statements 1, 2, and 4 are correct. Lalnath and Chokhannath were followers of the Jasnathi sect, not disciples of Dadu Dayal.",
+    "explanationHindi": "कथन 1, 2 और 4 सही हैं। लालनाथजी और चोखननाथजी जसनाथी सम्प्रदाय से संबंधित थे।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following is false regarding Sant Mavji?",
+    "qHindi": "संत मावजी के संबंध में निम्न में से असत्य है?",
+    "optionsEnglish": [
+      "Mavji wrote a book called Chaupada.",
+      "Lasadiya movement was started by Mavji.",
+      "Mavji established Sangliya Dhuni.",
+      "Mavji's followers consider him to be Kalki avatar.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मावजी ने चौपड़ा नामक ग्रन्थ की रचना की थी।",
+      "मावजी द्वारा लसाड़िया आन्दोलन चलाया गया था।",
+      "मावजी ने सांगलिया धूणी की स्थापना की थी।",
+      "मावजी के अनुयायी इन्हें कल्की अवतार मानते हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Sangliya Dhuni (Sikar) is associated with Sant Lakkadas Ji, not Sant Mavji.",
+    "explanationHindi": "सांगलिया धूणी की स्थापना संत मावजी ने नहीं की थी; यह सीकर में स्थित है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Brahmacharitra, Bhakti Sagar, Daya Bodh etc. texts are related to which sect?",
+    "qHindi": "ब्रह्मचरित्र, भक्ति सागर, दया बोध आदि ग्रन्थों का संबंध किस सम्प्रदाय से है?",
+    "optionsEnglish": [
+      "Nimbarka sect",
+      "Charandassi sect",
+      "Laladassi sect",
+      "Niranjani sect",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "निम्बार्क सम्प्रदाय",
+      "चरणदासी सम्प्रदाय",
+      "लालदासी सम्प्रदाय",
+      "निरंजनी सम्प्रदाय",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "These texts were written by Charandas Ji and his disciples (Dayabai, Sahajobai) of the Charandassi sect.",
+    "explanationHindi": "इन ग्रन्थों की रचना चरणदासी सम्प्रदाय के संत चरणदास जी और उनकी शिष्याओं ने की थी।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "On the occasion of the birth of a son for the first time, clothes and ornaments are given to the child and his family by the maternal side. This custom is called:",
+    "qHindi": "प्रथम बार पुत्र के जन्म के अवसर पर बालक और उसके परिवार को ननिहाल पक्ष द्वारा वस्त्र व आभूषण दिए जाते हैं। यह रिवाज कहलाता है-",
+    "optionsEnglish": [
+      "Jamna",
+      "Mayra",
+      "Pahrawani",
+      "Juhaari",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जामणा",
+      "मायरा",
+      "पहरावणी",
+      "जुहारी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "This specific custom associated with the first birth is known as 'Jamna'.",
+    "explanationHindi": "पुत्र जन्म पर ननिहाल पक्ष से आने वाले उपहारों के इस रिवाज को 'जामणा' कहते हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "After the departure of the groom's procession, a mock marriage is organized by the women of the house in the form of a folk drama. It is called:",
+    "qHindi": "दूल्हे की बारात के प्रस्थान के बाद घर की स्त्रियों द्वारा लोक नाट्य के रूप में एक नकली विवाह का आयोजन किया जाता है, कहलाता है-",
+    "optionsEnglish": [
+      "Badhar",
+      "Aano",
+      "Nikaasi",
+      "Tuntiya",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "बढ़ार",
+      "आणौ",
+      "निकासी",
+      "ट्रंटिया",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "This female-led mock wedding ritual is known as 'Tuntiya' or 'Toontiya'.",
+    "explanationHindi": "बारात जाने के बाद महिलाओं द्वारा किए जाने वाले इस स्वांग/नाटक को 'टूँटिया' कहा जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following is not a correctly matched pair?",
+    "qHindi": "निम्न में से सही सुमेलित युग्म नहीं है-",
+    "optionsEnglish": [
+      "Hathbolon - first introduction of the bride",
+      "Olandi - a close relative who accompanies the bride from her parental home",
+      "Binota - a ritual to welcome the wedding procession",
+      "Naangal - a ritual to inaugurate a newly built house",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "हथबोलणों - दुल्हन का प्रथम परिचय",
+      "ओलन्दी - वधू के साथ उसके पीहर से आया निकट संबंधी",
+      "बिनोटा - बारात के स्वागत की एक रस्म",
+      "नांगल - नव निर्मित गृह उद्घाटन की रस्म",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Binota refers to the traditional wedding shoes of the bride and groom, not a ritual to welcome the procession.",
+    "explanationHindi": "बिनोटा दूल्हा-दुल्हन की विवाह की जूतियों को कहा जाता है, न कि बारात के स्वागत की रस्म को।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following rituals is performed before the birth of a child?",
+    "qHindi": "निम्न में से कौनसा संस्कार बच्चे के जन्म से पहले का है-",
+    "optionsEnglish": [
+      "Nishkramana Sanskar",
+      "Punsavana Sanskar",
+      "Chudakarma Sanskar",
+      "Karnavaidh Sanskar",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "निष्क्रमण संस्कार",
+      "पुंसवन संस्कार",
+      "चूड़ाकर्म संस्कार",
+      "कर्णवैध संस्कार",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Punsavana is one of the prenatal sanskars performed for the well-being of the fetus.",
+    "explanationHindi": "पुंसवन संस्कार गर्भस्थ शिशु के स्वास्थ्य और सुरक्षा के लिए जन्म से पूर्व किया जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following rituals is of marriage - (1. Tountia, 2. Samela, 3. Kanyaval, 4. Bhadar)",
+    "qHindi": "निम्न में से कौनसी रस्में विवाह की है- (1. टूँटिया, 2. सामेला, 3. कन्यावळ, 4. भदर)",
+    "optionsEnglish": [
+      "Only 1 and 2",
+      "Only 2, 3 and 4",
+      "Only 1, 2 and 3",
+      "All",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल 1 व 2",
+      "केवल 2, 3 व 4",
+      "केवल 1, 2 व 3",
+      "सभी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Tountia, Samela, and Kanyaval are marriage rituals. Bhadar (Bhadar/Bhadu) is associated with funeral rites (shaving the head).",
+    "explanationHindi": "टूँटिया, सामेला और कन्यावळ विवाह की रस्में हैं। भदर मृत्यु से संबंधित रस्म है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following is related to Bakher?",
+    "qHindi": "निम्न में से बखेर का संबंध किससे है?",
+    "optionsEnglish": [
+      "Samavartan Sanskar",
+      "Marriage Sanskar",
+      "Well worship",
+      "Funeral Sanskar",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "समावर्तन संस्कार से",
+      "विवाह संस्कार से",
+      "कुआं पूजन से",
+      "अंत्येष्टि संस्कार से",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Bakher is the tradition of scattering coins or flowers during a funeral procession.",
+    "explanationHindi": "बखेर अंत्येष्टि (शव यात्रा) के समय पैसे या फूल उछालने की रस्म को कहते हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Who was the first Rajasthani to be awarded the Mahavir Chakra?",
+    "qHindi": "महावीर चक्र से सम्मानित होने वाले प्रथम राजस्थानी थे?",
+    "optionsEnglish": [
+      "Piru Singh",
+      "Chunaram Fagediya",
+      "Shaitan Singh",
+      "Virendra Singh",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पीरू सिंह",
+      "चूनाराम फगेड़िया",
+      "शैतान सिंह",
+      "वीरेन्द्र सिंह",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Chunaram Fagediya was the first person from Rajasthan to receive the Mahavir Chakra.",
+    "explanationHindi": "राजस्थान से महावीर चक्र प्राप्त करने वाले प्रथम व्यक्ति चूनाराम फगेड़िया थे।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Suja Kanwar Rajpurohit, who displayed bravery and valor like Rani Lakshmibai of Jhansi in the 1857 Revolution, was a resident of where?",
+    "qHindi": "1857 की क्रांति में झांसी की रानी लक्ष्मीबाई की भांति अपना शौर्य और पराक्रम दिखाने वाली सुजा कंवर राजपुरोहित कहां की निवासी थी?",
+    "optionsEnglish": [
+      "Ladnun",
+      "Barmer",
+      "Jodhpur",
+      "Churu",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "लाडनूं",
+      "बाड़मेर",
+      "जोधपुर",
+      "चुरू",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Suja Kanwar Rajpurohit was a resident of Ladnun who showed exemplary courage during the 1857 revolution[cite: 526, 531].",
+    "explanationHindi": "1857 की क्रांति के दौरान अदम्य साहस दिखाने वाली सुजा कंवर राजपुरोहित लाडनूं की निवासी थीं [cite: 522, 526]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Who is called the 'Bhishma Pitamah of Journalism'?",
+    "qHindi": "'पत्रकारिता का भीष्म पितामह' किसे कहा जाता है-",
+    "optionsEnglish": [
+      "Karpurchand Kulish",
+      "Haribhau Upadhyay",
+      "Jhabarmal Sharma",
+      "Komal Kothari",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कर्पूरचन्द कुलिश",
+      "हरिभाऊ उपाध्याय",
+      "झाबरमल शर्मा",
+      "कोमल कोठारी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Pandit Jhabarmal Sharma is known as the 'Bhishma Pitamah' of journalism in Rajasthan[cite: 544, 540].",
+    "explanationHindi": "पंडित झाबरमल शर्मा को राजस्थान में 'पत्रकारिता का भीष्म पितामह' कहा जाता है [cite: 530, 544]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Who among the following spent most of his time in the Malwa and Vagad regions under the pseudonym 'Amardas Vairagi'?",
+    "qHindi": "निम्नलिखित में से किसने 'अमरदास वैरागी' छद्म नाम रखकर अपना अधिकांश समय मालवा और वागड़ के क्षेत्र में व्यतीत किया?",
+    "optionsEnglish": [
+      "Zorawar Singh Barhat",
+      "Rav Gopal Singh Kharwa",
+      "Pratap Singh Barhat",
+      "Arjun Lal Sethi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जोरावर सिंह बारहठ",
+      "राव गोपाल सिंह खरवा",
+      "प्रतापसिंह बारहठ",
+      "अर्जुन लाल सेठी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Zorawar Singh Barhat remained underground for 27 years under the name Amardas Vairagi after the Delhi Conspiracy Case[cite: 548, 554].",
+    "explanationHindi": "जोरावर सिंह बारहठ ने दिल्ली षडयंत्र केस के बाद 'अमरदास वैरागी' नाम से छद्म वेश धारण कर मालवा और वागड़ क्षेत्र में समय बिताया [cite: 546, 548]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "After listening to which poem, the Royal King did not go to Delhi to meet the British Viceroy?",
+    "qHindi": "कौन सी कविता सुनने के बाद, शाही नरेश (रॉयल किंग) ब्रिटिश वाइसरॉय से मिलने के लिए दिल्ली नहीं गए थे?",
+    "optionsEnglish": [
+      "Ruthi Rani",
+      "Shaiten sujas",
+      "Chetavani Ra Chungtaya",
+      "Sangala Ri Peeda",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "रुठी रानी",
+      "सैतान सुजस",
+      "चेतावनी रा चूंगट्या",
+      "सांगला री पीड़ा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Kesari Singh Barhat wrote 'Chetavani Ra Chungtaya' to prevent Maharana Fateh Singh of Mewar from attending the Delhi Durbar in 1903[cite: 564, 571].",
+    "explanationHindi": "केसरी सिंह बारहठ द्वारा लिखित 'चेतावनी रा चूंगट्या' सुनकर मेवाड़ के महाराणा फतेह सिंह दिल्ली दरबार में शामिल नहीं हुए [cite: 560, 564]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "The founder of Sanatan Dharma Vidyalaya in Beawar was a freedom fighter?",
+    "qHindi": "ब्यावर में सनातन धर्म विद्यालय के संस्थापक स्वतंत्रता सेनानी थे?",
+    "optionsEnglish": [
+      "Kesari Singh Barhat",
+      "Ramnarayan Chaudhary",
+      "Haribhai Kinkar",
+      "Damodardas Rathi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केसरी सिंह बारहठ",
+      "रामनारायण चौधरी",
+      "हरिभाई किंकर",
+      "दामोदरदास राठी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Seth Damodardas Rathi established the Sanatan Dharma Vidyalaya in Beawar[cite: 585, 588].",
+    "explanationHindi": "ब्यावर में सनातन धर्म विद्यालय की स्थापना सेठ दामोदरदास राठी ने की थी [cite: 580, 585]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Amarchand Banthia was the first person to be hanged by the British administration during the Freedom Struggle of 1857. With which place in Rajasthan was he associated?",
+    "qHindi": "अमरचंद बांठिया को 1857 के स्वतंत्रता संग्राम में ब्रिटिश शासन द्वारा सर्वप्रथम फांसी दी गई। उनका संबंध राजस्थान के किस स्थान से था?",
+    "optionsEnglish": [
+      "Bikaner",
+      "Jodhpur",
+      "Jaisalmer",
+      "Barmer",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "बीकानेर",
+      "जोधपुर",
+      "जैसलमेर",
+      "बाड़मेर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Amarchand Banthia, known as the 'Mangal Pandey of Rajasthan', belonged to Bikaner[cite: 592, 597].",
+    "explanationHindi": "अमरचंद बांठिया, जिन्हें 'राजस्थान का मंगल पांडे' कहा जाता है, का संबंध बीकानेर से था [cite: 590, 592]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Regarding the Mathuradas Mathur Award 2025: A. Awarded for cricket. B. Senior award to Mahipal Lomror. C. Sub-junior award to Kartik Sharma[cite: 1630]:",
+    "qHindi": "मथुरादास माथुर अवॉर्ड 2025 के संबंध में: A. क्रिकेट हेतु। B. सीनियर वर्ग में महिपाल लोमरोर को। C. सब जूनियर वर्ग में कार्तिक शर्मा को[cite: 1623]:",
+    "optionsEnglish": [
+      "Only A and B [cite: 1643]",
+      "Only B [cite: 1644]",
+      "Only B and C [cite: 1645]",
+      "A, B and C [cite: 1646]",
+      "Question not attempted [cite: 1647]"
+    ],
+    "optionsHindi": [
+      "केवल A व B [cite: 1638]",
+      "केवल B [cite: 1639]",
+      "केवल B व C [cite: 1640]",
+      "A, B व C [cite: 1641]",
+      "अनुत्तरित प्रश्न [cite: 1642]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All listed winners and the sport for the 2025 Mathuradas Mathur awards are correctly stated[cite: 1641, 1646].",
+    "explanationHindi": "मथुरादास माथुर अवॉर्ड 2025 के संबंध में दिए गए सभी कथन सत्य हैं [cite: 1641, 1646]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Regarding the 44th State Level Sub-Junior Shooting Ball Championship: A. Held in Udaipur. B. Jaipur team finished first in boys' category[cite: 1650]:",
+    "qHindi": "44वीं राज्य स्तरीय सब जूनियर शूटिंग बॉल चैम्पियनशिप के संबंध में: A. आयोजन उदयपुर में। B. बालक वर्ग में जयपुर प्रथम स्थान पर[cite: 1650]:",
+    "optionsEnglish": [
+      "Only A [cite: 1650]",
+      "Only B [cite: 1650]",
+      "Both A and B [cite: 1650]",
+      "Neither A nor B [cite: 1650]",
+      "Question not attempted [cite: 1650]"
+    ],
+    "optionsHindi": [
+      "केवल A [cite: 1650]",
+      "केवल B [cite: 1650]",
+      "A व B दोनों [cite: 1650]",
+      "न तो A व न ही B [cite: 1650]",
+      "अनुत्तरित प्रश्न [cite: 1650]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The championship took place in Udaipur, and the Jaipur boys' team won the title[cite: 1650].",
+    "explanationHindi": "इस प्रतियोगिता का आयोजन उदयपुर में हुआ और जयपुर की बालक टीम प्रथम रही [cite: 1650]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Regarding the 'Durand Cup-2025', which statement is NOT true[cite: 1698]:",
+    "qHindi": "'डूरंड कप-2025' के सम्बन्ध में कौनसा कथन सत्य नहीं है[cite: 1680]:",
+    "optionsEnglish": [
+      "Only A and C [cite: 1696]",
+      "Only B and C [cite: 1699]",
+      "Only A and B [cite: 1697]",
+      "A, B and C [cite: 1699]",
+      "Question not attempted [cite: 1700]"
+    ],
+    "optionsHindi": [
+      "केवल A व C [cite: 1686]",
+      "केवल B व C [cite: 1687]",
+      "केवल A व B [cite: 1688]",
+      "A, B व C [cite: 1689]",
+      "अनुत्तरित प्रश्न [cite: 1690]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Statements A and B are incorrect as the Durand Cup is a football tournament, not hockey[cite: 1688, 1697].",
+    "explanationHindi": "डूरंड कप एक फुटबॉल टूर्नामेंट है, इसलिए कथन A और B सत्य नहीं हैं [cite: 1688, 1697]‌।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  }
+]
