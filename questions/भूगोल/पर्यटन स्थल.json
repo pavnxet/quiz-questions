@@ -61,5 +61,28 @@
     "explanationHindi": "राजस्थान सरकार ने पर्यटन सुविधाओं के उन्नयन और क्षमता निर्माण के लिए 5,000 करोड़ रुपये के समर्पित कोष की घोषणा की।",
     "subject": "भूगोल",
     "topic": "पर्यटन स्थल"
+  },
+  {
+    "qEnglish": "Where is the 'Museum of Grace' being constructed under the Krishna Circuit[cite: 1650]:",
+    "qHindi": "कृष्णा सर्किट के अंतर्गत 'म्यूजियम ऑफ ग्रेस' का निर्माण कहाँ किया जा रहा है[cite: 1650]:",
+    "optionsEnglish": [
+      "Kankroli (Rajsamand) [cite: 1650]",
+      "Nathdwara (Rajasthan) [cite: 1650]",
+      "Eklingji (Udaipur) [cite: 1650]",
+      "Gogunda (Udaipur) [cite: 1650]",
+      "Question not attempted [cite: 1650]"
+    ],
+    "optionsHindi": [
+      "कांकरोली (राजसमन्द) [cite: 1650]",
+      "नाथद्वारा (राजस्थान) [cite: 1650]",
+      "एकलिंगजी (उदयपुर) [cite: 1650]",
+      "गोगुन्दा (उदयपुर) [cite: 1650]",
+      "अनुत्तरित प्रश्न [cite: 1650]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The 'Museum of Grace' is a part of the Krishna Circuit project in Nathdwara[cite: 1650].",
+    "explanationHindi": "नाथद्वारा में कृष्णा सर्किट के तहत 'म्यूजियम ऑफ ग्रेस' बनाया जा रहा है [cite: 1650]‌।",
+    "subject": "भूगोल",
+    "topic": "पर्यटन स्थल"
   }
 ]
