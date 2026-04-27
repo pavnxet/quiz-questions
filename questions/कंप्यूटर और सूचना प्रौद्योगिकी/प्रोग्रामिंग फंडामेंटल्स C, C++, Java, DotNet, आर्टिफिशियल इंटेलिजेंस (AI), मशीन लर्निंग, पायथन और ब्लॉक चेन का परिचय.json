@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "In August 2025, which indigenously piloted AI combat aircraft (drone) was introduced[cite: 1710]:",
+    "qHindi": "22 अगस्त 2025 को भारत का पहला स्वदेशी AI-संचालित कॉम्बैट एयरक्राफ्ट (ड्रोन) पेश किया गया[cite: 1701]:",
+    "optionsEnglish": [
+      "Rudrastra [cite: 1712]",
+      "Kaal Bhairav [cite: 1713]",
+      "Brahmastra [cite: 1715]",
+      "Agnikul [cite: 1716]",
+      "Question not attempted [cite: 1717]"
+    ],
+    "optionsHindi": [
+      "रूद्रस्त्र [cite: 1704]",
+      "काल भैरव [cite: 1708]",
+      "ब्रह्मास्त्र [cite: 1705]",
+      "अग्नि कुल [cite: 1709]",
+      "अनुत्तरित प्रश्न [cite: 1706]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The drone named 'Kaal Bhairav' was introduced as India's first AI combat drone[cite: 1708, 1713].",
+    "explanationHindi": "भारत के पहले स्वदेशी AI कॉम्बैट ड्रोन का नाम 'काल भैरव' है [cite: 1708, 1713]‌।",
+    "subject": "कंप्यूटर और सूचना प्रौद्योगिकी",
+    "topic": "प्रोग्रामिंग फंडामेंटल्स: C, C++, Java, DotNet, आर्टिफिशियल इंटेलिजेंस (AI), मशीन लर्निंग, पायथन और ब्लॉक चेन का परिचय"
+  }
+]
