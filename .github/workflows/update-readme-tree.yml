@@ -2,14 +2,14 @@ name: Update README Tree
 
 on:
   push:
-    branches: [ main, master ]
-  workflow_dispatch:     # Allows you to run it manually
+    branches: [ main, main1.1 ]
+  workflow_dispatch:
 
 jobs:
   update-tree:
     runs-on: ubuntu-latest
     permissions:
-      contents: write     # Important: allows the action to commit changes
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -17,13 +17,19 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate and update tree
-        uses: RavelloH/readme-tree@latest
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate Shortened Tree with Question Counts
+        run: |
+          python .github/scripts/generate_tree.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: update repository tree [skip ci]" || exit 0
+          git commit -m "docs: update shortened repository tree [skip ci]" || exit 0
           git push
