@@ -1,0 +1,258 @@
+[
+  {
+    "qEnglish": "",
+    "qHindi": "'राष्ट्र' शब्द से निर्मित विशेषण है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "राश्ट्रीय",
+      "राष्ट्रित",
+      "राष्ट्रिय",
+      "राष्ट्रीय"
+    ],
+    "correct": 3,
+    "explanationEnglish": "",
+    "explanationHindi": "'राष्ट्र' संज्ञा में 'ईय' प्रत्यय जोड़ने पर 'राष्ट्रीय' विशेषण बनता है। [cite: 488-494]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'रक्त' शब्द में कौनसा विशेषण बनेगा?",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "रक्तिक",
+      "रक्तिम",
+      "रक्तिस",
+      "राक्तिम"
+    ],
+    "correct": 1,
+    "explanationEnglish": "",
+    "explanationHindi": "'रक्त' में 'इम' प्रत्यय लगने से 'रक्तिम' विशेषण बनता है। [cite: 500-503]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "संज्ञा से निर्मित विशेषण है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "कुलीन",
+      "डकैती",
+      "नारीत्व",
+      "पशुता"
+    ],
+    "correct": 0,
+    "explanationEnglish": "",
+    "explanationHindi": "'कुल' (संज्ञा) + 'इन' प्रत्यय = कुलीन विशेषण। अन्य भाववाचक संज्ञाएँ हैं। [cite: 512-514]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "इनमें से संज्ञा से निर्मित विशेषण है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "आदमी",
+      "भारतीय",
+      "भुलक्कड़",
+      "भीतरी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "",
+    "explanationHindi": "'भारत' (संज्ञा) + 'ईय' = भारतीय विशेषण। [cite: 524-528]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "संज्ञा और उससे निर्मित विशेषण है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "आयु-आयुष्मान्",
+      "पूजा-पूजना",
+      "सफल-सफलता",
+      "लूटना-लूट"
+    ],
+    "correct": 0,
+    "explanationEnglish": "",
+    "explanationHindi": "आयु (संज्ञा) से आयुष्मान् विशेषण बनता है। पूजना क्रिया है, सफलता भाववाचक संज्ञा है। [cite: 451-452]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "इनमें कौनसा शब्द 'संज्ञा' से बना 'विशेषण' नहीं है?",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "आर्थिक",
+      "प्राथमिक",
+      "वैज्ञानिक",
+      "सामाजिक"
+    ],
+    "correct": 1,
+    "explanationEnglish": "",
+    "explanationHindi": "'प्रथम' एक संख्यावाची विशेषण है, इसलिए 'प्राथमिक' संज्ञा से निर्मित नहीं माना जाता। [cite: 457-460]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "कौनसा 'विशेषण' शब्द 'संज्ञा' से नहीं बना है?",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "अधिकाधिक",
+      "ग्रामीण",
+      "वार्षिक",
+      "मानवीय"
+    ],
+    "correct": 0,
+    "explanationEnglish": "",
+    "explanationHindi": "'अधिक' स्वयं एक विशेषण/अव्यय है, उससे 'अधिकाधिक' शब्द बना है। [cite: 468-471]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'व्यक्तिवाचक संज्ञा' से बना 'विशेषण' है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "कश्मीरी",
+      "देशी",
+      "पुराना",
+      "भला"
+    ],
+    "correct": 0,
+    "explanationEnglish": "",
+    "explanationHindi": "'कश्मीर' एक व्यक्तिवाचक संज्ञा है जिससे 'कश्मीरी' विशेषण बना है। [cite: 480-483]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'संज्ञा' से बना हुआ 'विशेषण' है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "कटु",
+      "प्रसन्न",
+      "सुन्दर",
+      "सुखी"
+    ],
+    "correct": 3,
+    "explanationEnglish": "",
+    "explanationHindi": "'सुख' (संज्ञा) से 'सुखी' विशेषण बना है। [cite: 492-499]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "निम्नलिखित में से 'संज्ञा' शब्द से बना 'विशेषण' है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "रटन्त",
+      "बिकाऊ",
+      "दुःखी",
+      "हमारा"
+    ],
+    "correct": 2,
+    "explanationEnglish": "",
+    "explanationHindi": "'दुःख' संज्ञा से 'दुःखी' विशेषण बना है। [cite: 504-510]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "इनमें 'शक्ति' से बना विशेषण है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "शक्तिम",
+      "शक्तिशाली",
+      "सक्त",
+      "साक्त"
+    ],
+    "correct": 1,
+    "explanationEnglish": "",
+    "explanationHindi": "'शक्ति' संज्ञा में 'शाली' प्रत्यय जुड़कर 'शक्तिशाली' बनता है। [cite: 516-519]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "निम्नलिखित में से 'संज्ञा' शब्द से निर्मित 'विशेषण' है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "कायिक",
+      "भला",
+      "वैसा",
+      "स्वकीय"
+    ],
+    "correct": 0,
+    "explanationEnglish": "",
+    "explanationHindi": "'काया' (संज्ञा) + 'इक' = कायिक। [cite: 526-529]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "संज्ञा शब्द 'नमक' से बना विशेषण है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "नमकिय",
+      "नमकीन",
+      "नामक",
+      "नामिक"
+    ],
+    "correct": 1,
+    "explanationEnglish": "",
+    "explanationHindi": "'नमक' संज्ञा से 'नमकीन' विशेषण बनता है। [cite: 539-541]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "निम्नलिखित शब्दों में से 'संज्ञा' शब्द से बना 'विशेषण' है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "कंटीला",
+      "जहरीला",
+      "नीलापन",
+      "रौबीला"
+    ],
+    "correct": 0,
+    "explanationEnglish": "",
+    "explanationHindi": "'काँटा' संज्ञा से 'कंटीला' विशेषण बना है। [cite: 555-556]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "मूल संज्ञा शब्दों 'इतिहास', 'उपेक्षा' के सही विशेषण विकल्प हैं-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "एतिहासिक, अपेक्षीत",
+      "ऐतिहासिक, उपेक्षित",
+      "ऎतिहासिक, अपेक्षीत",
+      "इतिहासिक, उपेक्षा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "",
+    "explanationHindi": "इतिहास + इक = ऐतिहासिक; उपेक्षा + इत = उपेक्षित। [cite: 561-563]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "संज्ञा में 'आ' प्रत्यय लगाने पर बना विशेषण नहीं है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "अच्छा",
+      "झूठा",
+      "प्यासा",
+      "सच्चा"
+    ],
+    "correct": 0,
+    "explanationEnglish": "",
+    "explanationHindi": "'अच्छा' मूल विशेषण है, इसमें 'आ' प्रत्यय संज्ञा में जुड़कर विशेषण बनाने का नियम लागू नहीं होता। [cite: 567-568]",
+    "subject": "हिंदी",
+    "topic": "व्याकरण"
+  }
+]
