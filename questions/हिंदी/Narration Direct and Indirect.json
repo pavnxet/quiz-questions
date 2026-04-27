@@ -1,0 +1,66 @@
+[
+  {
+    "qEnglish": "She asked me where I ....., what I ..... and when I ..... back.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "live / do / am coming",
+      "have lived / have done / will come",
+      "lived / was doing / would come",
+      "am living / did / came"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Indirect questions follow the sequence of tenses rule; present becomes past, and will becomes would.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Narration: Direct and Indirect"
+  },
+  {
+    "qEnglish": "The teacher said the earth ..... round the sun, water ..... of hydrogen and oxygen and light ..... faster than sound.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "revolved / consisted / travelled",
+      "revolves / consists / travels",
+      "had revolved / had consisted / had travelled",
+      "will revolve / will consist / will travel"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Universal truths and scientific facts remain in the Simple Present tense even in reported speech.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Narration: Direct and Indirect"
+  },
+  {
+    "qEnglish": "She said that she ..... the book, ..... the film and ..... the two before class.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "reads / watched / compared",
+      "has read / watches / compares",
+      "had read / had watched / would compare",
+      "was reading / was watching / was comparing"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Past actions completed before the reporting time shift to Past Perfect.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Narration: Direct and Indirect"
+  },
+  {
+    "qEnglish": "He announced that he ..... the company, ..... a new venture and ..... his partners soon.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "leaves / starts / informs",
+      "had left / had started / had informed",
+      "was leaving / starting / informing",
+      "would leave / would start / would inform"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Future intentions in reported speech use 'would' when the reporting verb is past.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Narration: Direct and Indirect"
+  }
+]
