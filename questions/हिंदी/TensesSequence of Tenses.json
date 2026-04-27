@@ -1,0 +1,658 @@
+[
+  {
+    "qEnglish": "Hina ..... in this organization for 4 years.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has been working",
+      "have been working",
+      "is working",
+      "was working"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Present Perfect Continuous tense is used for an action started in the past and continuing in the present with a time duration.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He knew that Abhinav ..... his watch.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "steals",
+      "stole",
+      "had stolen",
+      "will steal"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Past Perfect tense is used for an action completed before another past action.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "If she were an actress, she ..... to you.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "would talk",
+      "will talk",
+      "had talk",
+      "would have talked"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "In a second conditional sentence (imaginary situation), 'would + base verb' is used in the main clause.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "It was right time, we.....our preparation for the event.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "start",
+      "started",
+      "had started",
+      "have started"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "After expressions like 'It is/was high time' or 'It is/was right time', the simple past tense (V2) is used.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Pragati found that evaporated water...........clouds.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "forms",
+      "form",
+      "is forming",
+      "has formed"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Scientific facts or general truths are expressed in the Simple Present tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Dipti says that she...........to see her family next week.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will go",
+      "has gone",
+      "goes",
+      "will be gone."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Future intent or scheduled action is expressed using the Future Simple tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Our constitution...........us the right to vote.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "provide",
+      "provided",
+      "provides",
+      "will provide"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Universal laws or permanent state of things are mentioned in Simple Present tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She ..... all the details before she narrated it to the team.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "verifies",
+      "verified",
+      "had verified",
+      "will verify"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When two actions happen in the past, the earlier one is in Past Perfect (had + V3).",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "If they had money, they ..... this house.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "would buy",
+      "will buy",
+      "had bought",
+      "would have bought"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "In second conditional sentences (If + Past Simple), the main clause uses 'would + V1'.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "It is high time she.............here.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "reach",
+      "reached",
+      "reaches",
+      "had reached"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Past simple tense follows 'It is high time'.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Water ..... at 100 degrees, ice ..... at zero degrees and oil ..... on water.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "boiled/melted/floated",
+      "boils/melts/floats",
+      "is boiling/is melting/is floating",
+      "has boiled/has melted/has floated"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Simple present tense is used to describe universal and scientific facts.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She ..... to school every day. She ..... her homework regularly and never ..... any class.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "goes/does/misses",
+      "went/did/missed",
+      "has gone/has done/has missed",
+      "will go/will do/will miss"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Habitual actions are always represented in Simple Present tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I ..... you cannot come but I ..... you will ..... us very soon.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "am understanding/am hoping/am visiting",
+      "understood/hoped/visited",
+      "understand/hope/visit",
+      "have understood/have hoped/have visited"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Stative verbs like 'understand' and 'hope' are usually used in the simple present, not continuous form.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Columbus ..... America in 1492, after months at sea.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "discovers/sails/arrives",
+      "has discovered/has sailed/has arrived",
+      "had discovered/had sailed/had arrived",
+      "discovered/sailed/arrived"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Completed historical events are described using Simple Past tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She ..... the book yesterday, ..... it in one sitting and ..... it to her friend.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "read/finishes/gives",
+      "has read/has finished/has given",
+      "read/finished/gave",
+      "was reading/was finishing/was giving"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Actions completed in the past (yesterday) are written in simple past tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "When he ..... young, he ..... every morning and ..... football in the evening.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is/runs/plays",
+      "was/ran/played",
+      "has been/has run/has played",
+      "will be/will run/will play"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Past habits are described using Simple Past tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She ..... for the company since 2015. She ..... the best employee award twice.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "works/gets/wins",
+      "worked/got/won",
+      "is working/is getting/is winning",
+      "has worked/has received/has won"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Present Perfect Continuous/Perfect is used for durations starting in the past and for life achievements up to now.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He ..... in this city since childhood, ..... many schools and ..... a successful doctor.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "lives/attends/becomes",
+      "lived/attended/became",
+      "has lived/has attended/has become",
+      "had lived/had attended/had become"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Present Perfect indicates a state or status that started in the past and remains true.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "They ..... the project yet, but they ..... great progress and ..... all major challenges.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "did not complete/made/overcame",
+      "have not completed/have made/have overcome",
+      "had not completed/had made/had overcome",
+      "will not complete/will make/will overcome"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Present perfect is often used with 'yet' for actions not finished by now.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I was watching TV when the phone ..... and my sister ..... to answer it before me.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "watched/rang/rushed",
+      "was watching/rang/rushed",
+      "had watched/had rung/had rushed",
+      "have watched/has rung/has rushed"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "A continuous past action (was watching) interrupted by sudden past actions (rang, rushed).",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She ..... the best employee, ..... three promotions and ..... the award twice.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "works / gets / wins",
+      "worked / got / won",
+      "is working / is getting / is winning",
+      "has worked / has received / has won"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Present perfect is used to indicate accomplishments or status over an unspecified time up to the present.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "While the children ..... in the park, their mother ..... them and their father ..... pictures.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "played / watched / took",
+      "were playing / was watching / was taking",
+      "had played / had watched / had taken",
+      "have played / have watched / have taken"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Past continuous is used for multiple actions happening simultaneously in the past.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "By the time the ambulance ....., the patient ..... consciousness and the doctors ..... treatment.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "arrives / loses / starts",
+      "was arriving / was losing / were starting",
+      "arrived / had lost / had started",
+      "had arrived / lost / started"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When one past action happens before another, the earlier actions use Past Perfect, and the later one uses Simple Past.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "When I ..... her last year, she ..... in London for five years and ..... fluent English.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "meet / lives / speaks",
+      "have met / has lived / has learned",
+      "had met / was living / was speaking",
+      "met / had lived / had learned"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Simple past for the meeting; past perfect for the duration that preceded that meeting.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She ..... the letter before the postman ..... and ..... it carefully before sending.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "writes / arrives / checks",
+      "wrote / arrived / checked",
+      "had written / arrived / had checked",
+      "was writing / was arriving / was checking"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The completion of the letter happened before the postman's arrival, requiring Past Perfect for the first action.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Look at those clouds! It ..... soon, you ..... an umbrella and you ..... wet without one.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will rain / need / will get",
+      "rains / are needing / get",
+      "is going to rain / will need / will get",
+      "shall rain / shall need / shall get"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Be going to' is used for predictions based on present evidence (clouds).",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "This time tomorrow, she ..... her exam, her parents ..... nervously and her teachers ..... for her.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will take / will wait / will hope",
+      "will be taking / will be waiting / will be hoping",
+      "will have taken / will have waited / will have hoped",
+      "takes / wait / hope"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Future continuous is used for actions that will be in progress at a specific time in the future.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "By next Monday, she ..... the project, ..... it to the committee and ..... their feedback.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "finishes / presents / receives",
+      "will finish / will present / will receive",
+      "is finishing / is presenting / is receiving",
+      "will have finished / will have presented / will have received"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Future perfect is used for actions that will be completed by a certain point in the future.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I ..... you tomorrow, we ..... the plan together and ..... a final decision by evening.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "meet / discuss / take",
+      "am meeting / am discussing / am taking",
+      "will meet / will discuss / will take",
+      "shall meet / shall discuss / shall take"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Future simple with 'shall' or 'will' is used for future intentions and plans.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She ..... a doctor when she ..... her degree and ..... her own clinic very soon.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "becomes / completes / opens",
+      "will become / completes / will open",
+      "will become / complete / would open",
+      "is becoming / has completed / opens"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "In time clauses (when), simple present is used even if the main clause is future.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He told me that he ..... tired, ..... the whole night and ..... to leave early.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is / has worked / wants",
+      "was / had worked / wanted",
+      "will be / worked / will want",
+      "has been / was working / is wanting"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Sequence of tenses in reported speech: since the reporting verb is past (told), the subordinate verbs shift to past/past perfect.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I wish I ..... harder last year, ..... my time wisely and ..... better opportunities.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "study / use / grab",
+      "studied / used / grabbed",
+      "had studied / had used / had grabbed",
+      "will study / will use / will grab"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Wishes about the past are expressed using the Past Perfect tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "It is time we ..... a decision, ..... our differences and ..... forward as a united team.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "make / forget / move",
+      "will make / will forget / will move",
+      "have made / have forgotten / have moved",
+      "made / forgot / moved"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The expression 'It is time' is followed by the Simple Past tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She wishes she ..... more confident, ..... better and ..... to speak in public.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is / performs / dares",
+      "was / performed / dared",
+      "has been / has performed / has dared",
+      "will be / will perform / will dare"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Wishes about the present are expressed using the Simple Past (subjunctive mood).",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "It is high time he ..... his habits, ..... exercise daily and ..... junk food completely.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "changes / does / avoids",
+      "will change / will do / will avoid",
+      "changed / did / avoided",
+      "has changed / has done / has avoided"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'It is high time' requires the use of Simple Past tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "By 1990, scientists ..... the cure, doctors ..... it on patients and the government ..... it officially.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "discovered / tested / approved",
+      "have discovered / have tested / have approved",
+      "had discovered / had tested / had approved",
+      "were discovering / were testing / were approving"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Past Perfect is used for actions completed by a specific point in the past.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She ..... in Delhi for ten years before she ..... to Mumbai and ..... a new job.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "lived / moved / found",
+      "has lived / moves / finds",
+      "had lived / moved / found",
+      "was living / had moved / was finding"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Past perfect indicates a duration that happened before another past event.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I ..... this book since morning. I ..... three chapters already and ..... to finish it today.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "read / read / want",
+      "am reading / have read / want",
+      "have read / read / am wanting",
+      "was reading / had read / wanted"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Continuous tense for duration since morning; present perfect for completed units (chapters).",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Look! The children ..... in the garden, the dog ..... after them and the mother ..... at the window.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "play / runs / stands",
+      "are playing / is running / is standing",
+      "have played / has run / has stood",
+      "played / ran / stood"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Actions happening right now (Look!) are in the Present Continuous tense.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "No sooner ..... she ..... the stage than the audience ..... in loud applause.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "did / entered / burst",
+      "has / entered / bursts",
+      "had / entered / burst",
+      "was / entering / was bursting"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The structure 'No sooner + had + Subject + V3... than' is a standard literary construction.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Hardly ..... he ..... the office when the manager ..... him to an urgent meeting.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has / reached / calls",
+      "did / reach / called",
+      "had / reached / called",
+      "was / reaching / was calling"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Hardly + had + Subject + V3... when' is used for actions happening almost immediately after another.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Tenses/Sequence of Tenses"
+  }
+]
