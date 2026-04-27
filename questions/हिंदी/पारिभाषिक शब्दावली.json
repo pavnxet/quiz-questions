@@ -1,0 +1,736 @@
+[
+  {
+    "qEnglish": "What is the correct technical term for 'Annexure'?",
+    "qHindi": "'Annexure' के लिए सही पारिभाषिक शब्द है-",
+    "optionsEnglish": [
+      "Enclosure",
+      "Summary",
+      "Annual",
+      "Eligibility"
+    ],
+    "optionsHindi": [
+      "संलग्नक",
+      "संक्षिप्त",
+      "वार्षिकी",
+      "योग्यता"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Annexure means a document or supplement attached to another document.",
+    "explanationHindi": "Annexure का हिंदी अर्थ 'संलग्नक' या 'परिशिष्ट' होता है। [cite: 313-331]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "In which option is the Hindi technical term used incorrectly?",
+    "qHindi": "किस विकल्प में हिन्दी पारिभाषिक शब्द का सही प्रयोग नहीं हुआ है?",
+    "optionsEnglish": [
+      "Abbreviation - संक्षेपण",
+      "Bail - जमानत",
+      "Confiscation - संगति",
+      "Contigencies - आकस्मिक व्यय"
+    ],
+    "optionsHindi": [
+      "Abbreviation - संक्षेपण",
+      "Bail - जमानत",
+      "Confiscation- संगति",
+      "Contigencies - आकस्मिक व्यय"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Confiscation means to seize property; its correct term is 'ज़ब्ती' or 'अधिहरण', not 'संगति'.",
+    "explanationHindi": "Confiscation का अर्थ 'ज़ब्ती' या 'राजसात्' होता है, 'संगति' नहीं। [cite: 336-339]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Auxiliary'?",
+    "qHindi": "'Auxiliary' का सही पारिभाषिक है-",
+    "optionsEnglish": [
+      "Supportive/Assistant",
+      "Endorsement",
+      "Acquisition",
+      "Appropriate"
+    ],
+    "optionsHindi": [
+      "सहायक",
+      "समर्थन",
+      "ग्रहण करण",
+      "उचित"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Auxiliary means providing supplementary or additional help and support.",
+    "explanationHindi": "Auxiliary का अर्थ 'सहायक' होता है। [cite: 342-343]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Chargesheet'?",
+    "qHindi": "'Chargesheet' का सही पारिभाषित है-",
+    "optionsEnglish": [
+      "Priority",
+      "Application",
+      "Formal charge",
+      "Demarcation"
+    ],
+    "optionsHindi": [
+      "प्राथमिकता",
+      "आवेदन-पत्र",
+      "आरोप पत्र",
+      "सीमांकन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A chargesheet is a formal document on which a police officer enters details of the crime.",
+    "explanationHindi": "न्यायालय में पुलिस द्वारा प्रस्तुत विवरण को 'आरोप पत्र' कहा जाता है। [cite: 348-354]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the technical term for 'Authentic'?",
+    "qHindi": "Authentic' के लिए पारिभाषिक शब्द होगा-",
+    "optionsEnglish": [
+      "Original/Certified",
+      "Authority",
+      "Allocation",
+      "Certified"
+    ],
+    "optionsHindi": [
+      "प्रामाणिक",
+      "प्राधिकरण",
+      "आवंटन",
+      "प्रमाणित"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Authentic means of undisputed origin and can be relied upon.",
+    "explanationHindi": "Authentic का अर्थ 'प्रामाणिक' या 'विश्वसनीय' होता है। [cite: 360-361]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Acceptance'?",
+    "qHindi": "Acceptance का सही पारिभाषिक है-",
+    "optionsEnglish": [
+      "Accountability",
+      "Summary",
+      "Approval/Acceptance",
+      "Alternative"
+    ],
+    "optionsHindi": [
+      "जबावदेही",
+      "संक्षेपण",
+      "स्वीकृति",
+      "विकल्पी"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Acceptance is the action of consenting to receive or undertake something offered.",
+    "explanationHindi": "Acceptance का अर्थ 'स्वीकृति' या 'प्रतिग्रहण' होता है।",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct English word for 'स्वायत्त'?",
+    "qHindi": "'स्वायत्त' शब्द के लिए सही अंग्रेजी शब्द क्या होगा?",
+    "optionsEnglish": [
+      "Auxiliary",
+      "Autonomous",
+      "Auction",
+      "Addition"
+    ],
+    "optionsHindi": [
+      "Auxiliary",
+      "Autonomous",
+      "Auction",
+      "Addition"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Autonomous means having the freedom to govern itself or control its own affairs.",
+    "explanationHindi": "'स्वायत्त' के लिए अंग्रेजी शब्द Autonomous है। [cite: 382-386]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Culprit'?",
+    "qHindi": "'Culprit' का सही पारिभाषिक है-",
+    "optionsEnglish": [
+      "Accused",
+      "Offender",
+      "Respondent",
+      "All of the above"
+    ],
+    "optionsHindi": [
+      "अभियुक्त",
+      "अपराधी",
+      "आरोपी",
+      "उपर्युक्त सभी"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Culprit generally refers to a person who is responsible for a crime or misdeed.",
+    "explanationHindi": "प्रसंगानुसार 'Culprit' के लिए अभियुक्त, अपराधी या आरोपी शब्दों का प्रयोग किया जा सकता है। [cite: 394-401]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "Which is an incorrect Hindi term for 'Authority'?",
+    "qHindi": "'Authority' का अंसगत पारिभाषिक शब्द है-",
+    "optionsEnglish": [
+      "Officer",
+      "Exemption",
+      "Agency",
+      "Power"
+    ],
+    "optionsHindi": [
+      "प्राधिकारी",
+      "छूट",
+      "प्राधिकरण",
+      "प्राधिकार"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Exemption (छूट) is not a meaning of Authority.",
+    "explanationHindi": "Authority का अर्थ प्राधिकारी, प्राधिकरण या प्राधिकार होता है; 'छूट' नहीं। [cite: 403-413]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "Which option contains an incorrect technical term?",
+    "qHindi": "किस विकल्प में गलत पारिभाषिक शब्द है?",
+    "optionsEnglish": [
+      "Casual - आकस्मिक",
+      "Constituency - निर्वाचन क्षेत्र",
+      "Boycott - Previous Arrears",
+      "Ballot - मतदान"
+    ],
+    "optionsHindi": [
+      "Casual - आकस्मिक",
+      "Constituency - निर्वाचन क्षेत्र",
+      "Boycott- पिछला बकाया",
+      "Ballot - मतदान"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Boycott means to withdraw from commercial or social relations with a country or organization as a punishment.",
+    "explanationHindi": "Boycott का अर्थ 'बहिष्कार' होता है, 'पिछला बकाया' नहीं। [cite: 415-418]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Context'?",
+    "qHindi": "'Context' का सही परिभाषिक है-",
+    "optionsEnglish": [
+      "Reference",
+      "Cess",
+      "Commission",
+      "Worn out"
+    ],
+    "optionsHindi": [
+      "संदर्भ",
+      "उपकर",
+      "आढत",
+      "जीर्ण"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Context refers to the circumstances that form the setting for an event or statement.",
+    "explanationHindi": "Context का हिंदी पारिभाषिक अर्थ 'संदर्भ' या 'प्रसंग' है। [cite: 421-432]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "Which option contains an incorrect technical term?",
+    "qHindi": "किस विकल्प में गलत पारिभाषिक शब्द है?",
+    "optionsEnglish": [
+      "Adhoc - Temporary",
+      "Circular - Notice/Circular",
+      "Bill - Legislation",
+      "Bare outline - Barter"
+    ],
+    "optionsHindi": [
+      "Adhoc - तदर्थ",
+      "Circular - परिपत्र",
+      "Bill - विधेयक",
+      "Bare outline - वस्तु विनिमय"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Bare outline means a basic framework; 'Barter' is the correct English word for वस्तु विनिमय.",
+    "explanationHindi": "Bare outline का अर्थ 'कच्चा ढांचा' होता है; 'वस्तु विनिमय' को Barter कहते हैं। [cite: 369-373]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Bequest'?",
+    "qHindi": "'Bequest' के लिए सही पारिभाषिक शब्द है-",
+    "optionsEnglish": [
+      "Inheritance/Will",
+      "Adjournment",
+      "Adopted",
+      "Auction"
+    ],
+    "optionsHindi": [
+      "वसीयत",
+      "स्थगन",
+      "दत्तक",
+      "नीलामी"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Bequest is a legacy or the act of giving or leaving something by will.",
+    "explanationHindi": "वसीयत द्वारा दी गई संपत्ति या दान को Bequest कहते हैं। [cite: 375-380]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Confirmation'?",
+    "qHindi": "Confirmation' का सही पारिभाषिक है-",
+    "optionsEnglish": [
+      "Verification",
+      "Permanent status",
+      "Context",
+      "Both 1 and 2"
+    ],
+    "optionsHindi": [
+      "पुष्टि",
+      "स्थायीकरण",
+      "प्रसंग",
+      "1 व 2 दोनों"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Confirmation can refer to verifying a fact or the official permanent appointment in a post.",
+    "explanationHindi": "प्रशासनिक कार्यों में 'पुष्टि' और 'स्थायीकरण' दोनों के लिए Confirmation शब्द का प्रयोग होता है। [cite: 390-396]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Bankrupt'?",
+    "qHindi": "'Bankrput' का सही पारिभाषित है-",
+    "optionsEnglish": [
+      "Bill",
+      "Exemption",
+      "Insolvent",
+      "Amendment"
+    ],
+    "optionsHindi": [
+      "विधेयक",
+      "छूट",
+      "दिवालिया",
+      "संशोधन"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A bankrupt person is legally declared unable to pay their debts.",
+    "explanationHindi": "Bankrupt के लिए 'दिवालिया' शब्द प्रयुक्त होता है। [cite: 404-407]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "किसी अधिकारी को 'Absolve' करने का अर्थ है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "आमेलन करना",
+      "दोषमुक्त करना",
+      "पदमुक्त करना",
+      "अनुशासित करना"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Absolve means to set or declare (someone) free from blame, guilt, or responsibility.",
+    "explanationHindi": "Absolve का अर्थ 'दोषमुक्त करना' या 'विमुक्त करना' होता है। [cite: 1088-1090]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Abstract' का प्रशासनिक संदर्भ में अर्थ है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "काल्पनिक",
+      "सार",
+      "अव्यवहारिक",
+      "बहुलता"
+    ],
+    "correct": 1,
+    "explanationEnglish": "In administration, an abstract is a summary or a condensed statement of a larger document.",
+    "explanationHindi": "प्रशासनिक कार्यों में Abstract का अर्थ किसी विवरण का 'सार' या 'संक्षेप' होता है। [cite: 1094-1098]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Abusive Language' का आधिकारिक हिंदी अनुवाद है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "अशिष्ट व्यवहार",
+      "अभद्र भाषा",
+      "कठोर भाषा",
+      "भ्रामक भाषा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Abusive language refers to speech that is rude, insulting, or offensive.",
+    "explanationHindi": "Abusive Language का सही अनुवाद 'अभद्र भाषा' या 'गाली-गलौज' होता है। [cite: 1044-1050]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Acceptance' का सही प्रशासनिक शब्द क्या है?",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "अभिग्रहण",
+      "प्रतिग्रहण",
+      "सहमति",
+      "पहुँच"
+    ],
+    "correct": 1,
+    "explanationEnglish": "In legal and administrative contexts, Acceptance is formally translated as 'Pratigrahan'.",
+    "explanationHindi": "प्रशासनिक शब्दावली में Acceptance को 'प्रतिग्रहण' या 'स्वीकृति' कहा जाता है। [cite: 1058-1064]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "वित्तीय दस्तावेजों में 'Accrue' का अर्थ होता है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "उद्भूत होना",
+      "भरपाई करना",
+      "सटीक गणना",
+      "उपशमन"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Accrue means (of a benefit or sum of money) to be received by someone in regular or increasing amounts over time.",
+    "explanationHindi": "वित्त में Accrue का अर्थ ब्याज आदि का 'उद्भूत होना' या 'प्रोद्भुत होना' होता है। [cite: 1073-1075]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Ceiling' का प्रशासनिक हिंदी अर्थ है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "आंतरिक छत",
+      "उच्चतम सीमा",
+      "आच्छादन",
+      "सुरक्षा कवच"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Ceiling refers to an upper limit set on things like expenditure or land holding.",
+    "explanationHindi": "प्रशासनिक कार्यों में Ceiling का अर्थ 'उच्चतम सीमा' या 'अधिकतम सीमा' होता है। [cite: 1102-1104]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Penalty' का सही आधिकारिक शब्द चुनिए-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "शास्ति",
+      "कारावास",
+      "दंड प्रक्रिया",
+      "विलंब शुल्क"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Penalty is formally referred to as 'Shasti' in administrative Hindi.",
+    "explanationHindi": "Penalty के लिए आधिकारिक हिंदी शब्द 'शास्ति' है। [cite: 1108-1109]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Physical Verification' का प्रशासनिक अर्थ है?",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "शारीरिक जाँच",
+      "वास्तविक सत्यापन",
+      "बाह्य निरीक्षण",
+      "भौतिक उपस्थिति"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Physical verification involves checking the actual existence of assets or stock.",
+    "explanationHindi": "Physical Verification का अर्थ 'वास्तविक सत्यापन' या 'भौतिक सत्यापन' होता है। [cite: 1117-1118]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Good Governance' का सही हिंदी अनुवाद है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "सद्भावना",
+      "सुशासन",
+      "उत्तम प्रबंधन",
+      "उचित प्रशासन"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Good Governance refers to the process of making and implementing decisions in a proper manner.",
+    "explanationHindi": "Governance का अर्थ शासन और Good का अर्थ सु, अतः 'सुशासन' सही उत्तर है। [cite: 1122-1124]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Retrospective' शब्द का प्रशासनिक अर्थ है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "भविष्यलक्षी",
+      "भूतलक्षी",
+      "पुनरावलोकन",
+      "प्रतिगामी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Retrospective means taking effect from a date in the past.",
+    "explanationHindi": "Retrospective का अर्थ 'भूतलक्षी' (पिछली तिथि से प्रभावी) होता है। [cite: 1128-1130]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Stakeholder' के लिए सही प्रशासनिक शब्द है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "अंशधारक",
+      "हितधारी",
+      "हिस्सेदार",
+      "साझीदार"
+    ],
+    "correct": 1,
+    "explanationEnglish": "A stakeholder is a person or group that has an interest or concern in an organization.",
+    "explanationHindi": "किसी योजना या संस्था में हित रखने वाले को 'हितधारी' कहा जाता है। [cite: 1134-1136]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Surveillance' का हिंदी पारिभाषिक शब्द है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "सर्वेक्षण",
+      "निगरानी",
+      "देख-रेख",
+      "सतर्कता"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Surveillance is the close observation of a person or group.",
+    "explanationHindi": "Surveillance के लिए 'निगरानी' या 'अधिवीक्षण' शब्द प्रयुक्त होता है। [cite: 1140-1142]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Administrative Discretion' का सही हिंदी अर्थ है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "प्रशासनिक विवेकशीलता",
+      "प्रशासनिक दक्षता",
+      "प्रशासनिक विवेक",
+      "प्रशासनिक निर्णय"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Discretion refers to the freedom to decide what should be done in a particular situation.",
+    "explanationHindi": "Administrative Discretion का सही अर्थ 'प्रशासनिक विवेक' है। [cite: 1147-1150]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "Match the following appropriately:",
+    "qHindi": "प्रशासनिक शब्दावली का सही मिलान कर उचित कूट (Code) का चयन कीजिए-",
+    "matchItemsEnglish": {
+      "col1Label": "English Term",
+      "col2Label": "Hindi Meaning",
+      "col1": [
+        "Abandoned Assets",
+        "Abandoned Claim",
+        "Abandoned Cargo"
+      ],
+      "col2": [
+        "Abandoned Cargo",
+        "Abandoned Asset",
+        "Abandoned Claim"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "अंग्रेजी शब्द",
+      "col2Label": "हिन्दी अर्थ",
+      "col1": [
+        "Abandoned Assets",
+        "Abandoned Claim",
+        "Abandoned Cargo"
+      ],
+      "col2": [
+        "परित्यक्त कार्गो",
+        "परित्यक्त परिसंपत्ति",
+        "परित्यक्त दावा"
+      ]
+    },
+    "optionsEnglish": [
+      "(A)-(i), (B)-(ii), (C)-(iii)",
+      "(A)-(ii), (B)-(iii), (C)-(i)",
+      "(A)-(iii), (B)-(i), (C)-(ii)",
+      "(A)-(ii), (B)-(i), (C)-(iii)"
+    ],
+    "optionsHindi": [
+      "(A)-(i), (B)-(ii), (C)-(iii)",
+      "(A)-(ii), (B)-(iii), (C)-(i)",
+      "(A)-(iii), (B)-(i), (C)-(ii)",
+      "(A)-(ii), (B)-(i), (C)-(iii)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Assets = परिसंपत्ति, Claim = दावा, Cargo = कार्गो.",
+    "explanationHindi": "Abandoned Assets = परित्यक्त परिसंपत्ति, Abandoned Claim = परित्यक्त दावा, Abandoned Cargo = परित्यक्त कार्गो। [cite: 1157-1171]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "Match the following academic terms:",
+    "qHindi": "निम्नलिखित प्रशासनिक शब्दों को उनके सही अर्थ से सुमेलित कीजिए-",
+    "matchItemsEnglish": {
+      "col1Label": "English Term",
+      "col2Label": "Hindi Meaning",
+      "col1": [
+        "Academic Session",
+        "Academic Council",
+        "Academic Body"
+      ],
+      "col2": [
+        "Academic Council (1)",
+        "Academic Council (2)",
+        "Academic Session"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "अंग्रेजी शब्द",
+      "col2Label": "हिन्दी अर्थ",
+      "col1": [
+        "Academic Session",
+        "Academic Council",
+        "Academic Body"
+      ],
+      "col2": [
+        "विद्या परिषद",
+        "अकादमिक परिषद",
+        "शैक्षणिक सत्र"
+      ]
+    },
+    "optionsEnglish": [
+      "(A)-(iii), (B)-(i), (C)-(ii)",
+      "(A)-(i), (B)-(ii), (C)-(iii)",
+      "(A)-(ii), (B)-(iii), (C)-(i)",
+      "(A)-(iii), (B)-(ii), (C)-(i)"
+    ],
+    "optionsHindi": [
+      "(A)-(iii), (B)-(i), (C)-(ii)",
+      "(A)-(i), (B)-(ii), (C)-(iii)",
+      "(A)-(ii), (B)-(iii), (C)-(i)",
+      "(A)-(iii), (B)-(ii), (C)-(i)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Session = सत्र, Council = परिषद, Body = निकाय/परिषद.",
+    "explanationHindi": "Academic Session = शैक्षणिक सत्र, Academic Council = अकादमिक परिषद, Academic Body = विद्या परिषद। [cite: 1176-1191]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "Match the financial terms:",
+    "qHindi": "नीचे दिए गए वित्तीय शब्दों का सही मिलान कीजिए-",
+    "matchItemsEnglish": {
+      "col1Label": "English Term",
+      "col2Label": "Hindi Meaning",
+      "col1": [
+        "Accrue",
+        "Acquittance Roll",
+        "Abatement"
+      ],
+      "col2": [
+        "Acquittance Roll",
+        "Abatement",
+        "Accrue"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "अंग्रेजी शब्द",
+      "col2Label": "हिन्दी अर्थ",
+      "col1": [
+        "Accrue",
+        "Acquittance Roll",
+        "Abatement"
+      ],
+      "col2": [
+        "भरपाई सूची",
+        "उपशमन",
+        "उद्भूत होना"
+      ]
+    },
+    "optionsEnglish": [
+      "(A)-(iii), (B)-(i), (C)-(ii)",
+      "(A)-(i), (B)-(ii), (C)-(iii)",
+      "(A)-(ii), (B)-(iii), (C)-(i)",
+      "(A)-(iii), (B)-(ii), (C)-(i)"
+    ],
+    "optionsHindi": [
+      "(A)-(iii), (B)-(i), (C)-(ii)",
+      "(A)-(i), (B)-(ii), (C)-(iii)",
+      "(A)-(ii), (B)-(iii), (C)-(i)",
+      "(A)-(iii), (B)-(ii), (C)-(i)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Accrue = to arise, Acquittance Roll = formal receipt list, Abatement = reduction.",
+    "explanationHindi": "Accrue = उद्भूत होना, Acquittance Roll = भरपाई सूची/बेबाकी सूची, Abatement = उपशमन/कटौती। [cite: 1199-1206]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'राजपत्र' को अंग्रेजी में क्या कहा जाता है?",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "Magazine",
+      "Gazette",
+      "Notification",
+      "Bulletin"
+    ],
+    "correct": 1,
+    "explanationEnglish": "A gazette is an official journal, a newspaper of record.",
+    "explanationHindi": "सरकार द्वारा प्रकाशित आधिकारिक सूचना पत्र को 'Gazette' (राजपत्र) कहा जाता है। [cite: 1219-1221]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'असाधारण अवकाश' के लिए सही अंग्रेजी शब्दावली है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "Special Leave",
+      "Extraordinary Leave",
+      "Exceptional Holiday",
+      "Rare Leave"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Extraordinary leave is granted to a government servant in special circumstances.",
+    "explanationHindi": "सेवा नियमों में 'असाधारण अवकाश' को Extraordinary Leave कहा जाता है। [cite: 1208-1210]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'आंचलिक' शब्द का अंग्रेजी रूपान्तरण है-",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "Regional",
+      "Zonal",
+      "Local",
+      "Sectoral"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Zonal refers to something relating to or divided into zones.",
+    "explanationHindi": "Zone का अर्थ अंचल होता है, अतः Zonal का अर्थ 'आंचलिक' होगा। [cite: 1214-1226]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  },
+  {
+    "qEnglish": "",
+    "qHindi": "'Quorum' के लिए उपयुक्त हिंदी शब्द कौनसा है?",
+    "optionsEnglish": [],
+    "optionsHindi": [
+      "गणपूर्ति",
+      "कोरम",
+      "पूर्ण संख्या",
+      "उपस्थिति"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Quorum is the minimum number of members of an assembly that must be present to make the proceedings valid.",
+    "explanationHindi": "Quorum का शुद्ध हिंदी पारिभाषिक शब्द 'गणपूर्ति' है। [cite: 1230-1231]",
+    "subject": "हिंदी",
+    "topic": "पारिभाषिक शब्दावली"
+  }
+]
