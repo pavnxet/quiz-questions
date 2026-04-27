@@ -19,5 +19,521 @@
     "explanationHindi": "निर्जल AlCl3 एक लुईस एसिड है जिसका उपयोग आमतौर पर फ्रीडल-क्राफ्ट अल्काइलेशन/एसिलेशन में उत्प्रेरक के रूप में किया जाता है [cite: 284, 287] ।",
     "subject": "सामान्य विज्ञान",
     "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "What is the IUPAC name of the compound (1-Ethyl-2-Methyl cyclopentane structure)?",
+    "qHindi": "यौगिक का IUPAC नाम है- (1-Ethyl-2-Methyl cyclopentane structure)",
+    "optionsEnglish": [
+      "1-Ethyl-2-Methyl cyclopentane",
+      "1-Methyl-2-Ethyl cyclopentane",
+      "4-Ethyl-5-Methyl cyclopentane",
+      "None of these",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1-Ethyl-2-Methyl cyclopentane",
+      "1-Methyl-2-Ethyl cyclopentane",
+      "4-Ethyl-5-Methyl cyclopentane",
+      "इनमें से कोई नहीं",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "According to IUPAC alphabetical priority, Ethyl comes before Methyl[cite: 870, 871].",
+    "explanationHindi": "IUPAC नामकरण के अनुसार, अंग्रेजी वर्णमाला के क्रम में एथिल समूह को पहले वरीयता दी जाती है [cite: 856, 870]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "The ratio of pi electrons in naphthalene and benzene is-",
+    "qHindi": "नैफ्थेलीन व बेंजीन में pi इलेक्ट्रॉनों का अनुपात है-",
+    "optionsEnglish": [
+      "5:3",
+      "3:5",
+      "1:2",
+      "2:1",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "5:3",
+      "3:5",
+      "1:2",
+      "2:1",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Naphthalene has 10 pi electrons and Benzene has 6. The ratio is 10:6, which simplifies to 5:3[cite: 885, 890].",
+    "explanationHindi": "नैफ्थेलीन में 10 और बेंजीन में 6 pi इलेक्ट्रॉन होते हैं। इनका अनुपात 10:6 यानी 5:3 होता है [cite: 882, 885]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "According to Huckel's rule for aromaticity, the number of pi electrons should be-",
+    "qHindi": "हकल के नियम के अनुसार -",
+    "optionsEnglish": [
+      "(4n+2) pi electrons",
+      "(4n+2 pi) electrons",
+      "(2n+2) pi electrons",
+      "(4n+2n) electrons",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(4n+2) pi इलेक्ट्रॉन",
+      "(4n+2 pi) इलेक्ट्रॉन",
+      "(2n+2) pi इलेक्ट्रॉन",
+      "(4n+2n) इलेक्ट्रॉन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Huckel's rule states that a planar, cyclic system must have (4n+2) pi electrons to be aromatic[cite: 897, 899].",
+    "explanationHindi": "हकल के नियम के अनुसार, किसी चक्रीय निकाय के एरोमैटिक होने के लिए उसमें (4n+2) pi इलेक्ट्रॉनों का होना आवश्यक है [cite: 895, 897]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following aromatic species are correctly identified?",
+    "qHindi": "ऐरोमेटिक यौगिक स्पीशीज है-",
+    "optionsEnglish": [
+      "Benzene",
+      "Cyclopropenyl cation",
+      "Naphthalene",
+      "All of the above",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "बेंजीन",
+      "साइक्लोप्रोपिनिल धनायन",
+      "नैफ्थेलीन",
+      "उपर्युक्त सभी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All given species satisfy Huckel's rule and are aromatic in nature[cite: 918, 920].",
+    "explanationHindi": "दिए गए सभी यौगिक हकल के नियम का पालन करते हैं और एरोमैटिक प्रकृति के हैं [cite: 911, 918]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following is known as wood spirit?",
+    "qHindi": "निम्नलिखित में से काष्ठ स्प्रिट है?",
+    "optionsEnglish": [
+      "Methane (CH4)",
+      "Methanol (CH3OH)",
+      "Ethanol (C2H5OH)",
+      "Formic acid (HCOOH)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मेथेन",
+      "मेथेनॉल",
+      "एथेनॉल",
+      "फॉर्मिक अम्ल",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Methanol is called wood spirit because it was historically produced by the destructive distillation of wood[cite: 926, 931].",
+    "explanationHindi": "मेथेनॉल को काष्ठ स्प्रिट कहा जाता है क्योंकि पहले इसे लकड़ी के भंजक आसवन से प्राप्त किया जाता था [cite: 922, 926]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "What is the IUPAC name for $CH\\\\equiv C-CH_2-CH_2-CH=CH_2$?",
+    "qHindi": "$CH\\\\equiv C-CH_2-CH_2-CH=CH_2$ का सही IUPAC नाम है-",
+    "optionsEnglish": [
+      "Hex-1-yl-5-ene",
+      "Hex-5-ene-1-yne",
+      "Hex-5-ene-1-ene",
+      "Hex-1-ene-5-yne",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "हेक्स-1-आई-5-ईन",
+      "हेक्स-5-ईन-1-आईन",
+      "हेक्स-5-आईन-1-ईन",
+      "हेक्स-1-ईन-5-आईन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Numbering starts from the double bond end to give it lower priority in alphabetical order (ene before yne)[cite: 942].",
+    "explanationHindi": "IUPAC नियमों के अनुसार, द्वि-आबंध (ene) को त्रि-आबंध (yne) पर वरीयता देते हुए नंबरिंग की जाती है [cite: 934, 942]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Consider the following statements regarding the allotropes of carbon: (1. Catenation, 2. Diamond bond distance 1.54A, 3. Graphite sp3, 4. C60 soccer ball)",
+    "qHindi": "कार्बन के अपरूपों के संबंधों में निम्न कथनों पर विचार कीजिए व सत्य कूट का चयन करें- (1. श्रृंखलन, 2. हीरे में बंध दूरी 1.54 A, 3. ग्रेफाइट sp3, 4. C60 सॉकरबॉल)",
+    "optionsEnglish": [
+      "Only 1, 2, and 3",
+      "Only 1, 2, and 4",
+      "Only 2, 3, and 4",
+      "Only 1, 3, and 4",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल 1, 2 व 3",
+      "केवल 1, 2 व 4",
+      "केवल 2, 3 व 4",
+      "केवल 1, 3 व 4",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Statement 3 is incorrect because each carbon atom in graphite is sp2 hybridized, not sp3[cite: 1056, 1058].",
+    "explanationHindi": "कथन 3 गलत है क्योंकि ग्रेफाइट में प्रत्येक कार्बन परमाणु sp2 संकरित होता है, न कि sp3 [cite: 1040, 1056]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Consider the following statements regarding Carbon allotropes and select the incorrect one:",
+    "qHindi": "निम्न कथनों पर विचार कीजिए व असत्य कथन है-",
+    "optionsEnglish": [
+      "Only 1 and 2",
+      "Only 2 and 3",
+      "Only 1 and 4",
+      "Only 3 and 4",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल 1 व 2",
+      "केवल 2 व 3",
+      "केवल 1 व 4",
+      "केवल 3 व 4",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Graphite (not diamond) is the most thermodynamically stable form. Fullerene (C60) has 20 hexagons and 12 pentagons[cite: 1164, 1166].",
+    "explanationHindi": "ग्रेफाइट कार्बन का सबसे उष्मागतिकी रूप से स्थायी अपररूप है। फुलेरीन में 20 षट्कोणीय और 12 पंचकोणीय फलक होते हैं [cite: 1151, 1164]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Match List-1 with List-2 (Carbon Allotropes and Uses):",
+    "qHindi": "सूची-1 को सूची-2 से सुमेलित कीजिए (कार्बन अपरूप और उपयोग):",
+    "matchItemsEnglish": {
+      "col1Label": "List-1",
+      "col2Label": "List-2",
+      "col1": [
+        "Diamond",
+        "Graphite",
+        "Fullerene",
+        "Graphene"
+      ],
+      "col2": [
+        "Phonogram needle",
+        "Neutron moderator",
+        "Purification of natural gas",
+        "Andre Geim and Novoselov"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-1",
+      "col2Label": "सूची-2",
+      "col1": [
+        "हीरा",
+        "ग्रेफाइट",
+        "फुलेरीन",
+        "ग्रेफीन"
+      ],
+      "col2": [
+        "फोनोग्राम की सुई",
+        "न्यूट्रॉन मंदक",
+        "प्राकृतिक गैस का शुद्धिकरण",
+        "एन्ड्रयू जीम व नोवोसेलोव"
+      ]
+    },
+    "optionsEnglish": [
+      "A-3, B-2, C-1, D-4",
+      "A-1, B-3, C-4, D-2",
+      "A-3, B-1, C-2, D-4",
+      "A-3, B-1, C-4, D-2"
+    ],
+    "optionsHindi": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Diamond is used for needles, Graphite as a moderator, Fullerene for purification, and Graphene was discovered by Geim and Novoselov[cite: 1195, 1197].",
+    "explanationHindi": "हीरा (फोनोग्राम सुई), ग्रेफाइट (न्यूट्रॉन मंदक), फुलेरीन (गैस शुद्धिकरण) और ग्रेफीन की खोज एन्ड्रयू जीम ने की थी [cite: 1169, 1195]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Match the following Freon types with formulas:",
+    "qHindi": "निम्न को सुमेलित करें (फ्रिऑन और सूत्र):",
+    "matchItemsEnglish": {
+      "col1Label": "Formula",
+      "col2Label": "Freon Name",
+      "col1": [
+        "CF2Cl2",
+        "CFCl3",
+        "C2F2Cl4"
+      ],
+      "col2": [
+        "Freon-12",
+        "Freon-11",
+        "Freon-112"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूत्र",
+      "col2Label": "फ्रिऑन नाम",
+      "col1": [
+        "CF2Cl2",
+        "CFCl3",
+        "C2F2Cl4"
+      ],
+      "col2": [
+        "फ्रिऑन-12",
+        "फ्रिऑन-11",
+        "फ्रिऑन-112"
+      ]
+    },
+    "optionsEnglish": [
+      "A-1, B-3, C-2",
+      "A-3, B-2, C-1",
+      "A-2, B-3, C-1",
+      "A-1, B-2, C-3"
+    ],
+    "optionsHindi": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Matching: CF2Cl2 is Freon-12, CFCl3 is Freon-11, and C2F2Cl4 is Freon-112[cite: 1228, 1231].",
+    "explanationHindi": "सही मिलान: CF2Cl2 (फ्रिऑन-12), CFCl3 (फ्रिऑन-11) और C2F2Cl4 (फ्रिऑन-112) [cite: 1199, 1228]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Consider the following statements about Freon: (1. Easily liquefied, 2. Highly reactive, 3. Non-toxic, 4. Inert solvent)",
+    "qHindi": "फ्रिऑन के बारे में निम्न कथनों पर विचार कीजिए- (1. आसानी से द्रवित, 2. अत्यधिक क्रियाशील, 3. अविषैले, 4. अक्रिय विलायक)",
+    "optionsEnglish": [
+      "1, 2, and 3 only",
+      "1, 3, and 4 only",
+      "2, 3, and 4 only",
+      "1, 2, 3, and 4",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल 1, 2 व 3",
+      "केवल 1, 3 व 4",
+      "केवल 2, 3 व 4",
+      "1, 2, 3 व 4",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Freons are chemically inert and stable, not highly reactive (statement 2 is false)[cite: 1254, 1266].",
+    "explanationHindi": "फ्रिऑन रासायनिक रूप से बहुत स्थिर और अक्रिय होते हैं, वे अत्यधिक क्रियाशील नहीं होते (कथन 2 गलत है) [cite: 1247, 1254]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Aldehyde is a functional group in organic compounds[cite: 1408]:",
+    "qHindi": "एल्डिहाइड कार्बनिक यौगिकों में प्रकार्यात्मक समूह है[cite: 1384]:",
+    "optionsEnglish": [
+      "-OH [cite: 1409]",
+      "-CHO [cite: 1412]",
+      "-C(=O)- [cite: 1410]",
+      "-COOH [cite: 1413]",
+      "Question not attempted [cite: 1411]"
+    ],
+    "optionsHindi": [
+      "-OH [cite: 1385]",
+      "-CHO [cite: 1386]",
+      "-C(=O)- [cite: 1387]",
+      "-COOH [cite: 1388]",
+      "अनुत्तरित प्रश्न [cite: 1389]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The functional group for aldehydes is represented as -CHO[cite: 1386, 1412].",
+    "explanationHindi": "एल्डिहाइड का प्रकार्यात्मक समूह -CHO होता है [cite: 1386, 1412]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Even after coalescence in diamond, the melting point is high because[cite: 1426]:",
+    "qHindi": "हीरे में सहसंयोजन होने के उपरांत भी गलनांक उच्च होता है क्यों कि[cite: 1426]:",
+    "optionsEnglish": [
+      "Diamond has a layered structure [cite: 1430]",
+      "Diamond has a strong carbon-carbon three-dimensional structure [cite: 1432]",
+      "Diamond has a strong carbon-carbon two-dimensional structure [cite: 1434]",
+      "Diamond has a cage-like structure [cite: 1437]",
+      "Question not attempted [cite: 1438]"
+    ],
+    "optionsHindi": [
+      "हीरे में परतीय संरचना होती है [cite: 1429]",
+      "हीरे में मजबूत कार्बन कार्बन युक्त त्रिविमीय संरचना होती है [cite: 1431]",
+      "हीरे में मजबूत कार्बन-कार्बन युक्त द्विविमीय संरचना होती है [cite: 1433]",
+      "हीरे की संरचना पिंजरेनुमा होती है [cite: 1435]",
+      "अनुत्तरित प्रश्न [cite: 1436]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The high melting point of diamond is due to its rigid, strong 3D network of covalent bonds[cite: 1431, 1432].",
+    "explanationHindi": "हीरे की मजबूत त्रिविमीय संरचना के कारण इसका गलनांक बहुत अधिक होता है [cite: 1431, 1432]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Temporary hardness of water is caused by[cite: 1444]:",
+    "qHindi": "जल की अस्थायी कठोरता का कारण है[cite: 1441]:",
+    "optionsEnglish": [
+      "Soluble calcium and magnesium dissolved as chlorides and sulfur [cite: 1445]",
+      "Presence of hydrogen carbonates of calcium and magnesium in water [cite: 1447]",
+      "Presence of hydrogen carbonates of potassium and sodium in water [cite: 1450]",
+      "Presence of soluble potassium and sodium as chlorides and sulfur [cite: 1454]",
+      "Question not attempted [cite: 1456]"
+    ],
+    "optionsHindi": [
+      "जल में विलेयशील कैल्शियम तथा मैग्नीशियम के क्लोराइड तथा सल्फर [cite: 1442]",
+      "जल में कैल्शियम तथा मैग्नीशियम के हाइड्रोजन कार्बोनेट की उपस्थिति [cite: 1446]",
+      "जल में पौटेशियम तथा सोडियम के हाइड्रोजन कार्बोनेट की उपस्थिति [cite: 1449]",
+      "जल में विलेयशील पौटेशियम तथा सोडियम के क्लोराइड तथा सल्फर [cite: 1452]",
+      "अनुत्तरित प्रश्न [cite: 1455]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Temporary hardness is due to the presence of bicarbonates (hydrogen carbonates) of Calcium and Magnesium[cite: 1446, 1447].",
+    "explanationHindi": "कैल्शियम और मैग्नीशियम के बाईकार्बोनेट (हाइड्रोजन कार्बोनेट) जल में अस्थायी कठोरता पैदा करते हैं [cite: 1446, 1447]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "When graphite is heated in an electric arc in the presence of helium, argon, and inert gases, what is formed[cite: 1457]:",
+    "qHindi": "हीलियम, ऑर्गन तथा अक्रिय गैसों की उपस्थिति में जब ग्रेफाइट को विद्युत आर्क में गर्म किया जाता है तब किसका निर्माण होता है[cite: 1457]:",
+    "optionsEnglish": [
+      "Diamond [cite: 1460]",
+      "Graphite [cite: 1461]",
+      "Fullerenes [cite: 1480]",
+      "CFC [cite: 1462]",
+      "Question not attempted [cite: 1481]"
+    ],
+    "optionsHindi": [
+      "हीरा [cite: 1463]",
+      "ग्रेफाइट [cite: 1464]",
+      "फुलरीन [cite: 1465]",
+      "CFC [cite: 1466]",
+      "अनुत्तरित प्रश्न [cite: 1467]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Fullerenes are produced by heating graphite in an electric arc in an atmosphere of inert gases like helium or argon[cite: 1465, 1480].",
+    "explanationHindi": "अक्रिय गैसों की उपस्थिति में ग्रेफाइट को गर्म करने पर फुलरीन का निर्माण होता है [cite: 1465, 1480]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "How many sigma and pi bonds are there in the following molecule: $CH_2=C=CH-CH_3$[cite: 1482]:",
+    "qHindi": "निम्नलिखित अणु में कितने sigma तथा pi आबंध है: $CH_2=C=CH-CH_3$[cite: 1468]:",
+    "optionsEnglish": [
+      "Sigma bond 8 and pi bond 3 [cite: 1484]",
+      "Sigma bond 6 and pi bond 5 [cite: 1485]",
+      "Sigma bond 9 and pi bond 2 [cite: 1486]",
+      "Sigma bond 9 and pi bond 3 [cite: 1487]",
+      "Question not attempted [cite: 1488]"
+    ],
+    "optionsHindi": [
+      "आबंध 8 तथा आबंध 3 [cite: 1471]",
+      "आबंध 6 तथा आबंध 5 [cite: 1473]",
+      "आबंध 9 तथा आबंध 2 [cite: 1475]",
+      "आबंध 9 तथा आबंध 3 [cite: 1477]",
+      "अनुत्तरित प्रश्न [cite: 1479]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The structure has 9 sigma bonds and 2 pi bonds from the two double bonds[cite: 1475, 1486].",
+    "explanationHindi": "इस अणु में 9 सिग्मा और 2 पाई आबंध होते हैं [cite: 1475, 1486]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "The number of different chain isomers of alkane with molecular formula $C_6H_{14}$ will be[cite: 1489]:",
+    "qHindi": "अणुसूत्र $C_6H_{14}$ वाली ऐल्केन के विभिन्न श्रृंखला समावयवों की संख्या होगी[cite: 1489]:",
+    "optionsEnglish": [
+      "6 [cite: 1496]",
+      "5 [cite: 1497]",
+      "4 [cite: 1498]",
+      "3 [cite: 1499]",
+      "Question not attempted [cite: 1500]"
+    ],
+    "optionsHindi": [
+      "6 [cite: 1491]",
+      "5 [cite: 1494]",
+      "4 [cite: 1492]",
+      "3 [cite: 1494]",
+      "अनुत्तरित प्रश्न [cite: 1493]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Hexane ($C_6H_{14}$) has 5 structural chain isomers[cite: 1494, 1497].",
+    "explanationHindi": "हेक्सेन ($C_6H_{14}$) के 5 श्रृंखला समावयवी होते हैं [cite: 1494, 1497]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following properties is not a physical property of hydrocarbon[cite: 1501]:",
+    "qHindi": "निम्नलिखित में से कौनसा गुण हाइड्रोकार्बन का भौतिक गुण नहीं है[cite: 1501]:",
+    "optionsEnglish": [
+      "Hydrocarbon is a non-polar molecule [cite: 1509]",
+      "Generally a colorless liquid or solid with a specific odor [cite: 1510]",
+      "Burns with a sooty flame [cite: 1512]",
+      "They exhibit addition and oxidation reactions [cite: 1513]",
+      "Question not attempted [cite: 1514]"
+    ],
+    "optionsHindi": [
+      "हाइड्रोकार्बन अधुव्रीय अणु है [cite: 1503]",
+      "यह सामान्यतः विशिष्ट गंधयुक्त, रंगहीन द्रव या ठोस होते है [cite: 1504]",
+      "कज्जली (Sooty) लौ के साथ जलते है [cite: 1505]",
+      "यह संकलन और ऑक्सीकरण अभिक्रिया दर्शाते है [cite: 1506]",
+      "अनुत्तरित प्रश्न [cite: 1507]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Addition and oxidation reactions are chemical properties, not physical ones[cite: 1506, 1513].",
+    "explanationHindi": "संकलन और ऑक्सीकरण रासायनिक गुण हैं, भौतिक गुण नहीं [cite: 1506, 1513]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following hydrocarbons does not exhibit toxic and carcinogenic properties[cite: 1520]:",
+    "qHindi": "निम्नलिखित में से कौनसा हाइड्रोकार्बन विषाक्ता तथा कैंसरजनी गुण नहीं दर्शाता है[cite: 1520]:",
+    "optionsEnglish": [
+      "1,2-benzoanthracene [cite: 1527]",
+      "3-methylcholanthrene [cite: 1528]",
+      "1,2-benzopyrene [cite: 1529]",
+      "Naphthalene [cite: 1530]",
+      "Question not attempted [cite: 1531]"
+    ],
+    "optionsHindi": [
+      "1, 2-बेंजएन्थेसीन [cite: 1522]",
+      "3- मेथिलकोलेंथ्रीन [cite: 1521]",
+      "1, 2-बेन्जपाइरीन [cite: 1523]",
+      "नैफ्थलीन [cite: 1524]",
+      "अनुत्तरित प्रश्न [cite: 1525]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "While polycyclic aromatic hydrocarbons are often toxic, Naphthalene is less so compared to the other listed carcinogens[cite: 1524, 1530].",
+    "explanationHindi": "दिए गए विकल्पों में नैफ्थलीन अन्य की तुलना में कैंसरजनी गुण नहीं दर्शाता है [cite: 1524, 1530]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following has the highest boiling point[cite: 1551]:",
+    "qHindi": "निम्न में से किसका क्वथनांक सबसे ज्यादा होता है[cite: 1539]:",
+    "optionsEnglish": [
+      "Acetic acid [cite: 1552]",
+      "Chloroform [cite: 1555]",
+      "Ethanol [cite: 1553]",
+      "Methane [cite: 1556]",
+      "Question not attempted [cite: 1554]"
+    ],
+    "optionsHindi": [
+      "एसीटिक एसिड [cite: 1540]",
+      "क्लोरोफॉर्म [cite: 1541]",
+      "एथेनॉल [cite: 1542]",
+      "मेथेन [cite: 1543]",
+      "अनुत्तरित प्रश्न [cite: 1544]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Acetic acid has a higher boiling point due to strong intermolecular hydrogen bonding and dimer formation[cite: 1540, 1552].",
+    "explanationHindi": "मजबूत हाइड्रोजन बंध के कारण एसीटिक एसिड का क्वथनांक दिए गए विकल्पों में सर्वाधिक है [cite: 1540, 1552]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
   }
 ]
