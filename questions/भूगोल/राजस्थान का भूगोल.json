@@ -271,5 +271,442 @@
     "explanationHindi": "भूवैज्ञानिक रूप से, मेघालय (शिलांग) का पठार प्रायद्वीपीय भारतीय पठार का विस्तार है, जो मालदा गैप द्वारा अलग किया गया है।",
     "subject": "भूगोल",
     "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Consider the following in the context of sand dunes in Rajasthan: A. Tara sand dunes are found in Suratgarh (Sriganganagar), Pokaran and Mohangarh (Jaisalmer) areas. B. A seif is an example of a transverse sand dune.",
+    "qHindi": "राजस्थान स्थित बालुका स्तूपों के संदर्भ में निम्न पर विचार कीजिए: A. राज्य के सूरतगढ़ (श्रीगंगानगर), पोकरण व मोहनगढ़ (जैसलमेर) क्षेत्र में तारा बालूका स्तूप पाए जाते है। B. सीफ, अनुप्रस्थ बालूका स्तूप का उदाहरण है।",
+    "optionsEnglish": [
+      "Only A is true.",
+      "Only B is true.",
+      "Both A and B are true.",
+      "Neither A nor B is true.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल A सत्य है।",
+      "केवल B सत्य है।",
+      "A व B दोनों सत्य है।",
+      "न तो A व न ही B सत्य है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Statement A is correct. Statement B is incorrect because 'Seif' is a type of longitudinal (longitudinal) sand dune, not transverse[cite: 607, 624].",
+    "explanationHindi": "कथन A सत्य है। कथन B असत्य है क्योंकि सीफ एक अनुदैर्ध्य (longitudinal) बालुका स्तूप है, न कि अनुप्रस्थ [cite: 602, 607]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following passes are located in Beawar? (A. Kachbali Pass, B. Shivpura Ghat, C. Parveria Pass, D. Jilwara Pass)",
+    "qHindi": "निम्नलिखित में से ब्यावर स्थित दरें है- (A. कचबाली दर्रा, B. शिवपुरा घाट, C. परवेरिया दर्रा, D. जीलवाड़ा दर्रा)",
+    "optionsEnglish": [
+      "Only C and D",
+      "Only A and B",
+      "Only A, C and D",
+      "Only A, B and C",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल C व D",
+      "केवल A व B",
+      "केवल A, C व D",
+      "केवल A, B व C",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Kachbali, Shivpura Ghat, and Parveria are located in Beawar, while Jilwara Pass is in Rajsamand[cite: 637, 639].",
+    "explanationHindi": "कचबाली, शिवपुरा घाट और परवेरिया ब्यावर में स्थित हैं, जबकि जीलवाड़ा दर्रा राजसमंद में है [cite: 612, 637]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Identify the false statement regarding the eastern plains of Rajasthan:",
+    "qHindi": "राजस्थान स्थित पूर्व के मैदान के सन्दर्भ में असत्य कथन है-",
+    "optionsEnglish": [
+      "The Vindhyan Plateau lies on the southeastern border of this region.",
+      "The Pindmand Plain of Deogarh is an integral part of this region.",
+      "This region is characterized by the most extensive badland topography.",
+      "Dholpur, situated within this plain, is known as the 'Queen of the Dang'.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "विन्ध्यन पठार इस प्रदेश की दक्षिणी-पूर्वी सीमा पर स्थित है।",
+      "देवगढ़ का पिंडमांड मैदान इस प्रदेश का अभिन्न अंग है।",
+      "यह राजस्थान में सर्वाधिक उत्खात स्थलाकृति पाया जाने वाला प्रदेश है।",
+      "इस मैदान में स्थित धौलपुर 'डाँग की रानी' कहलाता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Karauli is known as the 'Queen of the Dang', not Dholpur[cite: 650, 652].",
+    "explanationHindi": "करौली को 'डाँग की रानी' कहा जाता है, धौलपुर को नहीं [cite: 642, 650]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following (geomorphic regions - landscapes) is the mismatched pair?",
+    "qHindi": "निम्नलिखित (भूआकृतिक प्रदेश-भूदृश्य) में से असुमेलित युग्म है-",
+    "optionsEnglish": [
+      "Shahabad Highlands - Ramgarh Crater",
+      "Bundi Range - Khatkhat Pass",
+      "Middle Mahi Basin - The Plain of Chhappan",
+      "Uparmal Plateau - Jarga Peak",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "शाहबाद उच्च्त्व प्रदेश - रामगढ़ क्रेटर",
+      "बूंदी पर्वत श्रेणी - खटखट दर्रा",
+      "मध्य माही बेसिन - छप्पन का मैदान",
+      "ऊपर माल का पठार - जरगा चोटी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Jarga Peak is located in the Udaipur-Rajsamand region (Aravalli), not on the Uparmal Plateau[cite: 664, 671].",
+    "explanationHindi": "जरगा चोटी अरावली श्रेणी (उदयपुर) का हिस्सा है, न कि ऊपरमाल पठार का [cite: 659, 664]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following groups regarding the creation of new districts in Rajasthan is correct in chronological order?",
+    "qHindi": "राजस्थान के नए जिलों के निर्माण से संबंधित निम्नलिखित में से कौनसा समूह समयानुक्रम के अनुसार सही है-",
+    "optionsEnglish": [
+      "Dhaulpur - Baran - Dausa - Rajsamand",
+      "Dausa - Hanumangarh - Baran - Pratapgarh",
+      "Pratapgarh - Baran - Dausa - Hanumangarh",
+      "Hanumangarh - Baran - Dausa - Pratapgarh",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "धौलपुर - बाराँ - दौसा - राजसमंद",
+      "दौसा - हनुमानगढ़ - बाराँ - प्रतापगढ़",
+      "प्रतापगढ़ - बाराँ - दौसा - हनुमानगढ़",
+      "हनुमानगढ़ - बाराँ - दौसा - प्रतापगढ़",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Dholpur was formed in 1982, while Baran, Dausa, and Rajsamand were formed on the same day in 1991[cite: 675, 681].",
+    "explanationHindi": "धौलपुर का निर्माण 1982 में हुआ, जबकि बाराँ, दौसा और राजसमंद 1991 में बने [cite: 673, 675]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following is not true regarding the Dag-Gangdhar Highlands in Rajasthan?",
+    "qHindi": "राजस्थान स्थित 'डग-गंगधार उच्च प्रदेश' के सन्दर्भ में निम्न में से सत्य कथन नहीं है।",
+    "optionsEnglish": [
+      "It is the southwestern part of the Hadoti Plateau.",
+      "This region has very little surface diversity.",
+      "The Chambal River forms the eastern boundary of this region.",
+      "This is the smallest physiographic unit of the Hadoti region.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "यह हाड़ौती पठार का दक्षिणी-पश्चिमी भाग है।",
+      "इस प्रदेश में धरातलीय विविधता बहुत कम है।",
+      "चम्बल नदी इस प्रदेश की पूर्वी सीमा बनाती है।",
+      "यह हाड़ौती प्रदेश की सबसे छोटी भू-आकृति है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Dag-Gangdhar region is characterized by significant geomorphic and surface diversity[cite: 689, 695].",
+    "explanationHindi": "डग-गंगधार क्षेत्र में धरातलीय विविधता अधिक पाई जाती है [cite: 686, 689]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Approximately what proportion of the desert region of Rajasthan is a 'dune-free zone'?",
+    "qHindi": "राजस्थान के मरुस्थलीय भाग का लगभग कितना क्षेत्र 'बालुका स्तूप मुक्त प्रदेश' है?",
+    "optionsEnglish": [
+      "48.8 percent",
+      "61.11 percent",
+      "41.5 percent",
+      "58.5 percent",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "48.8 प्रतिशत",
+      "61.11 प्रतिशत",
+      "41.5 प्रतिशत",
+      "58.5 प्रतिशत",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "About 41.5% of the western desert is classified as a dune-free region[cite: 703, 714].",
+    "explanationHindi": "पश्चिमी मरुस्थल का लगभग 41.5% भाग बालुका स्तूप मुक्त प्रदेश के अंतर्गत आता है [cite: 699, 703]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Select the incorrect statement from the following:",
+    "qHindi": "निम्नलिखित में असत्य कथन को चुनिए-",
+    "optionsEnglish": [
+      "The Aravalli is an example of a relict mountain range.",
+      "The Hadoti Plateau is a blend of lava-mixed rocks and Vindhyan rocks.",
+      "The general slope of the Thar Desert is from the southwest to the northeast.",
+      "The Eastern Plains of Rajasthan are a subdivision of the Gangetic Plains.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अरावली एक अवशिष्ट पर्वत श्रेणी का उदाहरण है।",
+      "हाड़ौती पठार लावा मिश्रित शैल एवं विन्ध्य शैलों का समिश्रण है।",
+      "थार मरुस्थल का सामान्य ढाल दक्षिण-पश्चिम से उत्तर-पूर्व की ओर है।",
+      "राजस्थान का पूर्वी मैदान, गंगा के मैदान का उपभाग है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The general slope of the Thar Desert in Rajasthan is from Northeast to Southwest[cite: 709, 721].",
+    "explanationHindi": "थार मरुस्थल का सामान्य ढाल उत्तर-पूर्व से दक्षिण-पश्चिम की ओर है [cite: 706, 709]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Where is the highest peak of the Mukundara mountain range located in the Southeastern Plateau region?",
+    "qHindi": "दक्षिणी पूर्वी पठारी प्रदेश स्थित मुकुन्दरा पर्वत श्रेणी का सर्वोच्च शिखर कहाँ स्थित है?",
+    "optionsEnglish": [
+      "Near Kishanganj",
+      "In the Chandwari region",
+      "Near Mangrol",
+      "Near Digod",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "किशनगंज के निकट",
+      "चंदवाड़ी क्षेत्र में",
+      "मांगरोल के निकट",
+      "दीगोद के निकट",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The highest peak of Mukundara is Chandwari, located in the Chandwari region[cite: 732, 735].",
+    "explanationHindi": "मुकुन्दरा पर्वत श्रेणी का सबसे ऊँचा शिखर चंदवाड़ी क्षेत्र में स्थित है [cite: 726, 732]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following peaks is higher than Kumbhalgarh but lower than Dilwara?",
+    "qHindi": "निम्नलिखित में से कौनसा शिखर कुंभलगढ़ से ऊँचा तथा देलवाड़ा से नीचा है-",
+    "optionsEnglish": [
+      "Achalgarh",
+      "Sher",
+      "Sajjangarh",
+      "Rishabhdev",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अचलगढ़",
+      "सेर",
+      "सज्जनगढ़",
+      "ऋषभदेव",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Achalgarh (1380m) is higher than Kumbhalgarh (1224m) and lower than Dilwara (1442m)[cite: 741, 753].",
+    "explanationHindi": "अचलगढ़ (1380 मीटर) कुंभलगढ़ (1224 मीटर) से ऊँचा और देलवाड़ा (1442 मीटर) से नीचा है [cite: 739, 741]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following districts is shaped like a 'Tilak'?",
+    "qHindi": "निम्नलिखित में से कौनसे जिले का आकार 'तिलक' के समान है?",
+    "optionsEnglish": [
+      "Jaisalmer",
+      "Dausa",
+      "Rajsamand",
+      "Sikar",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जैसलमेर",
+      "दौसा",
+      "राजसमंद",
+      "सीकर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The shape of Rajsamand district is similar to a Tilak[cite: 749, 761].",
+    "explanationHindi": "राजसमंद जिले की आकृति तिलक के समान है [cite: 746, 749]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "What is the correct order of the following landforms in Rajasthan from north to south? (1. Bhomat, 2. Bangar, 3. Ghaghar Ka Maidan, 4. Uparmal)",
+    "qHindi": "राजस्थान में निम्नलिखित स्थलाकृत्तियों का उत्तर से दक्षिण में उनकी अवस्थिति का सही क्रम कौनसा है? (1. भोमट, 2. बांगर, 3. घग्घर का मैदान, 4. ऊपरमाल)",
+    "optionsEnglish": [
+      "2, 3, 1, 4",
+      "2, 3, 4, 1",
+      "3, 2, 1, 4",
+      "3, 2, 4, 1",
+      "Question Not Attempted"
+    ],
+    "optionsHindi": [
+      "2, 3, 1, 4",
+      "2, 3, 4, 1",
+      "3, 2, 1, 4",
+      "3, 2, 4, 1",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The sequence from North to South is: Ghaghar Plain -> Rajasthan Bangar -> Uparmal -> Bhomat[cite: 781, 783].",
+    "explanationHindi": "उत्तर से दक्षिण का सही क्रम है: घग्घर का मैदान -> राजस्थान बांगर -> ऊपरमाल -> भोमट [cite: 764, 781]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following statements regarding the landforms of Rajasthan is incorrect?",
+    "qHindi": "राजस्थान के धरातलीय स्वरूपों के संबंध में निम्नलिखित में से कौन-सा कथन गलत है?",
+    "optionsEnglish": [
+      "Aravalli is the oldest folded mountain range in the world.",
+      "The Aravalli region originated from Angaraland.",
+      "The western sand plain is the remains of the Tethys Sea.",
+      "The south-eastern plateau is an extended part of the Gondwana Land.",
+      "Question Not Attempted"
+    ],
+    "optionsHindi": [
+      "अरावली विश्व की प्राचीनतम वलित पर्वत श्रेणी है।",
+      "अरावली प्रदेश की उत्पत्ति अंगारालैण्ड से हुई है।",
+      "पश्चिमी बालुका मैदान टेथिस सागर का अवशेष है।",
+      "दक्षिणी पूर्वी पठार गौंडवाना लैण्ड का विस्तारित भाग है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Aravalli region originated from Gondwanaland, not Angaraland[cite: 789, 796].",
+    "explanationHindi": "अरावली पर्वतमाला की उत्पत्ति गोंडवानालैंड से हुई है, न कि अंगारालैंड से [cite: 786, 789]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Malpura-Karauli plain is a part of which river basin?",
+    "qHindi": "मालपुरा-करौली का मैदान किस नदी बेसिन का भाग है?",
+    "optionsEnglish": [
+      "Yamuna basin",
+      "Luni basin",
+      "Chambal basin",
+      "Banas basin",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "यमुना बेसिन",
+      "लूनी बेसिन",
+      "चम्बल बेसिन",
+      "बनास बेसिन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The Malpura-Karauli plain is a subdivision of the Banas Basin[cite: 805, 810].",
+    "explanationHindi": "मालपुरा-करौली का मैदान बनास बेसिन का एक उप-भाग है [cite: 793, 805]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following is a false statement related to the 'plains of the east'-",
+    "qHindi": "निम्नलिखित में से 'पूर्व के मैदान' से संबंधित असत्य कथन है-",
+    "optionsEnglish": [
+      "This region is geomorphologically diverse.",
+      "The northern part of the Banas-Banganga basin of this region is called the plains of Mewar.",
+      "This region is known as the Chappan ka Maidan in Pratapgarh-Banswara.",
+      "The major rivers flowing in this plain are Banas, Banganga, Mahi, Som, Jakham and Chambal etc.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "यह प्रदेश भू-आकृतिक रूप से विविधता युक्त है।",
+      "इस प्रदेश के बनास-बाणगंगा बेसिन के उत्तरी भाग को मेवाड़ का मैदान कहा जाता है।",
+      "इस प्रदेश को प्रतापगढ़-बाँसवाड़ा में छप्पन का मैदान नाम से जाना जाता है।",
+      "इस मैदान में प्रवाहित होने वाली प्रमुख नदियाँ बनास, बाणगंगा, माही, सोम, जाखम व चम्बल आदि हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The southern part of the Banas basin is called the Mewar Plain, while the northern part is the Malpura-Karauli plain[cite: 820, 822].",
+    "explanationHindi": "बनास बेसिन के दक्षिणी भाग को मेवाड़ का मैदान कहा जाता है, उत्तरी भाग को नहीं [cite: 816, 820]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Identify the correct option representing the arrangement of the following plateaus in a sequence from west to east: (Abu, Bhorat, Lasadiya, Uparmal, Hadoti)",
+    "qHindi": "निम्नलिखित पठारों के पश्चिम से पूर्व की ओर व्यवस्थित क्रम की पहचान कर सही उत्तर का चयन करें- (आबू, भोराट, लसाड़िया, ऊपरमाल, हाड़ौती)",
+    "optionsEnglish": [
+      "Abu, Bhorat, Lasadiya, Uparmal, Hadoti",
+      "Hadoti, Uparmal, Lasadiya, Bhorat, Abu",
+      "Uparmal, Hadoti, Bhorat, Lasadiya, Abu",
+      "Abu, Uparmal, Bhorat, Lasadiya, Hadoti",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "आबू, भोराट, लसाड़िया, ऊपरमाल, हाड़ौती",
+      "हाड़ौती, ऊपरमाल, लसाड़िया, भोराट, आबू",
+      "ऊपरमाल, हाड़ौती, भौराट, लसाड़िया, आबू",
+      "आबू, ऊपरमाल, भोराट, लसाड़िया, हाड़ौती",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The sequence of plateaus from West to East is: Abu -> Bhorat -> Lasadiya -> Uparmal -> Hadoti[cite: 832, 838].",
+    "explanationHindi": "पठारों का पश्चिम से पूर्व सही क्रम है: आबू -> भोराट -> लसाड़िया -> ऊपरमाल -> हाड़ौती [cite: 830, 832]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "The rocks of the Baap Bolders of Rajasthan belong to which of the following geological periods?",
+    "qHindi": "राजस्थान के बाप बोल्डर्स की शैलें निम्नलिखित में से किस भूगर्भिक काल की है?",
+    "optionsEnglish": [
+      "Cambrian and Ordovician period",
+      "Carboniferous and Permian period",
+      "Oligocene and Miocene period",
+      "Jurassic and Eocene period",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कैम्ब्रियन व ऑर्डोविशियन काल",
+      "कार्बोनिफेरस व पर्मियन काल",
+      "ओलिगोसीन व मायोसनी काल",
+      "जुरासिक व इओसीन काल",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Baap Boulders in Rajasthan belong to the Carboniferous and Permian periods[cite: 846, 859].",
+    "explanationHindi": "बाप बोल्डर्स की चट्टानें कार्बोनिफेरस और पर्मियन युग की मानी जाती हैं [cite: 843, 846]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Vindhyan escarpment land is mainly composed of-",
+    "qHindi": "विन्ध्यन कगार भूमि प्रमुखतः निर्मित है-",
+    "optionsEnglish": [
+      "Marble and granite",
+      "Quartzite and granite",
+      "Sandstone and shale",
+      "Basalt",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "संगमरमर एवं ग्रेनाइट से",
+      "क्वार्टजाइट एवं ग्रेनाइट से",
+      "बालुका पत्थर एवं शेल से",
+      "बेसाल्ट से",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Vindhyan escarpment land consists mainly of sandstone and shale[cite: 853, 866].",
+    "explanationHindi": "विन्ध्यन कगार भूमि का निर्माण मुख्यतः बालुका पत्थर और शेल चट्टानों से हुआ है [cite: 850, 853]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "From which place in Rajasthan was a 200 million-year-old phytosaur skeleton recently discovered[cite: 1650]:",
+    "qHindi": "हाल ही में राजस्थान के किस स्थान से फाइटोसौर का 20 करोड़ वर्ष पुराना कंकाल प्राप्त हुआ है[cite: 1650]:",
+    "optionsEnglish": [
+      "Megha Village, Jaisalmer [cite: 1650]",
+      "Devi Kot, Jaisalmer [cite: 1650]",
+      "Jasai, Barmer [cite: 1650]",
+      "Kanoi, Jaisalmer [cite: 1650]",
+      "Question not attempted [cite: 1650]"
+    ],
+    "optionsHindi": [
+      "मेघा गाँव, जैसलमेर [cite: 1650]",
+      "देवी कोट, जैसलमेर [cite: 1650]",
+      "जसाई, बाड़मेर [cite: 1650]",
+      "कनोई, जैसलमेर [cite: 1650]",
+      "अनुत्तरित प्रश्न [cite: 1650]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The ancient phytosaur skeleton was discovered in the Devi Kot area of Jaisalmer district[cite: 1650].",
+    "explanationHindi": "जैसलमेर के देवी कोट क्षेत्र से फाइटोसौर का 20 करोड़ साल पुराना जीवाश्म मिला है [cite: 1650]‌।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
   }
 ]
