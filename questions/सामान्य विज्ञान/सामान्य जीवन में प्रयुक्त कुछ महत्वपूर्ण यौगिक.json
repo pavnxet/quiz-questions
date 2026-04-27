@@ -544,5 +544,341 @@
     "explanationHindi": "यह प्रक्रिया एक योग/संयोग अभिक्रिया को संदर्भित करती है जिसे अक्सर सिंथेटिक परिवर्तनों के तहत समूहीकृत किया जाता है [cite: 305, 306] ।",
     "subject": "सामान्य विज्ञान",
     "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following polymers is a thermosetting polymer?",
+    "qHindi": "निम्नलिखित में से कौनसा बहुलक तापदृढ़ बहुलक है-",
+    "optionsEnglish": [
+      "Polyethylene",
+      "Polyvinyl chloride",
+      "Bakelite",
+      "Polystyrene",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पॉलीथीन",
+      "पॉलिविनाइल क्लोराइड",
+      "बैकेलाइट",
+      "पॉलिस्टाइरीन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Bakelite is a thermosetting polymer that cannot be remoulded once set[cite: 949, 956].",
+    "explanationHindi": "बैकेलाइट एक तापदृढ़ (thermosetting) बहुलक है जिसे एक बार सेट करने के बाद दोबारा गर्म करके ढाला नहीं जा सकता [cite: 947, 949]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Match List 1 with List 2 (Polymers and Monomers):",
+    "qHindi": "सूची-1 को सूची-2 से सुमेलित कीजिए (बहुलक और एकलक):",
+    "matchItemsEnglish": {
+      "col1Label": "List-1",
+      "col2Label": "List-2",
+      "col1": [
+        "Natural rubber",
+        "Neoprene",
+        "Glyptal",
+        "Terylene"
+      ],
+      "col2": [
+        "2-methyl-1,3-butadiene",
+        "2-chloro-1,3-butadiene",
+        "Phthalic acid + Ethylene glycol",
+        "Terephthalic acid + Ethylene glycol"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-1",
+      "col2Label": "सूची-2",
+      "col1": [
+        "प्राकृतिक रबर",
+        "निओप्रीन",
+        "ग्लिप्टल",
+        "टेरिलीन"
+      ],
+      "col2": [
+        "2-मेथिल-1, 3-ब्यूटाडाईन",
+        "2-क्लोरो-1, 3-ब्यूटाडाईन",
+        "थैलिक अम्ल + एथिलीन ग्लाइकॉल",
+        "टेरेफ्थैलिक अम्ल + एथिलीन ग्लाइकॉल"
+      ]
+    },
+    "optionsEnglish": [
+      "A-1, B-2, C-3, D-4",
+      "A-4, B-3, C-2, D-1",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-1, C-4, D-3"
+    ],
+    "optionsHindi": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Correct matching: Natural rubber is Isoprene, Neoprene is Chloroprene, Glyptal uses Phthalic acid, and Terylene uses Terephthalic acid[cite: 1017, 1021].",
+    "explanationHindi": "सही मिलान: प्राकृतिक रबर (आइसोप्रीन), निओप्रीन (क्लोरोप्रीन), ग्लिप्टल (थैलिक अम्ल) और टेरिलीन (टेरेफ्थैलिक अम्ल) [cite: 952, 1017]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Polystyrene is an example of:",
+    "qHindi": "पॉलीस्टीरीन जिसका उदाहरण है-",
+    "optionsEnglish": [
+      "Thermoplastic polymer",
+      "Thermosetting polymer",
+      "Fiber",
+      "Elastomer",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "थर्मोप्लास्टिक बहुलक",
+      "थर्मोसेटिंग बहुलक",
+      "रेशा",
+      "इलास्टोमर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Polystyrene is a thermoplastic polymer that softens on heating and hardens on cooling[cite: 1029, 1032].",
+    "explanationHindi": "पॉलीस्टीरीन एक थर्मोप्लास्टिक बहुलक है जिसे गर्म करने पर आसानी से नया आकार दिया जा सकता है [cite: 1026, 1029]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Select the incorrect statement regarding polymers:",
+    "qHindi": "गलत कथन का चयन करें-",
+    "optionsEnglish": [
+      "Neoprene is formed by the polymerization of chloropropene.",
+      "[-CH2-CH(C6H5)]n is a copolymer.",
+      "Rubber is a natural polymer which is polyisoprene.",
+      "Sulfur is added to raw rubber for vulcanization.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "नियोप्रीन, क्लोरोप्रोपिन के बहुलीकरण द्वारा बनता है।",
+      "[-CH2-CH(C6H5)]n एक सहबहुलक है।",
+      "रबर एक प्राकृतिक बहुलक है जो पॉली आइसोप्रीन है।",
+      "वल्केनाइजेशन के लिए कच्चे रबर में सल्फर मिलाया जाता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "[-CH2-CH(C6H5)]n (Polystyrene) is a homopolymer, not a copolymer, as it consists of only one type of monomer[cite: 1068, 1074].",
+    "explanationHindi": "पॉलीस्टीरीन (Polystyrene) एक समबहुलक (homopolymer) है, सहबहुलक नहीं, क्योंकि इसमें केवल एक ही प्रकार का एकलक होता है [cite: 1066, 1068]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The polymer used for the manufacture of insulators and television cabinets is:",
+    "qHindi": "इंसुलेटर और टेलीविजन कैबिनेट के निर्माण के लिए इस्तेमाल किया जाने वाला बहुलक है-",
+    "optionsEnglish": [
+      "Polystyrene",
+      "Glyptal",
+      "Nylon-66",
+      "Dacron",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पॉलीस्टाइरीन",
+      "ग्लिप्टल",
+      "नाइलॉन-66",
+      "डेक्रोन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Polystyrene is widely used for making television cabinets and electrical insulators[cite: 1086, 1088].",
+    "explanationHindi": "टेलीविजन कैबिनेट और इंसुलेटर बनाने में पॉलीस्टाइरीन का बड़े पैमाने पर उपयोग किया जाता है [cite: 1082, 1086]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Match List-1 with List-2 (Polymers and Monomers):",
+    "qHindi": "सूची-1 को सूची-2 से सुमेलित कीजिए (बहुलक और एकलक):",
+    "matchItemsEnglish": {
+      "col1Label": "List-1",
+      "col2Label": "List-2",
+      "col1": [
+        "PVC",
+        "Bakelite",
+        "Nylon 66",
+        "Polyethylene"
+      ],
+      "col2": [
+        "Vinyl chloride",
+        "Phenol + Formaldehyde",
+        "Hexamethylene diamine + Adipic acid",
+        "Ethene"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-1",
+      "col2Label": "सूची-2",
+      "col1": [
+        "पी.वी.सी.",
+        "बैकेलाइट",
+        "नायलॉन 66",
+        "पॉलीथीन"
+      ],
+      "col2": [
+        "वाइनिल क्लोराइड",
+        "फीनॉल + फार्मल्डिहाइड",
+        "हैक्सामेथिलीन डाइएमीन + ऐडिपिक अम्ल",
+        "एथीन"
+      ]
+    },
+    "optionsEnglish": [
+      "A-1, B-2, C-3, D-4",
+      "A-3, B-4, C-2, D-1",
+      "A-4, B-3, C-1, D-2",
+      "A-2, B-1, C-4, D-3"
+    ],
+    "optionsHindi": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Matching: PVC (Vinyl chloride), Bakelite (Phenol+Formaldehyde), Nylon 66 (Hexamethylene diamine+Adipic acid), Polyethylene (Ethene)[cite: 1126, 1131].",
+    "explanationHindi": "सही मिलान: PVC (वाइनिल क्लोराइड), बैकेलाइट (फीनॉल+फार्मल्डिहाइड), नायलॉन 66 (हैक्सामेथिलीन डाइएमीन+ऐडिपिक अम्ल) और पॉलीथीन (एथीन) [cite: 1096, 1126]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following gases is used in CNG?",
+    "qHindi": "निम्नलिखित में से कौनसी गैस CNG में उपयोग होती है-",
+    "optionsEnglish": [
+      "Ethane",
+      "Butane",
+      "Methane",
+      "Propane",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "एथेन",
+      "ब्यूटेन",
+      "मीथेन",
+      "प्रोपेन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "CNG (Compressed Natural Gas) primarily consists of methane (CH4)[cite: 1338, 1345].",
+    "explanationHindi": "CNG (संपीड़ित प्राकृतिक गैस) का मुख्य घटक मीथेन (CH4) होता है [cite: 1335, 1338]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Assertion: CFC was used in refrigerators and air conditioners. Reason: CFC is a very stable and non-toxic gas.",
+    "qHindi": "कथन: CFC का उपयोग रेफ्रिजरेटर और एयर कंडीशनर में किया जाता था। कारण: CFC बहुत स्थिर और गैर-विषाक्त गैसें होती है।",
+    "optionsEnglish": [
+      "Both statement and reason are correct, and reason is the correct explanation.",
+      "Both statement and reason are correct, but reason is not the correct explanation.",
+      "Statement is correct, but reason is incorrect.",
+      "Both statement and reason are incorrect.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कथन तथा कारण दोनों सही है तथा कारण, कथन की सही व्याख्या है।",
+      "कथन तथा कारण दोनों सही है किन्तु कारण, कथन की सही व्याख्या नहीं है।",
+      "कथन सही है, परंतु कारण गलत है।",
+      "कथन तथा कारण दोनों गलत है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Because of their stability and safety (non-toxic), CFCs were preferred as refrigerants[cite: 1351, 1357].",
+    "explanationHindi": "अत्यधिक स्थिरता और गैर-विषाक्त होने के कारण ही CFC का उपयोग प्रशीतकों (refrigerants) में किया जाता था [cite: 1348, 1351]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which free radical of CFC destroys the ozone layer?",
+    "qHindi": "CFC का कौनसा मुक्त मूलक ओजोन परत को नष्ट करता है?",
+    "optionsEnglish": [
+      "Cl free radical",
+      "F free radical",
+      "H free radical",
+      "C free radical",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "Cl मुक्त मूलक",
+      "F मुक्त मूलक",
+      "H मुक्त मूलक",
+      "C मुक्त मूलक",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Chlorine (Cl) free radicals released from CFCs act as a catalyst in destroying ozone molecules[cite: 1365, 1372].",
+    "explanationHindi": "CFC से मुक्त होने वाले क्लोरीन (Cl) मुक्त मूलक ओजोन की परतों को नष्ट करने के लिए जिम्मेदार होते हैं [cite: 1364, 1365]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "CFC is a chlorofluoro derivative of-",
+    "qHindi": "CFC निम्न के क्लोरो फ्लोरो व्युत्पन्न है-",
+    "optionsEnglish": [
+      "Methane only",
+      "Methane and Ethane",
+      "Methane, Ethane and Propane",
+      "Ethane and Propane",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल मेथेन",
+      "मेथेन व एथेन",
+      "मेथेन, एथेन व प्रोपेन",
+      "एथेन व प्रोपेन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "CFCs (Freons) are chlorofluorocarbons derived specifically from methane and ethane[cite: 1380, 1403].",
+    "explanationHindi": "CFC (फ्रिऑन) मेथेन और एथेन के क्लोरोफ्लोरो व्युत्पन्न होते हैं [cite: 1369, 1380]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "The monomers of dacron are[cite: 1414]:",
+    "qHindi": "डेक्रॉन के एकलक है[cite: 1390]:",
+    "optionsEnglish": [
+      "Decane and decanol [cite: 1415]",
+      "Decanone and decanol [cite: 1416]",
+      "Ethylene glycol and terephthalic acid [cite: 1417]",
+      "Ethylene glycol and phthalic acid [cite: 1418]",
+      "Question not attempted [cite: 1419]"
+    ],
+    "optionsHindi": [
+      "डेकेन और डेकेनॉल [cite: 1391]",
+      "डेकेनोन और डेकेनॉल [cite: 1392]",
+      "एथिलीन ग्लाइकॉल और टेरेफ्थैलिक अम्ल [cite: 1393]",
+      "एथिलीन ग्लाइकॉल और थैलिक अम्ल [cite: 1394]",
+      "अनुत्तरित प्रश्न [cite: 1395]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Dacron (Terylene) is formed by the condensation of ethylene glycol and terephthalic acid[cite: 1393, 1417].",
+    "explanationHindi": "डेक्रॉन (टेरिलीन) एथिलीन ग्लाइकॉल और टेरेफ्थैलिक अम्ल के संघनन से बनता है [cite: 1393, 1417]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Bakelite is a condensation polymer of[cite: 1420]:",
+    "qHindi": "बैकालाइट निम्नलिखित का एक संघनन बहुलक है[cite: 1396]:",
+    "optionsEnglish": [
+      "Phenol and caprolactam [cite: 1421]",
+      "Melamine and HCHO [cite: 1422]",
+      "HCHO and phthalic acid [cite: 1423]",
+      "Phenol and HCHO [cite: 1424]",
+      "Question not attempted [cite: 1425]"
+    ],
+    "optionsHindi": [
+      "फीनॉल और कैप्रोलैक्टम [cite: 1397]",
+      "मैलैमीन और HCHO [cite: 1398]",
+      "HCHO और थैलिक अम्ल [cite: 1399]",
+      "फीनॉल और HCHO [cite: 1400]",
+      "अनुत्तरित प्रश्न [cite: 1401]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Bakelite is a thermosetting polymer made from phenol and formaldehyde (HCHO)[cite: 1400, 1424].",
+    "explanationHindi": "बैकेलाइट फीनॉल और फॉर्मल्डिहाइड (HCHO) का एक संघनन बहुलक है [cite: 1400, 1424]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
   }
 ]
