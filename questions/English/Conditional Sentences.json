@@ -1,4 +1,22 @@
-ppointed.",
+[
+  {
+    "qEnglish": "If she ..... the instructions carefully, she ..... this mistake and ..... better marks.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "reads / will not make / will get",
+      "read / would not make / would get",
+      "has read / does not make / gets",
+      "had read / would not have made / would have got"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Third conditional (Past Perfect in if-clause, would have + V3 in main clause) is used for hypothetical past situations.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If it ..... tomorrow, we ..... the match and ..... very disappointed.",
     "qHindi": "",
     "optionsEnglish": [
       "rains / will cancel / will be",

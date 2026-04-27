@@ -1,0 +1,107 @@
+[
+  {
+    "qEnglish": "What is the correct technical term for 'Disclaimer'?",
+    "qHindi": "'Disclaimer के लिए सही पारिभाषिक शब्द है-",
+    "optionsEnglish": [
+      "Disagreement",
+      "Rejection/Disclaimer",
+      "Document",
+      "Honorary"
+    ],
+    "optionsHindi": [
+      "असहमति",
+      "अस्वीकरण",
+      "दस्तावेज",
+      "अवैतनिक"
+    ],
+    "correct": 1,
+    "explanationEnglish": "A disclaimer is a statement that denies responsibility or affiliation.",
+    "explanationHindi": "Disclaimer का English अर्थ 'अस्वीकरण' होता है। [cite: 640-642]",
+    "subject": "English",
+    "topic": "Glossary of Official/Technical Terms"
+  },
+  {
+    "qEnglish": "Choose the correct Hindi option for: Insolvency",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Methodology",
+      "Fiscal Deficit",
+      "Abandon",
+      "Insolvency/Bankruptcy"
+    ],
+    "optionsHindi": [
+      "कार्यप्रणाली",
+      "राजकोष घाटा",
+      "त्यागना",
+      "दिवालियापन"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Insolvency is the state of being unable to pay the money owed.",
+    "explanationHindi": "Insolvency का English अर्थ 'दिवालियापन' है। [cite: 646-650]",
+    "subject": "English",
+    "topic": "Glossary of Official/Technical Terms"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Memorandum'?",
+    "qHindi": "Memorandum' के लिए सही परिभाषित शब्द है?",
+    "optionsEnglish": [
+      "Information",
+      "Notification",
+      "Release",
+      "Memorandum/Memo"
+    ],
+    "optionsHindi": [
+      "सूचना",
+      "अधूिचना",
+      "विज्ञप्ति",
+      "ज्ञापन"
+    ],
+    "correct": 3,
+    "explanationEnglish": "A memorandum is a written message or record used for communication in business or government.",
+    "explanationHindi": "Memorandum का English अर्थ 'ज्ञापन' होता है। [cite: 652-656]",
+    "subject": "English",
+    "topic": "Glossary of Official/Technical Terms"
+  },
+  {
+    "qEnglish": "Choose the correct English option for 'प्रतिपुष्टि'.",
+    "qHindi": "'प्रतिपुष्टि' Choose the correct option.",
+    "optionsEnglish": [
+      "Authentic",
+      "Feedback",
+      "Support",
+      "Feed on"
+    ],
+    "optionsHindi": [
+      "Authentic",
+      "Feed back",
+      "Support",
+      "Feed on"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Feedback is the information about reactions to a product or a person's performance.",
+    "explanationHindi": "'प्रतिपुष्टि' का अंग्रेजी अनुवाद Feedback है। [cite: 683-685]",
+    "subject": "English",
+    "topic": "Glossary of Official/Technical Terms"
+  },
+  {
+    "qEnglish": "What is the correct technical term for 'Affidavit'?",
+    "qHindi": "'Affidavit' के लिए सही पारिभाषिक शब्द है-",
+    "optionsEnglish": [
+      "Annexure",
+      "Document",
+      "Sworn statement",
+      "Resignation"
+    ],
+    "optionsHindi": [
+      "परिशिष्ट",
+      "दस्तावेज",
+      "शपथ-पत्र",
+      "त्यागपत्र"
+    ],
+    "correct": 2,
+    "explanationEnglish": "An affidavit is a written statement confirmed by oath or affirmation.",
+    "explanationHindi": "न्यायालय या अधिकारी के समक्ष शपथपूर्वक दिए गए लिखित बयान को 'शपथ-पत्र' कहते हैं। [cite: 689-701]",
+    "subject": "English",
+    "topic": "Glossary of Official/Technical Terms"
+  }
+]
