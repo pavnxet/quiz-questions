@@ -1,0 +1,82 @@
+[
+  {
+    "qEnglish": "If she ..... the instructions carefully, she ..... this mistake and ..... better marks.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "reads / will not make / will get",
+      "read / would not make / would get",
+      "has read / does not make / gets",
+      "had read / would not have made / would have got"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Third conditional (Past Perfect in if-clause, would have + V3 in main clause) is used for hypothetical past situations.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If it ..... tomorrow, we ..... the match and ..... very disappointed.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "rains / will cancel / will be",
+      "rained / would cancel / would be",
+      "had rained / would have cancelled / would have been",
+      "has rained / cancel / are"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "First conditional (Simple Present in if-clause, Simple Future in main clause) is used for real possibilities.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I ..... you, I ..... such a hasty decision and ..... more carefully about it.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "am / will not take / think",
+      "were / would not take / would think",
+      "had been / would not have taken / would have thought",
+      "was / shall not take / am thinking"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Second conditional (Past subjunctive 'were' in if-clause, 'would' in main clause) is used for imaginary present situations.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Had she ..... earlier, she ..... the flight and ..... the important meeting.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "left / will catch / attends",
+      "leave / catches / attends",
+      "left / would catch / would attend",
+      "left / would have caught / would have attended"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Inverted third conditional (Had + Subject + V3) follows the same rule as third conditional.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If water ..... to zero degrees, it ..... ice and ..... its original shape.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "cooled / becomes / retains",
+      "cools / becomes / retains",
+      "had cooled / would become / would retain",
+      "will cool / will become / will retain"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Zero conditional (Simple Present in both clauses) is used for universal truths.",
+    "explanationHindi": "",
+    "subject": "हिंदी",
+    "topic": "Conditional Sentences"
+  }
+]
