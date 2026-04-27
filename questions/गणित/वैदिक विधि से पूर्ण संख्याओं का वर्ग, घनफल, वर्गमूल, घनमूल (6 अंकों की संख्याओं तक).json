@@ -1,0 +1,1152 @@
+[
+  {
+    "qEnglish": "Which of the following statements about perfect squares is TRUE: I. Digital root is not 2, 3, 5, 6, 8. II. Unit digit is never 2, 3, 7, 8[cite: 1752]:",
+    "qHindi": "निलिखित में से सत्य कथन है: I. पूर्ण वर्ग का बिजांक 2,3,5,6,8 नहीं होगा। II. पूर्ण वर्ग का इकाई का अंक कभी 2,3,7,8 नहीं होगा[cite: 1743]:",
+    "optionsEnglish": [
+      "Only I [cite: 1758]",
+      "Only II [cite: 1759]",
+      "Both I and II [cite: 1761]",
+      "Neither I nor II [cite: 1762]",
+      "Question not attempted [cite: 1771]"
+    ],
+    "optionsHindi": [
+      "केवल I [cite: 1747]",
+      "केवल II [cite: 1757]",
+      "I व II दोनों [cite: 1747]",
+      "न I व न ही II [cite: 1760]",
+      "अनुत्तरित प्रश्न [cite: 1748]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Both properties listed are fundamental rules for identifying perfect square numbers[cite: 1747, 1761].",
+    "explanationHindi": "पूर्ण वर्ग संख्याओं के लिए बिजांक और इकाई अंक संबंधी दोनों नियम सत्य हैं [cite: 1747, 1761]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Consider: I. Digital root of perfect cube is 1, 8, or 9. II. Perfect cube never ends in 3, 7, 8, or 9. Which is true[cite: 1778]:",
+    "qHindi": "विचार करें: I. पूर्ण घन का बिजांक सदैव 1,8,9 होता है। II. पूर्ण घन के अंत में कभी 3,7,8,9 नहीं होगा। सत्य है[cite: 1749]:",
+    "optionsEnglish": [
+      "Only I [cite: 1782]",
+      "Only II [cite: 1783]",
+      "Neither I nor II [cite: 1784]",
+      "Both I and II [cite: 1785]",
+      "Question not attempted [cite: 1786]"
+    ],
+    "optionsHindi": [
+      "केवल I [cite: 1766]",
+      "केवल II [cite: 1769]",
+      "न I व न ही II [cite: 1767]",
+      "I व II दोनों [cite: 1770]",
+      "अनुत्तरित प्रश्न [cite: 1768]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The digital root of a cube is always 1, 8, or 9, but cubes can end in any digit[cite: 1766, 1782].",
+    "explanationHindi": "पूर्ण घन का बिजांक 1, 8, 9 होता है, लेकिन वह किसी भी अंक पर समाप्त हो सकता है [cite: 1766, 1782]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If the unit digit of a perfect cube number is 7, then the unit digit of its cube will be[cite: 1788]:",
+    "qHindi": "किसी पूर्ण घन संख्या का चरमांक 7 है, तो इसके घनफल का चरमांक होगा[cite: 1788]:",
+    "optionsEnglish": [
+      "2 [cite: 1792]",
+      "3 [cite: 1793]",
+      "7 [cite: 1795]",
+      "9 [cite: 1796]",
+      "Question not attempted [cite: 1803]"
+    ],
+    "optionsHindi": [
+      "2 [cite: 1792]",
+      "3 [cite: 1793]",
+      "7 [cite: 1795]",
+      "9 [cite: 1796]",
+      "अनुत्तरित प्रश्न [cite: 1798]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "$7^3 = 343$, so the unit digit is 3[cite: 1793].",
+    "explanationHindi": "$7$ के घन ($343$) का इकाई अंक $3$ होता है [cite: 1793]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "What must be added to the product of $441 \\times 442 \\times 443 \\times 444$ to make it a perfect square[cite: 1804]:",
+    "qHindi": "$441 \\times 442 \\times 443 \\times 444$ के गुणनफल में क्या जोड़ा जाए कि वह पूर्ण वर्ग बन जाए[cite: 1804]:",
+    "optionsEnglish": [
+      "1 [cite: 1808]",
+      "2 [cite: 1809]",
+      "3 [cite: 1810]",
+      "4 [cite: 1811]",
+      "Question not attempted [cite: 1819]"
+    ],
+    "optionsHindi": [
+      "1 [cite: 1805]",
+      "2 [cite: 1806]",
+      "3 [cite: 1807]",
+      "4 [cite: 1811]",
+      "अनुत्तरित प्रश्न [cite: 1812]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The product of four consecutive integers plus 1 is always a perfect square[cite: 1805, 1808].",
+    "explanationHindi": "चार क्रमागत पूर्णांकों के गुणनफल में 1 जोड़ने पर वह सदैव पूर्ण वर्ग बनता है [cite: 1805, 1808]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Which of the following is not a Hardy-Ramanujan number[cite: 1821]:",
+    "qHindi": "निम्न में से हार्डि रामानुजन संख्या नहीं है[cite: 1820]:",
+    "optionsEnglish": [
+      "1720 [cite: 1828]",
+      "4014 [cite: 1829]",
+      "4104 [cite: 1830]",
+      "13832 [cite: 1831]",
+      "Question not attempted [cite: 1832]"
+    ],
+    "optionsHindi": [
+      "1720 [cite: 1822]",
+      "4014 [cite: 1823]",
+      "4104 [cite: 1824]",
+      "13832 [cite: 1825]",
+      "अनुत्तरित प्रश्न [cite: 1826]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Standard Hardy-Ramanujan numbers are 1729, 4104, 13832; 1720 is not one[cite: 1822, 1828].",
+    "explanationHindi": "1720 हार्डि रामानुजन संख्या नहीं है; सही संख्या 1729 है [cite: 1822, 1828]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Consider: I. Adding square of a number to itself results in an even number. II. Square of even number can be sum of two consecutive odd numbers. Which is true[cite: 1844]:",
+    "qHindi": "विचार करें: I. संख्या में उसका वर्ग जोड़ने पर सम संख्या प्राप्त होती है। II. सम संख्या के वर्ग को दो क्रमागत विषम संख्याओं के योग में लिख सकते हैं। सत्य है[cite: 1841]:",
+    "optionsEnglish": [
+      "Only I [cite: 1851]",
+      "Only II [cite: 1858]",
+      "Both I and II [cite: 1853]",
+      "Neither I nor II [cite: 1854]",
+      "Question not attempted [cite: 1857]"
+    ],
+    "optionsHindi": [
+      "केवल I [cite: 1849]",
+      "केवल II [cite: 1850]",
+      "I व II दोनों [cite: 1853]",
+      "न I तो न ही II [cite: 1854]",
+      "अनुत्तरित प्रश्न [cite: 1856]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "$n^2 + n = n(n+1)$, which is always even; statement II is generally false for even squares[cite: 1849, 1851].",
+    "explanationHindi": "$n^2 + n$ हमेशा सम संख्या होती है, इसलिए केवल कथन I सत्य है [cite: 1849, 1851]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "What must be added to the product of 732 and 738 to make it a perfect square[cite: 1861]:",
+    "qHindi": "732 $\\times$ 738 के गुणनफल में क्या जोड़ा जाए की यह पूर्ण वर्ग हो जाए[cite: 1861]:",
+    "optionsEnglish": [
+      "1 [cite: 1869]",
+      "4 [cite: 1870]",
+      "9 [cite: 1871]",
+      "16 [cite: 1874]",
+      "Question not attempted [cite: 1877]"
+    ],
+    "optionsHindi": [
+      "1 [cite: 1864]",
+      "4 [cite: 1865]",
+      "9 [cite: 1873]",
+      "16 [cite: 1874]",
+      "अनुत्तरित प्रश्न [cite: 1876]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$732 \\times 738 = (735-3)(735+3) = 735^2 - 3^2$. Adding $3^2 = 9$ makes it $735^2$[cite: 1871, 1873].",
+    "explanationHindi": "$732 \\times 738$ में 9 जोड़ने पर वह पूर्ण वर्ग बन जाएगा [cite: 1871, 1873]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Which of the following is the smallest number[cite: 1879]:",
+    "qHindi": "निम्न में सबसे छोटी संख्या है[cite: 1878]:",
+    "optionsEnglish": [
+      "($\\sqrt{13}-\\sqrt{11}$) [cite: 1882]",
+      "($\\sqrt{19}-\\sqrt{17}$) [cite: 1887]",
+      "($\\sqrt{7}-\\sqrt{5}$) [cite: 1885]",
+      "($\\sqrt{15}-\\sqrt{13}$) [cite: 1888]",
+      "Question not attempted [cite: 1886]"
+    ],
+    "optionsHindi": [
+      "($\\sqrt{13}-\\sqrt{11}$) [cite: 1880]",
+      "($\\sqrt{19}-\\sqrt{17}$) [cite: 1881]",
+      "($\\sqrt{7}-\\sqrt{5}$) [cite: 1883]",
+      "($\\sqrt{15}-\\sqrt{13}$) [cite: 1884]",
+      "अनुत्तरित प्रश्न [cite: 1886]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "For differences of square roots with the same gap, the pair with the largest numbers has the smallest value[cite: 1881, 1887].",
+    "explanationHindi": "समान अंतर वाली करणी संख्याओं में, बड़े अंकों वाली जोड़ी का मान सबसे कम होता है [cite: 1881, 1887]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The square of 108 using the Nikhilam Base Method is[cite: 1897]:",
+    "qHindi": "108 का वर्ग निखिलम आधार विधि से है[cite: 1889]:",
+    "optionsEnglish": [
+      "108 + 108 = 11664 [cite: 1898]",
+      "($100+8$)$^2$ = 11664 [cite: 1899]",
+      "108 + 8 / 8$^2$ = 116 / 64 = 11664 [cite: 1901]",
+      "None of these [cite: 1902]",
+      "Question not attempted [cite: 1903]"
+    ],
+    "optionsHindi": [
+      "108 + 108 = 11664 [cite: 1891]",
+      "($100+8$)$^2$ = 11664 [cite: 1892]",
+      "108 + 8 / 8$^2$ = 116 / 64 = 11664 [cite: 1893]",
+      "इनमें से कोई नहीं [cite: 1894]",
+      "अनुत्तरित प्रश्न [cite: 1895]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Nikhilam method uses (number + deviation) / deviation$^2$[cite: 1893, 1901].",
+    "explanationHindi": "निखिलम विधि के अनुसार सही चरण 108 + 8 / 8$^2$ = 11664 है [cite: 1893, 1901]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Into how many parts must a three-digit number be divided for Dwandva yoga method square calculation[cite: 1904]:",
+    "qHindi": "द्वंद्वयोग विधि द्वारा तीन अंकों की संख्या का वर्ग करने के लिए उसे कितने भाग में बाटना होगा[cite: 1904]:",
+    "optionsEnglish": [
+      "3 [cite: 1911]",
+      "4 [cite: 1912]",
+      "5 [cite: 1916]",
+      "6 [cite: 1917]",
+      "Question not attempted [cite: 1920]"
+    ],
+    "optionsHindi": [
+      "3 [cite: 1909]",
+      "4 [cite: 1910]",
+      "5 [cite: 1914]",
+      "6 [cite: 1915]",
+      "अनुत्तरित प्रश्न [cite: 1922]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "For an $n$-digit number, the number of parts is $2n-1$. For 3 digits, $2(3)-1 = 5$[cite: 1914, 1916].",
+    "explanationHindi": "3 अंकों की संख्या के लिए भागों की संख्या $2n-1 = 5$ होती है [cite: 1914, 1916]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Calculate the value: $\\sqrt{0.0009} + \\sqrt{0.04} = ?$[cite: 1959]:",
+    "qHindi": "$\\sqrt{0.0009} + \\sqrt{0.04} = ?$ का मान है[cite: 1939]:",
+    "optionsEnglish": [
+      "2.3 [cite: 1960]",
+      "0.023 [cite: 1961]",
+      "0.0023 [cite: 1962]",
+      "0.23 [cite: 1963]",
+      "Question not attempted [cite: 1964]"
+    ],
+    "optionsHindi": [
+      "2.3 [cite: 1940]",
+      "0.023 [cite: 1947]",
+      "0.0023 [cite: 1941]",
+      "0.23 [cite: 1948]",
+      "अनुत्तरित प्रश्न [cite: 1942]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "$\\sqrt{0.0009} = 0.03$ and $\\sqrt{0.04} = 0.2$. Sum = $0.23$[cite: 1948, 1963].",
+    "explanationHindi": "$0.03 + 0.2 = 0.23$ [cite: 1948, 1963]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The square root of 123454321 is[cite: 1965]:",
+    "qHindi": "123454321 का वर्गमूल है[cite: 1943]:",
+    "optionsEnglish": [
+      "11111 [cite: 1966]",
+      "111111 [cite: 1981]",
+      "111 [cite: 1967]",
+      "1111 [cite: 1982]",
+      "Question not attempted [cite: 1968]"
+    ],
+    "optionsHindi": [
+      "11111 [cite: 1944]",
+      "111111 [cite: 1949]",
+      "111 [cite: 1945]",
+      "1111 [cite: 1950]",
+      "अनुत्तरित प्रश्न [cite: 1946]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The square root of a palindromic number increasing up to 5 is five 1s[cite: 1944, 1966].",
+    "explanationHindi": "123454321 का वर्गमूल 11111 होता है [cite: 1944, 1966]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Find the result: $\\frac{\\sqrt{9}+\\sqrt{7}}{\\sqrt{9}-\\sqrt{7}}+\\frac{\\sqrt{9}-\\sqrt{7}}{\\sqrt{9}+\\sqrt{7}} = ?$[cite: 1969]:",
+    "qHindi": "$\\frac{\\sqrt{9}+\\sqrt{7}}{\\sqrt{9}-\\sqrt{7}}+\\frac{\\sqrt{9}-\\sqrt{7}}{\\sqrt{9}+\\sqrt{7}} = ?$ का मान है[cite: 1953]:",
+    "optionsEnglish": [
+      "2 [cite: 1969]",
+      "4 [cite: 1970]",
+      "8 [cite: 1979]",
+      "16 [cite: 1971]",
+      "Question not attempted [cite: 1980]"
+    ],
+    "optionsHindi": [
+      "2 [cite: 1954]",
+      "4 [cite: 1970]",
+      "8 [cite: 1955]",
+      "16 [cite: 1971]",
+      "अनुत्तरित प्रश्न [cite: 1956]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Formula: $2(a+b)/(a-b) = 2(9+7)/(9-7) = 16$[cite: 1971].",
+    "explanationHindi": "दिए गए व्यंजक का मान 16 है [cite: 1971]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Which of the following statements is false[cite: 1990]:",
+    "qHindi": "निम्न में से असत्य है[cite: 1973]:",
+    "optionsEnglish": [
+      "Square of an even number is always even [cite: 1991]",
+      "Square of an odd number is sum of two consecutive integers [cite: 1993]",
+      "Square of an even number can be expressed as sum of two consecutive integers [cite: 1995]",
+      "Adding 1 to product of two consecutive even numbers results in a perfect square [cite: 1999]",
+      "Question not attempted [cite: 2003]"
+    ],
+    "optionsHindi": [
+      "सम संख्या का वर्ग सदैव एक सम संख्या होती है [cite: 1975]",
+      "विषम संख्या का वर्ग सदैव दो क्रमागत पूर्णांकों के योग के रूप में व्यक्त कर सकते है [cite: 1978]",
+      "सम संख्या के वर्ग को दो क्रमागत पूर्णांकों के योग के रूप में लिख सकते हैं [cite: 1994]",
+      "किन्हीं दो क्रमागत सम संख्याओं के गुणनफल में 1 जोड़ने पर पूर्ण वर्ग संख्या प्राप्त होती है [cite: 1996]",
+      "अनुत्तरित प्रश्न [cite: 2001]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Sum of two consecutive integers is always odd, whereas the square of an even number is even[cite: 1994, 1995].",
+    "explanationHindi": "दो क्रमागत पूर्णांकों का योग हमेशा विषम होता है, जबकि सम संख्या का वर्ग सम होता है, इसलिए कथन 3 असत्य है [cite: 1994, 1995]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The square of 1005 is[cite: 2006]:",
+    "qHindi": "1005 का वर्ग है[cite: 2005]:",
+    "optionsEnglish": [
+      "10010025 [cite: 2012]",
+      "1010025 [cite: 2014]",
+      "101025 [cite: 2013]",
+      "1001025 [cite: 2016]",
+      "Question not attempted [cite: 2021]"
+    ],
+    "optionsHindi": [
+      "10010025 [cite: 2008]",
+      "1010025 [cite: 2009]",
+      "101025 [cite: 2010]",
+      "1001025 [cite: 2011]",
+      "अनुत्तरित प्रश्न [cite: 2018]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "$1005^2 = (1000+5)^2 = 1010025$[cite: 2009, 2014].",
+    "explanationHindi": "1005 का वर्ग 1010025 होता है [cite: 2009, 2014]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Calculate: $\\sqrt[3]{512} \\times \\sqrt[3]{1728} + \\sqrt[3]{343} - \\sqrt[3]{27} = ?$[cite: 2022]:",
+    "qHindi": "$\\sqrt[3]{512} \\times \\sqrt[3]{1728} + \\sqrt[3]{343} - \\sqrt[3]{27} = ?$[cite: 2019]:",
+    "optionsEnglish": [
+      "100 [cite: 2027]",
+      "10 [cite: 2028]",
+      "110 [cite: 2032]",
+      "24 [cite: 2033]",
+      "Question not attempted [cite: 2037]"
+    ],
+    "optionsHindi": [
+      "100 [cite: 2024]",
+      "10 [cite: 2025]",
+      "110 [cite: 2029]",
+      "24 [cite: 2030]",
+      "अनुत्तरित प्रश्न [cite: 2036]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Calculation: $8 \\times 12 + 7 - 3 = 96 + 4 = 100$[cite: 2024, 2027].",
+    "explanationHindi": "8 $\\times$ 12 + 7 - 3 = 100 [cite: 2024, 2027]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "$\\sqrt[3]{\\frac{592.704}{74.088}} = ?$[cite: 2054]:",
+    "qHindi": "$\\sqrt[3]{\\frac{592.704}{74.088}} = ?$[cite: 2053]:",
+    "optionsEnglish": [
+      "2 [cite: 2058]",
+      "1 [cite: 2057]",
+      "3 [cite: 2061]",
+      "5 [cite: 2062]",
+      "Question not attempted [cite: 2064]"
+    ],
+    "optionsHindi": [
+      "2 [cite: 2055]",
+      "1 [cite: 2056]",
+      "3 [cite: 2059]",
+      "5 [cite: 2060]",
+      "अनुत्तरित प्रश्न [cite: 2063]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The ratio simplifies to 8, and the cube root of 8 is 2[cite: 2055, 2058].",
+    "explanationHindi": "व्यंजक का मान 2 है [cite: 2055, 2058]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "In a school, 9,409 students are seated such that rows equals students per row. How many students in a row[cite: 2066]:",
+    "qHindi": "9409 छात्र इस प्रकार बैठे हैं कि प्रत्येक पंक्ति में उतने ही छात्र हैं, जितनी कुल पंक्तियाँ हैं। एक पंक्ति में कितने छात्र हैं[cite: 2066]:",
+    "optionsEnglish": [
+      "97 [cite: 2085]",
+      "93 [cite: 2084]",
+      "103 [cite: 2087]",
+      "91 [cite: 2105]",
+      "Question not attempted [cite: 2101]"
+    ],
+    "optionsHindi": [
+      "97 [cite: 2070]",
+      "93 [cite: 2083]",
+      "103 [cite: 2071]",
+      "91 [cite: 2084]",
+      "अनुत्तरित प्रश्न [cite: 2073]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Square root of 9409 is 97[cite: 2070, 2085].",
+    "explanationHindi": "9409 का वर्गमूल 97 होता है [cite: 2070, 2085]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Find the value of $\\sqrt{\\frac{1.44 \\times 0.4}{1.2 \\times 0.12}}$[cite: 2102]:",
+    "qHindi": "$\\sqrt{\\frac{1.44 \\times 0.4}{1.2 \\times 0.12}}$ का मान ज्ञात कीजिये[cite: 2088]:",
+    "optionsEnglish": [
+      "3 [cite: 2103]",
+      "2 [cite: 2112]",
+      "5 [cite: 2104]",
+      "91 [cite: 2105]",
+      "Question not attempted [cite: 2107]"
+    ],
+    "optionsHindi": [
+      "3 [cite: 2075]",
+      "2 [cite: 2091]",
+      "5 [cite: 2076]",
+      "91 [cite: 2084]",
+      "अनुत्तरित प्रश्न [cite: 2089]"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Simplification: $\\sqrt{12 \\times (1/3)} = \\sqrt{4} = 2$[cite: 2091, 2112].",
+    "explanationHindi": "व्यंजक को सरल करने पर मान 2 प्राप्त होता है [cite: 2091, 2112]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Find $x$: $\\frac{x}{\\sqrt{512}} = \\frac{\\sqrt{648}}{x}$[cite: 2108]:",
+    "qHindi": "$x$ का मान ज्ञात कीजिये: $\\frac{x}{\\sqrt{512}} = \\frac{\\sqrt{648}}{x}$[cite: 2090]:",
+    "optionsEnglish": [
+      "26 [cite: 2127]",
+      "12 [cite: 2128]",
+      "36 [cite: 2129]",
+      "24 [cite: 2130]",
+      "Question not attempted [cite: 2131]"
+    ],
+    "optionsHindi": [
+      "26 [cite: 2110]",
+      "12 [cite: 2117]",
+      "36 [cite: 2111]",
+      "24 [cite: 2118]",
+      "अनुत्तरित प्रश्न [cite: 2131]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "$x^2 = \\sqrt{512 \\times 648} = 576 \\Rightarrow x = 24$[cite: 2118, 2130].",
+    "explanationHindi": "$x^2 = 576$ अतः $x = 24$ [cite: 2118, 2130]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If $\\sqrt{3^n} = 243$, find $n$[cite: 2132]:",
+    "qHindi": "यदि $\\sqrt{3^n} = 243$ हो, तो $n$ है[cite: 2132]:",
+    "optionsEnglish": [
+      "12 [cite: 2134]",
+      "5 [cite: 2136]",
+      "10 [cite: 2140]",
+      "8 [cite: 2143]",
+      "Question not attempted [cite: 2149]"
+    ],
+    "optionsHindi": [
+      "12 [cite: 2134]",
+      "5 [cite: 2136]",
+      "10 [cite: 2137]",
+      "8 [cite: 2143]",
+      "अनुत्तरित प्रश्न [cite: 2146]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$3^{n/2} = 3^5 \\Rightarrow n/2 = 5 \\Rightarrow n = 10$[cite: 2137, 2140].",
+    "explanationHindi": "$n$ का मान 10 होगा [cite: 2137, 2140]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Smallest number subtracted from 38,419 to make it a perfect square[cite: 2153]:",
+    "qHindi": "38419 में से कौन-सी छोटी से छोटी संख्या घटाएं कि शेषफल एक पूर्ण वर्ग संख्या बन जाए[cite: 2147]:",
+    "optionsEnglish": [
+      "4 [cite: 2157]",
+      "7 [cite: 2158]",
+      "3 [cite: 2162]",
+      "5 [cite: 2163]",
+      "Question not attempted [cite: 2166]"
+    ],
+    "optionsHindi": [
+      "4 [cite: 2154]",
+      "7 [cite: 2155]",
+      "3 [cite: 2159]",
+      "5 [cite: 2160]",
+      "अनुत्तरित प्रश्न [cite: 2164]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$38419 - 3 = 38416 = 196^2$[cite: 2159, 2162].",
+    "explanationHindi": "38419 में से 3 घटाने पर वह पूर्ण वर्ग (196 का वर्ग) बन जाता है [cite: 2159, 2162]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Smallest number to multiply 243 for it to become a perfect square[cite: 2177]:",
+    "qHindi": "243 को किस छोटी से छोटी संख्या से गुणा करें कि गुणनफल एक पूर्ण वर्ग बन जाए[cite: 2177]:",
+    "optionsEnglish": [
+      "3 [cite: 2180]",
+      "2 [cite: 2182]",
+      "5 [cite: 2185]",
+      "7 [cite: 2186]",
+      "Question not attempted [cite: 2188]"
+    ],
+    "optionsHindi": [
+      "3 [cite: 2180]",
+      "2 [cite: 2172]",
+      "5 [cite: 2189]",
+      "7 [cite: 2174]",
+      "अनुत्तरित प्रश्न [cite: 2190]"
+    ],
+    "correct": 0,
+    "explanationEnglish": "$243 = 3^5$. Multiply by 3 to get $3^6$, which is a perfect square[cite: 2180, 2181].",
+    "explanationHindi": "243 ($3^5$) को 3 से गुणा करने पर वह पूर्ण वर्ग ($3^6$) बन जाएगा [cite: 2180, 2181]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Smallest perfect square which leaves remainder 4 when divided by 10, 12, 15[cite: 2200]:",
+    "qHindi": "वह छोटी से छोटी पूर्ण वर्ग संख्या ज्ञात कीजिये जिसे 10, 12 तथा 15 से भाग देने पर प्रत्येक स्थिति में 4 शेष बचता है[cite: 2191]:",
+    "optionsEnglish": [
+      "900 [cite: 2204]",
+      "1089 [cite: 2205]",
+      "1444 [cite: 2206]",
+      "624 [cite: 2207]",
+      "Question not attempted [cite: 2209]"
+    ],
+    "optionsHindi": [
+      "900 [cite: 2194]",
+      "1089 [cite: 2197]",
+      "1444 [cite: 2195]",
+      "624 [cite: 2199]",
+      "अनुत्तरित प्रश्न [cite: 2196]"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$LCM(10, 12, 15) = 60$. $1444/60$ leaves remainder 4, and $1444 = 38^2$[cite: 2195, 2206].",
+    "explanationHindi": "1444 वह पूर्ण वर्ग संख्या है जिसे 60 से भाग देने पर 4 शेष बचता है [cite: 2195, 2206]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Smallest number by which 17,496 must be divided to become a perfect cube[cite: 2210]:",
+    "qHindi": "17496 को किस छोटी से छोटी संख्या से भाग दिया जाए कि वह एक पूर्ण घन संख्या बन जाए[cite: 2210]:",
+    "optionsEnglish": [
+      "5 [cite: 2220]",
+      "6 [cite: 2221]",
+      "2 [cite: 2223]",
+      "3 [cite: 2224]",
+      "Question not attempted [cite: 2226]"
+    ],
+    "optionsHindi": [
+      "5 [cite: 2211]",
+      "6 [cite: 2221]",
+      "2 [cite: 2215]",
+      "3 [cite: 2227]",
+      "अनुत्तरित प्रश्न [cite: 2216]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "$17496 = 2^3 \\times 3^7$. Dividing by 3 leaves $2^3 \\times 3^6 = (2 \\times 3^2)^3$[cite: 2224, 2227].",
+    "explanationHindi": "17496 को 3 से भाग देने पर वह पूर्ण घन बन जाता है [cite: 2224, 2227]‌।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If $(13)^3$ is the minuend and $(44)^2$ is subtracted, what will be the remainder?",
+    "qHindi": "यदि $(13)^3$ में से $(44)^2$ घटाया जाए तो शेषफल क्या होगा?",
+    "optionsEnglish": [
+      "361",
+      "353",
+      "261",
+      "292",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "361",
+      "353",
+      "261",
+      "292",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$13^3 = 2197$ and $44^2 = 1936$. The difference $2197 - 1936 = 261$.",
+    "explanationHindi": "$13^3 = 2197$ तथा $44^2 = 1936$ है। अतः शेषफल $2197 - 1936 = 261$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If $\\\\sqrt{x+\\\\sqrt{x+\\\\sqrt{x+.......\\\\infty}}}=5$, then find the value of $x$.",
+    "qHindi": "यदि $\\\\sqrt{x+\\\\sqrt{x+\\\\sqrt{x+.......\\\\infty}}}=5$ हो, तो $x$ का मान ज्ञात कीजिये।",
+    "optionsEnglish": [
+      "25",
+      "15",
+      "20",
+      "10",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "25",
+      "15",
+      "20",
+      "10",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Squaring both sides: $x + 5 = 25 \\\\Rightarrow x = 20$.",
+    "explanationHindi": "दोनों पक्षों का वर्ग करने पर: $x + 5 = 25 \\\\Rightarrow x = 20$।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If $2\\\\sqrt{3}+\\\\sqrt{27}=12.05$, then find the value of $\\\\sqrt{75}+8\\\\sqrt{3}$.",
+    "qHindi": "यदि $2\\\\sqrt{3}+\\\\sqrt{27}=12.05$ हो, तो $\\\\sqrt{75}+8\\\\sqrt{3}$ का मान ज्ञात कीजिये?",
+    "optionsEnglish": [
+      "31",
+      "31.33",
+      "33.31",
+      "32.33",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "31",
+      "31.33",
+      "33.31",
+      "32.33",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "$2\\\\sqrt{3} + 3\\\\sqrt{3} = 5\\\\sqrt{3} = 12.05 \\\\Rightarrow \\\\sqrt{3} = 2.41$. Now, $5\\\\sqrt{3} + 8\\\\sqrt{3} = 13\\\\sqrt{3} = 13 \\\\times 2.41 = 31.33$.",
+    "explanationHindi": "$2\\\\sqrt{3} + 3\\\\sqrt{3} = 5\\\\sqrt{3} = 12.05$ है, अतः $\\\\sqrt{3} = 2.41$। अब $5\\\\sqrt{3} + 8\\\\sqrt{3} = 13\\\\sqrt{3} = 13 \\\\times 2.41 = 31.33$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If $a=\\\\frac{\\\\sqrt{5}+1}{\\\\sqrt{5}-1}$ and $b=\\\\frac{\\\\sqrt{5}-1}{\\\\sqrt{5}+1}$, then find the value of $(a^2+b^2)$.",
+    "qHindi": "यदि $a=\\\\frac{\\\\sqrt{5}+1}{\\\\sqrt{5}-1}$ तथा $b=\\\\frac{\\\\sqrt{5}-1}{\\\\sqrt{5}+1}$ हो, तो $(a^2+b^2)$ का मान ज्ञात कीजिये?",
+    "optionsEnglish": [
+      "7",
+      "15",
+      "10",
+      "12",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "7",
+      "15",
+      "10",
+      "12",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "$a+b = 3$ and $ab = 1$. Therefore, $a^2+b^2 = (a+b)^2 - 2ab = 3^2 - 2(1) = 7$.",
+    "explanationHindi": "$a+b = 3$ तथा $ab = 1$ है। अतः $a^2+b^2 = (a+b)^2 - 2ab = 3^2 - 2(1) = 7$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "$\\\\sqrt[3]{17.576} \\\\times 15 = ?$",
+    "qHindi": "$\\\\sqrt[3]{17.576} \\\\times 15 = ?$",
+    "optionsEnglish": [
+      "37",
+      "39",
+      "38",
+      "45",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "37",
+      "39",
+      "38",
+      "45",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The cube root of $17.576$ is $2.6$. So, $2.6 \\\\times 15 = 39$.",
+    "explanationHindi": "$17.576$ का घनमूल $2.6$ है। अतः $2.6 \\\\times 15 = 39$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The sum of the cubes of two numbers in the ratio 3:4 is 5824. What is the sum of the numbers?",
+    "qHindi": "3:4 के अनुपात में दो संख्याओं के घनों का योग 5824 है। संख्याओं का योग कितना है?",
+    "optionsEnglish": [
+      "$(5824)^{1/3}$",
+      "28",
+      "24",
+      "14",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "$(5824)^{1/3}$",
+      "28",
+      "24",
+      "14",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "$(3x)^3 + (4x)^3 = 5824 \\\\Rightarrow 91x^3 = 5824 \\\\Rightarrow x = 4$. Numbers are 12 and 16; their sum is 28.",
+    "explanationHindi": "$(3x)^3 + (4x)^3 = 5824 \\\\Rightarrow 91x^3 = 5824 \\\\Rightarrow x = 4$। संख्याएं 12 व 16 हैं, जिनका योग 28 है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "What number should be added to the expression $16a^2-12a$ so that it becomes a perfect square?",
+    "qHindi": "$16a^2-12a$ व्यंजक में कितनी संख्या जोड़ी जाए, ताकि वह एक पूर्ण वर्ग बन जाए?",
+    "optionsEnglish": [
+      "9/4",
+      "11/2",
+      "13/2",
+      "16",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "9/4",
+      "11/2",
+      "13/2",
+      "16",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The expression $(4a - 1.5)^2 = 16a^2 - 12a + 2.25$. Since $2.25 = 9/4$, it must be added.",
+    "explanationHindi": "व्यंजक को $(4a - 1.5)^2 = 16a^2 - 12a + 2.25$ के रूप में लिखने पर, $2.25$ यानी $9/4$ जोड़ना होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The square of a number is 3/5 of 126.15. What is that number?",
+    "qHindi": "किसी संख्या के वर्ग का 3/5, 126.15 होता है, वह संख्या क्या है?",
+    "optionsEnglish": [
+      "210.25",
+      "75.69",
+      "14.5",
+      "145",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "210.25",
+      "75.69",
+      "14.5",
+      "145",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$x^2 \\\\times (3/5) = 126.15 \\\\Rightarrow x^2 = 210.25 \\\\Rightarrow x = 14.5$.",
+    "explanationHindi": "$x^2 \\\\times (3/5) = 126.15 \\\\Rightarrow x^2 = 210.25$ अतः वह संख्या $14.5$ है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The square root of $0.\\\\overline{4}$ is:",
+    "qHindi": "$0.\\\\overline{4}$ का वर्गमूल है:",
+    "optionsEnglish": [
+      "$0.\\\\overline{8}$",
+      "$0.\\\\overline{6}$",
+      "0.7",
+      "0.9",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "$0.\\\\overline{8}$",
+      "$0.\\\\overline{6}$",
+      "0.7",
+      "0.9",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "$0.\\\\overline{4} = 4/9$. Its square root is $\\\\sqrt{4/9} = 2/3 = 0.\\\\overline{6}$.",
+    "explanationHindi": "$0.\\\\overline{4} = 4/9$ होता है। इसका वर्गमूल $\\\\sqrt{4/9} = 2/3 = 0.\\\\overline{6}$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "What is the square root of $\\\\frac{2+\\\\sqrt{3}}{2}$?",
+    "qHindi": "$\\\\frac{2+\\\\sqrt{3}}{2}$ का वर्गमूल क्या होगा?",
+    "optionsEnglish": [
+      "$\\\\pm\\\\frac{1}{\\\\sqrt{2}}(\\\\sqrt{3}+1)$",
+      "$\\\\pm\\\\frac{1}{2}(\\\\sqrt{3}-2)$",
+      "None of these",
+      "$\\\\pm\\\\frac{1}{2}(\\\\sqrt{3}-1)$",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "$\\\\pm\\\\frac{1}{\\\\sqrt{2}}(\\\\sqrt{3}+1)$",
+      "$\\\\pm\\\\frac{1}{2}(\\\\sqrt{3}-2)$",
+      "इनमें से कोई नहीं",
+      "$\\\\pm\\\\frac{1}{2}(\\\\sqrt{3}-1)$",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$\\\\sqrt{\\\\frac{2+\\\\sqrt{3}}{2}} = \\\\sqrt{\\\\frac{4+2\\\\sqrt{3}}{4}} = \\\\frac{\\\\sqrt{3}+1}{2}$, which is not in the options.",
+    "explanationHindi": "$\\\\sqrt{\\\\frac{2+\\\\sqrt{3}}{2}} = \\\\frac{\\\\sqrt{3}+1}{2}$ होगा, जो कि विकल्पों में नहीं है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If the cube root of 175616 is 56, then find the value of $\\\\sqrt[3]{175.616}+\\\\sqrt[3]{0.175616}+\\\\sqrt[3]{0.000175616}$.",
+    "qHindi": "175616 का घनमूल 56 है, तो $\\\\sqrt[3]{175.616}+\\\\sqrt[3]{0.175616}+\\\\sqrt[3]{0.000175616}$ का मान ज्ञात कीजिए।",
+    "optionsEnglish": [
+      "0.168",
+      "62.16",
+      "6.216",
+      "6.116",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "0.168",
+      "62.16",
+      "6.216",
+      "6.116",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The sum is $5.6 + 0.56 + 0.056 = 6.216$.",
+    "explanationHindi": "इनका योग $5.6 + 0.56 + 0.056 = 6.216$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Find the square root of $(272^2-128^2)$.",
+    "qHindi": "$(272^2-128^2)$ का वर्गमूल ज्ञात कीजिए-",
+    "optionsEnglish": [
+      "256",
+      "200",
+      "240",
+      "144",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "256",
+      "200",
+      "240",
+      "144",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$\\\\sqrt{(272-128)(272+128)} = \\\\sqrt{144 \\\\times 400} = 12 \\\\times 20 = 240$.",
+    "explanationHindi": "$\\\\sqrt{144 \\\\times 400} = 12 \\\\times 20 = 240$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "$\\\\frac{\\\\sqrt{24}+\\\\sqrt{216}}{\\\\sqrt{96}}=?$",
+    "qHindi": "$\\\\frac{\\\\sqrt{24}+\\\\sqrt{216}}{\\\\sqrt{96}}=?$",
+    "optionsEnglish": [
+      "$2\\\\sqrt{6}$",
+      "2",
+      "$6\\\\sqrt{2}$",
+      "$(2/\\\\sqrt{6})$",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "$2\\\\sqrt{6}$",
+      "2",
+      "$6\\\\sqrt{2}$",
+      "$(2/\\\\sqrt{6})$",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "$\\\\frac{2\\\\sqrt{6}+6\\\\sqrt{6}}{4\\\\sqrt{6}} = \\\\frac{8\\\\sqrt{6}}{4\\\\sqrt{6}} = 2$.",
+    "explanationHindi": "$\\\\frac{8\\\\sqrt{6}}{4\\\\sqrt{6}} = 2$ प्राप्त होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "$\\\\sqrt{110\\\\frac{1}{4}}$ is equal to:",
+    "qHindi": "$\\\\sqrt{110\\\\frac{1}{4}}$ बराबर है-",
+    "optionsEnglish": [
+      "19.5",
+      "10.25",
+      "10.5",
+      "11.5",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "19.5",
+      "10.25",
+      "10.5",
+      "11.5",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$\\\\sqrt{110.25} = 10.5$.",
+    "explanationHindi": "$\\\\sqrt{110.25}$ का मान $10.5$ है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The square root of $\\\\frac{0.204\\\\times42}{0.07\\\\times3.4}$ will be:",
+    "qHindi": "$\\\\frac{0.204\\\\times42}{0.07\\\\times3.4}$ का वर्गमूल होगा-",
+    "optionsEnglish": [
+      "5",
+      "6",
+      "3",
+      "9",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "5",
+      "6",
+      "3",
+      "9",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The expression inside the square root simplifies to 36. Its square root is 6.",
+    "explanationHindi": "व्यंजक को सरल करने पर 36 प्राप्त होता है, जिसका वर्गमूल 6 है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The square root of $5^{24}$ is:",
+    "qHindi": "$5^{24}$ का वर्गमूल है-",
+    "optionsEnglish": [
+      "$5^{12}$",
+      "$5^{23}$",
+      "$5^2$",
+      "5",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "$5^{12}$",
+      "$5^{23}$",
+      "$5^2$",
+      "5",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The square root of $a^{2n}$ is $a^n$. So, $\\\\sqrt{5^{24}} = 5^{12}$.",
+    "explanationHindi": "$5^{24}$ का वर्गमूल $5^{12}$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The value of the question mark (?) in $\\\\sqrt{16.81}\\\\div\\\\sqrt{625}\\\\times15=?\\\\div50$ is:",
+    "qHindi": "$\\\\sqrt{16.81}\\\\div\\\\sqrt{625}\\\\times15=?\\\\div50$ में प्रश्नचिन्ह (?) का मान है-",
+    "optionsEnglish": [
+      "134",
+      "143",
+      "132",
+      "123",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "134",
+      "143",
+      "132",
+      "123",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "$(4.1/25) \\\\times 15 = x/50 \\\\Rightarrow 2.46 = x/50 \\\\Rightarrow x = 123$.",
+    "explanationHindi": "सरल करने पर (?) का मान 123 प्राप्त होता है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If $\\\\sqrt{3}=1.732$, then find the value of $\\\\sqrt{3/4}$.",
+    "qHindi": "यदि $\\\\sqrt{3}=1.732$ हो, तो $\\\\sqrt{\\\\frac{3}{4}}$ का मान है-",
+    "optionsEnglish": [
+      "0.577",
+      "0.866",
+      "0.433",
+      "None of these",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "0.577",
+      "0.866",
+      "0.433",
+      "इनमें से कोई नहीं",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "$\\\\sqrt{3/4} = \\\\sqrt{3}/2 = 1.732/2 = 0.866$.",
+    "explanationHindi": "$\\\\sqrt{3}/2 = 1.732/2 = 0.866$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If $\\\\sqrt{1+\\\\frac{x}{144}}=\\\\frac{13}{12}$, then find the value of $x$.",
+    "qHindi": "यदि $\\\\sqrt{1+\\\\frac{x}{144}}=\\\\frac{13}{12}$ हो, तो $x$ बराबर है-",
+    "optionsEnglish": [
+      "1",
+      "12",
+      "13",
+      "25",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1",
+      "12",
+      "13",
+      "25",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Squaring both sides: $1+x/144 = 169/144 \\\\Rightarrow x/144 = 25/144 \\\\Rightarrow x = 25$.",
+    "explanationHindi": "दोनों पक्षों का वर्ग करने पर $x=25$ प्राप्त होता है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "What is the smallest number which, when added to the sum of the squares of 10 and 11, results in a perfect square?",
+    "qHindi": "वह छोटी-से-छोटी संख्या, जिसे 10 के वर्ग तथा 11 के वर्ग के योग में जोड़ने पर परिणामी संख्या पूर्ण वर्ग हो जाए, होगी?",
+    "optionsEnglish": [
+      "3",
+      "5",
+      "4",
+      "2",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "3",
+      "5",
+      "4",
+      "2",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$10^2 + 11^2 = 100 + 121 = 221$. The next perfect square is 225 ($15^2$). So, $225 - 221 = 4$.",
+    "explanationHindi": "$100 + 121 = 221$ है। अगली पूर्ण वर्ग संख्या 225 है, अतः 4 जोड़ना होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Find the cube root of $-5832$.",
+    "qHindi": "5832 का घनमूल ज्ञात कीजिए-",
+    "optionsEnglish": [
+      "18",
+      "-18",
+      "-24",
+      "16",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "18",
+      "-18",
+      "-24",
+      "16",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The cube root of $5832$ is $18$. Since the number is negative, the cube root is $-18$.",
+    "explanationHindi": "$5832$ का घनमूल $18$ है, अतः ऋणात्मक संख्या का घनमूल $-18$ होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "Find the value of $\\\\sqrt[3]{\\\\frac{0.000729}{0.085184}}$.",
+    "qHindi": "$\\\\sqrt[3]{\\\\frac{0.000729}{0.085184}}$ का मान ज्ञात कीजिए।",
+    "optionsEnglish": [
+      "27/19",
+      "11/44",
+      "9/29",
+      "9/44",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "27/19",
+      "11/44",
+      "9/29",
+      "9/44",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The cube root of 729 is 9 and 85184 is 44. So the result is 9/44.",
+    "explanationHindi": "729 का घनमूल 9 तथा 85184 का 44 है। अतः मान 9/44 होगा।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "The value of the question mark (?) in $(121)^3 \\\\times 11 \\\\div (1331)^2 = (11)^?$ is:",
+    "qHindi": "$(121)^3 \\\\times 11 \\\\div (1331)^2 = (11)^?$ में प्रश्नचिन्ह (?) का मान है-",
+    "optionsEnglish": [
+      "3",
+      "2",
+      "1",
+      "0",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "3",
+      "2",
+      "1",
+      "0",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "$(11^2)^3 \\\\times 11 \\\\div (11^3)^2 = 11^6 \\\\times 11 \\\\div 11^6 = 11^1$. So, (?) = 1.",
+    "explanationHindi": "घातों को सरल करने पर $(11)^1$ प्राप्त होता है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If $\\\\sqrt{10+\\\\sqrt[3]{x}}=4$, then what is the value of $x$?",
+    "qHindi": "यदि $\\\\sqrt{10+\\\\sqrt[3]{x}}=4$ हो, तब $x$ किसके बराबर है?",
+    "optionsEnglish": [
+      "150",
+      "216",
+      "316",
+      "450",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "150",
+      "216",
+      "316",
+      "450",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "$10+\\\\sqrt[3]{x} = 16 \\\\Rightarrow \\\\sqrt[3]{x} = 6 \\\\Rightarrow x = 216$.",
+    "explanationHindi": "$10+\\\\sqrt[3]{x} = 16 \\\\Rightarrow \\\\sqrt[3]{x} = 6$ अतः $x = 216$।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  },
+  {
+    "qEnglish": "If 46,656 glass marbles are arranged in a box in the form of a cube, determine how many layers of marbles are in the box.",
+    "qHindi": "यदि एक सन्दूक में काँच की 46656 गोलियाँ घन के रूप में रखी हुई हैं, तो बताइए कि संदूक में गोलियों की कितनी तहें है?",
+    "optionsEnglish": [
+      "18",
+      "36",
+      "54",
+      "72",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "18",
+      "36",
+      "54",
+      "72",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The number of layers in a cube is equal to its cube root. $\\\\sqrt[3]{46656} = 36$.",
+    "explanationHindi": "घन के रूप में तहों की संख्या उसके घनमूल के बराबर होगी, जो कि 36 है।",
+    "subject": "गणित",
+    "topic": "वैदिक विधि से पूर्ण संख्याओं का वर्ग, घनफल, वर्गमूल, घनमूल (6 अंकों की संख्याओं तक)"
+  }
+]
