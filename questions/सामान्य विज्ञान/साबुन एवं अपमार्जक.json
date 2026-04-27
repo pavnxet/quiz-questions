@@ -1,0 +1,140 @@
+[
+  {
+    "qEnglish": "The critical micelle concentration for soap is:",
+    "qHindi": "साबुन के लिए क्रांतिक मिसेल सांद्रता है-",
+    "optionsEnglish": [
+      "10^-4 to 10^-3 moles per liter",
+      "10^-2 to 10^-1 moles per liter",
+      "10^-3 to 10^-2 moles per liter",
+      "10^+1 to 10^-3 moles per liter",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "10^-4 से 10^-3 मोल प्रति लीटर",
+      "10^-2 से 10^-1 मोल प्रति लीटर",
+      "10^-3 से 10^-2 मोल प्रति लीटर",
+      "10^+1 से 10^-3 मोल प्रति लीटर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Micelle formation in soaps typically starts at concentrations around 10^-4 to 10^-3 mol/L[cite: 1271, 1284].",
+    "explanationHindi": "साबुन में मिसेल बनने की प्रक्रिया लगभग 10^-4 से 10^-3 मोल/लीटर सांद्रता पर शुरू होती है [cite: 1270, 1271]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "साबुन एवं अपमार्जक"
+  },
+  {
+    "qEnglish": "What causes the cleaning properties of soap?",
+    "qHindi": "साबुन का सफाई करने का गुण किस कारण होता है?",
+    "optionsEnglish": [
+      "Hydrolysis",
+      "Micelle formation",
+      "Oxidation",
+      "Reduction",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "हाइड्रोलिसिस",
+      "मिसेल बनना",
+      "ऑक्सीकरण",
+      "अपचयन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The cleaning action is due to the formation of micelles that trap dirt and oil[cite: 1281, 1294].",
+    "explanationHindi": "साबुन की सफाई करने की क्षमता मिसेल निर्माण के कारण होती है जो गंदगी को जकड़ लेते हैं [cite: 1277, 1281]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "साबुन एवं अपमार्जक"
+  },
+  {
+    "qEnglish": "Statement: Soap forms less foam in hard water. Reason: Hard water contains Ca2+ and Mg2+ ions, which form insoluble salts with soap.",
+    "qHindi": "कथन: साबुन कठोर जल में कम झाग बनाता है। कारण: कठोर जल में Ca2+ तथा Mg2+ आयन होते है जो साबुन के साथ अघुलनशील लवण बनाते है।",
+    "optionsEnglish": [
+      "Both statement and reason are correct, and the reason is the correct explanation.",
+      "Both statement and reason are correct, but the reason is not the correct explanation.",
+      "Statement is correct, but reason is incorrect.",
+      "Both statement and reason are incorrect.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कथन तथा कारण दोनों सही है तथा कारण, कथन की सही व्याख्या है।",
+      "कथन तथा कारण दोनों सही है किन्तु कारण, कथन की सही व्याख्या नहीं है।",
+      "कथन सही है, परंतु कारण गलत है।",
+      "कथन तथा कारण दोनों गलत है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Ca and Mg ions in hard water react with soap to form insoluble scum, reducing foam[cite: 1300, 1314].",
+    "explanationHindi": "कठोर जल के कैल्शियम और मैग्नीशियम आयन साबुन के साथ अघुलनशील अवक्षेप (scum) बनाते हैं, जिससे झाग कम बनता है [cite: 1298, 1300]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "साबुन एवं अपमार्जक"
+  },
+  {
+    "qEnglish": "Which of the following is a cationic detergent?",
+    "qHindi": "निम्नलिखित में से कौनसा कैटायनिक डिटर्जेंट है-",
+    "optionsEnglish": [
+      "Sodium lauryl sulfate",
+      "Sodium stearate",
+      "Cetyl trimethyl ammonium bromide",
+      "Polyethylene glycol",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सोडियम लॉरिल सल्फेट",
+      "सोडियम स्टीयरेट",
+      "सेटाइल ट्राइमिथाइल अमोनियम ब्रोमाइड",
+      "पॉलीएथिलीन ग्लाइकोल",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Cetyl trimethyl ammonium bromide is a common cationic detergent used in hair conditioners[cite: 1308, 1321].",
+    "explanationHindi": "सेटाइल ट्राइमिथाइल अमोनियम ब्रोमाइड एक प्रसिद्ध धनावेशित (cationic) अपमार्जक है [cite: 1305, 1308]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "साबुन एवं अपमार्जक"
+  },
+  {
+    "qEnglish": "Which detergent is used in toothpaste?",
+    "qHindi": "दाँत मंजन (टूथपेस्ट) बनाने में कौनसा अपमार्जक प्रयोग किया जाता है?",
+    "optionsEnglish": [
+      "Sodium stearate",
+      "Sodium lauryl sulfate",
+      "Cetyl trimethyl ammonium bromide",
+      "Sodium oleate",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सोडियम स्टीयरेट",
+      "सोडियम लॉरिल सल्फेट",
+      "सेटाइल ट्राइमिथाइल अमोनियम ब्रोमाइड",
+      "सोडियम ओलियेट",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Sodium lauryl sulfate is the foaming agent commonly used in toothpastes[cite: 1326, 1329].",
+    "explanationHindi": "टूथपेस्ट में झाग बनाने के लिए आमतौर पर सोडियम लॉरिल सल्फेट का उपयोग किया जाता है [cite: 1324, 1326]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "साबुन एवं अपमार्जक"
+  },
+  {
+    "qEnglish": "A non-ionic detergent is formed when stearic acid reacts with[cite: 1532]:",
+    "qHindi": "एक अनायविक अपमार्जक बनता है, जब स्टीऐरिक अम्ल अभिक्रिया करता है[cite: 1532]:",
+    "optionsEnglish": [
+      "Lauryl alcohol [cite: 1546]",
+      "Glycerol [cite: 1547]",
+      "Glyceryl oleate [cite: 1548]",
+      "Polyethylene glycol [cite: 1549]",
+      "Question not attempted [cite: 1550]"
+    ],
+    "optionsHindi": [
+      "लॉरेल ऐल्कोहॉल से [cite: 1534]",
+      "ग्लिसरॉल से [cite: 1535]",
+      "ग्लिसरिल ओलियेट से [cite: 1536]",
+      "पॉलिएथिलीन ग्लाइकॉल से [cite: 1537]",
+      "अनुत्तरित प्रश्न [cite: 1538]"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Non-ionic detergents are formed by reacting stearic acid with polyethylene glycol[cite: 1537, 1549].",
+    "explanationHindi": "स्टीऐरिक अम्ल और पॉलिएथिलीन ग्लाइकॉल की अभिक्रिया से अनायविक अपमार्जक बनते हैं [cite: 1537, 1549]‌।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "साबुन एवं अपमार्जक"
+  }
+]
