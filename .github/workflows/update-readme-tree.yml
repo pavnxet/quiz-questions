@@ -2,8 +2,7 @@ name: Update README Tree
 
 on:
   push:
-    branches: [  main1.1 ]
-    
+    branches: [ main1.1 ]
   workflow_dispatch:
 
 jobs:
@@ -11,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Node.js 20 deprecation को ठीक करने के लिए
 
     steps:
       - name: Checkout repository
@@ -25,10 +22,6 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Configure Git for Long Paths
-        run: |
-          git config --global core.longpaths true
-
       - name: Generate Shortened Tree with Question Counts
         run: |
           python .github/scripts/generate_tree.py
@@ -38,5 +31,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "docs: update repository tree with question counts [skip ci]" || exit 0
+          git commit -m "docs: update shortened repository tree [skip ci]" || exit 0
           git push
