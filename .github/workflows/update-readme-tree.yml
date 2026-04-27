@@ -2,7 +2,8 @@ name: Update README Tree
 
 on:
   push:
-    branches: [ main, master ]
+    branches: [  main1.1 ]
+    
   workflow_dispatch:
 
 jobs:
