@@ -1,0 +1,225 @@
+[
+  {
+    "qEnglish": "The farmer fastened the bull tightly to the stake. Choose the correct question for this sentence:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "What did the farmer do?",
+      "What does the farmer did?",
+      "Why did the farmer did?",
+      "Why does the farmer did?"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The original statement is in the simple past tense ('fastened'). Its question counterpart must use 'did + subject + base form of verb (do)'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "She sold all the articles for no profit. Choose the right question for this sentence:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Did she sell all the articles for no profit?",
+      "Did she sold all the articles for no profit?",
+      "Does she sell all the articles for no profit?",
+      "Do she sells all the articles for no profit?"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The sentence is in the simple past tense ('sold'). The interrogative form requires 'Did + subject + base verb (sell)'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "I couldn't sleep _______ very tired.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "although I was",
+      "in spite of being",
+      "despite of being",
+      "Both (A) and (B)"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Both 'although I was very tired' (conjunctional clause) and 'in spite of being very tired' (prepositional phrase) are grammatically correct options.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "He doesn't behave well _______ he hopes to get votes.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "in the meantime",
+      "nevertheless",
+      "as a result",
+      "else"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Nevertheless' serves as a concessive adverbial link meaning 'in spite of that', fitting the contrastive logical flow of the sentence.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Before the bell rang, the class was _______ to go home.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "ready",
+      "all ready",
+      "was already",
+      "were all ready"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'All ready' is a phrase meaning completely prepared. 'Already' is an adverb meaning before this time, which does not fit contextually.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Choose the correct option for the underlined part: We _have had_ his speech yesterday.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were having",
+      "had",
+      "had have",
+      "will have had"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The indicator 'yesterday' makes present perfect 'have had' incorrect; it must be replaced with the simple past form 'had'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Choose the correct option for the underlined part: Let _he and I_ do the work today.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "he and me",
+      "him and me",
+      "him and myself",
+      "no correction"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The word 'let' is followed by object pronouns, so 'he and I' must change to 'him and me'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Identify the grammatically most appropriate sentence from the options:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "In a week's time I will have completed my work.",
+      "In a week's time I will be completed my work.",
+      "In a week's time I will be complete my work.",
+      "In a week's time I will complete my work."
+    ],
+    "optionsHindi": "",
+    "correct": 0,
+    "explanationEnglish": "'In a week's time' establishes a future deadline, making the future perfect construction 'will have completed' the most suitable choice.",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Identify the most appropriate sentence from the following options:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He had been living in London for two years when I visited him.",
+      "He had lived in London for two years when I visited him.",
+      "He lived in London for two years when I visited him.",
+      "He was living in London for two years when I visited him."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An action that was continuously taking place over a period of time up to another event in the past is best expressed in the past perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Which of the following is not a simple sentence?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "A girl stole my umbrella.",
+      "He is happy because he passed the exam.",
+      "He is suffering from Covid 19.",
+      "She is a boxing champion."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'He is happy because he passed the exam' contains a principal clause and a subordinate clause linked by 'because', making it a complex sentence rather than a simple one.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "The teacher has instructed all of us to finish the work by tomorrow, _______?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has he?",
+      "didn't he?",
+      "hasn't he?",
+      "would he?"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "A positive sentence using the present perfect auxiliary 'has' takes a corresponding negative question tag formed with the same auxiliary: 'hasn't he?'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Choose the simple sentence from the options below:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "You may do it when you please.",
+      "You may do it at your pleasure.",
+      "It pleases you and it your pleasure.",
+      "You may do it because it pleases you."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'You may do it at your pleasure' contains only one finite verb phrase and one independent clause, fulfilling the criteria for a simple sentence.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Which of the following is a correct sentence?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Boys likes swimming.",
+      "Sita liked to swimming",
+      "Do you like to play Badminton?",
+      "They likes playing cards."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Do you like to play Badminton?' correctly follows standard subject-verb agreement rules for questions, using the base infinitive accurately.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  },
+  {
+    "qEnglish": "Which of the following Tag Questions is correct for the sentence: 'This soup is very hot, _______?'",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Isn't it?",
+      "Is it?",
+      "Does it?",
+      "Can't it?"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A positive statement with the verb 'is' requires a matching negative question tag using the corresponding pronoun: 'isn't it?'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Transformation of Sentences"
+  }
+]
