@@ -1,0 +1,18 @@
+[
+  {
+    "qEnglish": "Will they complete it in a month? Will it ______ in a month?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "complete",
+      "be complete",
+      "be completed",
+      "completes"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The passive form of a future simple interrogative sentence uses 'Will + object + be + past participle (V3)'.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Voice: Active and Passive"
+  }
+]
