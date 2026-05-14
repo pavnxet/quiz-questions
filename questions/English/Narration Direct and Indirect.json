@@ -62,5 +62,52 @@
     "explanationHindi": "",
     "subject": "English",
     "topic": "Narration: Direct and Indirect"
+  },
+  {
+    "qEnglish": "\"Hello, Jim, I didn't expect to see you today. Sonia said you _______ ill.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "was",
+      "were",
+      "should be"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "In indirect speech, when the reporting verb is in the past tense ('said'), the present tense inside the quotation shifts to past tense. 'You' takes 'were'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration: Direct and Indirect"
+  },
+  {
+    "qEnglish": "Sita told them that they _______ wrong.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "will be",
+      "were",
+      "can"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The reporting verb 'told' is in the past tense. According to the rules of sequence of tenses, the present tense 'are' changes to the past tense 'were'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration: Direct and Indirect"
+  },
+  {
+    "qEnglish": "The police officer stopped us and asked us where _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were we going",
+      "are we going",
+      "we are going",
+      "we were going"
+    ],
+    "optionsHindi": "",
+    "correct": 3,
+    "explanationEnglish": "Indirect questions require assertive sentence word order (subject + verb) instead of interrogative inversion. Thus, 'we were going' is correct.",
+    "subject": "English",
+    "topic": "Narration: Direct and Indirect"
   }
 ]
