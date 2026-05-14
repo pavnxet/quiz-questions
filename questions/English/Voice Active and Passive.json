@@ -1,0 +1,64 @@
+[
+  {
+    "qEnglish": "The convict _______ by the neck till death, was the verdict.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is to hanged",
+      "is being hung",
+      "is to be hanged",
+      "is to being hang"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An official mandate or future requirement uses 'is/am/are + to + be + V3' in the passive voice. 'Hanged' specifically means executed by hanging.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Voice: Active and Passive"
+  },
+  {
+    "qEnglish": "The meter reader _______ for a burglar by the landlady.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was mistook",
+      "was mistaken",
+      "has mistaken",
+      "mistook"
+    ],
+    "optionsHindi": "",
+    "correct": 1,
+    "explanationEnglish": "The passive form in simple past requires 'was/were + past participle (V3)'. The past participle of 'mistake' is 'mistaken'.",
+    "subject": "English",
+    "topic": "Voice: Active and Passive"
+  },
+  {
+    "qEnglish": "The old houses in town _______ unsafe by the authorities.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are declaring",
+      "have been declared",
+      "declare",
+      "declared"
+    ],
+    "optionsHindi": "",
+    "correct": 1,
+    "explanationEnglish": "The sentence requires a passive construction. 'Have been declared' works correctly with the plural subject 'old houses'.",
+    "subject": "English",
+    "topic": "Voice: Active and Passive"
+  },
+  {
+    "qEnglish": "It is a big factory. Five hundred people _______ there.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are employed",
+      "employing",
+      "have employed",
+      "is employing"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "To describe a permanent state of employment in the passive voice with a plural subject, 'are employed' is the correct construction.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Voice: Active and Passive"
+  }
+]
