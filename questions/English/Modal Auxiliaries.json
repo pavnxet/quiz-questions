@@ -1,0 +1,18 @@
+[
+  {
+    "qEnglish": "He _______ wait long as the next candidate was only a few minutes late.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "didn't have to",
+      "didn't need to",
+      "hadn't got to",
+      "hadn't have to"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Didn't have to' is the standard modal construction used to express a past absence of obligation or necessity.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Modal Auxiliaries"
+  }
+]
