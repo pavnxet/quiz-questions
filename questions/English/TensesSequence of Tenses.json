@@ -654,5 +654,1632 @@
     "explanationHindi": "",
     "subject": "English",
     "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She always _______ an umbrella.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "carries",
+      "have carry",
+      "had carry",
+      "would carried"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The frequency adverb 'always' indicates a habitual action, which requires the simple present tense. 'She' is third-person singular, so 'carries' is used.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The driver _______ the taxi to the right on the first turn.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "drives",
+      "turns",
+      "moves",
+      "drove"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Based on the answer key, 'drove' (simple past tense) is chosen to complete the historical or narrative action in the past.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The doctor advised me to stop _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "smoker",
+      "smoke",
+      "smoking",
+      "smoked"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The verb 'stop' is followed by a gerund ('smoking') when it means to discontinue an activity or habit.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _______ yesterday.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was not went",
+      "did not go",
+      "did not went",
+      "was not go"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The adverb 'yesterday' indicates simple past tense. Negative sentences in simple past use 'did not + base form of verb (V1)'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I am sorry, I _______ anything about your problems.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "didn't know",
+      "was not knowing",
+      "not knowed",
+      "have not knew"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Stative verbs like 'know' are generally not used in continuous forms. The simple past 'didn't know' is appropriate here.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "\"Jyoti _______ the gold medal last year.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "win",
+      "will win",
+      "won",
+      "win"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The time expression 'last year' requires the simple past tense form of the verb, which is 'won'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The company _______ money recently.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has been losing",
+      "had lose",
+      "will lost",
+      "have been lost"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The keyword 'recently' indicates an action that started in the past and has continuing relevance, perfectly fitting the present perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "How long you working in this office? Choose the grammatically correct option:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "How long have you working in this office?",
+      "How long have you been working in this office?",
+      "How long are working in this office.",
+      "How you working long in this office."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "To ask about the duration of an ongoing action up to the present, 'How long + present perfect continuous interrogative structure' is used.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Ajay _______ to Gurgaon last week to visit his parents.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has driven",
+      "drove",
+      "drived",
+      "will drive"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The phrase 'last week' refers to a completed past time, requiring the past simple form 'drove'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I didn't want _____ (eat) anything but the cakes looked so good that I couldn't resist _____ (try) one.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "to eat, trying",
+      "that I eat, to try",
+      "eating, to try",
+      "to eat, to try"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The verb 'want' is followed by an infinitive ('to eat'), whereas 'resist' is followed by a gerund ('trying').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _____ (write) a letter this morning.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "write",
+      "will be writing",
+      "have written",
+      "wrote"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "According to the official key, 'have written' is preferred here, implying the letter-writing has just concluded within the current day frame.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Temperature tomorrow _______ much the same as today.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will",
+      "remained",
+      "will have been",
+      "will be"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The future time marker 'tomorrow' combined with a state requires the simple future tense construction 'will be'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "\"I save Rs. 5000 a month. I started in January. So by the end of the year, I _______ Rs. 60,000.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "saved",
+      "had saved",
+      "have saved",
+      "will/shall have saved"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The time benchmark 'by the end of the year' indicates an action completed before a future target point, which requires the future perfect tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "We were told that the manager could not see us at that moment, as he _______ some letters to his secretary.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was dictating",
+      "were dictating",
+      "had been dictating",
+      "had dictated"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The background action happening simultaneously with another past event ('at that moment') requires the past continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "How long _______ waiting for the officer now?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have you been",
+      "had you been",
+      "are you",
+      "is you"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The phrase 'How long' along with 'now' marks a continuous action that began in the past and carries on up to now, needing the present perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The last train _______ the station at 5:30 am.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "leave",
+      "had waited",
+      "leaves",
+      "will have waited"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Fixed public schedules and timetables are consistently spoken or written about using the simple present tense ('leaves').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Identify the correct form of tense in the underlined part of the given sentence: When I arrived, Tom _was talking_ on the phone.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Past continuous",
+      "Past perfect",
+      "Present continuous",
+      "Present perfect continuous"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The construction 'was/were + verb-ing' is the signature structure of the Past Continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Do you also _______ a strange noise coming from the backyard?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "hears",
+      "hearing",
+      "hear",
+      "heared"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Interrogative sentences utilizing 'do/does/did' must always use the base form of the verb (V1).",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Fill in the blank with the correct option: I _______ a play by Pinter.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "am reading",
+      "reading",
+      "have reading",
+      "had been read"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'I am reading' presents a standard active continuous sentence structure. The others are syntactically invalid or form-broken.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He _______ many examples to support his arguments.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "sited",
+      "cited",
+      "sighted",
+      "site"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Cite' means to quote or refer to something as evidence or justification; its simple past form is 'cited'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _____ to call on you yesterday evening, but it rained.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "going",
+      "was going",
+      "were",
+      "will be going"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Was/were going to' describes a past intention or planned event that ultimately did not occur because of a disruption.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She is proud that she _____ (achieve) stardom.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has achieved",
+      "achieve",
+      "did achieve",
+      "has achieves"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The present perfect 'has achieved' links a completed action to a current state of being proud.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "It's time they _______ working on the project.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "started",
+      "start",
+      "will",
+      "would start"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The unreal or presumptive idiom 'It's time + subject' strictly demands a past subjunctive/simple past verb form ('started') to signify an action overdue.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The teacher taught us that the earth _______ round.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "were",
+      "was",
+      "are"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Even inside reported indirect structures controlled by past tense verbs, universal scientific facts stay anchored in the simple present tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Do you (speak) English?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "spoke",
+      "spoken",
+      "speak",
+      "speaking"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An interrogative root query generated via helper verb 'do' requires the primary dictionary base form (V1) 'speak'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He gave the picture to me because he _____ me.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "trusted",
+      "trusting",
+      "has trust",
+      "will trusted"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "To balance the past tense narrative constraint established by 'gave', the clause cause requires a simple past form ('trusted').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "We suggested (sleep) in hotels but the children were anxious (camp) out.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "that we sleep, camped",
+      "to sleep, To camp",
+      "for sleep, about camp",
+      "sleeping, to camp"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The verb 'suggest' takes a gerund direct object ('sleeping'), while the descriptive phrase 'anxious' takes a full infinitive modifier ('to camp').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He is _______ of rich parents.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "born",
+      "borne",
+      "borned",
+      "burning"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Born' is the passive participle adjective form used specifically in context of birth or lineage.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _______ to Agra before, so I don't wish to go there again.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had been",
+      "went",
+      "had gone",
+      "have been"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The simple present statement 'I don't wish' implies that the past life experience has present relevance, requiring the present perfect tense 'have been'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "\"Mahesh told him what happened to his dog, so he _______ home to see how it was.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "ran",
+      "run",
+      "runs",
+      "will run"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The narrative sequence is established in the past tense ('told', 'happened', 'was'), so the consecutive action 'ran' must also be in the simple past.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Prakash _______ tennis for an hour when the news of his selection came in.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had play",
+      "had been playing",
+      "had played",
+      "had been played"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "An action that was ongoing over a period of time up until a specific point in the past ('when the news... came in') takes the past perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Raman saw that the clock _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "stop",
+      "will stop",
+      "have been stopped",
+      "had stopped"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The clock had stopped before Raman looked at it. An action completed before a certain point in the past requires the past perfect tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "It is time you _______ (stop) playing.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "stops",
+      "have stopped",
+      "stopping",
+      "stopped"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The phrase 'It is time + subject' is followed by a past subjunctive verb form to indicate that something is overdue.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She _______ in the hospital since Monday.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have been",
+      "is being",
+      "has been",
+      "would have been"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An action that started in the past and continues up to the present with a time reference ('since Monday') requires the present perfect tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He _______ (go) to Bombay tomorrow.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will go",
+      "has gone",
+      "had gone",
+      "going"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Tomorrow' indicates a future action, which takes the simple future tense 'will go'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He generally _______ (go) for a walk every morning even now.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has gone",
+      "went",
+      "goes",
+      "had gone"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The frequency adverb 'generally' along with 'every morning' highlights a habitual routine requiring the simple present tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "It is time you _______ to bed.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "go",
+      "gone",
+      "went",
+      "will go"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The expression 'It is time + subject' strictly requires a simple past/past subjunctive verb form ('went') to suggest an action is overdue.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The teacher said that oil _______ (float) on water.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "floated",
+      "float",
+      "floats",
+      "had floated"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Universal truths or scientific facts remain in the simple present tense even inside indirect speech clauses controlled by a past tense verb.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The ship _______ (sink) in the ocean yesterday.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "sink",
+      "sunk",
+      "sank",
+      "sinking"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The time marker 'yesterday' specifies a completed past action, requiring the simple past tense form 'sank'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "They _______ (buy) vegetable last week.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "bought",
+      "buys",
+      "have bought",
+      "buy"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Last week' indicates a definite point in past time, needing the simple past form 'bought'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Mohan _______ rather tired today.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "seems",
+      "is seeming",
+      "is seem",
+      "do seems"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Seem' is a stative verb linking a state of mind or appearance, and is standardly used in the simple present form 'seems' for singular subjects.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She broke down when she _______ the news.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had heard",
+      "was hearing",
+      "heard",
+      "was heard"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Two quick, consecutive actions in the past are connected using the simple past tense ('broke down... when she heard').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He kept looking at her, wondering where he _______ her before.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has seen",
+      "have seen",
+      "had seen",
+      "was seeing"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An action that occurred before another action in the past ('kept looking') requires the past perfect tense ('had seen').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "As soon as he _______ he went for a walk.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "eats",
+      "has eaten",
+      "had eaten",
+      "will eat"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The past simple main clause ('he went') implies that the preceding completed action takes the past perfect tense ('had eaten') or simple past.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _______ on this project since yesterday.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was working",
+      "shall work",
+      "work",
+      "have been working"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "An ongoing action starting from a past point ('since yesterday') up to the present requires the present perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _______ him next month.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had visited",
+      "have visited",
+      "shall visit",
+      "visited"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The future adverbial 'next month' paired with first person 'I' takes the simple future construction 'shall visit'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She remarked that she _______ annoyed with him for his lack of sympathy for the victim.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "feeling",
+      "feel",
+      "will feel",
+      "felt"
+    ],
+    "optionsHindi": "",
+    "correct": 3,
+    "explanationEnglish": "The reporting past verb 'remarked' dictates that the subordinate clause should match in the past tense ('felt').",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "They withheld his results. He _______ the proof of his age.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "doesn't furnish",
+      "has not furnished",
+      "had not furnished",
+      "didn't furnish"
+    ],
+    "optionsHindi": "",
+    "correct": 2,
+    "explanationEnglish": "The background cause for withholding results in the past requires the past perfect tense ('had not furnished').",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "When my friend came to collect her books, I was a little embarrassed as I _______ only one out of the five books that I had borrowed.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "read",
+      "will have read",
+      "had read",
+      "have read"
+    ],
+    "optionsHindi": "",
+    "correct": 2,
+    "explanationEnglish": "An action completed prior to a past reference time point ('came') requires the past perfect tense 'had read'.",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The passengers in the waiting room are restless after the announcement that the train _______ late.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was",
+      "was running",
+      "is running",
+      "runs"
+    ],
+    "optionsHindi": "",
+    "correct": 2,
+    "explanationEnglish": "The restlessness of the passengers is a present state ('are'), meaning the train's current status is best expressed in the present continuous 'is running'.",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Choose the most appropriate option to fill in the blanks: I _______ her _______ a long time, _______ she was a child.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "knew, x, since",
+      "have known, for, since",
+      "was knowing, since, since",
+      "know, since, for"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'For' is used for a duration of time ('for a long time') and 'since' marks a specific starting point in time ('since she was a child') with the present perfect 'have known'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Aditi has been working here _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "six months ago",
+      "six months before",
+      "since six months",
+      "for six months"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "A length or duration of time ('six months') used with present perfect continuous requires the preposition 'for'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "\"Is dad in?\" \"No, he isn't. He _______ home an hour ago. He _______ yet.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Leaves, didn't return",
+      "Will have, has not returned",
+      "Leave, not returned",
+      "Left, has not returned"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "'An hour ago' requires the simple past tense ('left'), while the negative adverb 'yet' pairs with the present perfect tense ('has not returned').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "By tomorrow afternoon, the plane carrying medicines for war victims _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will have taken",
+      "takes",
+      "will take",
+      "will be taking"
+    ],
+    "optionsHindi": "",
+    "correct": 0,
+    "explanationEnglish": "The time expression 'By tomorrow afternoon' indicates an action completed before a future reference point, requiring the future perfect tense.",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "By the end of March, I _______ doing this job for six years.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was",
+      "have been",
+      "will have been",
+      "will be"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "A continuous action that will be completed by a certain target date in the future takes the future perfect continuous construction 'will have been'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "By November, next year she _______ her second book of poems.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will have completed",
+      "has been completed",
+      "completed",
+      "had completed"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'By November, next year' sets a clear future deadline, demanding the future perfect tense form 'will have completed'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I would love to go out with you tomorrow but I _______ dinner with Arvind.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "must be having",
+      "do have",
+      "will hardly have",
+      "am having"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The present continuous tense ('am having') is standardly used to express a fixed arrangement or plan for the near future.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Vijaya is my best friend. I _______ her for years.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "knowing",
+      "had been knowing",
+      "have been knowing",
+      "have known"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Stative verbs like 'know' do not take continuous forms. For a state beginning in the past and continuing up to now with 'for years', the present perfect 'have known' is used.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Rita didn't see me wave to her. She _______ in the other direction.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was looking",
+      "has been looking",
+      "is looking",
+      "looked"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An action that was backgrounded or actively ongoing at the specific past time someone else waved takes the past continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The accident victim _______ by the time they _______ him to the hospital.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was dying, rushed",
+      "will be dead, have rushed",
+      "was dead, rushed",
+      "had died, had rushed"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Based on the official textbook answer key, the state of being dead ('was dead') matches the simple past sequencing with 'rushed'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He used to visit us every week, but he _______ now.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has rarely come",
+      "rare came",
+      "rarely comes",
+      "is rarely coming"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The time word 'now' combined with habitual behavior requires simple present tense agreement ('rarely comes').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Newton discovered that the force of gravity _______ apples fall.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "makes",
+      "will make",
+      "made",
+      "is making"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Universal principles, natural laws, or scientific laws remain stated in the simple present tense ('makes').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He rested his horse, as it _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will limp",
+      "limps",
+      "limped",
+      "was limping"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The ongoing reason or background state for resting the horse in the past is represented by the past continuous 'was limping'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He _______ here for the last five years.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is working",
+      "has been working",
+      "worked",
+      "has worked"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "A time frame indicating duration from a past point up into the present ('for the last five years') demands the present perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Now that we _______ safe we paused to take a breath.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "felt",
+      "will feel",
+      "feel",
+      "are feeling"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The surrounding clause actions belong entirely inside past timeline conditions ('paused'), meaning the descriptive reason is standard simple past ('felt').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "You can only alight once the train _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Stop",
+      "Stopped",
+      "Stops",
+      "Stopping"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Time clauses introduced by words like 'once' or 'when' use the simple present tense ('stops') to refer to conditional future completions.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The secret of her fitness is that she _______ before sunrise for an hour's speed walk.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "got",
+      "will get",
+      "gets",
+      "getting"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "A lifestyle fact or daily routine is expressed in the simple present tense. 'She' takes 'gets'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "You're out of breath. _______?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Are you running",
+      "Have you run",
+      "Have you been running",
+      "You had been running"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When a past activity has clear, observable physical results in the present ('out of breath'), we use the present perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _______ for jobs on jobhunt.com these days with the hope that I might get called for interviews.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have been applying",
+      "has applied",
+      "have applied",
+      "applying"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The time keyword phrase 'these days' identifies a temporary habit or continuous action around the present, fitting the present perfect continuous framework.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Jubin _______ the plum cake by this time tomorrow.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is baking",
+      "had baked",
+      "have being baked",
+      "will have baked"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The specific future limit expression 'by this time tomorrow' requires the future perfect tense ('will have baked').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The radio _______ since 10 p.m. yesterday. The neighbours were getting disturbed because of it.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "would play",
+      "had been playing",
+      "plays",
+      "have had played"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "An action that was continuously happening over a period up to a point in the past ('were getting disturbed') requires the past perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Identify the 'Tense' of the following sentence - \"We have been living here since 1952.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Present Perfect Continuous Tense",
+      "Past Continuous Tense",
+      "Present Continuous Tense",
+      "Past Perfect Continuous Tense"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The sentence structure 'has/have been + verb-ing' denotes the Present Perfect Continuous Tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Fill up with appropriate Tense - Who _______ her?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "did not know",
+      "is not known",
+      "do not know",
+      "does not know"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "For a singular interrogative pronoun 'Who' addressing a general fact in the present tense, the negative singular form 'does not know' is appropriate.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _________ (read) the book a number of times.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "reading",
+      "was read",
+      "have read",
+      "read"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An experience completed multiple times up to the present moment is best expressed using the present perfect tense 'have read'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "How often do you _________ your hair?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "wash",
+      "are washing",
+      "has been washing",
+      "washed"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The structure 'How often do you...' represents a question about regular habits, which strictly requires the base form of the verb (V1) 'wash'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "My friend _________ (hate) reading but _________ (love) to go to the movies.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "hated, is loving",
+      "hating, loves",
+      "hates, loves",
+      "is hate, love"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "General preferences and regular likes/dislikes of a singular subject ('My friend') are stated in the simple present tense ('hates, loves').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The human body never gets used to noise. The sentence is in:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Simple future",
+      "Present indefinite",
+      "Past perfect",
+      "Present continuous"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The use of the verb 'gets' with a universal physiological truth positions the sentence in the Present Indefinite (Simple Present) tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "_______ you _______ your homework yet?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Didn't, do",
+      "Haven't, done",
+      "Don't, do",
+      "Aren't, do"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The adverb 'yet' is standardly paired with a negative or interrogative present perfect construction ('Haven't... done').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Yuvika told me that she _______ Paris five years before.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had visited",
+      "visited",
+      "was visiting",
+      "has been visiting"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "In indirect speech, when describing a past action completed prior to the time of reporting ('told'), the past perfect tense ('had visited') is used.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _______ this necklace. I _______ it for nearly 30 years now.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "am loving, had",
+      "have loved, have",
+      "love, have had",
+      "loved, am having"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Love' is a stative verb typically used in simple present. Possessing an item over a continuous timeframe up to the present ('for nearly 30 years now') takes present perfect 'have had'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Match the clauses correctly to form complete sentences:\n(i) She ______ now.\n(ii) I ______ him for a long time.\n(iii) I ______ him last five years before.\n(iv) He ______ us next week.\n\nMatching elements: (A) had seen, (B) will be meeting, (C) is signing, (D) have known",
+    "qHindi": "",
+    "optionsEnglish": [
+      "(i) - (D), (ii) - (A), (iii) - (C), (iv) - (B)",
+      "(i) - (A), (ii) - (B), (iii) - (D), (iv) - (C)",
+      "(i) - (B), (ii) - (C), (iii) - (D), (iv) - (A)",
+      "(i) - (C), (ii) - (D), (iii) - (A), (iv) - (B)"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "(i) 'now' pairs with present continuous 'is signing'; (ii) 'for a long time' pairs with present perfect 'have known'; (iii) 'five years before' aligns with past perfect 'had seen'; (iv) 'next week' links with future continuous 'will be meeting'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "_______ you _______ that book yet? You _______ it for ages.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Haven't, finished, have been reading",
+      "Aren't, finished, have read",
+      "Won't, finish, had read",
+      "Hadn't, finished, are reading"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Yet' prompts the present perfect 'Haven't finished', and an ongoing activity extending over a duration up to now ('for ages') uses present perfect continuous 'have been reading'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "While the guests _______, thieves _______ into the house and _______ a lot of fur coats.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "danced, are breaking, had stolen",
+      "are dancing, break, stolen",
+      "had danced, had broken, were stolen",
+      "were dancing, broke, stole"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "A continuous background action in the past ('were dancing') is interrupted or accompanied by quick completed actions in the simple past ('broke', 'stole').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _______ my exercise when Hari came to see me last night.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had done",
+      "have done",
+      "did",
+      "will do"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An action completed before another past event ('when Hari came') is placed in the past perfect tense ('had done').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The sun _______ (rise) in the east.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "rose",
+      "arose",
+      "risen",
+      "rises"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Universal geographical and celestial truths are universally stated in the simple present tense ('rises').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Identify the tense in the sentence: \"She was dancing so well.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Present Simple",
+      "Past Simple",
+      "Past Perfect",
+      "Past Continuous"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The auxiliary 'was' combined with a verb ending in '-ing' forms the past continuous tense structure.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Mr. Bhat _______ here since 1990 and has made this place his home.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had staying",
+      "has been staying",
+      "was to stay",
+      "is staying"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "An action that began in the past and continues to the present along with a starting time marker ('since 1990') takes the present perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Which of the following sentences is in the Present Perfect tense?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The team wins the match.",
+      "The team will win the match.",
+      "The team has won the match.",
+      "The team had won the match."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The structure 'has/have + past participle (won)' is the identifier for the Present Perfect tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "The dogs _______ in the street for half an hour.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "bark",
+      "are barking",
+      "have barked",
+      "have been barking"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "An action continuing over a period up to the present moment, designated by 'for half an hour', requires the present perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Identify the tense used in the following sentence: \"I had already completed my work before midnight.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Past Continuous",
+      "Past Simple",
+      "Present Simple",
+      "Past Perfect"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The past auxiliary 'had' coupled with the past participle 'completed' forms the Past Perfect tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "She _______ English well and can answer all my questions.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "knew",
+      "knowing",
+      "knows",
+      "known"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The coordinating modal phrase 'can answer' establishes that the person's linguistic capability is a current fact, requiring simple present singular 'knows'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Everybody _______ the rising sun.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "worshiped",
+      "worship",
+      "worshipping",
+      "worships"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "According to the official book key provided, the historical/narrative simple past option 'worshiped' is selected as correct.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Identify the Tense of the following sentence: \"She has been teaching for ten years in this school.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Present Continuous Tense",
+      "Past Continuous Tense",
+      "Past Perfect Continuous Tense",
+      "Present Perfect Continuous Tense"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The verb formula 'has been + V-ing' represents the Present Perfect Continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Very unwillingly he _______ (turn) down the sound of the TV and _______ (go) to answer the door bell.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "turned, went",
+      "turning, went",
+      "turned, go",
+      "turns, go"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A sequential pair of past actions requires balanced consistency in the simple past tense ('turned, went').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I usually _______ (go) by train, but this weekend I _______ (go) by bus. It _______ (take) longer but it _______ (cost) less.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "went, go, takes, costs",
+      "go, went, took, costs",
+      "go, am going, takes, costs",
+      "went, went, took, costed"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Usually' calls for simple present 'go'; a specific exception this week calls for present continuous 'am going'; followed by generic truths 'takes' and 'costs'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Did the Roman slaves _______ the right to own property?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have",
+      "has",
+      "had",
+      "had been"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Per the official answer key, alternative (D) is specified as the designated choice.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He _______ in London for 10 years when I met him last year.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had been living",
+      "has lived",
+      "have lived",
+      "had lived"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An action continuing across a length of time prior to another distinct milestone in the past ('when I met him') requires past perfect continuous 'had been living'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "I _______ (write) ten pages since breakfast.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have written",
+      "wrote",
+      "was writing",
+      "write"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A tally of achievements completed from a specific past point up to now ('since breakfast') is structured in the present perfect tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "This telegram has just arrived and the man _______ (wait) in case you _______ (want) to send a reply.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was waiting, want",
+      "waits, want",
+      "is waiting, want",
+      "is waiting, are wanting"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An action currently ongoing in the present takes the continuous form 'is waiting', while state verbs like 'want' take the simple present form.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "When I first met him, he _______ painting.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is studying",
+      "has been studying",
+      "was studying",
+      "have been studying"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An active continuous activity that was ongoing at the past moment of an initial meeting requires the past continuous tense 'was studying'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "You can only alight once the train _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Stop",
+      "Stopped",
+      "Stops",
+      "Stopping"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Subordinate conditional clauses dealing with a necessary future occurrence require the simple present tense form ('stops').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He hinted that he _______ some pocket money.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "want",
+      "wanted",
+      "wanting",
+      "had want"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The past reporting verb 'hinted' requires the subsequent noun clause to also follow past tense alignment ('wanted').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Tenses/Sequence of Tenses"
   }
 ]
