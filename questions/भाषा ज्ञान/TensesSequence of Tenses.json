@@ -1,0 +1,226 @@
+[
+  {
+    "qEnglish": "The chief Guest, with his wife, ______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has left",
+      "are leaving",
+      "have left",
+      "left"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "When two subjects are joined by 'with', the verb agrees with the first subject, which is singular ('The chief Guest').",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Measles ______ an infectious disease.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "is",
+      "will",
+      "have"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Names of certain diseases like 'Measles' are plural in form but singular in construction and take a singular verb.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "My friend and his father ______ meeting us tomorrow.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "is",
+      "will",
+      "have"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "When two distinct subjects are joined by 'and', they take a plural verb.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Generally, honesty ______ from the heart.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "come",
+      "comes",
+      "has come",
+      "coming"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "General truths and habitual statements use the simple present tense. 'Honesty' is an uncountable singular noun, so it takes 'comes'.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Have you ______ the door tight?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "shutted",
+      "shutened",
+      "shut",
+      "shuts"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The present perfect tense uses the past participle form of the verb. The three forms of 'shut' are shut-shut-shut.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He ______ the college last year.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "can leave",
+      "left",
+      "has left",
+      "will leave"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Adverbials of past time like 'last year' require the simple past tense.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "This particular problem ______ us for a long time now.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has been troubling",
+      "may troubling be",
+      "is been troubling",
+      "has been troubled"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An action that began in the past and continues into the present with a duration ('for a long time now') takes the present perfect continuous tense.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "He is disappointed at not ______ to see any play while he was in Kolkata.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have gone",
+      "having gone",
+      "have go",
+      "have good"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The preposition 'at' is followed by a gerund. The perfect gerund 'having gone' correctly indicates a past unfulfilled event.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "We ______ there for ten years.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will have been lived",
+      "live",
+      "living",
+      "lived"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The simple past tense can be used with a duration to denote a state or action that started and finished in the past.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Can you ______ me some money?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "lend",
+      "lent",
+      "lease",
+      "leave"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Modal auxiliaries like 'can' are followed by the base form (V1) of the main verb.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Please ______ the window.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "opening",
+      "opens",
+      "open",
+      "opened"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Imperative sentences expressing requests or orders begin with the base form of the verb (V1).",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Do you know who ______ our national anthem?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is writing",
+      "has written",
+      "has been writing",
+      "had writing"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The present perfect tense is used here to describe a past completed action whose historical fact holds significance in the present.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "Choose the correct option for the underlined word 'went': Last Sunday we went to the zoo.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "go",
+      "will have gone",
+      "no improvement",
+      "gone"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Last Sunday' specifies a concrete time in the past, making the simple past form 'went' perfectly accurate.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  },
+  {
+    "qEnglish": "India ______ won the match by three goals.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has",
+      "have",
+      "had",
+      "was"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "When referring to a country as a singular entity or collective team in context of a recent achievement, the singular present perfect 'has' is standard.",
+    "explanationHindi": "",
+    "subject": "भाषा ज्ञान",
+    "topic": "Tenses/Sequence of Tenses"
+  }
+]
