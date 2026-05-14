@@ -1,0 +1,18 @@
+[
+  {
+    "qEnglish": "Stop _______. Tell me what really happened.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "beating in the bush",
+      "beating round the bush",
+      "beating about the bush",
+      "beating around the bush"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Beating about the bush' is the traditional, established idiomatic expression meaning to avoid speaking directly about the main topic.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Idioms and Proverbs"
+  }
+]
