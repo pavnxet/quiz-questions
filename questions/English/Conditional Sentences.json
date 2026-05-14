@@ -78,5 +78,819 @@
     "explanationHindi": "",
     "subject": "English",
     "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If he were to reach the venue in time, he _______ have to hurry up.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will",
+      "would",
+      "would be",
+      "must be"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "This is a conditional clause using the subjunctive form 'were to', which requires 'would + base verb' in the main clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If he _______, what are we to do?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "camed",
+      "comes",
+      "had come",
+      "was to come"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "This represents a zero/first conditional question framework, using the simple present 'comes' in the conditional clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If you _______ a skeleton in the cellar, don't mention it to anyone.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "founded",
+      "will be finding",
+      "will find",
+      "find"
+    ],
+    "optionsHindi": "",
+    "correct": 3,
+    "explanationEnglish": "This is a type 1 conditional structure mixed with an imperative main clause, calling for the simple present form 'find' in the if-clause.",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If they _______ that picture lower, people would be able to see it.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "don't hang",
+      "hung",
+      "hang",
+      "would hang"
+    ],
+    "optionsHindi": "",
+    "correct": 1,
+    "explanationEnglish": "The presence of 'would + be' in the main clause tells us this is a Type 2 conditional sentence, which takes the simple past ('hung') in the conditional clause.",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "They are very kind to me. They treat me _______ their own son.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "like I am",
+      "as if I was",
+      "as if I will be",
+      "as if I were"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The expression 'as if' when dealing with hypothetical or imaginary conditions requires the past subjunctive form 'were'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If he sticks to his exercise regime, he _______ his ideal weight by the end of this year.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had reached",
+      "has been reaching",
+      "is being reached",
+      "will reach"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "This is a first conditional sentence. The if-clause is in the simple present ('sticks'), so the main clause requires the simple future ('will reach').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If he _______ (work) harder, he would have succeeded.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was working",
+      "worked",
+      "works",
+      "had worked"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "This is a Type 3 conditional structure. The main clause contains 'would have + V3', meaning the conditional clause must feature the past perfect tense 'had worked'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Choose the correct sentence from the options below:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "When I woke up, he has already eaten breakfast.",
+      "When I woke up, he had already eaten breakfast.",
+      "When I had woken up, he had already ate breakfast.",
+      "When I had woken up, he has already ate breakfast."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "When sequencing two events in the past, the earlier event takes the past perfect ('had already eaten') and the later event takes the simple past ('woke up').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Match the items in column (A) with appropriate items in column (B) to form meaningful sentences:\nColumn (A):\n(a) If you had tried\n(b) Unless you tell me the truth\n(c) If you are going abroad....\n(d) Do you know\n\nColumn (B):\n(i) ......whether the match has been postponed.\n(ii) you'll need a lot of money.\n(iii) I'll not let you go.\n(iv) you would have succeeded.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "a-i, b-ii, c-iv, d-iii",
+      "a-iv, b-iii, c-ii, d-i",
+      "a-ii, b-iii, c-i, d-iv",
+      "a-iii, b-ii, c-iv, d-i"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Clause (a) is third conditional and pairs with (iv); clause (b) requires a future condition, matching (iii); clause (c) matches (ii) logically; phrase (d) introduces a indirect question matching (i).",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Match the parts of sentences listed in Column (A) with those in Column (B) to frame appropriately meaningful sentences:\nColumn (A):\n(a) Unless you work hard\n(b) If you were rich\n(c) The boy who stood first....\n(d) We reached the station......\n\nColumn (B):\n(i) you would probably spend much\n(ii) got the prize.\n(iii) .... before the train arrived.\n(iv) you will fail.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "a-ii, b-i, c-iv, d-iii",
+      "a-iv, b-i, c-ii, d-iii",
+      "a-iii, b-ii, c-iv, d-i",
+      "a-ii, b-iii, c-iv, d-i"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "(a) links with future consequence (iv); second conditional (b) links with (i); clause subject (c) links with active predicate (ii); past timeline (d) links with relative tracking phrase (iii).",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Fill in the blank with the correct conjunction: He commands me _______ he were my boss.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "However",
+      "as if",
+      "but",
+      "as"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The use of the past subjunctive 'were' indicating an imaginary condition shows that the phrase must be introduced by 'as if'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "I was no better than a dead man, _______ I was alive and was able to reach the shore.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Though",
+      "If",
+      "Yet",
+      "Moreover"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The contrastive concessive conjunction 'Though' perfectly connects the vulnerability of the situation to the survival resolution.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Which of the following structures of a question is correct?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Will be they arrested if they refuse to leave?",
+      "Will they be arrested if they refuse to leave?",
+      "Will they be arrested if they refused to leave?",
+      "Will they be arrested if they will refuse to leave?"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The interrogative passive voice structure follows 'Will + subject + be + V3', combined with a standard type-1 simple present if-clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Choose the grammatically correct option among the four given sentences:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Had you not misbehaved with your superiors, you would not have come to this sorry pass.",
+      "Had you not misbehaved with your superiors, you might not come to this sorry pass",
+      "Had you not misbehaved with your superiors, you should not come to this sorry pass.",
+      "Had you not misbehaved with your superiors, You would not came to this sorry pass."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An inverted Type 3 conditional construction correctly uses 'Had + subject + V3' coupled with 'would not have + V3' in its corresponding main clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Choose the part of the sentence that is grammatically incorrect:\n_Supposing if_ (A) / _he misses the train_ (B) / _will_ (C) / _he come back_ (D)?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Supposing if",
+      "he misses the train",
+      "will",
+      "he come back?"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Using 'Supposing' and 'if' together creates a grammatical redundancy. Only one conditional connector is needed to introduce the scenario.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Choose the part of the sentence that is grammatically incorrect:\n_Unless_ (A) / _you do not pay attention_ (B) / _to what I say_ (C), / _you will not succeed_ (D).",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Unless",
+      "you do not pay attention",
+      "to what I say.",
+      "you will not succeed."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Unless' already possesses a negative meaning ('if not'). Adding a secondary negative auxiliary phrase ('do not') produces a double negative error.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Choose the correct option for correcting the following sentence: 'If it rains, I would not go to the park.'",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I was not going to the park if it rains.",
+      "I would not be going to the park if it rains.",
+      "I should not go to the park if it rains.",
+      "If it rains, I will not go to the park."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "A first conditional structure requires an alignment consisting of a simple present condition ('If it rains') paired with a simple future consequence ('I will not go').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Choose the correct option to make the following into a single coherent conditional sentence: 'You can't get in you don't have the tickets.'",
+    "qHindi": "",
+    "optionsEnglish": [
+      "You can't get in whether you have the tickets.",
+      "You don't have the tickets you can't get in.",
+      "You can't get in if you don't have the tickets.",
+      "You can't get in, you don't have tickets."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Connecting the consequence clause with its necessary premise requires the clear insertion of the conditional conjunction 'if'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I had known you were in hospital, I _______ to visit you.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "would have gone",
+      "go",
+      "will had gone",
+      "could gone"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The third conditional clause 'If I had known' must be resolved via a main clause built around 'would have + past participle'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Put the verb into the correct form: If I _______ (know) his number, I would phone him.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "know",
+      "knew",
+      "will have know",
+      "had know"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The presence of 'would phone' inside the primary clause points out a Type 2 conditional sentence, which takes a simple past verb ('knew').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If you _______ (tell) we had run out of bread, I _______ (buy) some.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have told, would have brought",
+      "told, would have bought",
+      "had told, would have bought",
+      "had told, would buy"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "To represent a hypothetical past scenario that didn't happen, a Type 3 conditional frame is used: past perfect ('had told') and future perfect in the past ('would have bought').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If you _______ hard, you will drill the nail in.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will hit",
+      "hit",
+      "are hitting",
+      "have hit"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "A first conditional structure contains a simple present tense verb phrase ('hit') inside its dependent if-clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Unless you apologise _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I will praise you",
+      "I would punish you",
+      "I would have praised you",
+      "I will punish you"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "'Unless' creates a negative future condition, requiring a logical simple future consequence clause ('I will punish you').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If he had worked hard, he _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will have passed",
+      "would have passed",
+      "had passed",
+      "would pass"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The clause condition 'had worked' sets a Type 3 format requiring 'would have passed' inside the main text statement.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I _______ a bird I would fly in the sky.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "am",
+      "was",
+      "were",
+      "will be"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Hypothetical, counterfactual statements use the past subjunctive verb form 'were' for all subject pronouns.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Even if you don't work for me I _______ your work.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will do",
+      "would do",
+      "should do",
+      "could do"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A present condition introduced by 'even if' takes a matching simple future verb expression 'will do' in its declarative main clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I _______ a doctor, I would serve the poor.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "am",
+      "had been",
+      "were",
+      "was"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An imaginary situation in the present uses 'were' in the conditional clause to show it is a counterfactual condition.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Had you woken up earlier, you _______ seen a beautiful sunrise.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "would have",
+      "will have",
+      "would be",
+      "would have being"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The inverted conditional clause 'Had you woken' demands the matching continuation component 'would have' to satisfy Type 3 patterns.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Until he _______ his work, he will not be allowed to go out.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "finishing",
+      "will have finish",
+      "not finishes",
+      "finishes"
+    ],
+    "optionsHindi": [],
+    "correct": 4,
+    "explanationEnglish": "Time clauses introduced by 'until' use the simple present tense ('finishes') to describe a future condition.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Unless he _______ harder, he will not succeed.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "tried",
+      "tries",
+      "will tries",
+      "is try"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The introductory clause word 'Unless' is followed by a regular simple present form ('tries') when paired with a simple future consequence clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "_______ they left early, they would have reached by now.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Have",
+      "Had",
+      "Would",
+      "Must"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "To initiate an inverted past conditional structure that matches the result 'would have reached', the clause must begin with 'Had'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If it rains, the college will _______ closed.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "being",
+      "be",
+      "surely",
+      "must"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The modal auxiliary 'will' must be followed by the base dictionary form of the verb, which is 'be'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I _______ wealthy, I should have many friends.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "would be",
+      "were",
+      "should be",
+      "had been"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "An imaginary or unreal condition in the present takes the past subjunctive form 'were'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I _______ attended the training course, I would have learnt something.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "had",
+      "would have",
+      "have",
+      "should have"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A Type 3 conditional statement pairs 'would have learnt' with a past perfect clause introduced by 'had'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If we had taken a coach, it _______ better.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "would be",
+      "might be",
+      "will have been",
+      "would have been"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The condition 'had taken' establishes a Type 3 pattern, requiring the past perfect modal frame 'would have been'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If we _______ the car, we would have the problem of where to park.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "taken",
+      "had taken",
+      "took",
+      "shall take"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The presence of 'would have' (simple would + base verb have) in the main clause shows it is a Type 2 conditional sentence, requiring the simple past form 'took'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I were an actress, I _______ Hollywood films too.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will sign",
+      "would have signed",
+      "would sign",
+      "will have signed"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The subclause condition 'were' denotes a Type 2 imaginary scenario, which resolves through 'would + base verb' ('would sign').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I had told the truth, _______ punishment.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I would have escaped",
+      "I will escape",
+      "I would escape",
+      "I will not escape"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A conditional clause in the past perfect ('had told') requires a main clause in the future perfect-in-the-past form ('would have escaped').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If we _______ a lottery, we will buy a car.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will win",
+      "have won",
+      "won",
+      "win"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "A first conditional sentence features a simple future main clause ('will buy') and a simple present conditional clause ('win').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If the result of the admission test _______ today, she _______ a telegram.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will be announced, will send",
+      "was announced, would send",
+      "is announced, will send",
+      "declared, could send"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "A standard type-1 open future conditional structure links a simple present passive condition ('is announced') to a simple future outcome ('will send').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If you had worked hard, you _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will pass",
+      "would pass",
+      "would have passed",
+      "had been pass"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The past perfect condition 'had worked' indicates a Type 3 conditional sentence, which requires the main clause form 'would have passed'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If you make a promise, you must be sure to _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "accomplish",
+      "keep",
+      "follow",
+      "succeed"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "According to the official exam answer key provided, option (A) 'accomplish' is the designated correct response.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Fill in the blank with the appropriate conditional clause: He must be lying _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "if he was told you that",
+      "if he will tell you that",
+      "if he told you that",
+      "if he telling you that"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The simple past phrase 'if he told you that' forms a grammatically correct conditional clause to complement the present statement.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If he had called me, I _______ helped him.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will",
+      "have",
+      "would have",
+      "had"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The third conditional pattern ('If + past perfect') requires 'would have' followed by a past participle in the main clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If they doubled the price of petrol, there _______ so much traffic on the road.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "won't be",
+      "can't be",
+      "shan't be",
+      "wouldn't be"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The simple past verb 'doubled' sets up a second conditional context, which requires 'wouldn't be' in the main clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Choose the most appropriate subordinate clause to fill in the blank: I can never catch up with him _______.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "No matter how hard I try",
+      "No matter how hard I will try",
+      "No matter my hard trial",
+      "No matter hard I try"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The adverbial phrase 'No matter how hard I try' correctly uses the simple present tense to express a concession.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "If I _______ (get) this job, I _______ (buy) a new car by next year.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "got, will buy",
+      "get, will have bought",
+      "gets, will have buy",
+      "get, will bought"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The timeline target 'by next year' combined with a simple present condition ('get') requires the future perfect tense 'will have bought' in the main clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Identify the grammatically correct sentence from the options below:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Was I a King, I would lived a life of ease.",
+      "Were I a King, I would live a life of ease.",
+      "Were I a King, I would had lived a life of ease.",
+      "Were I a King, I lived a life of ease."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "An inverted second conditional clause ('Were I a King') correctly takes a main clause consisting of 'would + base verb' ('would live').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "We _______ go provided the weather _______ fine.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "shall, is",
+      "ought to, has to be",
+      "might, is being",
+      "have to, was to being"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The conditional connector 'provided' acts like 'if'. It connects a simple present clause ('is') to a principal future clause ('shall go').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "You _______ succeeded if you _______ harder.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will have, could have tried",
+      "shall had, shall tried",
+      "could, had tried",
+      "would have, had tried"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "A classic type-3 conditional construction pairs an 'if + past perfect' clause ('had tried') with a 'would have + past participle' main clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
+  },
+  {
+    "qEnglish": "Unless it _______ today, we _______ not play tennis.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were fine, will",
+      "is fine, shall",
+      "was fine, could",
+      "is not fine, may"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The word 'Unless' introduces a condition in the simple present ('is fine'), which takes a corresponding future modal expression ('shall') in the main clause.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Conditional Sentences"
   }
 ]
