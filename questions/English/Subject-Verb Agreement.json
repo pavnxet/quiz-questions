@@ -1,0 +1,178 @@
+[
+  {
+    "qEnglish": "Cattle _______ driven all over the fields.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "was",
+      "has been"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Cattle' is a collective noun that is always treated as plural and therefore takes a plural verb like 'are'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "Her father accompanied by all her uncles _______ late.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were",
+      "was",
+      "have been",
+      "have arrived"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "When a singular subject ('Her father') is followed by terms like 'accompanied by', the parenthetical addition doesn't change the verb's singular agreement.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "The newspapers _______ it is going to rain all of next week.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "says",
+      "saying",
+      "say",
+      "be saying"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'The newspapers' is a plural subject noun phrase and takes the matching bare plural verb form 'say'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "Both Mansi and Milli _____ the answer.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "know",
+      "knows",
+      "knowing",
+      "knowed"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Subjects bound together using 'Both... and...' are strictly plural pluralities and require a root base verb match ('know').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "Either the boy or the girl _______ at fault.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were",
+      "are",
+      "was",
+      "have been"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When subjects are connected by 'either... or', the verb agrees with the closer subject. 'The girl' is singular, so it takes 'was'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "Many researchers _______ conducted this experiment to prove their point.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have",
+      "are",
+      "were",
+      "has"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The plural subject 'Many researchers' requires the plural auxiliary verb 'have' to form the active voice present perfect tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "After months of recession the economy _______ picking up.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The singular subject 'the economy' paired with the present continuous participle 'picking up' requires the auxiliary 'is'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "Fill up the blank - Plutarch's Lives _________ an interesting book.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was",
+      "are",
+      "is",
+      "were"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Even though 'Plutarch's Lives' ends in an 's', it is the singular title of a single book, thus requiring the singular present verb 'is'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "Smoke, foul water, dirty air and litter _________ our environment just as much as noise.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Pollute",
+      "Pollutes",
+      "Polluted",
+      "Polluting"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The compound subject consists of multiple plural elements ('Smoke, foul water, dirty air and litter'), meaning it takes a matching plural verb 'Pollute'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "The council that met in the Town Hall _______ divided.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "will",
+      "is",
+      "was",
+      "were"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "When a collective noun ('The council') behaves as separate individuals experiencing disagreement or division, it takes a plural verb ('were').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "No person of that name _______ here.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "lives",
+      "have lived",
+      "are living",
+      "living"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The indefinite singular phrase phrase 'No person' requires a matching third-person singular present verb 'lives'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  }
+]
