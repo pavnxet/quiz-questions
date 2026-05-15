@@ -109,5 +109,1621 @@
     "explanationEnglish": "Indirect questions require assertive sentence word order (subject + verb) instead of interrogative inversion. Thus, 'we were going' is correct.",
     "subject": "English",
     "topic": "Narration: Direct and Indirect"
+  },
+  {
+    "qEnglish": "1. Pick the correct direct sentence for the following indirect sentence-\n\nI asked him if he knew my name.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I said, \"Do you know my name.\"",
+      "I said to him, \"Do you know my name?\"",
+      "I asked, \"Did you know my name?\"",
+      "I say, \"Do you know my name?\""
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The reporting verb 'asked' with 'if' indicates a past-tense polar (yes/no) question, which converts from 'said to him' and a present simple question 'Do you know my name?'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "2. Choose the correct option.\n\nHe said, \"My wife leaves for Vienna tomorrow\".\n(Change into indirect speech)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that his wife had to leave for Vienna tomorrow.",
+      "He said that his wife would leave for Vienna the next day.",
+      "He said that his wife has to leave for Vienna tomorrow.",
+      "He said, that his wife have to leave for Vienna the next day."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The present simple verb 'leaves' expressing a future schedule changes to 'would leave' in reported speech, and 'tomorrow' changes to 'the next day'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "3. Choose the option that is the correct direct narration of the following sentence.\n\nShe reminded me to switch off all the lights.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "\"Remind me to switch off all the lights.\" she ordered.",
+      "\"Remember switching off lights,\" she, reminded.",
+      "\"Remember to switch off all the lights,\" she said.",
+      "\"Remember lights to be switched off.\" she told."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The indirect statement reporting a reminder with an infinitive ('reminded me to switch off') accurately reflects a direct imperative statement starting with 'Remember to...'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "4. Choose the correct answer from the given options -\n\nRavi said, \"I will bring the book tomorrow.\"\n(Change into Indirect Speech)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Ravi informed that he would bring the book the next day.",
+      "Ravi informed that he will bring the book tomorrow.",
+      "Ravi informed that he would bring the book tomorrow.",
+      "Ravi ordered that he would bring the book the next day."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "In indirect speech, the modal verb 'will' changes to 'would', the pronoun 'I' changes to 'he' to match the speaker, and 'tomorrow' becomes 'the next day'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "5. Ashin said, \"Shall I ever win a gold medal?\"\n(Change into Indirect Speech)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Ashin asked if he shall ever have won a gold medal.",
+      "Ashin said that shall he ever won a gold medal.",
+      "Ashin exclaimed if he shall ever win a gold medal.",
+      "Ashin wondered if he would ever win a gold medal."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "When a direct question with 'Shall I ever...?' expresses speculation or self-reflection, it is best reported using the verb 'wondered' followed by 'if he would ever'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "6. John said, \"I waited for Lisa till 10 O'clock\".\n(Change into Indirect Speech)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "John told me that he waited for Lisa till 10 O'clock.",
+      "John told me that I had waited for Lisa till 10 O'clock.",
+      "John said that he had been waiting for Lisa till 10 O'clock.",
+      "John said that he had waited for Lisa till 10 O'clock."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The past simple tense ('waited') inside the direct speech shifts back to the past perfect tense ('had waited') when converted into indirect speech.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "7. Choose the correct Indirect form of the following Direct speech sentence:\n\n\"Listen to me!\" said Mother.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Mother told me listen to her.",
+      "Mother told me to listen to her.",
+      "Mother asked me to listen.",
+      "Mother asked to me to listened."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "An imperative command or instruction like 'Listen to me!' is structured using 'told me' followed by a to-infinitive clause ('to listen to her').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "8. Choose the correct Indirect form of the following Direct speech sentence:\n\n\"Could you call me back later?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He asked if you could call to me later.",
+      "He asked to later make a call on him.",
+      "He asked me to call him back later.",
+      "He pleased me to call him later."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Polite requests beginning with 'Could you...?' function as imperatives or requests and are transformed using 'asked me to' followed by the base verb.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "9. Change the following sentence into indirect speech:\n\nTom said, \"I woke up feeling ill, so I didn't go to work.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Tom said that he woke up feeling ill and so he did not go to work.",
+      "Tom said that he had woken up feeling ill, so he hadn't gone to work.",
+      "Tom said that he had woken up feeling ill, so he did not go to work.",
+      "Tom said that he woke up feeling ill, so he didn't go to work."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Both past simple clauses ('woke up' and 'didn't go') must be converted into the past perfect tense ('had woken up' and 'hadn't gone') to preserve sequence of tenses.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "10. Choose the correct Indirect form of the sentence.\n\nShe said, \"I have written a story.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said (that) she had written a story.",
+      "She told of writing a story.",
+      "A story written by her.",
+      "She informed us of writing a story."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The present perfect tense clause 'I have written' changes into the past perfect tense clause 'she had written' in indirect speech.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "11. Convert the following sentence from Direct to Indirect speech -\n\nHe said to us, \"Are you going away today?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He asked us if we were going away today.",
+      "He inquired of us whether we were going away that day.",
+      "He demanded of us whether we were going away that day.",
+      "He told us if we are going away the same day."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Said to us' becomes 'inquired of us', the question becomes an assertive statement linked by 'whether', and 'today' changes to 'that day'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "12. Choose the correct form of indirect narration for the given sentence:\n\nHe said, \"I am a student\".",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He says that he is a student.",
+      "He said that he was a student.",
+      "He said that he is a student.",
+      "He says that he was a student."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Since the reporting verb 'said' is in the past tense, the present state verb 'am' shifts back to its past form 'was'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "13. Change the following sentence into indirect speech -\n\nSarita said to me, \"I will do it now or never.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Sarita told me that I would do it then or never.",
+      "Sarita told me that she would do it now or never.",
+      "Sarita told me that she will do that now or never.",
+      "Sarita told me that she would do it then or never."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The pronoun 'I' changes to 'she' to match Sarita, 'will' shifts to 'would', and the temporal adverb 'now' converts to 'then'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "14. Change the following sentence from Indirect to Direct Speech -\n\nI said to the boys that they should do their duty.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I said to the boys, \"You should do your duty.\"",
+      "I told the boys, \"You ought to do your duty.\"",
+      "I told the boys, \"You will do your duty.\"",
+      "I said to the boys, \"You need to do your duty.\""
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The third person pronoun plural 'they' and possessive 'their' revert back to the second person forms 'You' and 'your' when referencing the direct audience ('the boys').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "15. Choose the appropriate Indirect statement of following:\n\nHe said, \"Let us wait for the award.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He proposed that they should wait for award.",
+      "He proposed that we should be waiting for the award.",
+      "He proposed to wait for the award.",
+      "He requested them that they should be waiting for the award."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A suggestion introduced by 'Let us' translates to a 'proposed that' clause combined with the modal operator 'should'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "16. Choose the correct indirect speech of the given sentence from the options that follow:\n\nHe said to me, \"How is your mother?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He asked me how my mother is.",
+      "He said to me how your mother was.",
+      "He asked me how my mother was.",
+      "He asked me how was my mother."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The direct question word order changes into assertive word order ('how my mother was') and the present tense verb 'is' shifts to the past tense verb 'was'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "17. Choose the correct direct speech of the given sentence from the options that follow:\n\nShe says that Tom is a doctor.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said, \"Tom is a doctor.\"",
+      "She says, \"Tom was a doctor.\"",
+      "She said, \"Tom was a doctor.\"",
+      "She says, \"Tom is a doctor.\""
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "When the reporting verb is in the present tense ('says'), the tense of the reported clause remains unchanged in both direct and indirect formats.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "18. Choose the correct direct speech of the given sentence from the options that follow:\n\nThe teacher said that oil floats on water.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The teacher said, \"Oil floats on water.\"",
+      "The teacher says, \"Oil floats on water.\"",
+      "The teacher said, \"Oil floated on water.\"",
+      "The teacher says, \"Oil floated on water.\""
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Scientific truths or general facts do not change their tense in indirect speech, even if the reporting verb is in the past tense ('said').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "19. Transform the given sentence into Direct Speech -\n\nHe offered to bring me some tea.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "\"Shall I bring you some tea?\" said he to me.",
+      "\"Shall he bring him tea, please? \" offered he to me.",
+      "\"Shall he bring some tea, you?\" said I to him.",
+      "\"Shall I offer some tea for me?\" I said to him."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An indirect expression of offering help ('offered to bring me') is naturally formulated as a question with 'Shall I...' in direct narration.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "20. Choose the correct Indirect form of the following Direct speech sentence:\n\nHe said, \"Oh! I agree!\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said understandingly that he agreed.",
+      "He exclaimed oh that he agreed.",
+      "He said exclaimingly he agree.",
+      "He said excitedly he was agreed."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The contextual expression 'Oh! I agree!' indicates understanding, which is well captured by the descriptive adverb 'understandingly' in indirect conversion.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "21. Change the narration and select the correct option -\n\n\"I bet Peter won't be on time\", she said.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She predicted that Peter wouldn't be on time.",
+      "She said she bet that Peter wouldn't be on time.",
+      "She betted that Peter will not be on time.",
+      "She told that Peter will be on time."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The idiomatic phrase 'I bet...' expresses a prediction about the future, which converts to 'predicted that' and replaces 'won't' with 'wouldn't'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "22. Choose the correct Indirect form of the following Direct speech sentence:\n\n\"We had better go\", said she getting up.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said getting up that they had better go.",
+      "She said in a hurry to go.",
+      "She said we must go better.",
+      "She said getting up to go that it was better."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The participial phrase 'getting up' acts as a descriptor of the context and remains linked, while the idiom 'had better' is preserved with adjusted pronouns.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "23. Choose the correct Indirect form of the following Direct speech sentence:\n\nHe said, \"Mohan, when is the next train?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He asked Mohan when the next train was.",
+      "He asked when was the next train.",
+      "He asked Mohan when was the next train.",
+      "He none of the above"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The vocative case 'Mohan' becomes the object of the reporting verb 'asked', and the question follows assertive structure layout.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "24. Choose the correct direct speech of the following sentence from the options given below:\n\nHe ordered them to lock the door.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said to them, \"Please lock the door.\"",
+      "He told them, \"You locked the door.\"",
+      "He tells them, \"Lock the door.\"",
+      "He said to them, \"Lock the door.\""
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "An indirect command stated as an infinitive clause ('ordered them to lock') stems from a simple imperative clause in direct narration.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "25. Choose the correct indirect form of the given sentence from the options given below.\n\nShe said, \"We were thinking of selling the house but we have decided not to.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said that they have been thinking of selling the house but had decide not to.",
+      "She said that they had been thinking of selling the house but had decided not to.",
+      "She said that they thought of selling the house but decided not to.",
+      "She said that they think of selling the house but had decided not to."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Past continuous 'were thinking' changes to past perfect continuous 'had been thinking', and present perfect 'have decided' shifts to past perfect 'had decided'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "26. Convert the following indirect speech into direct speech by choosing the correct option:\n\nHe inquired whether his name was not Ahmed.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said to him, \"Is not your name Ahmed?\"",
+      "He said to him, \"Was not your name Ahmed?\"",
+      "He said, \"Was not his name Ahmed?\"",
+      "He said to him, \"Is not his name Ahmed?\""
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The indirect form uses 'inquired whether... was not', which when converted back to direct speech becomes a present tense question ('Is not your name Ahmed?') with the reporting verb 'said to him'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "27. Choose the correct indirect speech of -\n\nHe said to her, \"If what you say is true I must go to the police.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that if what he said was true, he would have to go to the police.",
+      "He said that if what she said was true, he must go to the police.",
+      "He said that if what she said is true she must go to the police.",
+      "He said that if what she said was true I must go to the police."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The second person pronoun 'you' changes to 'she' to match the object 'her'. The present simple verb 'say' shifts to the past simple 'said', while 'must' remains intact to express obligation.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "28. Choose the appropriate indirect narration for the sentence given:\n\nI said to her, \"Why are you working so hard?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I asked her why was she working so hard.",
+      "I asked her why had she been working so hard.",
+      "I asked her why she had been working so hard.",
+      "I asked her why she was working so hard."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The interrogative reporting verb becomes 'asked', the question word 'why' functions as the connector, the structure shifts to an assertive format ('she was working'), and the present continuous tense changes to past continuous.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "29. Change the following sentence into indirect speech:\n\n\"We wish we didn't have to take exams.\" said the children.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The children said they wish they didn't have to take exams.",
+      "The children said they wished they do not have to take exams.",
+      "The children said they wish they do not had to take exams.",
+      "The children said that they wished they didn't have to take exams."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The pronoun 'We' changes to 'they' to represent the children. The present simple verb 'wish' changes to the past simple 'wished'. The inner modal/past clause 'didn't have to' remains unchanged as it describes an unreal or hypothetical situation.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "30. \"Do you see what I see, Mary?\" said the young man.\n(Change into Indirect)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The young man asked Mary if she had seen what I saw.",
+      "The young man asked Mary if she saw what he saw.",
+      "The young man asked Mary if I saw what she saw.",
+      "The young man asked Mary if she had seen what I saw."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "This is a yes/no question, so 'if' or 'whether' is used. The pronouns 'you' and 'I' shift to 'she' and 'he' respectively, and both present tense verbs ('see') shift back into the past simple tense ('saw').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "31. Choose the correct indirect/direct speech which best expresses the following sentences:-\n\nHe said, \"I was writing an application to the mayor about pathetic condition of road.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that he was writing an application to the mayor about the pathetic condition of road.",
+      "He said that he has been writing an application to the mayor about the pathetic condition of road.",
+      "He said that he had been writing an application to the mayor about the pathetic condition of road.",
+      "He said that he had written an application to the mayor about the pathetic condition of road."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When changing into indirect speech, a past continuous tense clause ('was writing') shifts back into the past perfect continuous tense ('had been writing').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "32. Choose the correct Indirect/direct speech which best expresses the following sentence:\n\nMother told her son, \"Why are you leaving the house early today?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Mother asked her son why was he leaving the house early that today.",
+      "Mother asked her son why he was leaving the house early today.",
+      "Mother said her son why he was leaving the house early that day.",
+      "Mother asked her son why he was leaving the house early that day."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The reporting verb 'told' becomes 'asked', 'why' connects the clause in an assertive structure ('he was leaving'), and the time expression 'today' shifts to 'that day'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "33. Select the correct sentence from the given options which rightly transforms the Direct Speech sentence in reported speech Sentence.\n\nShe said to me, \"I thought I heard you coming down the stairs\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She told me I thought she had heard me coming down the stairs.",
+      "She told me she thought she had heard me coming down the stairs.",
+      "She told me she thought she had heard her coming down the stairs.",
+      "She told me she thought I had heard her coming down the stairs."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Said to me' changes to 'told me'. The pronouns 'I' change to 'she', 'you' changes to 'me', and the past simple verb 'heard' changes into the past perfect 'had heard'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "34. Choose the correct option:\n\n\"Do you know when she will go home?\" I said to him.\n(Change into indirect speech)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I asked him that did he know when she would go home.",
+      "I asked him if he know when she would go home.",
+      "I asked him if he knew when she would go home.",
+      "I asked him if he knew when she will go home."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The reporting verb changes to 'asked', 'if' acts as the conjunction, the present simple 'know' shifts to past simple 'knew', and the future helper 'will' shifts to 'would'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "35. Select from the given options the sentence which correctly transforms the following Direct speech sentence in reported speech.\n\nSentence: \"Please, could you tell me the answer?\". he said.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He asked me to tell him the answer.",
+      "He said that please could I tell him the answer.",
+      "He requested if I could tell him the answer.",
+      "He asked me please could I tell him the answer."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The word 'Please' indicates a request, replacing the reporting verb with 'requested'. Since the question begins with the modal 'could', it uses 'if' as the conjunction, forming 'He requested if I could tell him...'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "36. Choose the correct option -\n\nHe said, \"Give me some food, please.\" (Change into Indirect Speech)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He requested me to give him some food.",
+      "He told me to give him food, please.",
+      "He said to me that give him food, please.",
+      "He requested me that give me some food."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An imperative request using 'please' changes the reporting verb to 'requested' and links the command with an infinitive phrase ('to give him some food').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "37. Change the following into direct Speech-He said that he worked in a glass factory.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He says, \"I work in a glass factory.\"",
+      "He said, \"I worked in a glass factory.\"",
+      "He said, \"I work in a glass factory.\"",
+      "He said, \"That he worked in a glass factory.\""
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The past simple tense ('worked') in indirect speech reverts back to the present simple tense ('work') in direct speech, and the third person pronoun 'he' reverts to 'I'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "38. The teacher said to the students, \"Take back your books.\"\n(Change into indirect speech)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The teacher asked the students to take back your books.",
+      "The teacher asked the students to take back their books.",
+      "The teacher told the students to take back books.",
+      "The teacher ordered the students to take back your books."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "This imperative sentence changes by inserting 'to' before the base verb ('to take back') and updating the possessive pronoun 'your' to 'their' to match 'the students'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "39. Change the following sentence into direct speech:\n\nHe exclaimed that it was a dreadful idea.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said, \"It is dreadful idea.\"",
+      "He said, \"This is a dreadful idea.\"",
+      "He said, \"What a dreadful idea!\"",
+      "He said, \"What a dreadful idea it is.\""
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An indirect exclamatory sentence reporting a quality ('exclaimed that it was a dreadful idea') transitions from a direct exclamatory structure starting with 'What a...!'",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "40. Choose the correct indirect conversion of speech from the question given below:\n\nHe said to me, \"What are you doing?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said to me what I was doing.",
+      "He asked me as to what I was doing.",
+      "He asked me what I was doing.",
+      "He said to me as to what I was doing."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The reporting verb 'said to' becomes 'asked'. The question word 'what' acts as the conjunction, followed by an assertive clause format ('I was doing') in the past continuous tense.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "41. Choose the correct form of indirect narration for the sentence given.\n\nHe said to his master, \"Pardon me Sir, never will I do such a thing again.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He told his master to pardon him and he would never do such a thing again.",
+      "He begged his master to pardon him and resolved never to do such a thing again.",
+      "He pleaded his master to pardon him and he would never do such a thing again.",
+      "He told his master to pardon him and promised that he would never do such a thing again."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Addressing someone as 'Sir' and asking for a pardon fits with 'begged his master', and saying 'never will I do' translates into a determination or resolution ('resolved never to').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "42. Choose the correct indirect speech of the following sentence from the options given below:\n\nThe teacher said to the boy, \"Sit down.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The teacher said to the boy to sit down.",
+      "The teacher requested that the boy to sit down.",
+      "The teacher ordered the boy to sit down.",
+      "The teacher ordered to the boy that sit down."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An imperative command delivered by an authority figure like a teacher is introduced by the reporting verb 'ordered', followed by the object and a to-infinitive component ('to sit down').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "43. Choose the correct option given below:\n\nRanveer asked what her name was (change into direct)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Ranveer said, \"What was her name?\"",
+      "Ranveer said, \"What is her name?\"",
+      "Ranveer asks, \"What her name was?\"",
+      "Ranveer asked, \"What is her name?\""
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The direct question matching an assertive past simple reported clause ('what her name was') is a present simple interrogative ('What is her name?') combined with the reporting verb 'said'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "44. The Principal said to the students, \"Where were you yesterday?\"\n(change into indirect)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The Principal told the students where were they yesterday.",
+      "The Principal asked the students where they had been the day before.",
+      "The Principal asked the students where they were the day before.",
+      "The Principal asked to the students where they had been yesterday?"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The past simple tense clause 'where were you' changes into the past perfect tense format 'where they had been', and the time phrase 'yesterday' shifts into 'the day before'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "45. Change the following sentence from direct to indirect speech:\n\nHe said, \"Alas! I am undone.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said sadly that he was broke.",
+      "He said sadly that he was undone.",
+      "He exclaimed sadly that he was undone.",
+      "He exclaimed sadly that he was broke."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The exclamation 'Alas!' translates into the descriptive frame 'exclaimed sadly that'. The pronoun 'I' changes to 'he', and 'am' becomes 'was'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "46. Choose the correct direct speech of the following sentence from the options given below:\n\nShe said that honesty is the best policy.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said, \"Honesty was the best policy\"",
+      "She said, \"Honesty is the best policy.\"",
+      "She said that \"Honesty is the best policy.\"",
+      "She says, \"Honesty is the best policy.\""
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Honesty is the best policy' is a universal truth and a proverb, meaning its tense stays in the present simple form in both direct and indirect narration statements.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "47. Change the following sentence into direct speech.\n\nShe said that she was happy.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said, \"I was happy\"",
+      "\"I am happy\", she said.",
+      "\"I am happy\", is what she said",
+      "This is what she said, \"I am happy\""
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The indirect statement 'she was happy' maps back to a direct present tense expression from the perspective of the speaker: '\"I am happy\", she said.'",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "48. Choose the correct indirect speech of the following sentence from the given options:\n\nShe said to him, \"Are you fine?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She asked that if you were fine.",
+      "She asked him if he is fine.",
+      "She told him whether you are fine",
+      "She asked him whether he was fine."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "A direct polar question uses 'whether' or 'if' as a connector. The helper 'Are' shifts to past tense 'was' to maintain sequence of tenses, and 'you' matches the object 'him' as 'he'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "49. Choose the correct form of indirect narration for the given sentence:\n\nThe lady said to man, \"Please lend me your pen\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The lady said that please lend me your pen.",
+      "The lady told the man to lend her his pen.",
+      "The lady requested the man to lend her his pen.",
+      "The lady asked the man politely if he could lend her his pen."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The word 'Please' changes the reporting verb to 'requested'. The sentence structure links using a to-infinitive clause ('to lend her his pen') with aligned pronouns.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "50. Choose the correct indirect speech of the following sentence from the options given below.\n\nHari said, \"The doctor is coming\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Hari said that the doctor was coming.",
+      "Hari said that the doctor is coming.",
+      "Hari said that the doctor has been coming.",
+      "Hari says that the doctor was coming."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The reporting verb 'said' is in the past tense, so the present continuous auxiliary 'is coming' shifts back into the past continuous form 'was coming'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "51. Choose the correct indirect speech of the following sentence.\n\nHe said, \"When did she arrive?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He asked when she has arrived.",
+      "He asked when had she arrived.",
+      "He asks when she had arrived.",
+      "He asked when she had arrived."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The question word 'when' acts as the conjunction. The past simple tense clause 'did she arrive' must switch over to an assertive past perfect layout ('she had arrived').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "52. Choose the correct sentence from the following options.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that the fires were to be lit.",
+      "Shyam told me that I am ready.",
+      "He told me, \"The gardener had not watering the plants.\"",
+      "Sunil asked me if I am appearing for this exam."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Option (A) is grammatically flawless and follows indirect reporting patterns perfectly. The other options contain glaring mistakes in tense continuity or participle verb forms.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "53. Choose the correct reported form of the sentences from the options given below:\n\n\"Could you pass the sugar, please,\" she said.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She requested me to pass the sugar.",
+      "She advised me to pass the sugar.",
+      "She ordered me pass the sugar.",
+      "She told me to pass the sugar."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A courteous imperative beginning with 'Could you... please' is interpreted as a request, translating to 'She requested me to pass the sugar.'",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "54. She said, \"Don't wait for me after seven.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She told me not to wait for her after seven.",
+      "She tells that we should not wait after seven.",
+      "She tells that we should not wait after seven.",
+      "She suggests to not wait after seven."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A negative imperative command ('Don't wait') is structured in indirect narration using the phrase 'not to' followed by the base infinitive verb verb ('not to wait').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "55. \"I have an English lesson this afternoon and I haven't done my homework yet\", said the boy.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The boy told that he has an English lesson this afternoon and he haven't done my homework yet.",
+      "The boy complained that he have an English lesson in the afternoon and he was not done his homework yet.",
+      "The boy suggested that he was having an English lesson that afternoon and I hadn't done my homework till then.",
+      "The boy said that he had an English lesson that afternoon and (that) he hadn't done his homework till then."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The present tenses ('have', 'haven't done') shift to past tenses ('had', 'hadn't done'). Deictic words 'this afternoon' and 'yet' become 'that afternoon' and 'till then'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "56. He said, \"Sonia, when is the next train?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He asked Sonia when was the following train.",
+      "He asking Sonia when would be the next train.",
+      "He told Sonia when was the next train.",
+      "He asked Sonia when the next train was."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The target name 'Sonia' inside direct quotation becomes the direct object of 'asked'. The question is structured as a regular statement ('when the next train was').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "57. \"Shoot the prisoner\", said the tyrant.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Shoot the prisoner told the tyrant.",
+      "The tyrant ordered to them to shoot the prisoner.",
+      "The tyrant commanded them to shoot the prisoner.",
+      "The tyrant commanded the prisoner to shoot."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An authoritative order from a ruler or leader is best characterized by the reporting verb 'commanded', linked cleanly with a to-infinitive modifier.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "58. He said, \"Alas, how foolish I have been !\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He expressed with sorrow that he had been very foolish.",
+      "He exclaimed with regret that he had been very foolish.",
+      "He exclaimed regretting his foolishness.",
+      "He expressed with sorrow that he has been very foolish."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The exclamation expresses self-reproach or regret, fitting 'exclaimed with regret'. The present perfect clause 'have been' shifts directly to past perfect 'had been'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "59. Select the correct sentence in \"direct\" speech from the given options.\n\nReno said that he would write books.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Reno said, \"I will be writing books.\"",
+      "Reno said, \"He would write books.\"",
+      "Reno said, \"I should write books.\"",
+      "Reno said, \"I shall write books.\""
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The indirect clause 'he would write books' stems from first-person modal intent, which uses 'I shall write books' matching the context of future actions.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "60. The girl asked me, if I would wait for a minute.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The girl said, \"Would you wait for a minute?\"",
+      "The girl said to me, \"Can you wait for a minute?\"",
+      "The girl said to me, \"Will you wait for a minute?\"",
+      "The girl asked, \"Shall I wait for a minute?\""
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The past modal 'would' in an indirect question maps back to a standard second person question using the helper 'Will you...' in direct style documentation.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "61. Change the direct speech into indirect speech by selecting the most appropriate option from below:\n\nHe said, \"I do not wish to see any of you, go away.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He told that he did not wish to see us and ordered us to go away.",
+      "He said that he had not wished to see any of them and ordered them to go away.",
+      "He told that he did not wish to see any of them and ordered them to go away.",
+      "He said that he does not wish to see any of us and ordered us to go away."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The present simple 'do not wish' turns to past simple 'did not wish'. The generic audience group pronoun 'any of you' becomes 'any of them' in indirect formatting.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "62. For the sentence given, choose the most appropriate answer in reported speech from the options below:\n\nRavi said, \"My mother is going to her home town.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Ravi said that his mother was going to her home town.",
+      "Ravi said that his mother had gone to her home town.",
+      "Ravi said that his mother will go to her home town.",
+      "Ravi said that his mother has gone to her home town."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The first-person possessive adjective 'My' updates to 'his' to reflect Ravi, and the continuous verb phrase 'is going' shifts into 'was going'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "63. Choose the most appropriate indirect form of the given sentence:\n\n\"Wait for me at the bridge\", said Rahim.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Rahim requested her to keep waiting for him at the bridge.",
+      "Rahim told her to wait for him at the bridge.",
+      "Rahim asked to wait her at the bridge.",
+      "Rahim said that you have to wait for me at the bridge."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "An imperative direction like 'Wait for me' converts cleanly using 'told her to wait' alongside a change in object pronoun from 'me' to 'him'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "64. Choose the most appropriate reported form of the given sentence:\n\nHe said to him, \"Is your name not Robin?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He inquired whether his name was not Robin.",
+      "He asked if the name was Robin.",
+      "He said that wasn't his name Robin",
+      "He asked if my name was Robin."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "An interrogative structure asking a definition changes using 'inquired whether'. Pronoun 'your' transforms to 'his' and 'is' moves to 'was'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "65. Choose the correct option in reported speech for the sentence given, from the options provided.\n\nHe said, \"I am yet to propose to a girl I have been dating for a year.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that he was yet to propose to a girl he had been dating for a year.",
+      "He said that he will propose to a girl he has been dating for a year.",
+      "He said that he was proposing to a girl he was dating.",
+      "He said he would be proposing to a girl he has been dating."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The present statement linker 'am yet to' shifts back to 'was yet to', while the present perfect continuous form 'have been dating' transitions into 'had been dating'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "66. Choose the most appropriate reported form of the sentence given:\n\nHe said to us, \"Don't walk on ice; it isn't safe.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He warned us not to walk on ice as it wasn't safe.",
+      "He ordered us not to walked on ice as it weren't safe.",
+      "He told us to avoid walking on ice as it isn't safe.",
+      "He said not to walk on ice as its not safe."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The imperative instruction points out a danger, transforming 'said to us' into 'warned us not to'. The description clause updates 'isn't' to 'wasn't'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "67. Choose the most appropriate reported form of the given sentence:\n\n\"Do you realize that the shoes you are wearing aren't a pair?\", I asked.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I asked him if he realize that his shoes were not a pair.",
+      "I asked him if he realized that the shoes he was wearing weren't a pair.",
+      "I asked that was he aware that his shoes aren't a pair?",
+      "I told him that his shoes aren't a pair."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The helper verb 'Do' sets up an conditional 'if' link. The constituent present clauses ('realize', 'are wearing', 'aren't') change consistently into past tenses.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "68. Select the most appropriate option to transform the given sentence into Reported Speech.\n\nThe traffic policeman said to him, \"Show me your driving licence.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The traffic police demanded his driving licence.",
+      "The traffic police requested him to show his driving licence.",
+      "The traffic police ordered him to show him his driving licence.",
+      "The traffic police told him to show him your driving licence."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "An official directive from enforcement authorities translates to 'ordered him to show'. Pronouns update smoothly ('me' to 'him', 'your' to 'his').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "69. For the sentence given, choose from the options provided, the most appropriate sentence in Reported Speech.\n\nShe said, \"The receptionist directed me to the wrong room.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said that she had been directed to the wrong room, by the receptionist.",
+      "She said that she was directed to the wrong room.",
+      "She said that the receptionist had directed her to the wrong room.",
+      "She said that the receptionist directed her to the wrong room."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The direct statement is in the past simple tense ('directed'). This must shift to the past perfect tense ('had directed') when rewriting in indirect reporting structures.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "70. Select the most appropriate option to transform the given sentence into Reported Speech.\n\nThe interviewer asked me, \"Can you use a computer?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The interviewer questioned me whether I can use a computer.",
+      "The interviewer asked me if I had used a computer.",
+      "The interviewer wanted to find out if I used a computer.",
+      "The interviewer asked me if I could use a computer."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The question is conditional, using 'if' as a bridge. The modal capability descriptor 'can' shifts back into its historical tense equivalent 'could'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "71. Select the most appropriate option to transform the given sentence into Reported Speech.\n\nRam said, \"I worked with a Japanese company last month.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Ram said that he has been worked with a Japanese company last month.",
+      "Ram said that he had worked with a Japanese company the previous month.",
+      "Ram said that I worked with a Japanese company last month.",
+      "Ram said that he has worked with a Japanese company previous month."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The past simple form 'worked' converts directly to the past perfect form 'had worked', and the relative timeline word 'last month' changes to 'the previous month'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "72. Choose the most appropriate option for the reported form of the given sentence:\n\n\"Read it for yourself if you don't believe what I say\", he told me.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He suggested that I read it since I didn't believe what he said.",
+      "He told me to read it as I didn't believe what he said.",
+      "He told me to read it for myself if I didn't believe what he said.",
+      "He asked me to read it himself if I was not ready to believe."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The imperative instruction links using 'to read it for myself'. The conditional segment updates verbs smoothly ('don't believe' becomes 'didn't believe', 'say' becomes 'said').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "73. Choose the most appropriate reported form of the sentence given:\n\n\"Where will you be tomorrow\", I said \"in case I have to meet you?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I said to him where he will be next day in case I have to meet him.",
+      "I enquired about his whereabouts the next day in case I would have to meet up.",
+      "I asked where you will be next day in case I will meet him.",
+      "I asked where he would be the next day in case I had to meet him."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The interrogative layout changes into an assertive format. Helper verb 'will' turns to 'would', time expression 'tomorrow' changes to 'the next day', and 'have to' updates into 'had to'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "74. Choose the most appropriate reported form of the sentence from the given options:\n\nThe teacher said to the boys, \"Can you sit still and do your work?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The teacher asked the boys if they could sit still and do their work.",
+      "The teacher requested the boys to do their work and sit still.",
+      "The teacher said to the boys to sit still and do their work.",
+      "The teacher told the boys if they could sit still and do their work."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The question formats using 'if' as the link word. Second-person indicators ('you', 'your') are modified into third person plurals ('they', 'their') to align with 'the boys'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "75. Choose the most appropriate reported form of the sentence from the given options:\n\n\"Who is going to live in the big house?\" asked Annu.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Annu asked who has been living in the big house.",
+      "Annu asked who will have to live in the big house.",
+      "Annu asked who was going to live in the big house.",
+      "Annu asked who will be living in the big house."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The interrogative pronoun 'who' acts as the subject/link word directly. The continuous expression 'is going to live' transitions back into 'was going to live'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "76. Choose the most appropriate reported form of the given sentence:\n\n\"Come to the cinema with me\", he told her.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He requested her to come with him to watch the cinema.",
+      "He told her to accompany him to the cinema.",
+      "He told her to go with him to the cinema.",
+      "He told her to go to watch cinema with him."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The direct imperative instruction 'Come to the cinema...' represents an invitation, which transforms cleanly using 'told her to go with him' with adjusted motion orientation and pronouns.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "77. Choose the most appropriate reported form of the sentence from the given options:\n\n\"Can we get coffee on the train ?\" asked my aunt.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "My aunt asked if we could get coffee on the train.",
+      "My aunt enquired if she can get coffee on the train.",
+      "My aunt asked how to get coffee on the train.",
+      "My aunt told me to get coffee on the train."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The modal interrogative 'Can we...' forms an indirect question linked by 'if', where the modal verb 'can' shifts back to its past equivalent 'could'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "78. Choose the most appropriate reported form of the sentence given from the options provided.\n\nThe manager said, \"Is Mira leaving early?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The manager asked if Mira was leaving early.",
+      "The manager inquired if Mira is going to leave early.",
+      "The manager demanded to know if Mira was leaving early.",
+      "The manager said whether Mira was leaving early."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The direct question in the present continuous tense ('Is Mira leaving') converts into an indirect statement introduced by 'asked if' in the past continuous tense ('Mira was leaving early').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "79. The hostess asked my son, \"Did you sleep well ?\"\n\nThe indirect speech of this is:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The hostess inquired my son if she had slept well.",
+      "The hostess inquired my son if I had slept well.",
+      "The hostess inquired my son if he sleep well.",
+      "The hostess inquired my son if he had slept well."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The past simple interrogative clause 'Did you sleep' converts to a past perfect statement ('if he had slept') aligned with the masculine pronoun referencing 'my son'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "80. Choose the correct indirect speech for -\n\nThe policeman said to us, \"where are you going?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The policeman asked that where we are going.",
+      "The policeman enquired where we were going.",
+      "The policeman asked us where we are going.",
+      "The policeman enquired us where were are going."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The reporting phrase changes to 'enquired', the interrogative word 'where' acts as the connective, and the present continuous plural 'are you going' shifts to past continuous 'we were going'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "81. Change into Indirect form of Narration -\n\nThe Captain said, \"It gives me great pleasure to be here this evening.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The Captain told that it had given me great pleasure to be there that evening.",
+      "The Captain said that it has given him great pleasure to be there that evening.",
+      "The Captain stated to me that it had given me great pleasure to be here this evening.",
+      "The Captain said that it gave him great pleasure to be there that evening."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The present simple verb 'gives' becomes past simple 'gave' because the reporting verb is in the past tense ('said'). The pronouns and deictic words alter properly ('me' to 'him', 'here' to 'there', 'this' to 'that').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "82. Change from Direct to Indirect sentence\n\nHe said, \"I've forgotten the combination of my safe\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He told us that he did forgetfully his combination of safe.",
+      "Forgot the combination of the safe, 'he said!'",
+      "The combination of the safe has been forgotten.",
+      "He said that he had forgotten the combination of his safe."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The present perfect first-person clause 'I have forgotten' updates directly into a past perfect third-person clause ('he had forgotten') to preserve correct tense sequencing.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "83. Change the given sentence of Indirect speech to Direct form by selecting the appropriate option.\n\nSudha informed me that she would go to meet her mother next week.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Sudha said to me, \"I would go to meet my mother next week\".",
+      "Sudha said, \"I must go to meet my mother next week with you\".",
+      "Sudha said to me, \"I may go to meet your mother next week\".",
+      "Sudha said to me, \"I shall go to meet my mother next week\"."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The indirect future description 'she would go' converts back to a first-person future perspective 'I shall go' relative to the speaker Sudha inside the direct quote.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "84. Choose the option which best expresses the following sentence in the Indirect Speech:\n\nHe said, \"What a cold day!\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that it was a very cold day.",
+      "He exclaimed that it was freezing that day.",
+      "He hoped it would not snow as it was very cold that day.",
+      "He exclaimed that it was a cold day."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "An exclamatory remark expressing an intense quality or state is transformed into an indirect statement using the reporting verb 'exclaimed that' combined with a simple past structure.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "85. Choose the most appropriate direct speech of the given sentence from the options that follow:\n\nShe requested him to explain the question.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She asked him, \"Explain the question.\"",
+      "She said to him, \"Please explain the question.\"",
+      "She requested him that \"Kindly explain the question.\"",
+      "She says to him, \"Please explain the question.\""
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The reporting structure 'requested him to explain' implies a polite direct imperative using 'Please' paired with a past tense reporting verb ('said to him').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "86. Choose the most appropriate direct speech of the given sentence from the options that follow:\n\nShe exclaimed sadly that she was hurt.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said that, \"Ouch she was hurt\"",
+      "She says, \"Alas, I am hurt.\"",
+      "She said, \"Alas! I am hurt.\"",
+      "She exclaimed, \"Alas I'm hurt\"."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The explicit descriptor 'exclaimed sadly' points directly to the classic grief interjection 'Alas!' while the past state 'she was hurt' reverts to the present simple 'I am hurt'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "87. Choose the most appropriate indirect speech of the given sentence from the options that follow:\n\nThe man says, \"coffee is ready.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The man said that coffee was ready.",
+      "The man says that coffee is ready.",
+      "The man said that coffee is ready.",
+      "The man says that coffee was ready."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "When the reporting verb is in the present tense ('says'), the tense structure of the clause within quotation marks is perfectly sustained in the indirect statement.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "88. Choose the most appropriate indirect form of the following sentence:\n\nHe said to him, \"Please wait here till I return\".",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He requested him to wait there till he returned.",
+      "He said to him to wait there till he returned.",
+      "He said to him to wait there till he return.",
+      "He requested him to wait there till he return."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The word 'Please' sets up 'requested him to wait'. The spatial layout changes 'here' to 'there', and the present simple 'return' changes into past simple 'returned'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "89. He said, \"I am yet to propose to a girl I have been dating for a year.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that he was yet to propose to a girl he had been dating for a year.",
+      "He said that he will propose to a girl he has been dating for a year.",
+      "He said that he was proposing to a girl he was dating.",
+      "He said he would be proposing to a girl he has been dating."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The expression 'am yet to' updates to 'was yet to', and the present perfect continuous tense 'have been dating' consistently shifts back to past perfect continuous 'had been dating'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "90. Change into Direct Speech -\n\n\"Rahul said he was very busy then.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Rahul said that he had been very busy.",
+      "Rahul said, \"I am very busy now.\"",
+      "Rahul has been busy that time.",
+      "Rahul was busy then."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The past description clause 'he was very busy' with the adverb 'then' accurately reverts to the present simple form 'I am very busy now' inside direct quotation layouts.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "91. Choose the correct answer -\n\n\"I don't know this man. Do you?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that he did not know that man and asked if I knew him.",
+      "He asked if I knew that man because he did not know him.",
+      "He said that he does not know him very well.",
+      "He asked that he did not know this man."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The sentence includes an assertive statement and a short polar question. It translates into a combined past format: 'said that he did not know... and asked if I knew him'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "92. Change into Indirect Speech -\n\nShe said, \"I saw the film 'Laapata Ladies', yesterday\".",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said that she has seen the film 'Laapata Ladies' yesterday.",
+      "She said that she would see the film 'Laapata Ladies' the day after.",
+      "She said that she saw the film 'Laapata Ladies' the day before.",
+      "She said she saw the film 'Laapata Ladies' yesterday."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The past simple verb 'saw' can remain 'saw' (or become 'had seen'), while the definite past time phrase 'yesterday' must convert to 'the day before'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "93. Which of the option is correct indirect speech of the following?\n\nShe said, 'You can sit here, Tara.'",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said that you could sit there Tara.",
+      "She told Tara that she could sit there.",
+      "She told Tara that she could sit there.",
+      "She call Tara and they could sit."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The vocalized address 'Tara' acts as the explicit object of the reporting verb, changing 'said' to 'told Tara'. The modal 'can' shifts to 'could' and 'here' becomes 'there'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "94. Choose the correct option changing the given sentence into Direct Speech.\n\nMary asked if there were any letters for her.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "\"Were there any letters for me?\", Said Mary.",
+      "\"Is there any letters for me?\", Said Mary.",
+      "\"Are there some letters for her?\", Says Mary.",
+      "\"Are there any letters for me?\", Said Mary."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The indirect clause 'if there were any letters' points back to an original plural yes/no question starting with the helper verb phrase 'Are there any letters for me?'",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "95. Transform the given sentence into Direct Speech.\n\nHe promised that he'd behave himself.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He promised, 'I'll behave myself.'",
+      "He promised, 'I would behave myself.'",
+      "He promised, 'I would behave himself.'",
+      "He promised, 'I must behave myself.'"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The indirect future-in-the-past form 'he'd behave himself' maps directly back to a simple first-person future declaration: 'I'll behave myself.'",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "96. Choose the correct option changing the following sentence into Indirect Speech.\n\n\"I had an accident yesterday.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He said that he had been having an accident yesterday.",
+      "He said that he had had an accident the day before.",
+      "He said that he had an accident the day before.",
+      "He said that he was having an accident yesterday."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The past simple expression 'had' shifts back to the past perfect form 'had had', and the timeline anchor word 'yesterday' updates to 'the day before'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "97. Choose the most appropriate option to convert the given sentence from Direct Speech to Indirect Speech:\n\nHe asked, \"What were you reading yesterday night?\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He asked what I had been reading the previous night.",
+      "He asked what I have been reading the previous night.",
+      "He asked the previous night what I was reading.",
+      "He asked what was I reading the previous night."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The past continuous interrogative 'What were you reading' transforms into an assertive past perfect continuous statement 'what I had been reading', and 'yesterday night' becomes 'the previous night'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "98. Choose the most appropriate option to convert the given sentence from Direct to Indirect Speech:\n\nShe said to me, \"We are to leave for the theatre early.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She told me that we were to leave for the theatre early.",
+      "She inquired if we were to leave for the theatre early.",
+      "She said that we are to leave for the theatre early.",
+      "She insisted on leaving for the theatre early."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Said to me' switches over to 'told me'. The present reporting orientation verb structure 'are to leave' shifts backwards to its past form 'were to leave'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "99. Choose the most appropriate option to convert the following sentence from Direct to Indirect speech:\n\nPali said, \"Arjun, please put your hat back on.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Pali requested Arjun to put his hat back on.",
+      "Arjun was requested by Pali to put his hat on.",
+      "Pali asked Arjun to put her hat back.",
+      "Pali told Arjun to put on his hat."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The word 'please' updates the reporting framework to 'requested Arjun', which then smoothly connects to the required to-infinitive phrase 'to put his hat back on'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "100. Choose the most appropriate option to convert the given sentence from Indirect to Direct Speech:\n\nThis morning, he said that he would leave for Hyderabad the next day.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "This morning, he said, \"I will leave for Hyderabad tomorrow.\"",
+      "This morning, he said, \"He will leave for Hyderabad the following day.\"",
+      "This morning, he said, \"I may leave for Hyderabad tomorrow.\"",
+      "That morning, he said, \"I will have left for Hyderabad the next day.\""
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The modal shift 'would leave' and relative date marker 'the next day' revert naturally into the simple future layout 'I will leave' and 'tomorrow' in direct reporting speech frames.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
+  },
+  {
+    "qEnglish": "101. Choose the most appropriate option to convert the following sentence from Direct to Indirect Speech:\n\nShe said to me, \"He has submitted the report.\"",
+    "qHindi": "",
+    "optionsEnglish": [
+      "She said that he has submitted the report.",
+      "He said that he had submitted the report.",
+      "She told me that he had submitted the report.",
+      "She confirmed that his report was submitted."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The interpersonal introductory verb phrase 'said to me' shifts directly to 'told me that', and the present perfect tense clause 'has submitted' changes into past perfect 'had submitted'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Narration Direct and Indirect"
   }
 ]
