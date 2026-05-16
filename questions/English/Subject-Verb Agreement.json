@@ -174,5 +174,853 @@
     "explanationHindi": "",
     "subject": "English",
     "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "1. My dues of seven thousand rupees..... to him.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "have paid",
+      "had paid",
+      "been paid",
+      "has been paid"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "According to the provided official answer key, 'has been paid' is the marked correct choice.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "2. Everyone of the boys ......",
+    "qHindi": "",
+    "optionsEnglish": [
+      "loving",
+      "love",
+      "loves",
+      "are loving"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Indefinite pronouns like 'everyone' function as singular subjects and require a singular verb form ('loves').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "3. Choose the grammatically correct option",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Any dictionaries will give you the meaning of these words.",
+      "Any dictionary will gives you the meaning of these words.",
+      "Any dictionary will give you the meaning of these words.",
+      "Any dictionary is give you the meaning of these words."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Any dictionary' is singular and requires the base form of the verb 'give' after the modal auxiliary 'will'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "4. Choose the grammatically correct option",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Many a flowers is born to blush unseens.",
+      "Many a flowers are born to blush unseen.",
+      "Many a flower is born to blush unseen.",
+      "Many a flower are born to blush unseen."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The distributive phrase 'many a' is followed by a singular countable noun ('flower') and a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "5. Pick the correct sentence from the options given:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Nobody lives forever.",
+      "Nobody lives for ever.",
+      "Everyone lives forever.",
+      "Nobody wants to live ever."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Nobody' takes a singular verb form ('lives') and 'forever' is spelled correctly as a single word.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "6. Choose the correct answer form the following options determining whether subject agrees in number with the verb:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Just around the corner is a fantastic bakery and a small supermarket.",
+      "After all the gardening we did, the sun shining on the flowerbeds make a beautiful sight.",
+      "Jack, along with some of his closest friends, is sharing a car to attend a wedding.",
+      "There is according to my doctor, many courses of treatment available to me."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When a singular subject ('Jack') is joined with other nouns using 'along with', the verb remains singular ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "7. Fill in the blank with the correct option:\nEither the boy or the girl ...... at fault.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were",
+      "are",
+      "was",
+      "have been"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When two singular subjects are connected by 'either... or', they take a singular verb ('was').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "8. Ram as well as his brothers ...... coming today.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "were",
+      "is",
+      "have been"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When subjects are joined by 'as well as', the verb agrees with the first subject ('Ram'), which is singular.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "9. John as well as Tom ...... waiting for you.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "were",
+      "have beenn",
+      "are"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The verb agrees with the first subject ('John'), which is singular, hence 'is' is used.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "10. Each of the girl Scouts ...... a community project.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "does",
+      "do",
+      "participates",
+      "participate"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'Each' takes a singular verb, which is marked as 'does' according to the answer key.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "11. My friend, philosopher and guide ...... going abroad.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "is",
+      "am",
+      "being"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "When multiple nouns refer to the same person, the subject is treated as singular and takes a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "12. A variety of beverages ...... flooded the market.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has",
+      "had't",
+      "have",
+      "would"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The expression 'a variety of' followed by a plural noun typically takes a plural verb ('have').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "13. A hundred and twenty kilometers an hour ...... much too fast.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "am",
+      "being"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Expressions of distance or speed are treated as a single collective unit of measurement and take a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "14. Choose the correct sentence.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "One of these candidates are sure to be selected.",
+      "One of these candidates is sure to be selected.",
+      "One of these candidates were sure to be selected.",
+      "One of these candidates have sure to be selected."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The subject is 'One', which is singular and requires the singular verb 'is'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "15. Choose the correct sentence.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The class had divided in their opinions.",
+      "The class have divided in their opinions.",
+      "The class were divided in their opinions.",
+      "The class being divided in their opinions."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When the members of a collective noun function individually or are divided, a plural verb ('were') and plural pronouns are used.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "16. One of my friends ...... going abroad.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "been",
+      "being"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The principal subject is 'One', which is singular and correctly takes the singular verb 'is'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "17. Every boy and girl ...... (be) ready to appear for the examination.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were",
+      "was",
+      "being",
+      "been"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "Singular subjects connected by 'and' that are preceded by 'every' take a singular verb ('was').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "18. Politics....... an interesting subject.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Nouns representing fields of study that end in '-ics' are singular in meaning and require a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "19. Eighty pounds a week ...... not a good wage.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "is",
+      "were",
+      "have"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "An amount of money or singular wage sum is considered a unified expression and takes a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "20. The workers ...... worried about their jobs.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were",
+      "was",
+      "are",
+      "has"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "As per the official answer key, option (b) 'was' is marked as correct for this specific question paper sequence.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "21. The jeans you sent me ...... fit me.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "wasn't",
+      "doesn't",
+      "don't",
+      "isn't"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Jeans' is a plural-only noun and requires the plural negative auxiliary verb 'don't'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "22. Twelve hundred rupees ........ our sales price.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "A collective sum of money acting as a single price point takes a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "23. Either the mayor or his deputy ...... bound to come.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "When singular options are linked by 'either... or', they take a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "24. One of the boys ...... gone home.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "were",
+      "has",
+      "have"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The subject is 'One', which is singular and requires the singular auxiliary verb 'has'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "25. Renu, with her mother and sister..... spending a month in London.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "were",
+      "have been"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Phrases introduced by 'with' do not pluralize the main subject ('Renu'), which takes a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "26. What I say and what I think ...... my own affairs.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "is",
+      "was",
+      "has"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Two separate noun clauses joined by 'and' represent distinct ideas and take a plural verb ('are').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "27. The news....... true.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "had",
+      "have"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The noun 'news' is uncountable and always pairs with a singular verb form ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "28. Their means ...... simple.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "is",
+      "has",
+      "had"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "When 'means' refers to income or wealth resources, it is treated as plural and takes a plural verb ('are').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "29. A bunch of keys ...... lying on the table.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "are",
+      "were",
+      "has"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The subject is the singular collective noun 'bunch', requiring the singular verb 'is'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "30. All citrus fruits ...... a rich source of vitamin C.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "has",
+      "are",
+      "was",
+      "is"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Fruits' is a plural subject and requires the plural verb 'are'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "31. ...... is lying on the table.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "A new pair of glasses",
+      "A new pair of glass",
+      "A new pairs of glass",
+      "New pair of glass"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "'A new pair of glasses' correctly uses the singular structure 'pair' with the plural object 'glasses'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "32. Neither of the students ...... interested in extra classes.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were",
+      "have been",
+      "are",
+      "is"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The distributive pronoun 'neither' means 'none of the two' and takes a singular verb ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "33. One of my books ...... missing.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "is",
+      "has",
+      "was"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The primary subject is 'One', which dictates the use of the singular verb 'is'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "34. The house with all its contents ...... insured.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "were",
+      "was",
+      "are",
+      "has"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The phrase introduced by 'with' does not affect the number of the singular main subject 'house', which takes 'was'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "35. Either he or I ...... mistaken.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "am",
+      "are",
+      "were",
+      "is"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "When subjects are joined by 'either... or', the verb agrees with the closer subject pronoun ('I'), requiring 'am'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "36. Each of the students ...... responsible for maintaining the school garden.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "must",
+      "are",
+      "were"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The distributive pronoun 'Each' acts as a singular subject and takes a singular verb form ('is').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "37. Neither she nor I ...... getting the Trophy this year.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are",
+      "was",
+      "is",
+      "am"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "With 'neither... nor', the verb matches the subject closest to it ('I'), which takes 'am'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "38. Select the most appropriate option to identify the incorrect segment in the following sentence:\nThe judge concluded that (a)/ either the maid or the driver were (b)/ responsible for the murder. (c)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "(c) only",
+      "No error",
+      "(a) only",
+      "(b) only"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "Segment (b) contains the error because two singular subjects joined by 'either... or' must take the singular verb 'was' instead of 'were'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "39. Select the most appropriate option to identify the incorrect segment in the following sentence:\nThe dazzle and glamour (a)/ of money and success (b)/ have gone to her head.(c)",
+    "qHindi": "",
+    "optionsEnglish": [
+      "(c) only",
+      "No error",
+      "(a) only",
+      "(b) only"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "Segment (c) contains the error because 'The dazzle and glamour' forms a singular unified idea, requiring the singular verb 'has' instead of 'have'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "40. Choose the correct plural word from the list below.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "womans",
+      "mothers-in-law",
+      "sheeps",
+      "childrens"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The plural of compound nouns like 'mother-in-law' is formed by making the principal word plural, giving 'mothers-in-law'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "41. Choose the correct sentence in which the verb is in agreement with the subject -",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The President and the Secretary was arrested.",
+      "Patience as well as perseverance are necessary for success.",
+      "Neither he nor his friends has broken the window pane.",
+      "The wages of sin is death."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "The expression 'The wages of sin is death' is a traditional idiomatic sentence where 'wages' carries a singular meaning.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "42. Choose the sentence with the correct subject-verb agreement -",
+    "qHindi": "",
+    "optionsEnglish": [
+      "The Committee have made its decision.",
+      "The Committee has made its decision.",
+      "The Committee has made their decision.",
+      "The Committee have made their decision."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "When a collective noun like 'Committee' acts as a single cohesive unit, it takes a singular verb ('has') and a singular pronoun ('its').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "43. Which sentence has the correct subject-verb agreement?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Neither of the boys has completed their homework.",
+      "Neither of the boys has completed his homework.",
+      "Neither of the boys have completed their homework.",
+      "Neither of the boy has completed their homework."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'Neither of' takes a singular verb ('has') and is referred to by a singular possessive pronoun ('his').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "44. Fill in the blank with the Verb that agrees with the subject in the sentence below-\nThe hammer and sickle....... from a tall flag post.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "was flew",
+      "is flying",
+      "was flying",
+      "has flew"
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "'The hammer and sickle' acts as a single combined emblem emblem on a flag, hence taking a singular verb ('is flying').",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "45. Choose the sentence that is grammatically correct:",
+    "qHindi": "",
+    "optionsEnglish": [
+      "Neither the students nor the teachers has completed his work.",
+      "Neither the students nor the teacher have completed their work.",
+      "Neither the students nor the teacher has completed the work.",
+      "Neither the students nor the teacher have completed its work."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "In a 'neither... nor' configuration, the verb agrees with the closer subject, which is the singular noun 'teacher', taking 'has'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "46. Identify the sentence with correct subject verb concord-",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He go to temple every morning.",
+      "They plays chess every night.",
+      "The ironsmith beats the iron daily.",
+      "They will study yesterday."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "The singular third-person subject 'The ironsmith' correctly takes the singular verb form 'beats'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "47. Select the part of the sentence that contains grammatical error -\nNew furniture were ordered for the primary classes.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "for the",
+      "primary classes",
+      "New furniture",
+      "were ordered"
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "'Furniture' is an uncountable noun and must take a singular verb, so 'were ordered' is incorrect.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "48. Fill in the blanks with the most appropriate pair of words:\nBread and butter ....... a soldier's food while honour and glory ....... the reward he awaits.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "are, are",
+      "was, is",
+      "is, is",
+      "is, were"
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "'Bread and butter' represents a unified food item, and 'honour and glory' forms a singular compound abstract idea; both take 'is'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "49. Fill in the blank with the correct option -\nEither you or she ...... presenting a paper.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "is",
+      "is to",
+      "are",
+      "is being"
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The verb agrees with the closer subject pronoun 'she', which requires the singular verb 'is'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "50. Which is that incorrect sentence.",
+    "qHindi": "",
+    "optionsEnglish": [
+      "He loved his work.",
+      "It would be his last work.",
+      "His arms grown heavy.",
+      "He worked till hands began to tremble."
+    ],
+    "optionsHindi": [],
+    "correct": 2,
+    "explanationEnglish": "Option (C) is grammatically incorrect because a past participle like 'grown' requires a supporting auxiliary verb to function as a main verb.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "51. Which of the following sentence is not correct?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "We had swum across the river before the sunset.",
+      "The bus was hired by the ladies for its picnic.",
+      "Our country needs a number of self-sacrificing and devoted political leaders.",
+      "At last he was married to a poor girl."
+    ],
+    "optionsHindi": [],
+    "correct": 1,
+    "explanationEnglish": "The plural antecedent 'ladies' requires the plural possessive adjective 'their' instead of the singular 'its'.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "52. Which is a correct sentence?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "I worked hard that fails.",
+      "Failure resulted by working long.",
+      "She and her mother is late.",
+      "She as well as her brother is late."
+    ],
+    "optionsHindi": [],
+    "correct": 3,
+    "explanationEnglish": "When subjects are linked via 'as well as', agreement is governed entirely by the first singular subject ('She'), hence 'is' is correct.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
+  },
+  {
+    "qEnglish": "53. Which of the following sentences is correct?",
+    "qHindi": "",
+    "optionsEnglish": [
+      "They decided to talk it over at dinner.",
+      "He picked up the books and put it on the table.",
+      "He will not escape punishment unless he does not speak the truth.",
+      "Milk is the most perfect food in the world."
+    ],
+    "optionsHindi": [],
+    "correct": 0,
+    "explanationEnglish": "The first sentence is fully correct. The others have clear pronoun errors or incorrect double negatives.",
+    "explanationHindi": "",
+    "subject": "English",
+    "topic": "Subject-Verb Agreement"
   }
 ]
