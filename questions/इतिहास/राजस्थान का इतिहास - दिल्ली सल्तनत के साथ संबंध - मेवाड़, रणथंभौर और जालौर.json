@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Name the powerful king from Rajasthan ruling over northern India whose army defeated Ibrahim Lodi of Delhi's army in the battle of Badi (Dholpur). Select the most appropriate option.",
+    "qHindi": "राजस्थान के उस शक्तिशाली राजा का नाम बताइए, जिसने उत्तरी भारत पर शासन किया और जिसकी सेना ने बाड़ी (धौलपुर) के युद्ध में दिल्ली के इब्राहिम लोदी की सेना को पराजित किया था। सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Maharana Kumbha",
+      "Maharana Pratap",
+      "Prithviraj III",
+      "Rana Sanga"
+    ],
+    "optionsHindi": [
+      "महाराणा कुंभा",
+      "महाराणा प्रताप",
+      "पृथ्वीराज तृतीय",
+      "राणा सांगा"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Rana Sanga defeated Ibrahim Lodi in the Battle of Khatoli and Battle of Badi (1518-1519).",
+    "explanationHindi": "महाराणा सांगा ने बाड़ी (धौलपुर) के युद्ध (1519 ई.) में इब्राहिम लोदी की सेना को पराजित किया था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> दिल्ली सल्तनत के साथ संबंध - मेवाड़, रणथंभौर और जालौर"
+  }
+]
