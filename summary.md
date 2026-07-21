@@ -71,3 +71,9 @@ Template:
 - Did: Created PLAN.md with: exam field schema, filename→exam-name mapping, processing workflow updates, retroactive update strategy. Exam name extracted from filename (e.g., "RSSB वनपाल Preliminary 2026-06-28").
 - Result: Plan ready for tomorrow's implementation.
 - Open: Implement plan tomorrow — add exam field to processing script, update AGENTS.md, retroactive update existing questions
+
+## 2026-07-22 01:15 — AGENTS.md memory system + post-process rule update
+- Task: Add memory system search to AGENTS.md first rule, restore full memory system section, add post-process rule for all 3 files
+- Did: Updated AGENTS.md with: (1) memory tool search as step 1 in first rule, (2) restored original detailed memory system section, (3) added rule that post-process updates AGENTS.md + learning.md + summary.md. Also updated project memory in mimocode system.
+- Result: Done. Push successful.
+- Open: None

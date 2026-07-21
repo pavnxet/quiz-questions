@@ -40,9 +40,10 @@ When asked to process a JSON quiz file:
    - Dedup by normalized qEnglish + qHindi
    - Merge new questions, write back
 4. **Push** — `git add -A && git commit && git push origin main`
-5. **Post-process** (mandatory):
+5. **Post-process** (mandatory — updates ALL 3 files):
    - Append session entry to `summary.md` (include ALL errors + fixes)
    - Update `learning.md` with new patterns/learnings
+   - Update `AGENTS.md` if new rules or conventions emerged
 
 ### Working directory
 `E:\study\Quiz-questions` — already cloned, has git credentials via Windows Credential Manager.
