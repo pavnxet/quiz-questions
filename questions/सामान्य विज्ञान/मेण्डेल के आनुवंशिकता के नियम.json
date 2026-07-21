@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "A homozygous dominant tall plant (TT) is crossed with a homozygous recessive dwarf plant (tt). The F1 progeny are self-fertilized to produce the F2 generation. In F2 generation, what is the genotypic ratio of homozygous dominant (TT) individuals to homozygous recessive (tt) individuals?",
+    "qHindi": "एक समयुग्मजी प्रभावी लंबा पादप (TT) एक समयुग्मजी अप्रभावी बौने पौधे (tt) के साथ क्रॉस कराया जाता है। F₁ पीढ़ी के पौधों में स्व-निषेचन कराया जाता है, जिससे F₂ पीढ़ी उत्पन्न होती है। F₂ पीढ़ी में, समयुग्मजी प्रभावी (TT) व्यष्टियों और समयुग्मजी अप्रभावी (tt) व्यष्टियों का जीनप्ररूपी अनुपात क्या होगा ?",
+    "optionsEnglish": [
+      "1:3",
+      "3:1",
+      "1:1",
+      "2:1",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1:3",
+      "3:1",
+      "1:1",
+      "2:1",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "F2 genotypic ratio is TT:Tt:tt = 1:2:1. Thus ratio of TT to tt is 1:1.",
+    "explanationHindi": "F2 का जीनोटाइप अनुपात TT:Tt:tt = 1:2:1 होता है। अतः TT और tt का अनुपात 1:1 है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मेण्डेल के आनुवंशिकता के नियम"
+  }
+]
