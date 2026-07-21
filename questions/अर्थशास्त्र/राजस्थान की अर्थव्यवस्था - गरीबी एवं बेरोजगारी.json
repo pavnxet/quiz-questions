@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which scheme in Rajasthan is primarily responsible for providing 100 days of guaranteed wage employment in rural areas ? Select the most appropriate option.",
+    "qHindi": "राजस्थान में ग्रामीण क्षेत्रों में 100 दिनों का गारंटीकृत वेतन-रोज़गार उपलब्ध कराने के लिए मुख्य रूप से कौन-सी योजना उत्तरदायी है? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Indira Gandhi Rural Employment",
+      "Sansad Adarsh Gram Yojana",
+      "MGNREGA",
+      "Mukhya Mantri Jal Swavlamban",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "इंदिरा गांधी ग्रामीण रोजगार",
+      "संसद आदर्श ग्राम योजना",
+      "मनरेगा",
+      "मुख्यमंत्री जल स्वावलम्बन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "MGNREGA provides 100 days of guaranteed wage employment to rural households in Rajasthan.",
+    "explanationHindi": "मनरेगा (MGNREGA) ग्रामीण क्षेत्रों में परिवार के वयस्क सदस्यों को 100 दिनों का गारंटीकृत मजदूरी रोजगार प्रदान करती है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था -> गरीबी एवं बेरोजगारी"
+  }
+]
