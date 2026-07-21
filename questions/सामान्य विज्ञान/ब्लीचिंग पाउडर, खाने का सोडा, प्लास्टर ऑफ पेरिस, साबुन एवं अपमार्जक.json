@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "The difference of molecules of water in Gypsum and Plaster of Paris is:",
+    "qHindi": "जिप्सम और प्लास्टर ऑफ पेरिस में पानी के अणुओं का अंतर है :",
+    "optionsEnglish": [
+      "5/2",
+      "3/2",
+      "1/2",
+      "2",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "5/2",
+      "3/2",
+      "1/2",
+      "2",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Gypsum = CaSO4.2H2O (2 water molecules). POP = CaSO4.1/2H2O (1/2 water molecule). Difference = 2 - 1/2 = 3/2.",
+    "explanationHindi": "जिप्सम = CaSO4.2H2O (2 अणु), प्लास्टर ऑफ पेरिस = CaSO4.1/2H2O (1/2 अणु)। अंतर = 2 - 1/2 = 3/2।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "ब्लीचिंग पाउडर, खाने का सोडा, प्लास्टर ऑफ पेरिस, साबुन एवं अपमार्जक"
+  }
+]
