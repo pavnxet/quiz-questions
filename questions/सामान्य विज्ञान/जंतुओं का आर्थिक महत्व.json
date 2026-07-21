@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Which of the following statements regarding the economic importance of animals are correct? (a) Lac is a natural resin secreted by the insect Laccifer lacca, (b) Vermicompost is produced by using earthworms to decompose organic waste, (c) Blue Revolution refers to the sudden increase in milk production, (d) Aquaculture involves the farming of aquatic organisms like fish, prawns and mollusc. Choose the most appropriate answer from the options given below:",
+    "qHindi": "पशुओं के आर्थिक महत्व के बारे में निम्नलिखित में से कौन से कथन सही हैं ? (a) लैक एक प्राकृतिक राल है जो कीट लैसिफर लैक्का द्वारा स्रावित होता है।, (b) वर्मी कंपोस्ट का उत्पादन जैविक अपशिष्ट को विघटित करने के लिए केंचुओं का उपयोग करके किया जाता है।, (c) नीली क्रांति दूध उत्पादन में अचानक वृद्धि को संदर्भित करती है।, (d) मत्स्यपालन में मछली, झींगे और घोंघे/मृदुकवची जैसे जलीय जीवों की कृषि सम्मिलित है। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a), (b), (c) and (d)",
+      "(c) and (d) only",
+      "(a), (b) and (d) only",
+      "(a), (b) and (c) only"
+    ],
+    "optionsHindi": [
+      "(a), (b), (c) और (d)",
+      "केवल (c) और (d)",
+      "केवल (a), (b) और (d)",
+      "केवल (a), (b) और (c)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Blue revolution refers to fish production, not milk production (which is White Revolution). Thus (c) is false, making (a), (b), and (d) correct.",
+    "explanationHindi": "नीली क्रांति का संबंध मछली उत्पादन से है, दूध से नहीं (श्वेत क्रांति)। इसलिए कथन (c) गलत है तथा (a), (b) और (d) सही हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "जंतुओं का आर्थिक महत्व"
+  }
+]
