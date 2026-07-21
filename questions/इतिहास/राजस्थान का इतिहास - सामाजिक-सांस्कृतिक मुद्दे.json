@@ -136,5 +136,152 @@
     "explanationHindi": "वीर तेजाजी महाराज को हाथ में भाला लिए घोड़ी (लीलण) पर सवार घुड़सवार योद्धा के प्रतीक चिन्ह से पहचाना जाता है।",
     "subject": "इतिहास",
     "topic": "राजस्थान का इतिहास -> सामाजिक-सांस्कृतिक मुद्दे"
+  },
+  {
+    "qEnglish": "In the colourful culture of Rajasthan, girls and newly weds celebrate which festival in the rainy season? Select the most appropriate option.",
+    "qHindi": "राजस्थान की रंग-बिरंगी संस्कृति में, लड़कियाँ और नवविवाहिताएँ वर्षा ऋतु में कौन-सा त्योहार मनाती हैं ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Holi",
+      "Makar Sankranti",
+      "Teej",
+      "Dussehra"
+    ],
+    "optionsHindi": [
+      "होली",
+      "मकर संक्रांति",
+      "तीज",
+      "दशहरा"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Teej is celebrated during the monsoon season primarily by women and young girls.",
+    "explanationHindi": "वर्षा ऋतु में राजस्थान में मुख्य रूप से महिलाओं और नवविवाहिताओं द्वारा तीज का त्योहार मनाया जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> सामाजिक-सांस्कृतिक मुद्दे"
+  },
+  {
+    "qEnglish": "Which folk dance starts with drums playing in 'thaakna' style accompanied by male dancers, some with swords in their mouth, some with sticks in their hands and some with handkerchief around their arms? Select the most appropriate option.",
+    "qHindi": "कौन-सा लोक नृत्य ढोल की 'थाकना' शैली से शुरू होता है, जिसमें पुरुष नर्तक शामिल होते हैं, जिनमें से कुछ के मुँह में तलवारें होती हैं, कुछ के हाथों में लाठियाँ होती हैं और कुछ के हाथों में रूमाल बंधे होते हैं ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Bum Dance",
+      "Valar Dance",
+      "Dhol Dance",
+      "Ghudla Dance"
+    ],
+    "optionsHindi": [
+      "बम नृत्य",
+      "वलार नृत्य",
+      "ढोल नृत्य",
+      "घुड़ला नृत्य"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Dhol dance of Jalore starts with the 'Thaakna' style playing of drums.",
+    "explanationHindi": "जालौर का प्रसिद्ध 'ढोल नृत्य' ढोलिया द्वारा 'थाकना' शैली में ढोल बजाने से शुरू होता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> सामाजिक-सांस्कृतिक मुद्दे"
+  },
+  {
+    "qEnglish": "Which of the following poets of Rajasthan is known as the \"Meera of Wagad\" ? Select the most appropriate option.",
+    "qHindi": "राजस्थान के निम्नलिखित कवियों में से किसे “वागड़ की मीरा\" के रूप में जाना जाता है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Gavari Bai",
+      "Panna Dhai",
+      "Gavari Devi",
+      "Allah Jilai Bai"
+    ],
+    "optionsHindi": [
+      "गवरी बाई",
+      "पन्ना धाई",
+      "गवरी देवी",
+      "अल्लाह जिलई बाई"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Gavari Bai of Dungarpur is affectionately called 'Meera of Wagad'.",
+    "explanationHindi": "डूंगरपुर की भक्त कवयित्री गवरी बाई को 'वागड़ की मीरा' कहा जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> सामाजिक-सांस्कृतिक मुद्दे"
+  },
+  {
+    "qEnglish": "Tansukh and Duttai are different names of which traditional costume of Rajasthan? Select the most appropriate option.",
+    "qHindi": "तनसुख और दत्तई राजस्थान की किस पारंपरिक पोशाक के अलग-अलग नाम हैं ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Turban",
+      "Angarakhi",
+      "Saree",
+      "Odhni"
+    ],
+    "optionsHindi": [
+      "पगड़ी",
+      "अंगरखी",
+      "साड़ी",
+      "ओढ़नी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Tansukh, Duttai, Gaba, and Gadar are types/names of Angarakhi (upper garment for men).",
+    "explanationHindi": "तनसुख, दत्तई, गाबा, मिर्जई आदि पुरुषों के वस्त्र अंगरखी के ही विभिन्न प्रकार/नाम हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> सामाजिक-सांस्कृतिक मुद्दे"
+  },
+  {
+    "qEnglish": "Which popular dance-song is ritualistically organised for sixteen days on the occasion of Gangaur by unmarried girls and married women? Select the most appropriate option.",
+    "qHindi": "कौन-सा लोकप्रिय नृत्य-गीत गणगौर के अवसर पर अविवाहित लड़कियों और विवाहित महिलाओं द्वारा सोलह दिनों तक विधिपूर्वक आयोजित किया जाता है ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Khayal",
+      "Bana-Bani",
+      "Bindola",
+      "Ghoomar"
+    ],
+    "optionsHindi": [
+      "ख्याल",
+      "बन्ना बन्नी",
+      "बिंडोला",
+      "घूमर"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Ghoomar dance is performed during the 16-day celebration of Gangaur festival.",
+    "explanationHindi": "गणगौर पर्व के अवसर पर महिलाओं एवं कन्याओं द्वारा 16 दिनों तक विशेष रूप से 'घूमर' नृत्य किया जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> सामाजिक-सांस्कृतिक मुद्दे"
+  },
+  {
+    "qEnglish": "In the unique gallantry tradition of Rajasthan which heroic fighter was posthumously awarded 'Paramveer Chakra' for inspired bravery and dedicated duty in the India Pakistan War, 1947-48? Select the most appropriate option.",
+    "qHindi": "राजस्थान की अद्वितीय शौर्य परंपरा में, 1947-48 के भारत-पाकिस्तान युद्ध में अनुकरणीय वीरता और कर्तव्यनिष्ठा के लिए किस वीर योद्धा को मरणोपरांत 'परमवीर चक्र' से सम्मानित किया गया था ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Shaheed Soldier Dhonkal Singh",
+      "Shaheed CHM Piru Singh Shekhawat",
+      "Colonel Hanut Singh",
+      "Colonel Uday Singh Bhati"
+    ],
+    "optionsHindi": [
+      "शहीद सैनिक धोंकल सिंह",
+      "शहीद सी एच एम पीरू सिंह शेखावत",
+      "कर्नल हनुत सिंह",
+      "कर्नल उदय सिंह भाटी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Company Havildar Major Piru Singh Shekhawat was posthumously awarded Param Vir Chakra for bravery in Tithwal (1948).",
+    "explanationHindi": "सीएचएम पीरू सिंह शेखावत को 1948 (तिथवाल युद्ध) में अदम्य साहस के लिए मरणोपरांत परमवीर चक्र से सम्मानित किया गया।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> सामाजिक-सांस्कृतिक मुद्दे"
+  },
+  {
+    "qEnglish": "Which of the following is NOT a correct combination? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से कौन-सा सही संयोजन नहीं है ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Rajasthan State animal - Chinkara (Wildlife) and Camel (Livestock)",
+      "State Tree - Kher",
+      "Rajasthan State Bird - Great Indian Bustard or Godawan",
+      "State Flower - Rohida"
+    ],
+    "optionsHindi": [
+      "राजस्थान का राजकीय पशु - चिंकारा (वन्यजीव) और ऊँट (पशुधन)",
+      "राजकीय वृक्ष - खेर",
+      "राजस्थान राजकीय पक्षी - ग्रेट इंडियन बस्टर्ड या गोडावन",
+      "राजकीय पुष्प - रोहिड़ा"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The State Tree of Rajasthan is Khejri (Prosopis cineraria), not Kher.",
+    "explanationHindi": "राजस्थान का राज्य वृक्ष 'खेजड़ी' है, 'खेर' नहीं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> सामाजिक-सांस्कृतिक मुद्दे"
   }
 ]
