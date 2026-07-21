@@ -65,3 +65,9 @@ Template:
 - Did: Scanned all 121 topic files across 11 subjects to gather stats. Created README with: analytics dashboard (391 questions, 121 topics, 11 subjects), subject-wise breakdown table with coverage bars, ASCII distribution chart, repository structure, question JSON format documentation, usage instructions, contributing guidelines.
 - Result: Done. Push successful. README now has comprehensive documentation.
 - Open: None
+
+## 2026-07-22 01:00 — Plan: Embed exam name in question JSON
+- Task: Plan adding `exam` field to every question for source tracking
+- Did: Created PLAN.md with: exam field schema, filename→exam-name mapping, processing workflow updates, retroactive update strategy. Exam name extracted from filename (e.g., "RSSB वनपाल Preliminary 2026-06-28").
+- Result: Plan ready for tomorrow's implementation.
+- Open: Implement plan tomorrow — add exam field to processing script, update AGENTS.md, retroactive update existing questions
