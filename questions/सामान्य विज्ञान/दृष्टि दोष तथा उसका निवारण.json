@@ -19,5 +19,26 @@
     "explanationHindi": "आंख का लेंस प्रकाश-संवेदनशील रेटिना पर वस्तुओं की वास्तविक और उलटी छवि बनाता है [cite: 260] ।",
     "subject": "सामान्य विज्ञान",
     "topic": "दृष्टि दोष तथा उसका निवारण"
+  },
+  {
+    "qEnglish": "A person cannot see distant objects clearly but can see nearby objects. This defect of vision is called: Select the most appropriate option.",
+    "qHindi": "एक व्यक्ति दूर की वस्तुओं को स्पष्ट रूप से नहीं देख सकता है लेकिन आस-पास की वस्तुओं को देख सकता है। दृष्टि के इस दोष को कहा जाता है : सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "Myopia",
+      "Hypermetropia",
+      "Presbyopia",
+      "Astigmatism"
+    ],
+    "optionsHindi": [
+      "मायोपिया",
+      "हाइपरमेट्रोपिया",
+      "जरादूरदृष्टि (प्रेस्बियोपिया)",
+      "दृष्टिवैषम्य (एस्टिग्मेटिज़्म)"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Myopia (nearsightedness) causes difficulty in viewing distant objects clearly.",
+    "explanationHindi": "मायोपिया (निकट दृष्टि दोष) में दूर की वस्तुएं स्पष्ट नहीं दिखाई देती हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "दृष्टि दोष तथा उसका निवारण"
   }
 ]
