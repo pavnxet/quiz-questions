@@ -21,5 +21,68 @@
     "explanationHindi": "चूनाराम फगेरिया, रघुवीर सिंह राजावत, और ढोंकल सिंह महावीर चक्र विजेता हैं। मेजर शैतान सिंह को परमवीर चक्र से सम्मानित किया गया था।",
     "subject": "इतिहास",
     "topic": "राजस्थान का इतिहास -> राजस्थान के इतिहास की महत्वपूर्ण ऐतिहासिक घटनाएं"
+  },
+  {
+    "qEnglish": "In the logo of the 5th Edition Khelo India University Games which of the following can be seen? (a) Hawa Mahal, (b) Ranthambore fort, (c) Windmills, (d) Jaisamand lake. Choose the most appropriate answer from the options given below:",
+    "qHindi": "5वें संस्करण के 'खेलो इंडिया विश्वविद्यालय खेलों' के लोगो में निम्नलिखित में से किसे देखा जा सकता है ? (a) हवा महल, (b) रणथंभौर किला, (c) पवनचक्की, (d) जयसमंद झील। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(b) and (c) only",
+      "(a), (c) and (d) only",
+      "(a) and (b) only",
+      "(a), (b) and (c) only"
+    ],
+    "optionsHindi": [
+      "केवल (b) और (c)",
+      "केवल (a), (c) और (d)",
+      "केवल (a) और (b)",
+      "केवल (a), (b) और (c)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The logo features iconic imagery of Rajasthan including Hawa Mahal, Ranthambore Fort, and Windmills.",
+    "explanationHindi": "लोगो में हवा महल, रणथंभौर किला और पवनचक्की जैसी राजस्थान की प्रतीक आकृतियाँ शामिल हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> राजस्थान के इतिहास की महत्वपूर्ण ऐतिहासिक घटनाएं"
+  },
+  {
+    "qEnglish": "Identify incorrect statement about sportspersons of Rajasthan. Select the most appropriate option.",
+    "qHindi": "राजस्थान के खिलाड़ियों से संबंधित गलत कथन की पहचान कीजिए । सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Pani Devi Godara is popular as 'Golden Dadi' of Bikaner.",
+      "Arundhati Choudhary won silver in World Boxing Cup 2025 in 60 kg category.",
+      "Parul Choudhary became the first Rajasthan shuttler to win the national- level U-19 girls' single crown in All India Junior Ranking Badminton tournament 2025.",
+      "Kiyanna Parihaar was given the title of FIDE Woman Candidate Master 2025."
+    ],
+    "optionsHindi": [
+      "पानी देवी गोदारा बीकानेर की 'गोल्डन दादी' के रूप में लोकप्रिय हैं।",
+      "अरुंधति चौधरी ने विश्व मुक्केबाजी कप 2025 में 60 किलोग्राम वर्ग में रजत पदक जीता।",
+      "पारुल चौधरी ऑल इंडिया जूनियर रैंकिंग बैडमिंटन टूर्नामेंट 2025 में राष्ट्रीय स्तर का U-19 बालिका एकल खिताब जीतने वाली राजस्थान की पहली शटलर बनीं।",
+      "कियाना परिहार को FIDE महिला कैंडिडेट मास्टर 2025 का खिताब दिया गया।"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Arundhati Choudhary competes in the 66 kg weight category, not 60 kg.",
+    "explanationHindi": "अरुंधति चौधरी 66 किग्रा भार वर्ग में खेलती हैं, 60 किग्रा वर्ग में नहीं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> राजस्थान के इतिहास की महत्वपूर्ण ऐतिहासिक घटनाएं"
+  },
+  {
+    "qEnglish": "Where was the 8th Indo-UK joint military exercise 'Ajeya warrior-25' held? Select the most appropriate option.",
+    "qHindi": "8वाँ भारत-ब्रिटेन संयुक्त सैन्य अभ्यास 'अजेय योद्धा-25' कहाँ आयोजित किया गया था ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Mahajan field firing range",
+      "Pokharan field firing range",
+      "Karunga field firing range",
+      "Manga field firing range"
+    ],
+    "optionsHindi": [
+      "महाजन फील्ड फायरिंग रेंज",
+      "पोखरण फील्ड फायरिंग रेंज",
+      "करूंगा फील्ड फायरिंग रेंज",
+      "मंगा फील्ड फायरिंग रेंज"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Indo-UK joint military exercise Ajeya Warrior was conducted at Mahajan Field Firing Range, Rajasthan.",
+    "explanationHindi": "भारत-ब्रिटेन संयुक्त सैन्य अभ्यास 'अजेय योद्धा' महाजन फील्ड फायरिंग रेंज (बीकानेर) में आयोजित हुआ।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> राजस्थान के इतिहास की महत्वपूर्ण ऐतिहासिक घटनाएं"
   }
 ]
