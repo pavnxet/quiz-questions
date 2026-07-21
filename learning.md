@@ -39,6 +39,8 @@ Rules for editing this file:
 ## Domain knowledge picked up on the job
 - Rajasthan exam question JSONs typically have `subject` and `topic` fields with `->` separators (e.g., "राजस्थान की अर्थव्यवस्था -> लघु, कुटीर एवं ग्रामोद्योग").
 - Each question has qEnglish, qHindi, optionsEnglish, optionsHindi, correct (0-based index), and optional explanations.
+- **For README updates:** gather stats programmatically by scanning `questions/` dir with Python, don't hardcode numbers.
+- **ASCII bar charts** work well for GitHub READMEs — use `█` and `░` blocks with percentages.
 - **Duplicate topic patterns found and merged:**
   - `राजस्थान का इतिहास - X` merged into standalone `X` (keep shorter name)
   - `भारतीय संविधान एवं राजनीतिक व्यवस्था - X` merged into standalone `X`

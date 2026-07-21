@@ -59,3 +59,9 @@ Template:
   4. `fixed_placeholder.json` files appeared in repo (likely from earlier broken writes) → found and removed with `find ... -exec git rm`
 - Result: Done. 91 files changed, 14211 insertions. Push successful. Post-processing files updated.
 - Open: None
+
+## 2026-07-22 00:45 — Update README with analytics dashboard
+- Task: Create a beautiful README with analytical data about the question bank
+- Did: Scanned all 121 topic files across 11 subjects to gather stats. Created README with: analytics dashboard (391 questions, 121 topics, 11 subjects), subject-wise breakdown table with coverage bars, ASCII distribution chart, repository structure, question JSON format documentation, usage instructions, contributing guidelines.
+- Result: Done. Push successful. README now has comprehensive documentation.
+- Open: None
