@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following best describes the primary function of RAJSICO (Rajasthan Small Industries Corporation)? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से कौन-सा आर ए जे एस आई सी ओ (राजस्थान लघु उद्योग निगम) के प्राथमिक कार्य का सबसे अच्छा वर्णन करता है? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Regulating and licensing small-scale industries within the state",
+      "Developing small scale industrial infrastructure such as industrial areas and growth centers",
+      "Providing marketing support and facilitating supply of raw materials to small-scale industries and artisans",
+      "Promoting export-oriented industrial units through financial incentives",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राज्य के भीतर (लघु उद्योगों का विनियमन) और उन्हें लाइसेंस प्रदान करना",
+      "औद्योगिक क्षेत्रों और विकास केंद्रों जैसे लघु-स्तरीय औद्योगिक बुनियादी ढाँचे का विकास करना",
+      "लघु उद्योगों और कारीगरों को विपणन सहायता प्रदान करना और कच्चे माल की आपूर्ति में सुविधा प्रदान करना।",
+      "वित्तीय प्रोत्साहनों के माध्यम से निर्यात उन्मुख औद्योगिक इकाइयों को बढ़ावा देना।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "RAJSICO provides marketing support and facilitates the supply of raw materials to small-scale industries and artisans in Rajasthan.",
+    "explanationHindi": "आरएजेएसआईसीओ राजस्थान में लघु उद्योगों और कारीगरों को विपणन सहायता प्रदान करता है और कच्चे माल की आपूर्ति में सुविधा प्रदान करता है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था -> लघु, कुटीर एवं ग्रामोद्योग"
+  }
+]
