@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "16 workers working 6 hours a day, build a wall of length 150 m, breadth 20 m, and height 2 m in 25 days. In how many days 12 workers, working 8 hours a day can build a wall of length 800 m, breadth 15 m and height 6 m ?",
+    "qHindi": "16 श्रमिक दिन में 6 घंटे काम करते हैं, 25 दिनों में 150 m लंबाई, 20 m चौडाई और 2m ऊँचाई की दीवार बनाते हैं। 12 श्रमिक, जो दिन में 8 घंटे काम करते हैं, 800m लंबाई, 15m चौडाई और 6m ऊँचाई की दीवार कितने दिनों में बना सकते हैं ?",
+    "optionsEnglish": [
+      "300",
+      "150",
+      "75",
+      "50",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "300",
+      "150",
+      "75",
+      "50",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Formula: (M1*H1*D1)/W1 = (M2*H2*D2)/W2. W1 = 150*20*2 = 6000. W2 = 800*15*6 = 72000. (16*6*25)/6000 = (12*8*D2)/72000 => 2400/6000 = 96*D2/72000 => 0.4 = 96*D2/72000 => D2 = 300 days.",
+    "explanationHindi": "सूत्र: (M1*H1*D1)/W1 = (M2*H2*D2)/W2। W1 = 6000, W2 = 72000। मान रखने पर D2 = 300 दिन प्राप्त होता है।",
+    "subject": "गणित",
+    "topic": "समय एवं दूरी"
+  },
+  {
+    "qEnglish": "The ratio of speeds of Golu and Bolu is 4 : 7. If Golu loses the race by 270 m, then what is the length of the race course ?",
+    "qHindi": "गोलू और बोलू की गतियों का अनुपात 4 : 7 है। यदि गोलू 270 m से दौड़ हार जाता है, तो धावन-पथ (रेस-कोर्स) की लंबाई क्या है ?",
+    "optionsEnglish": [
+      "1080 m",
+      "630 m",
+      "810 m",
+      "540 m",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1080 m",
+      "630 m",
+      "810 m",
+      "540 m",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Distance ratio = 4:7. Difference = 3 units = 270m => 1 unit = 90m. Total distance = 7 units = 7 * 90 = 630 m.",
+    "explanationHindi": "दूरी अनुपात = 4:7। अंतर = 3 इकाई = 270m => 1 इकाई = 90m। कुल दूरी = 7 इकाई = 7 * 90 = 630 मीटर।",
+    "subject": "गणित",
+    "topic": "समय एवं दूरी"
+  },
+  {
+    "qEnglish": "Rishi travels 80 km daily to reach his office. One day he was late by 1 hour than the normal time to leave for the office, so he increased his speed by 4 km/h and thus he reached office at the normal time. What is the speed of Rishi on a normal day (in km/h)?",
+    "qHindi": "ऋषि अपने कार्यालय तक पहुँचने के लिए प्रतिदिन 80 km की यात्रा करता है। एक दिन उसे कार्यालय जाने के सामान्य समय से 1 घंटे की देरी हई, इसलिए उसने अपनी गति 4 km/h बढ़ा दी और इस तरह वह सामान्य समय पर कार्यालय पहुचा। एक सामान्य दिन (km/h में) ऋषि की गति क्या होती है ?",
+    "optionsEnglish": [
+      "16",
+      "17",
+      "18",
+      "20",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "16",
+      "17",
+      "18",
+      "20",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "80/s - 80/(s+4) = 1. If s=16, 80/16 - 80/20 = 5 - 4 = 1 hour. Normal speed = 16 km/h.",
+    "explanationHindi": "80/s - 80/(s+4) = 1। यदि s=16 रखें, तो 5 - 4 = 1 घंटा आता है। अतः सामान्य गति = 16 किमी/घंटा।",
+    "subject": "गणित",
+    "topic": "समय एवं दूरी"
+  }
+]
