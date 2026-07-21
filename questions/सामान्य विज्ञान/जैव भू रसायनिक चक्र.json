@@ -1,0 +1,55 @@
+[
+  {
+    "qEnglish": "Match List-I (Biogeochemical Cycle) with List-II (Reservoir). List-I: (a) Carbon Cycle, (b) Nitrogen Cycle, (c) Phosphorus Cycle, (d) Hydrological Cycle. List-II: (i) Atmosphere (N2 gas), (ii) Rocks (Phosphate), (iii) Oceans and Fossil fuels, (iv) Water bodies. Choose the most appropriate answer from the options given below:",
+    "qHindi": "सूची-I (जैव-भूरासायनिक चक्र) का सूची-II (भंडार) के साथ मिलान करें। सूची-I: (a) कार्बन चक्र, (b) नाइट्रोजन चक्र, (c) फॉस्फोरस चक्र, (d) जल चक्र। सूची-II: (i) वायुमंडल (N2 गैस), (ii) चट्टानें (फॉस्फेट), (iii) और महासागर जीवाश्म ईंधन, (iv) जल निकाय। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें।",
+    "matchItemsEnglish": {
+      "col1Label": "List-I (Biogeochemical Cycle)",
+      "col2Label": "List-II (Reservoir)",
+      "col1": [
+        "Carbon Cycle",
+        "Nitrogen Cycle",
+        "Phosphorus Cycle",
+        "Hydrological Cycle"
+      ],
+      "col2": [
+        "Atmosphere (N2 gas)",
+        "Rocks (Phosphate)",
+        "Oceans and Fossil fuels",
+        "Water bodies"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-I (जैव-भूरासायनिक चक्र)",
+      "col2Label": "सूची-II (भंडार)",
+      "col1": [
+        "कार्बन चक्र",
+        "नाइट्रोजन चक्र",
+        "फॉस्फोरस चक्र",
+        "जल चक्र"
+      ],
+      "col2": [
+        "वायुमंडल (N2 गैस)",
+        "चट्टानें (फॉस्फेट)",
+        "और महासागर जीवाश्म ईंधन",
+        "जल निकाय"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Carbon Cycle -> Oceans & Fossil fuels (iii); Nitrogen -> Atmosphere (i); Phosphorus -> Rocks (ii); Hydrological -> Water bodies (iv).",
+    "explanationHindi": "कार्बन चक्र -> महासागर व जीवाश्म ईंधन (iii); नाइट्रोजन -> वायुमंडल (i); फॉस्फोरस -> चट्टानें (ii); जल चक्र -> जल निकाय (iv)।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "जैव भू रसायनिक चक्र"
+  }
+]
