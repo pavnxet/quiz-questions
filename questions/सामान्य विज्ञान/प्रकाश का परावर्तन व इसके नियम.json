@@ -19,5 +19,47 @@
     "explanationHindi": "कॉर्निया (बाहरी सतह) आंख में कुल प्रकाश अपवर्तन का लगभग 70-80% हिस्सा करती है [cite: 259, 261] ।",
     "subject": "सामान्य विज्ञान",
     "topic": "प्रकाश का परावर्तन व इसके नियम"
+  },
+  {
+    "qEnglish": "Which phenomenon is responsible for the \"twinkling of stars\" ? Select the most appropriate option.",
+    "qHindi": "\"तारों के टिमटिमाने\" के लिए कौन सी परिघटना उत्तरदायी है ? सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "Atmospheric Reflection",
+      "Atmospheric Refraction",
+      "Dispersion of Light",
+      "Internal Reflection"
+    ],
+    "optionsHindi": [
+      "वायुमंडलीय परावर्तन",
+      "वायुमंडलीय अपवर्तन",
+      "प्रकाश का परिक्षेपण",
+      "आंतरिक परावर्तन"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Twinkling of stars is caused by the atmospheric refraction of starlight through different air layers.",
+    "explanationHindi": "तारों का टिमटिमाना वायुमंडल की विभिन्न परतों द्वारा होने वाले वायुमंडलीय अपवर्तन के कारण होता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "प्रकाश का परावर्तन व इसके नियम"
+  },
+  {
+    "qEnglish": "The speed of light in vacuum is 3 * 10^8 m/s. If the refractive index of water is 1.3, the speed of light in water is approximately: Select the most appropriate option.",
+    "qHindi": "निर्वात् में प्रकाश की गति 3\\times10^{8}m/s है। यदि जल का अपवर्तनांक 1.3 है, तो जल में प्रकाश की गति लगभग है : सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "2.25 * 10^8 m/s",
+      "3.99 * 10^8 m/s",
+      "1.50 * 10^8 m/s",
+      "4.33 * 10^8 m/s"
+    ],
+    "optionsHindi": [
+      "2.25 \\times 10^8 m/s",
+      "3.99 \\times 10^8 m/s",
+      "1.50 \\times 10^8 m/s",
+      "4.33 \\times 10^8 m/s"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Speed in medium = c / mu = (3 * 10^8) / 1.3 = 2.3 * 10^8 m/s (~2.25 * 10^8 m/s).",
+    "explanationHindi": "जल में प्रकाश की चाल = (3 \\times 10^8) / 1.3 ≈ 2.25 \\times 10^8 m/s होती है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "प्रकाश का परावर्तन व इसके नियम"
   }
 ]
