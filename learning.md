@@ -22,6 +22,7 @@ Rules for editing this file:
 ## User preferences
 - User prefers local git operations over GitHub API calls — simpler, no token management.
 - Post-processing (summary.md + learning.md) is mandatory after every session.
+- Every error encountered must be recorded in summary.md with the fix applied.
 
 ## Mistakes made & fixes (so they aren't repeated)
 - **autocrlf hides real file changes**: `git diff` shows nothing even after `write`/`edit` changed content, because CRLF↔LF normalization makes blobs identical. Fix: delete file + recreate with `cat > file << 'EOF'` heredoc, or use Python file writes.

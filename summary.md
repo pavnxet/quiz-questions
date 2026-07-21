@@ -34,3 +34,9 @@ Template:
   7. `git add` didn't track utils.js/github.js due to autocrlf line-ending normalization → used `rm` + `cat >` to force-create fresh files, then `git add -A`
 - Result: Done. 39 files changed, 3501 insertions. Push successful. Post-processing files updated.
 - Open: None
+
+## 2026-07-21 23:45 — Update AGENTS.md with processing workflow
+- Task: Update AGENTS.md with JSON processing workflow, working directory, and error logging rules
+- Did: Added "Processing workflow" section with step-by-step instructions, key rules (local git, safeName, never stop on error). Added "Record every error encountered" to post-processing rules.
+- Result: Done. Pushed to main.
+- Open: None
