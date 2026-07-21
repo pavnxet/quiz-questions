@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Given below are two statements, one is labelled as Assertion (A) and other one labelled as Reason (R).\nAssertion (A): In humans, the sex of the child is determined by the father.\nReason (R): A male produces two types of gametes (sperm) 50% carrying the X chromosome and 50% carrying the Y chromosome.\nIn light of the above statements, choose the most appropriate answer from the options given below:",
+    "qHindi": "नीचे दो कथन दिए गए हैं, एक को अभिकथन (A) और दूसरे को कारण (R) के रूप में नामांकित किया गया है।\nअभिकथन (A) : मनुष्यों में, बच्चे का लिंग पिता द्वारा निर्धारित किया जाता है।\nकारण (R) : एक नर दो प्रकार के युग्मक (शुक्राणु) उत्पन्न करता है : 50% जिनमें X गुणसूत्र होता है और 50% जिनमें Y गुणसूत्र होता है।\nउपर्युक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
+      "(A) is correct but (R) is not correct.",
+      "(A) is not correct but (R) is correct."
+    ],
+    "optionsHindi": [
+      "(A) और (R) दोनों ही सही हैं और (R), (A) की सही व्याख्या है।",
+      "(A) और (R) दोनों ही सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+      "(A) सही है लेकिन (R) सही नहीं है।",
+      "(A) सही नहीं है लेकिन (R) सही है।"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Father produces X and Y sperms; fertilization with X gives female, with Y gives male. Hence (R) correctly explains (A).",
+    "explanationHindi": "पिता X तथा Y दो प्रकार के शुक्राणु बनाते हैं, जिसके कारण बच्चे का लिंग पिता द्वारा निर्धारित होता है। अतः (R), (A) की सही व्याख्या करता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मनुष्य में लिंग निर्धारण"
+  }
+]
