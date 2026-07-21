@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Identify from the following the Maha Vir Chakra winners of Rajasthan :\n(a) Subedar Choonaram Fageria\n(b) Brigadier Raghuveer Singh Rajawat\n(c) Shaheed Soldier Dhonkal Singh\n(d) Shaheed Major Shaitan Singh\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "निम्नलिखित में से राजस्थान के महावीर चक्र विजेताओं की पहचान कीजिए :\n(a) सूबेदार चूनाराम फगेरिया\n(b) ब्रिगेडियर रघुवीर सिंह राजावत\n(c) शहीद सैनिक ढोंकल सिंह\n(d) शहीद मेजर शैतान सिंह\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(c) and (a) only",
+      "(a) and (b) only",
+      "(b), (c) and (d) only",
+      "(a), (b) and (c) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (c) और (a)",
+      "केवल (a) और (b)",
+      "केवल (b), (c) और (d)",
+      "केवल (a), (b) और (c)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Choonaram Fageria, Raghuveer Singh Rajawat, and Dhonkal Singh received Maha Vir Chakra. Major Shaitan Singh was awarded Param Vir Chakra.",
+    "explanationHindi": "चूनाराम फगेरिया, रघुवीर सिंह राजावत, और ढोंकल सिंह महावीर चक्र विजेता हैं। मेजर शैतान सिंह को परमवीर चक्र से सम्मानित किया गया था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> राजस्थान के इतिहास की महत्वपूर्ण ऐतिहासिक घटनाएं"
+  }
+]
