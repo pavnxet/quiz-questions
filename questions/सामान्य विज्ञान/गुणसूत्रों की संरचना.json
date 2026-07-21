@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Arrange the following elements in the ascending order of number of electrons.\n(a) Neon\n(b) Magnesium\n(c) Potassium\n(d) Sulphur\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "निम्नलिखित तत्वों को इलेक्ट्रॉनों की संख्या के आरोही क्रम में व्यवस्थित करें :\n(a) न्निओन\n(b) मैग्नीशियम\n(c) पोटैशियम\n(d) सल्फर\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a), (b), (d), (c)",
+      "(a), (b), (c), (d)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (d), (a)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a), (b), (d), (c)",
+      "(a), (b), (c), (d)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (d), (a)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Atomic numbers (number of electrons): Neon (10) < Magnesium (12) < Sulphur (16) < Potassium (19). Order: a, b, d, c.",
+    "explanationHindi": "इलेक्ट्रॉनों की संख्या (परमाणु क्रमांक): नियॉन (10) < मैग्नीशियम (12) < सल्फर (16) < पोटैशियम (19)। आरोही क्रम: a, b, d, c.",
+    "subject": "सामान्य विज्ञान",
+    "topic": "गुणसूत्रों की संरचना"
+  }
+]
