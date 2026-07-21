@@ -1,20 +1,23 @@
 # Agent Instructions
 
 > **FIRST RULE — READ THIS BEFORE DOING ANYTHING ELSE:**
-> 1. Read `learning.md` in full — it contains hard-won corrections and conventions.
-> 2. Skim last 3–5 entries of `summary.md` — recent context and open items.
-> Do NOT process any files until both are read. This is non-negotiable.
+> 1. Search memory system for prior context on this project (use `memory` tool with keywords like `quiz-questions`, `pavnxet`, `processing`).
+> 2. Read `learning.md` in full — it contains hard-won corrections and conventions.
+> 3. Skim last 3–5 entries of `summary.md` — recent context and open items.
+> Do NOT process any files until all three are checked. This is non-negotiable.
 
 ## Memory system
 
-Two files carry knowledge across sessions:
+Three sources of persistent knowledge:
 
-- **`learning.md`** — distilled lessons, gotchas, conventions, preferences. **Read fully at session start.**
-- **`summary.md`** — running log of each session. Skim recent entries for context.
+- **Memory system** (global) — search with `memory` tool for cross-project learnings, user preferences, prior work context.
+- **`learning.md`** (local) — distilled lessons, gotchas, conventions. **Read fully at session start.**
+- **`summary.md`** (local) — running log of each session. Skim recent entries for context.
 
 ### At START of session
-1. Read `learning.md` fully — treat as binding context, not suggestions.
-2. Skim last few entries of `summary.md` — what was in progress, what's open.
+1. Search memory system for prior context (keywords: `quiz-questions`, `pavnxet`, `processing`, `Rajasthan`).
+2. Read `learning.md` fully — treat as binding context, not suggestions.
+3. Skim last few entries of `summary.md` — what was in progress, what's open.
 
 ### At END of session (non-negotiable)
 1. Append entry to `summary.md` — dated, concise, **record every error + fix**.
