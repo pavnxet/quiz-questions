@@ -535,5 +535,89 @@
     "explanationHindi": "मजबूत हाइड्रोजन बंध के कारण एसीटिक एसिड का क्वथनांक दिए गए विकल्पों में सर्वाधिक है [cite: 1540, 1552]‌।",
     "subject": "सामान्य विज्ञान",
     "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "A fuse wire is made of an alloy that has: Select the most appropriate option.",
+    "qHindi": "फ्यूज तार एक मिश्र धातु से बना होता है जिसकी विशेषताएँ होती हैं : सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "High resistance and high melting point.",
+      "Low resistance and low melting point.",
+      "High resistance and low melting point.",
+      "Low resistance and high melting point."
+    ],
+    "optionsHindi": [
+      "उच्च प्रतिरोध और उच्च गलनांक",
+      "निम्न प्रतिरोध और निम्न गलनांक",
+      "उच्च प्रतिरोध और निम्न गलनांक",
+      "निम्न प्रतिरोध और उच्च गलनांक"
+    ],
+    "correct": 2,
+    "explanationEnglish": "A fuse wire needs high resistance to produce heat quickly and a low melting point to melt easily during excess current flow.",
+    "explanationHindi": "फ्यूज तार में उच्च प्रतिरोध होना चाहिए ताकि अधिक धारा बहने पर यह जल्दी गर्म होकर कम गलनांक के कारण पिघल जाए।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "A non-metal that is liquid at room temperature is:",
+    "qHindi": "कमरे के तापमान पर तरल अधातु है :",
+    "optionsEnglish": [
+      "Mercury",
+      "Chlorine",
+      "Bromine",
+      "Phosphorus"
+    ],
+    "optionsHindi": [
+      "पारा",
+      "क्लोरीन",
+      "ब्रोमीन",
+      "फॉस्फोरस"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Bromine is the only non-metal element that exists as a liquid at room temperature.",
+    "explanationHindi": "ब्रोमीन एकमात्र ऐसी अधातु है जो कमरे के तापमान पर द्रव अवस्था में पाई जाती है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Food cans are coated with tin and not with zinc because: Select the most appropriate option.",
+    "qHindi": "खाद्य डिब्बों को टिन से लेपित किया जाता है न कि ज़िंक से क्योंकि : सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "Zinc is more reactive than tin.",
+      "Zinc has a higher melting point than tin.",
+      "Zinc is less reactive than tin.",
+      "Zinc is costlier than tin."
+    ],
+    "optionsHindi": [
+      "ज़िंक टिन की तुलना में अधिक प्रतिक्रियाशील होता है।",
+      "ज़िंक का गलनांक टिन की तुलना में अधिक होता है।",
+      "जिंक टिन की तुलना में कम प्रतिक्रियाशील होता है",
+      "ज़िंक टिन की तुलना में महंगा होता है।"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Zinc is more reactive than tin and could react with acids present in food items.",
+    "explanationHindi": "जिंक, टिन की तुलना में अधिक अभिक्रियाशील होता है जिससे भोजन खराब हो सकता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  },
+  {
+    "qEnglish": "Given below are two statements, one is labelled as Assertion (A) and other one labelled as Reason (R).\nAssertion (A): Solder is used for welding electrical wires together.\nReason (R): Solder has a very high melting point.\nIn light of the above statements, choose the most appropriate answer from the options given below.",
+    "qHindi": "नीचे दो कथन दिए गए हैं, एक को अभिकथन (A) और दूसरे को कारण (R) के रूप में नामांकित किया गया है।\nअभिकथन (A) : सोल्डर का उपयोग विद्युत तारों की वेल्डिंग के लिए किया जाता है।\nकारण (R) : सोल्डर का गलनांक बहुत उच्च होता है।\nउपरोक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें।",
+    "optionsEnglish": [
+      "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
+      "(A) is correct but (R) is not correct.",
+      "(A) is not correct but (R) is correct."
+    ],
+    "optionsHindi": [
+      "(A) और (R) दोनों ही सही हैं और (R), (A) की सही व्याख्या है।",
+      "(A) और (R) दोनों ही सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+      "(A) सही है लेकिन (R) सही नहीं है।",
+      "(A) सही नहीं है लेकिन (R) सही है।"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Solder (lead and tin alloy) is used for soldering wires because it has a LOW melting point, not high. Thus (A) is correct, but (R) is false.",
+    "explanationHindi": "सोल्डर का उपयोग बिजली के तारों को जोड़ने में होता है क्योंकि इसका गलनांक कम होता है, उच्च नहीं। अतः (A) सही है लेकिन (R) गलत है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
   }
 ]
