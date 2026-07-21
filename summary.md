@@ -40,3 +40,14 @@ Template:
 - Did: Added "Processing workflow" section with step-by-step instructions, key rules (local git, safeName, never stop on error). Added "Record every error encountered" to post-processing rules.
 - Result: Done. Pushed to main.
 - Open: None
+
+## 2026-07-22 00:15 — Process 3 RPSC 2nd Grade Paper-I (GK) files
+- Task: Process 3 JSON files (2026-07-13, 07-14, 07-16) with 100 questions each, push to quiz-questions repo
+- Did: Used `glob` to find files (Unicode filenames), `cp` to copy with clean names, Python to analyze and process. Merged 300 questions into 88 topics. Used local git for push.
+- Errors encountered & fixes:
+  1. `glob` pattern with backslash in Python string caused SyntaxWarning → used raw strings `r'...'`
+  2. Python `f-string` with backslash in split caused SyntaxError → used string concatenation instead
+  3. Temp files got committed to git before cleanup → added `git rm --cached` + `git rm` for temp files in same commit
+  4. `fixed_placeholder.json` files appeared in repo (likely from earlier broken writes) → found and removed with `find ... -exec git rm`
+- Result: Done. 91 files changed, 14211 insertions. Push successful. Post-processing files updated.
+- Open: None

@@ -32,6 +32,9 @@ Rules for editing this file:
 - **GitHub API needs explicit token**: scripts can't auto-use Windows Credential Manager tokens. Fix: use local git commands (`git add/commit/push`) instead of API calls.
 - **Python triple-quoted strings + `\u`**: `\uXXXX` in Python strings triggers Unicode escape. Fix: use raw strings `r'...'` or `cat > file << 'EOF'` heredoc.
 - **`sed` regex fails on Windows bash**: special chars in regex patterns break sed. Fix: use Python `str.replace()` or `re.sub()` instead.
+- **Python f-strings with backslash**: `f-string.split('Html Questions\')` causes SyntaxError — backslash not allowed in f-string expressions. Fix: use string concatenation or `str.split()` with a variable.
+- **Temp files get committed if not excluded**: `git add -A` stages everything including temp files. Fix: always `git rm` temp files before committing, or add to `.gitignore`.
+- **`fixed_placeholder.json` files**: empty files created by broken `mkdir` + `write` operations can accumulate in repo. Fix: periodically scan for and remove orphan files.
 
 ## Domain knowledge picked up on the job
 - Rajasthan exam question JSONs typically have `subject` and `topic` fields with `->` separators (e.g., "राजस्थान की अर्थव्यवस्था -> लघु, कुटीर एवं ग्रामोद्योग").
