@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "The correct sequence of reproductive stages seen in flowering plants is:\n(a) Seedling\n(b) Gametes\n(c) Zygote\n(d) Embryo\nChoose the most appropriate answer from options given below :",
+    "qHindi": "पुष्पी पादपों में दिखाई देने वाली प्रजनन अवस्थाओं का सही क्रम है :\n(a) नवोद्भिद्\n(b) युग्मक\n(c) युग्मनज\n(d) भ्रूण\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a), (b), (c), (d)",
+      "(b), (c), (d), (a)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (d), (a)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a), (b), (c), (d)",
+      "(b), (c), (d), (a)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (d), (a)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Correct order: Gametes fuse to form Zygote -> Embryo -> Seedling.",
+    "explanationHindi": "सही क्रम: युग्मक आपस में मिलकर युग्मनज बनाते हैं -> भ्रूण -> नवोद्भिद्।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "नई पादप किस्मों का परिवर्धन"
+  }
+]
