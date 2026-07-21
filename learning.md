@@ -24,8 +24,13 @@ Rules for editing this file:
 - Post-processing (summary.md + learning.md) is mandatory after every session.
 
 ## Mistakes made & fixes (so they aren't repeated)
-- GitHub API calls failed silently due to autocrlf line-ending normalization — git saw files as unchanged even when content differed. Fix: use local file writes + `git add/commit/push` instead of GitHub Contents API.
-- `write` tool on Windows sometimes doesn't persist due to path resolution issues — use heredoc or Python file writes for reliability.
+- **autocrlf hides real file changes**: `git diff` shows nothing even after `write`/`edit` changed content, because CRLF↔LF normalization makes blobs identical. Fix: delete file + recreate with `cat > file << 'EOF'` heredoc, or use Python file writes.
+- **`write` tool on Windows**: path resolution can silently fail — file appears updated in `read` but `bash cat` shows old content. Fix: always verify with `python3 -c` read after writing.
+- **`read` tool caches differently from shell**: `read` may show newer content while `bash grep/cat` shows stale. Fix: use `python3 -c` for ground truth.
+- **Unicode filenames break `read`**: files with Hindi/Unicode chars in names (e.g., RSSB / वनपाल) fail `read` tool. Fix: `glob` to find file, then `cp` to a clean filename.
+- **GitHub API needs explicit token**: scripts can't auto-use Windows Credential Manager tokens. Fix: use local git commands (`git add/commit/push`) instead of API calls.
+- **Python triple-quoted strings + `\u`**: `\uXXXX` in Python strings triggers Unicode escape. Fix: use raw strings `r'...'` or `cat > file << 'EOF'` heredoc.
+- **`sed` regex fails on Windows bash**: special chars in regex patterns break sed. Fix: use Python `str.replace()` or `re.sub()` instead.
 
 ## Domain knowledge picked up on the job
 - Rajasthan exam question JSONs typically have `subject` and `topic` fields with `->` separators (e.g., "राजस्थान की अर्थव्यवस्था -> लघु, कुटीर एवं ग्रामोद्योग").

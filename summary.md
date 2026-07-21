@@ -24,5 +24,13 @@ Template:
 ## 2026-07-21 23:30 — Process RSSB Vanpal Preliminary 2026-06-28 questions
 - Task: Process JSON file with 100 questions, push to quiz-questions repo
 - Did: Read temp_input.json, grouped 100 questions into 72 topics across 10 subjects. Used local git operations (no GitHub API) since Windows Credential Manager handles auth. safeName strips `->` from topic names. 35 topics updated, 54 skipped (already existed), 0 failed. Committed and pushed to main.
-- Result: Done. 39 files changed, 3501 insertions. Push successful.
+- Errors encountered & fixes:
+  1. `read` tool failed on JSON file with Unicode chars in filename (RSSB / वनपाल / etc.) → used `glob` to find file, then `cp` via Python to a clean filename
+  2. GitHub API approach failed — no token available directly → discovered git uses Windows Credential Manager (`credential.helper=manager`), switched to local file writes + `git push`
+  3. `write` tool on Windows didn't persist utils.js changes (safeName fix) → confirmed via `read` that write DID work, but `bash grep` showed stale cache; used heredoc to rewrite files cleanly
+  4. `edit` tool reported file had correct content while `bash` showed old content → read tool cached differently than shell; verified with `python3 -c` reads
+  5. Python heredoc had Unicode escape errors (`\u` in triple-quoted strings) → rewrote files with `cat > file << 'EOF'` heredoc instead
+  6. `sed` commands failed due to regex escaping on Windows bash → used Python for string replacements instead
+  7. `git add` didn't track utils.js/github.js due to autocrlf line-ending normalization → used `rm` + `cat >` to force-create fresh files, then `git add -A`
+- Result: Done. 39 files changed, 3501 insertions. Push successful. Post-processing files updated.
 - Open: None
