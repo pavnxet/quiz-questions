@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "The components of a CPU are:",
+    "qHindi": "सीपीयू के घटक होते हैं :",
+    "optionsEnglish": [
+      "Logic unit, Control unit, Registers",
+      "Logic unit, Control unit, Registers, Memory",
+      "Logic unit, Floppy disk, Registers",
+      "Logic unit, Keyboard, Pen drive",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "लॉजिक यूनिट, कंट्रोल यूनिट, रजिस्टर",
+      "लॉजिक यूनिट, कंट्रोल यूनिट, रजिस्टर, मेमोरी",
+      "लॉजिक यूनिट, फ़्लॉपी डिस्क, रजिस्टर",
+      "लॉजिक यूनिट, कीबोर्ड, पेन ड्राइव",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Core CPU components consist of the ALU (Logic Unit), Control Unit (CU), and Registers.",
+    "explanationHindi": "सीपीयू के मुख्य घटकों में एएलयू (लॉजिक यूनिट), कंट्रोल यूनिट (सीयू) और रजिस्टर शामिल हैं।",
+    "subject": "कंप्यूटर और सूचना प्रौद्योगिकी",
+    "topic": "कंप्यूटर: परिचय, विशेषताएं, प्रयोग एवं प्रकार"
+  }
+]
