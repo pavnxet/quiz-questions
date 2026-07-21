@@ -672,5 +672,68 @@
     "explanationHindi": "मैग्नीशियम हवा में चमकदार सफेद लौ के साथ जलकर मैग्नीशियम ऑक्साइड (MgO) बनाता है, जो सफेद पाउडर/राख होता है।",
     "subject": "सामान्य विज्ञान",
     "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "The phenomenon of 'electromagnetic induction' refers to : Select the most appropriate option.",
+    "qHindi": "'विद्युत चुम्बकीय प्रेरण' की परिघटना निम्नलिखित को संदर्भित करती है : सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "Charging a body by friction",
+      "Production of magnetic field due to current in a conductor",
+      "Rotation of a motor",
+      "Induction of electric current in a conductor due to change in magnetic flux"
+    ],
+    "optionsHindi": [
+      "घर्षण द्वारा किसी वस्तु को आवेशित करना",
+      "चालक में धारा के कारण चुंबकीय क्षेत्र का उत्पादन",
+      "मोटर का घूर्णन",
+      "चुम्बकीय अभिवाह में परिवर्तन के कारण चालक में विद्युत प्रवाह का प्रेरण"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Electromagnetic induction is the generation of electric current in a circuit due to changing magnetic flux.",
+    "explanationHindi": "चुंबकीय फ्लक्स में परिवर्तन के कारण चालक में विद्युत धारा का प्रेरित होना 'विद्युत चुंबकीय प्रेरण' कहलाता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "Which of the following statements regarding Chemical change are correct? (a) They are generally irreversible, (b) New substances with entirely different properties are formed, (c) No energy change (heat/light) occurs during these changes, (d) Mass of the individual reactants may change but total mass remains conserved. Choose the most appropriate answer from the options given below:",
+    "qHindi": "रासायनिक परिवर्तन के संबंध में निम्नलिखित में से कौन से कथन सही हैं ? (a) वे सामान्य रूप से अनुत्क्रमणीय होते हैं।, (b) पूर्णतः भिन्न गुणों वाले नए पदार्थ बनते हैं।, (c) इन परिवर्तनों के दौरान कोई ऊर्जा परिवर्तन (ऊष्मा/प्रकाश) नहीं होता है।, (d) अलग-अलग अभिकारकों का द्रव्यमान बदल सकता है लेकिन कुल द्रव्यमान संरक्षित रहता है। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें।",
+    "optionsEnglish": [
+      "(a), (c) and (d) only",
+      "(a), (b), (c) and (d)",
+      "(a), (b) and (d) only",
+      "(b) and (c) only"
+    ],
+    "optionsHindi": [
+      "केवल (a), (c) और (d)",
+      "(a), (b), (c) और (d)",
+      "केवल (a), (b) और (d)",
+      "केवल (b) और (c)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Chemical changes usually involve energy absorption or release (hence 'c' is false). Statements (a), (b), and (d) are correct.",
+    "explanationHindi": "रासायनिक परिवर्तनों में ऊर्जा परिवर्तन (ऊष्मा/प्रकाश का अवशोषण या उत्सर्जन) होता है, अतः कथन (c) असत्य है। सही कथन (a), (b) और (d) हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "Identify the type of reaction : Fe + CuSO4 -> FeSO4 + Cu",
+    "qHindi": "अभिक्रिया के प्रकार की पहचान कीजिए : Fe+CuSO_{4}\\rightarrow FeSO_{4}+Cu",
+    "optionsEnglish": [
+      "Displacement & Redox",
+      "Combination",
+      "Double displacement",
+      "Decomposition"
+    ],
+    "optionsHindi": [
+      "विस्थापन और रेडॉक्स",
+      "संयोजन",
+      "दोहरा विस्थापन",
+      "अपघटन"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Fe displaces Cu from CuSO4 (Displacement reaction), and Fe gets oxidized while Cu gets reduced (Redox reaction).",
+    "explanationHindi": "लोहा तांबे को विस्थापित करता है (विस्थापन) और इसमें ऑक्सीकरण-अपचयन साथ होता है (रेडॉक्स)।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
   }
 ]
