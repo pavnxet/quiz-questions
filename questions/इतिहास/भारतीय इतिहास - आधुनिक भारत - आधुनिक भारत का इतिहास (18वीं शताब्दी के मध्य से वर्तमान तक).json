@@ -1,0 +1,65 @@
+[
+  {
+    "qEnglish": "Arrange the following awards of India in descending order based on the number of recipients in 2026 ? (a) Padma Bhushan, (b) Padma Vibhushan, (c) Padma Shri, (d) Ashok Chakra. Choose the most appropriate answer from the options given below:",
+    "qHindi": "2026 में प्राप्तकर्ताओं की संख्या के आधार पर भारत के निम्नलिखित पुरस्कारों को अवरोही क्रम में व्यवस्थित कीजिए । (a) पद्म भूषण, (b) पद्म विभूषण, (c) पद्मश्री, (d) अशोक चक्र। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (c), (b), (d)",
+      "(c), (a), (b), (d)",
+      "(a), (c), (d), (b)",
+      "(c), (b), (a), (d)"
+    ],
+    "optionsHindi": [
+      "(a), (c), (b), (d)",
+      "(c), (a), (b), (d)",
+      "(a), (c), (d), (b)",
+      "(c), (b), (a), (d)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Padma Shri has the highest number of recipients, followed by Padma Bhushan, Padma Vibhushan, and Ashok Chakra (c > a > b > d).",
+    "explanationHindi": "पुरस्कार विजेताओं की संख्या का अवरोही क्रम: पद्मश्री (c) > पद्म भूषण (a) > पद्म विभूषण (b) > अशोक चक्र (d) है।",
+    "subject": "इतिहास",
+    "topic": "भारतीय इतिहास -> आधुनिक भारत -> आधुनिक भारत का इतिहास (18वीं शताब्दी के मध्य से वर्तमान तक)"
+  },
+  {
+    "qEnglish": "The 16th edition of the India-US Joint Special Forces Exercise Vajra Prahar was conducted at which place? Select the most appropriate option.",
+    "qHindi": "भारत-अमेरिका संयुक्त विशेष बल अभ्यास 'वज्र प्रहार' का 16वाँ संस्करण किस स्थान पर आयोजित किया गया ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Bakloh, Himachal Pradesh",
+      "Mahajan, Rajasthan",
+      "Pokharan, Rajasthan",
+      "Pachmarhi, Madhya Pradesh"
+    ],
+    "optionsHindi": [
+      "बक्लोह, हिमाचल प्रदेश",
+      "महाजन, राजस्थान",
+      "पोखरण, राजस्थान",
+      "पचमढ़ी, मध्य प्रदेश"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Exercise Vajra Prahar was conducted at Special Forces Training School, Bakloh, Himachal Pradesh.",
+    "explanationHindi": "भारत-अमेरिका का वज्र प्रहार अभ्यास बक्लोह (हिमाचल प्रदेश) में आयोजित हुआ।",
+    "subject": "इतिहास",
+    "topic": "भारतीय इतिहास -> आधुनिक भारत -> आधुनिक भारत का इतिहास (18वीं शताब्दी के मध्य से वर्तमान तक)"
+  },
+  {
+    "qEnglish": "Who made history by becoming the first woman Rudra helicopter pilot in the Indian Army? Select the most appropriate option.",
+    "qHindi": "भारतीय सेना में पहली महिला 'रुद्र' हेलीकॉप्टर पायलट बनकर किसने इतिहास रचा ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Hansja Sharma",
+      "Anupama Hasija",
+      "Varuna Tahil",
+      "Tulika Choudhary"
+    ],
+    "optionsHindi": [
+      "हंसजा शर्मा",
+      "अनुपमा हसीजा",
+      "वरुणा ताहिल",
+      "तुलिका चौधरी"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Captain Hansja Sharma created history by becoming the first female Rudra attack helicopter pilot.",
+    "explanationHindi": "कैप्टन हंसजा शर्मा भारतीय सेना में 'रुद्र' हेलीकॉप्टर उड़ाने वाली पहली महिला पायलट बनीं।",
+    "subject": "इतिहास",
+    "topic": "भारतीय इतिहास -> आधुनिक भारत -> आधुनिक भारत का इतिहास (18वीं शताब्दी के मध्य से वर्तमान तक)"
+  }
+]
