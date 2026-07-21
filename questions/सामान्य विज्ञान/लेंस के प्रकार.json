@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "A convex lens forms a real and inverted image of a needle at a distance of 50 cm from it. Where is the needle placed in front of the convex lens if the image is equal to the size of the object?",
+    "qHindi": "एक उत्तल लेंस अपनी से 50 cm की दूरी पर रखी एक सुई का वास्तविक और उल्टा प्रतिबिंब बनाता है। यदि प्रतिबिंब का आकार वस्तु के आकार के बराबर हो, तो सुई को उत्तल लेंस के सामने कहाँ रखा गया है ?",
+    "optionsEnglish": [
+      "25 cm",
+      "60 cm",
+      "40 cm",
+      "50 cm",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "25 cm",
+      "60 cm",
+      "40 cm",
+      "50 cm",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "When an object is at 2F, a convex lens forms an equal-sized real image at 2F (50 cm on the other side), so object distance is 50 cm.",
+    "explanationHindi": "जब वस्तु 2F पर होती है, तो उत्तल लेंस 2F (दूसरी तरफ 50 सेमी) पर समान आकार का वास्तविक प्रतिबिंब बनाता है, इसलिए वस्तु की दूरी 50 सेमी है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "लेंस के प्रकार"
+  }
+]
