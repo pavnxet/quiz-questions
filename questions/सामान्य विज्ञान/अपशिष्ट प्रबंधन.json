@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following is a non-biodegradable waste?",
+    "qHindi": "निम्नलिखित में से कौन सा अजैव-अपघटनीय अपशिष्ट है?",
+    "optionsEnglish": [
+      "Paper",
+      "Food waste",
+      "Leaves",
+      "Plastic",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कागज",
+      "खाद्य अपशिष्ट",
+      "पत्तियाँ",
+      "प्लास्टिक",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Plastic is non-biodegradable as micro-organisms cannot decompose it naturally.",
+    "explanationHindi": "प्लास्टिक अजैव-अपघटनीय (नॉन-बायोडिग्रेडेबल) है क्योंकि सूक्ष्मजीव इसे प्राकृतिक रूप से नष्ट नहीं कर सकते।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "अपशिष्ट प्रबंधन"
+  }
+]
