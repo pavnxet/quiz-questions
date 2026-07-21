@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "As per the Global Environment Outlook-7 (GEO-7), out of the eight million estimated species of the world, how many are threatened with extinction?",
+    "qHindi": "ग्लोबल एन्वायरनमेंट आउटलुक-7 (GEO-7) के अनुसार, विश्व की कुल अनुमानित आठ मिलियन में से कितनी प्रजातियों के विलुप्त होने का खतरा है?",
+    "optionsEnglish": [
+      "1.5 million",
+      "2 million",
+      "1/2 million",
+      "1 million",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1.5 मिलियन",
+      "2 मिलियन",
+      "½ मिलियन",
+      "1 मिलियन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The milestone global report highlights that around 1 million out of the estimated 8 million total animal and plant species face active structural extinction threats.",
+    "explanationHindi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम की वैश्विक वैज्ञानिक आकलन रिपोर्टों के अनुसार पृथ्वी पर मौजूद कुल अनुमानित 80 लाख प्रजातियों में से लगभग 10 लाख (1 मिलियन) प्रजातियाँ विलुप्ति की कगार पर हैं।",
+    "subject": "भूगोल",
+    "topic": "वन्य जीव-जंतु एवं जैव-विविधता"
+  }
+]

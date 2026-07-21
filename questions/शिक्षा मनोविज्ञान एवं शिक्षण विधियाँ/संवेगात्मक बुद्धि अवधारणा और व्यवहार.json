@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "Which one of the following is not an ability, which is comprised in 'Integrative Model' of Emotional Intelligence proposed by Mayer and Salovey?",
+    "qHindi": "निम्नलिखित में से कौनसी क्षमता, मेयर और सेलोवे द्वारा प्रस्तावित संवेगात्मक बुद्धिमत्ता के 'एकीकृत मॉडल' में शामिल नहीं है?",
+    "optionsEnglish": [
+      "Understanding and Analyzing Emotions",
+      "Assessing Emotions in Relations",
+      "Perceiving and Expressing Emotions",
+      "Assimilating Emotions in Thoughts",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "संवेगों को समझना और उनका विश्लेषण करना",
+      "संबंधों में संवेगों का आंकलन करना",
+      "संवेगों को प्रत्यक्षीकृत करना और अभिव्यक्त करना",
+      "विचारों में संवेगों को आत्मसात करना",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Mayer-Salovey's Four-Branch Ability Model maps: 1) Perceiving emotions, 2) Using/assimilating emotions, 3) Understanding emotions, and 4) Managing/regulating emotions. General relationship assessment is not one of their four formal branches.",
+    "explanationHindi": "मेयर और सालोवे के संवेगात्मक बुद्धि मॉडल में चार क्षमताएं शामिल हैं: संवेगों का प्रत्यक्षीकरण, विचारों में आत्मसातीकरण, संवेगों की समझ, और संवेगों का प्रबंधन। 'संबंधों में संवेगों का आकलन' इस शास्त्रीय मॉडल की मूल शाखा नहीं है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "संवेगात्मक बुद्धि: अवधारणा और व्यवहार"
+  },
+  {
+    "qEnglish": "Which one of the following is not an ability in Emotional Intelligence model, proposed by Goleman ?",
+    "qHindi": "निम्नलिखित में से कौन सी क्षमता गोलमैन द्वारा प्रस्तावित संवेगात्मक बुद्धिमत्ता प्रतिमान में शामिल नहीं है ?",
+    "optionsEnglish": [
+      "Managing emotions",
+      "Assimilating emotions",
+      "Recognizing others emotions",
+      "Knowing one's emotions",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "संवेगों का प्रबंधन",
+      "संवेगों का आत्मसातीकरण",
+      "दूसरों के संवेगों को पहचानना",
+      "अपने संवेगों को जानना",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Assimilating emotions belongs to the Mayer-Salovey model, not Goleman's emotional intelligence framework.",
+    "explanationHindi": "संवेगों का आत्मसातीकरण (Assimilating emotions) मेयर-सैलोवी मॉडल का हिस्सा है, गोलमैन के प्रतिमान का नहीं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "संवेगात्मक बुद्धि: अवधारणा और व्यवहार"
+  },
+  {
+    "qEnglish": "Which component comes immediately after perceiving emotions in Mayer-Salovey model of emotional intelligence?",
+    "qHindi": "मेयर-सेलोवी के संवेगात्मक बुद्धि के प्रतिमान में भावनाओं के प्रत्यक्षीकरण के तुरन्त बाद कौन सा घटक आता है ?",
+    "optionsEnglish": [
+      "Understanding emotions",
+      "Facilitating thoughts using emotions",
+      "Expressing emotions",
+      "Managing emotions",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भावनाओं को समझना",
+      "भावनाओं का उपयोग कर विचारों को सुगम बनाना",
+      "भावनाओं को व्यक्त करना",
+      "भावनाओं का प्रबंधन करना",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The four branches of the Mayer-Salovey model are: 1. Perceiving emotions, 2. Using emotions to facilitate thought, 3. Understanding emotions, and 4. Managing emotions.",
+    "explanationHindi": "मेयर-सेलोवी मॉडल की चार शाखाओं का सही क्रम है: भावना का प्रत्यक्षीकरण, विचार सुगमता हेतु भावनाओं का उपयोग, भावनाओं को समझना और भावनाओं का प्रबंधन।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "संवेगात्मक बुद्धि: अवधारणा और व्यवहार"
+  }
+]

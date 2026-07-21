@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following statements is not correct regarding the 47th All India Electricity Sports Control Board Tournament held in Maharashtra in May 2026 ?",
+    "qHindi": "मई 2026 में, महाराष्ट्र में आयोजित 47वीं अखिल भारतीय विद्युत खेल नियंत्रण बोर्ड टूर्नामेन्ट के सन्दर्भ में निम्न में से कौन सा कथन सही नहीं है ?",
+    "optionsEnglish": [
+      "The Rajasthan women's kho-kho team received the runner's trophy.",
+      "Wrestler Deepak Kumar of Jaipur Discom won the silver medal.",
+      "The Rajasthan men's kho-kho team received the winner's trophy.",
+      "A total of 47 players from six teams of Rajasthan's power corporations participated in the competition.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राजस्थान की महिलाओं की खो-खो टीम ने रनर ट्रॉफी प्राप्त की।",
+      "जयपुर डिस्कॉम के पहलवान दीपक कुमार ने रजत पदक प्राप्त किया ।",
+      "राजस्थान के पुरुषों की खो-खो टीम ने विजेता ट्रॉफी प्राप्त की।",
+      "प्रतियोगिता में राजस्थान के विद्युत निगमों की 6 टीमों के कुल 47 खिलाड़ियों ने भाग लिया ।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 4,
+    "explanationEnglish": "The detailed distribution of medals and specific contingent composition can be mapped via tournament records.",
+    "explanationHindi": "विद्युत खेल नियंत्रण बोर्ड प्रतियोगिता के विशिष्ट पुरस्कार वितरण की आधिकारिक पुष्टि अपेक्षित है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "fixed_placeholder"
+  }
+]

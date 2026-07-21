@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "According to which Article of the Constitution of India, Legislative Council can be created or abolished in any state?",
+    "qHindi": "भारत के संविधान के किस अनुच्छेद के अन्तर्गत किसी राज्य में विधान परिषद सृजित अथवा उत्सादित की जा सकती है?",
+    "optionsEnglish": [
+      "159",
+      "179",
+      "169",
+      "189",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "159",
+      "179",
+      "169",
+      "189",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Article 169 outlines the explicit constitutional framework empowering Parliament to create or abolish a Legislative Council (Vidhan Parishad) in a state if its assembly passes a special resolution.",
+    "explanationHindi": "संविधान के अनुच्छेद 169 के तहत संसद को किसी राज्य में विधान परिषद के सृजन (बनाने) या उत्सादन (समाप्त करने) का अधिकार है, यदि विधानसभा विशेष बहुमत से प्रस्ताव पारित करे।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "संसद"
+  },
+  {
+    "qEnglish": "Consider the following statements regarding the life duration of the Parliament -\n(I) During the period of Emergency, the Parliament cannot extend its own life for a period exceeding six months at a time.\n(II) After the Proclamation of Emergency ceases to operate, extended duration cannot continue beyond a period of one year.\nChoose the correct statement/s given above -",
+    "qHindi": "संसद के जीवनकाल से सम्बन्धित निम्नलिखित कथनों पर विचार कीजिए -\n(1) आपातकाल की अवधि के दौरान संसद द्वारा अपने जीवनकाल को एक बार में छह मास से अधिक अवधि के लिए नहीं बढ़ाया जा सकता।\n(II) आपातकाल की उद्घोषणा के प्रवृत्त न रहने के पश्चात्, बढ़ी हुई अवधि एक वर्ष के आगे विस्तारित नहीं की जा सकती।\nउपर्युक्त में से सही कथन/कथनों का चयन कीजिए -",
+    "optionsEnglish": [
+      "Only (I) is correct",
+      "Both (I) and (II) are correct",
+      "Only (II) is correct",
+      "Neither (I) nor (II) is correct",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (I) सही है",
+      "दोनों (I) एवं (II) सही हैं",
+      "केवल (II) सही है",
+      "न तो (I) ना ही (II) सही है",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Both statements are completely incorrect. During a National Emergency, Parliament can extend its term by law for 'one year at a time' (not 6 months), and such extension cannot continue beyond a period of 'six months' (not one year) after the emergency has ceased to operate.",
+    "explanationHindi": "दोनों कथन गलत हैं। आपातकाल के समय संसद का कार्यकाल एक बार में 'एक वर्ष' के लिए बढ़ाया जा सकता है (न कि 6 माह), तथा आपातकाल समाप्त होने के बाद यह विस्तार '6 महीने' से अधिक नहीं रह सकता (न कि 1 वर्ष)।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "संसद"
+  },
+  {
+    "qEnglish": "According to the Rules of Procedure and Conduct of Business in Lok Sabha, Rule 377 is associated with:",
+    "qHindi": "लोक सभा में प्रक्रिया तथा कार्य-संचालन नियमों के अनुसार, नियम 377 किससे संबंधित है ?",
+    "optionsEnglish": [
+      "Power of speaker to adjourn the House or suspend the sitting.",
+      "Facilitate discussion on constitutional amendments.",
+      "Raising a matter which is not a point of order.",
+      "Objection to vote for a member on ground of personal, pecuniary or direct interest.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सदन को स्थगित करने या बैठक को निलंबित करने की अध्यक्ष की शक्ति से।",
+      "संवैधानिक संशोधनों पर चर्चा को सुगम बनाने से।",
+      "किसी ऐसे विषय को उठाने से जो व्यवस्था का प्रश्न न हो।",
+      "व्यक्तिगत, आर्थिक या प्रत्यक्ष हित के आधार पर किसी सदस्य के मत पर आपत्ति से।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Rule 377 allows members to raise matters of public importance which cannot be raised as a point of order or under other assembly rules.",
+    "explanationHindi": "नियम 377 के तहत लोक सभा सदस्य ऐसे मामलों को उठाते हैं जो व्यवस्था का प्रश्न (point of order) नहीं होते हैं और अन्य नियमों के तहत नहीं आ सकते।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "संसद"
+  }
+]

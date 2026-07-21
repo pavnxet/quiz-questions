@@ -21,5 +21,28 @@
     "explanationHindi": "दोनों कथन सत्य हैं और कारण एनक्यूएम द्वारा लक्षित क्वांटम कंप्यूटिंग के उद्देश्य और क्षमता की सटीक व्याख्या करता है।",
     "subject": "कंप्यूटर और सूचना प्रौद्योगिकी",
     "topic": "सूचना एवं संचार प्रौद्योगिकी"
+  },
+  {
+    "qEnglish": "On April 20, 2026 the Indian Army's Sapta Shakti Command signed a Memorandum of Understanding (MoU) with which institution for co-operation in the field of research & development and technological innovations?",
+    "qHindi": "20 अप्रैल, 2026 को भारतीय सेना की सप्त शक्ति कमांड ने अनुसंधान एवं विकास तथा तकनीकी नवाचारों के क्षेत्र में सहयोग के लिए किस संस्थान के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए ?",
+    "optionsEnglish": [
+      "Indian Institute of Information Technology, Kota",
+      "Indian Institute of Technology Jodhpur",
+      "Malaviya National Institute of Technology, Jaipur",
+      "Birla Institute of Technology and Science, Pilani",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भारतीय सूचना प्रौद्योगिकी संस्थान, कोटा",
+      "भारतीय प्रौद्योगिकी संस्थान, जोधपुर",
+      "मालवीय राष्ट्रीय प्रौद्योगिकी संस्थान, जयपुर",
+      "बिरला इंस्टीट्यूट ऑफ टेक्नोलॉजी एंड साइंस, पिलानी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The MoU was signed between the Indian Army's Sapta Shakti Command and MNIT Jaipur.",
+    "explanationHindi": "भारतीय सेना की सप्त शक्ति कमान ने अनुसंधान एवं विकास सहयोग हेतु एमएनआईटी (MNIT) जयपुर के साथ समझौता ज्ञापन पर हस्ताक्षर किए।",
+    "subject": "कंप्यूटर और सूचना प्रौद्योगिकी",
+    "topic": "सूचना एवं संचार प्रौद्योगिकी"
   }
 ]

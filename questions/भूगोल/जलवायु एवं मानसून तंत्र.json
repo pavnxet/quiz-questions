@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "In the month of September in India, the mean position of Easterly Jet remains around -",
+    "qHindi": "भारत में सितम्बर के महीने में, पूर्वी जेट की सामान्य स्थिति होती है -",
+    "optionsEnglish": [
+      "22° North latitude",
+      "15° North latitude",
+      "8° North latitude",
+      "30° North latitude",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "22° उत्तरी अक्षांश के आसपास",
+      "15° उत्तरी अक्षांश के आसपास",
+      "8° उत्तरी अक्षांश के आसपास",
+      "30° उत्तरी अक्षांश के आसपास",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "As the monsoon begins to retreat during September, the Tropical Easterly Jet stream gradually shifts southwards from its peak summer location (~15°N over peninsular India) toward the North Indian plains (~22°N limit boundaries).",
+    "explanationHindi": "सितंबर महीने में मानसून के लौटने के क्रम में, उपोष्ण या उष्णकटिबंधीय पूर्वी जेट स्ट्रीम दक्षिण की ओर खिसकते हुए भारत में लगभग 22° उत्तरी अक्षांश के पास पाई जाती है।",
+    "subject": "भूगोल",
+    "topic": "जलवायु एवं मानसून तंत्र"
+  }
+]

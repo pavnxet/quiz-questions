@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "The countries having the highest population density among the top ten most populated countries of the world are -",
+    "qHindi": "विश्व के सर्वाधिक जनसंख्या वाले शीर्ष दस देशों में सर्वाधिक जनसंख्या घनत्व वाले देश हैं -",
+    "optionsEnglish": [
+      "Brazil and Nigeria",
+      "Bangladesh and Pakistan",
+      "Bangladesh and India",
+      "Brazil and India",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "ब्राज़ील तथा नाइजीरिया",
+      "बांग्लादेश तथा पाकिस्तान",
+      "बांग्लादेश तथा भारत",
+      "ब्राज़ील तथा भारत",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Among the top 10 most populous global countries, Bangladesh holds the absolute highest density by a large margin, followed sequentially by India.",
+    "explanationHindi": "दुनिया के शीर्ष 10 सबसे अधिक आबादी वाले देशों में, बांग्लादेश का जनसंख्या घनत्व सबसे अधिक है, और उसके बाद भारत का स्थान आता है।",
+    "subject": "भूगोल",
+    "topic": "जनसंख्या वितरण एवं प्रवास"
+  }
+]

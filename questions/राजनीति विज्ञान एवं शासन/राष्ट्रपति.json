@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "Consider the following statements regarding Vice President of India -\n(I) He is the Ex-officio Chairman of the Council of States.\n(II) President of India administers him the Oath of Office of the Chairman of the Council of States.\nChoose the correct answer -",
+    "qHindi": "भारत के उपराष्ट्रपति के संबंध में निम्नलिखित कथनों पर विचार कीजिए -\n(I) वह राज्यसभा का पदेन सभापति होता है।\n(II) भारत के राष्ट्रपति द्वारा उसे राज्यसभा के सभापति पद की शपथ दिलाई जाती है।\nसही उत्तर चुनिए -",
+    "optionsEnglish": [
+      "Neither (I) nor (II) is correct",
+      "Only (II) is correct",
+      "Both (I) and (II) are correct",
+      "Only (I) is correct",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "न तो (I) ना ही (II) सही है",
+      "केवल (II) सही है",
+      "(I) व (II) दोनों सही हैं",
+      "केवल (I) सही है",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Statement I is true (Article 89). Statement II is incorrect because the Vice President takes an oath as the 'Vice President of India' under Article 69 administered by the President, not a separate secondary oath specifically for the title of Chairman.",
+    "explanationHindi": "उपराष्ट्रपति राज्यसभा का पदेन सभापति होता है (कथन I सही है), लेकिन उसे राष्ट्रपति द्वारा केवल 'उपराष्ट्रपति पद' की शपथ दिलाई जाती है, सभापति पद की अलग से कोई शपथ नहीं होती (कथन II गलत है)।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राष्ट्रपति"
+  },
+  {
+    "qEnglish": "Which of the following statements regarding the impeachment of the President is correct?\n(i) The charges can be preferred by either House of Parliament.\n(ii) A 14-day notice must be given before moving the resolution.\n(iii) The resolution should be passed by absolute majority of the total membership.\n(iv) The other House investigates the charges.\nChoose the correct answer -",
+    "qHindi": "राष्ट्रपति के महाभियोग के सम्बंध में निम्नलिखित कथनों में से कौनसा सही है?\n(i) आरोप संसद के किसी भी सदन द्वारा लगाए जा सकते हैं।\n(ii) प्रस्ताव प्रस्तुत करने से पूर्व 14 दिन का नोटिस दिया जाना आवश्यक है।\n(iii) प्रस्ताव को कुल सदस्य संख्या के पूर्ण बहुमत से पारित किया जाना चाहिए।\n(iv) दूसरा सदन आरोपों की जांच करता है।\nसही उत्तर चुनिए -",
+    "optionsEnglish": [
+      "(i), (ii) and (iv)",
+      "(ii) and (iv)",
+      "(i) and (iii)",
+      "(i), (ii), (iii) and (iv)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(i), (ii) और (iv)",
+      "(ii) और (iv)",
+      "(i) और (iii)",
+      "(i), (ii), (iii) और (iv)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Under Article 61, impeachment resolutions must be passed by a special majority of not less than two-thirds of the total membership of the house, not a simple absolute majority, which means statement (iii) is technically excluded from standard legal precision options.",
+    "explanationHindi": "महाभियोग के संकल्प को सदन की कुल सदस्य संख्या के कम से कम दो-तिहाई (2/3) बहुमत से पारित होना अनिवार्य है, न कि साधारण पूर्ण बहुमत से। अतः (i), (ii) और (iv) सही तत्वों को निरूपित करते हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राष्ट्रपति"
+  },
+  {
+    "qEnglish": "Among the following roles, which one is not assigned to the President of India by the Constitution ?",
+    "qHindi": "भारत के राष्ट्रपति को संविधान द्वारा निम्नांकित में से कौन सी एक भूमिका प्रदान नहीं की गई है ?",
+    "optionsEnglish": [
+      "Supreme Commander of the Defence Forces of the Union",
+      "Formal Executive Head of the Government of India",
+      "An organ of the Parliament",
+      "Chairman of the joint sitting of both Houses of Parliament",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "संघ के रक्षा बलों का सर्वोच्च कमांडर",
+      "भारत सरकार का औपचारिक कार्यपालिका-प्रधान",
+      "संसद का एक अंग",
+      "संसद के दोनों सदनों की संयुक्त बैठक का सभापति",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The joint sitting of both Houses of Parliament is presided over by the Speaker of the Lok Sabha, not by the President.",
+    "explanationHindi": "संसद के दोनों सदनों की संयुक्त बैठक की अध्यक्षता लोक सभा अध्यक्ष करता है, राष्ट्रपति नहीं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राष्ट्रपति"
+  }
+]

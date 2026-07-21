@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "A member of the Rajasthan Public Service Commission may resign by writing under his hand addressed to whom?",
+    "qHindi": "राजस्थान लोक सेवा आयोग का सदस्य किसको सम्बोधित करते हुए अपने हस्ताक्षर से लिखित में त्यागपत्र दे सकता है?",
+    "optionsEnglish": [
+      "The President",
+      "The Chief Minister",
+      "The Governor",
+      "The Prime Minister",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राष्ट्रपति",
+      "मुख्यमंत्री",
+      "राज्यपाल",
+      "प्रधानमंत्री",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "According to Article 316(2)(a) of the Indian Constitution, a member of a State Public Service Commission may resign from their office by writing addressed to the Governor of the State.",
+    "explanationHindi": "संविधान के अनुच्छेद 316(2)(a) के अनुसार, राज्य लोक सेवा आयोग (RPSC) का कोई सदस्य राज्यपाल को संबोधित कर अपना लिखित त्यागपत्र सौंप सकता है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राजस्थान लोक सेवा आयोग"
+  },
+  {
+    "qEnglish": "How many number of members for Rajasthan Public Service Commission are mentioned in the Constitution of India?",
+    "qHindi": "भारत के संविधान में राजस्थान लोक सेवा आयोग की कितनी सदस्य संख्या उल्लिखित है ?",
+    "optionsEnglish": [
+      "Three",
+      "Seven",
+      "Ten",
+      "The Constitution does not specify the number of members.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "तीन",
+      "सात",
+      "दस",
+      "संविधान में सदस्य संख्या उल्लिखित नहीं है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Article 318 of the Constitution empowers the Governor of the state to determine the number of members of the Commission; the exact count is not defined inside the Constitution document itself.",
+    "explanationHindi": "संविधान के अनुच्छेद 318 के तहत आयोग के सदस्यों की संख्या निर्धारित करने की शक्ति राज्यपाल को दी गई है; संविधान में स्वयं विशिष्ट संख्या का उल्लेख नहीं है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राजस्थान लोक सेवा आयोग"
+  }
+]

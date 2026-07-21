@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following is the most dominant species of Tropical Moist Deciduous Forest?",
+    "qHindi": "निम्नलिखित में से कौनसी एक उष्णकटिबंधीय आर्द्र पर्णपाती वन की सबसे प्रमुख प्रजाति है?",
+    "optionsEnglish": [
+      "Mahogany",
+      "Sheesham",
+      "Teak",
+      "Jamun",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "महोगनी",
+      "शीशम",
+      "सागवान",
+      "जामुन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Teak (Tectona grandis) is the absolute dominant commercial and ecological tree species characterizing Indian tropical moist deciduous forest formations.",
+    "explanationHindi": "सागवान (Teak) उष्णकटिबंधीय आर्द्र पर्णपाती वनों (Tropical Moist Deciduous Forests) की सबसे प्रमुख और आर्थिक रूप से महत्वपूर्ण वृक्ष प्रजाति है।",
+    "subject": "भूगोल",
+    "topic": "वन्य जीव जंतु एवं अभ्यारण्य"
+  }
+]

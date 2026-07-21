@@ -1,0 +1,140 @@
+[
+  {
+    "qEnglish": "When a person produces an intended effect on the behaviour and emotions of another person, then this indicates which psycho-social motive?",
+    "qHindi": "जब कोई व्यक्ति किसी दूसरे व्यक्ति के व्यवहार और संवेगों पर इच्छित प्रभाव उत्पन्न करता है, तो यह किस मनो-सामाजिक प्रेरक को इंगित करता है?",
+    "optionsEnglish": [
+      "Need for Affiliation",
+      "Need for Exploration",
+      "Need for Achievement",
+      "Need for Power",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "संबद्धता की आवश्यकता",
+      "अन्वेषण की आवश्यकता",
+      "उपलब्धि की आवश्यकता",
+      "शक्ति की आवश्यकता",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The 'Need for Power' (David McClelland's psychosocial framework) describes an individual's structural motivation to control, influence, or alter the behaviors and emotional states of others.",
+    "explanationHindi": "मैकक्लीलैंड के सिद्धांत के अनुसार, दूसरों के व्यवहार, विचारों और संवेगों को प्रभावित या नियंत्रित करने की इच्छा 'शक्ति की आवश्यकता' (Need for Power) प्रेरक कहलाती है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिप्रेरणा: अधिगम की प्रक्रिया में अर्थ और भूमिका, उपलब्धि अभिप्रेरणा"
+  },
+  {
+    "qEnglish": "As per Maslow's Hierarchy of Needs, if a student feels insecure and as a result he/she has trouble focusing on academic learning, this is an example of?",
+    "qHindi": "मास्लो के आवश्यकताओं के पदानुक्रम के अनुसार, यदि कोई विद्यार्थी असुरक्षित महसूस करता है और परिणामस्वरूप उसे अकादमिक अधिगम पर ध्यान केंद्रित करने में कठिनाई होती है, तो यह एक उदाहरण है -",
+    "optionsEnglish": [
+      "Physical needs",
+      "Cognitive needs",
+      "Self-actualisation",
+      "Safety and belongingness",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "शारीरिक आवश्यकताएं",
+      "संज्ञानात्मक आवश्यकताएं",
+      "आत्म-वास्तवीकरण",
+      "सुरक्षा और अपनापन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "According to Abraham Maslow, lower-tier deficiency needs like safety, protection, and security must be satisfied first before an individual can actively deploy mental energies toward higher cognitive or academic growth.",
+    "explanationHindi": "मास्लो के अनुसार, उच्च स्तरीय आवश्यकताओं (जैसे संज्ञानात्मक विकास) पर ध्यान केंद्रित करने से पहले बुनियादी स्तर की 'सुरक्षा और अपनेपन' (Safety and belongingness) की आवश्यकताओं का पूरा होना अनिवार्य है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिप्रेरणा: अधिगम की प्रक्रिया में अर्थ और भूमिका, उपलब्धि अभिप्रेरणा"
+  },
+  {
+    "qEnglish": "Which of the following are examples of Psycho-social motives ?\n(a) Need for Achievement\n(b) Need for Hunger\n(c) Need for Thirst\n(d) Need for Affiliation\n(e) Need for Curiosity and Exploration\n(f) Need for Self-actualization\nChoose the correct code:",
+    "qHindi": "निम्नलिखित में से कौन से मनो-सामाजिक प्रेरकों के उदाहरण हैं ?\n(a) उपलब्धि की आवश्यकता\n(b) भूख की आवश्यकता\n(c) प्यास की आवश्यकता\n(d) संबद्धता की आवश्यकता\n(e) जिज्ञासा और अन्वेषण की आवश्यकता\n(f) आत्म-वास्तवीकरण की आवश्यकता\nसही कूट का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (d), (e) and (f) only",
+      "(b), (c), (e) and (f) only",
+      "(a), (d) and (e) only",
+      "(a), (b), (c) and (d) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (d), (e) एवं (f)",
+      "केवल (b), (c), (e) एवं (f)",
+      "केवल (a), (d) एवं (e)",
+      "केवल (a), (b), (c) एवं (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Hunger (b) and Thirst (c) are physiological/biological motives, whereas achievement, affiliation, curiosity, and self-actualization are psychosocial motives.",
+    "explanationHindi": "भूख (b) और प्यास (c) जैविक/शारीरिक प्रेरक हैं, जबकि उपलब्धि, संबद्धता, जिज्ञासा और आत्म-वास्तवीकरण मनो-सामाजिक प्रेरक हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिप्रेरणा: अधिगम की प्रक्रिया में अर्थ और भूमिका, उपलब्धि अभिप्रेरणा"
+  },
+  {
+    "qEnglish": "In the context of need for achievement motivation, which one of the following is not the characteristic of students who believe that intelligence is changeable and can be enhanced by experiences and efforts ?",
+    "qHindi": "उपलब्धि प्रेरणा की आवश्यकता के संदर्भ में, निम्नलिखित में से कौन सा उन छात्रों का लक्षण नहीं है जो मानते हैं कि बुद्धि परिवर्तनशील है और अनुभवों और प्रयासों से इसमें वृद्धि हो सकती है ?",
+    "optionsEnglish": [
+      "They tend to show an external locus of control.",
+      "They increase their efforts when faced challenges.",
+      "They develop new strategies and get involved in new tasks.",
+      "They tend to show an internal locus of control.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "उनमें बाह्य नियंत्रण केंद्र की प्रवृत्ति होती है।",
+      "चुनौतियों का सामना करने पर वे अपने प्रयासों को बढ़ाते हैं।",
+      "वे नई रणनीतियाँ विकसित करते हैं और नए कार्यों में संलग्न होते हैं।",
+      "उनमें आंतरिक नियंत्रण केंद्र की प्रवृत्ति होती है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Students with a growth mindset (believing intelligence is changeable) show an internal locus of control, not an external one.",
+    "explanationHindi": "जो छात्र बुद्धि को परिवर्तनशील मानते हैं, वे आंतरिक नियंत्रण केंद्र प्रदर्शित करते हैं, बाह्य नहीं। अतः विकल्प 1 उनका लक्षण नहीं है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिप्रेरणा: अधिगम की प्रक्रिया में अर्थ और भूमिका, उपलब्धि अभिप्रेरणा"
+  },
+  {
+    "qEnglish": "According to which theory motivation is driven by the biological needs to maintain internal balance?",
+    "qHindi": "कौन से सिद्धान्त के अनुसार अभिप्रेरणा, जैविक आवश्यकताओं द्वारा आंतरिक संतुलन बनाए रखने के लिए संचालित होती है ?",
+    "optionsEnglish": [
+      "Achievement - Motivation theory",
+      "Intrinsic - Motivation theory",
+      "Drive Reduction theory",
+      "Social Urges theory",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "उपलब्धि अभिप्रेरणा सिद्धान्त",
+      "आंतरिक अभिप्रेरणा सिद्धान्त",
+      "प्रणोद न्यूनीकरण सिद्धान्त",
+      "सामाजिक आग्रह सिद्धान्त",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Clark Hull's Drive Reduction Theory posits that biological needs create drives to maintain homeostasis (internal balance).",
+    "explanationHindi": "क्लार्क हल का प्रणोद न्यूनीकरण सिद्धांत बताता है कि जैविक आवश्यकताएं आंतरिक संतुलन (होमियोस्टैसिस) बनाए रखने के लिए संचालित होती हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिप्रेरणा: अधिगम की प्रक्रिया में अर्थ और भूमिका, उपलब्धि अभिप्रेरणा"
+  },
+  {
+    "qEnglish": "Which of the following statement is not correct about the intrinsic motivation?",
+    "qHindi": "निम्नलिखित में से कौन सा कथन आंतरिक अभिप्रेरणा के संबंध में सही नहीं है ?",
+    "optionsEnglish": [
+      "Challenge is related to the extent to which an individual enjoys the excitement that accompanies a new challenge.",
+      "Enjoyment is related to the pleasure that an individual may obtain from carrying on the task.",
+      "Mastery is related to the sense of accomplishment that an individual experienced on successfully carrying out a difficult task.",
+      "Feedback and praise can be referred to as examples of intrinsic motivation.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "चुनौती का संबंध इस बात से है कि कोई व्यक्ति किसी नई चुनौती से मिलने वाले रोमांच का कितना आनंद लेता है।",
+      "आनंद का संबंध उस सुख से है जो किसी व्यक्ति को कार्य करने से प्राप्त होता है।",
+      "निपुणता उस उपलब्धि की अनुभूति से संबंधित है, जो किसी व्यक्ति को किसी कठिन कार्य को सफलतापूर्वक पूरा करने पर प्राप्त होती है।",
+      "प्रतिपुष्टि और प्रशंसा को आंतरिक अभिप्रेरणा के उदाहरणों के रूप में संदर्भित किया जा सकता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Feedback and praise come from external environments, rendering them forms of extrinsic motivation rather than intrinsic motivation.",
+    "explanationHindi": "प्रतिपुष्टि और प्रशंसा बाहरी वातावरण से मिलती है, इसलिए ये बाह्य अभिप्रेरणा के उदाहरण हैं, न कि आंतरिक अभिप्रेरणा के।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिप्रेरणा: अधिगम की प्रक्रिया में अर्थ और भूमिका, उपलब्धि अभिप्रेरणा"
+  }
+]

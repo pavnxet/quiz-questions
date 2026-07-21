@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "The power of the Election Commission to appoint an election tribunal for the decision of doubts and disputes arising out of or in connection with elections to Parliament and to the Legislatures of States was omitted by which of the following amendments in the Constitution of India?",
+    "qHindi": "संसद तथा राज्यों की विधानसभाओं के चुनावों से उत्पन्न संदेहों और विवादों के निपटारे के लिए निर्वाचन न्यायाधिकरण की नियुक्ति करने की निर्वाचन आयोग की शक्ति को भारत के संविधान में किये गए निम्नलिखित में से कौनसे संशोधन द्वारा हटा दिया गया था?",
+    "optionsEnglish": [
+      "17th",
+      "20th",
+      "19th",
+      "18th",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "17वें",
+      "20वें",
+      "19वें",
+      "18वें",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The 19th Constitutional Amendment Act of 1966 abolished the system of specialized Election Tribunals and transferred the primary jurisdiction of trial over election petitions directly to the High Courts.",
+    "explanationHindi": "19वें संविधान संशोधन अधिनियम (1966) द्वारा चुनाव न्यायाधिकरणों (Election Tribunals) की व्यवस्था समाप्त कर चुनाव याचिकाओं की सुनवाई का सीधा अधिकार उच्च न्यायालयों को दिया गया।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "संवैधानिक संशोधन"
+  },
+  {
+    "qEnglish": "Which neighbouring country of India is associated with the 100th Amendment of the Constitution of India?",
+    "qHindi": "भारत के संविधान के सौ वें संशोधन का सम्बन्ध भारत के किस पड़ोसी देश से है?",
+    "optionsEnglish": [
+      "Pakistan",
+      "Bangladesh",
+      "Sri Lanka",
+      "Maldives",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पाकिस्तान",
+      "बांग्लादेश",
+      "श्रीलंका",
+      "मालदीव",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The 100th Constitutional Amendment Act of 2015 ratified the Land Boundary Agreement between India and Bangladesh.",
+    "explanationHindi": "100वां संविधान संशोधन अधिनियम (2015) भारत और बांग्लादेश के बीच भू-सीमा समझौते की पुष्टि से संबंधित है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "संवैधानिक संशोधन"
+  }
+]

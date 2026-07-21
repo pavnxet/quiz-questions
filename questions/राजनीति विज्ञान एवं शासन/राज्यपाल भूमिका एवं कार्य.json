@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Consider the following statements regarding the Governor of Rajasthan -\n(I) If the charge of misbehaviour against the Governor of Rajasthan is proved in the Supreme Court, the Parliament of India can remove him from his office.\n(II) The Governor of Rajasthan appoints the Judges of High Court of Rajasthan.\nChoose the correct answer with the help of code given below -",
+    "qHindi": "राजस्थान के राज्यपाल के बारे में निम्नलिखित कथनों पर विचार कीजिए -\n(I) यदि उच्चतम न्यायालय में राजस्थान के राज्यपाल के विरुद्ध कदाचार का आरोप सिद्ध होता है, तो भारत की संसद उन्हें उनके पद से हटा सकती है।\n(II) राजस्थान उच्च न्यायालय के न्यायाधीशों की नियुक्ति राजस्थान का राज्यपाल करता है।\nनीचे दिए गए कूट की सहायता से सही उत्तर का चयन कीजिए -",
+    "optionsEnglish": [
+      "Statement (I) is incorrect but (II) is correct",
+      "Statement (I) is correct but (II) is incorrect",
+      "Both statements (I) and (II) are incorrect",
+      "Both statements (I) and (II) are correct",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कथन (I) गलत है किंतु (II) सही है",
+      "कथन (I) सही है किंतु (II) गलत है",
+      "दोनों कथन (I) तथा (II) गलत हैं",
+      "दोनों कथन (I) तथा (II) सही हैं",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Both statements are completely incorrect. The Governor holds office during the pleasure of the President (no parliamentary removal process applies), and High Court Judges are appointed by the President of India, not the State Governor.",
+    "explanationHindi": "दोनों कथन गलत हैं। राज्यपाल राष्ट्रपति के प्रसादपर्यंत पद धारण करता है (संसद द्वारा हटाने का कोई प्रावधान नहीं है) तथा उच्च न्यायालय के न्यायाधीशों की नियुक्ति देश के राष्ट्रपति द्वारा की जाती है, न कि राज्यपाल द्वारा।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राज्यपाल: भूमिका एवं कार्य"
+  },
+  {
+    "qEnglish": "Which Article of the Constitution of India makes available to the governor the opportunity to work according to his discretion?",
+    "qHindi": "भारत के संविधान का कौन सा अनुच्छेद राज्यपाल को अपने विवेकानुसार कार्य करने का अवसर उपलब्ध करवाता है?",
+    "optionsEnglish": [
+      "Article 159",
+      "Article 162",
+      "Article 163",
+      "Article 164",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अनुच्छेद 159",
+      "अनुच्छेद 162",
+      "अनुच्छेद 163",
+      "अनुच्छेद 164",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Article 163 explicitly provides for a Council of Ministers to aid and advise the Governor, except in cases where he is required to exercise his discretion.",
+    "explanationHindi": "अनुच्छेद 163 स्पष्ट रूप से राज्यपाल को सहायता और सलाह देने के लिए मंत्रिपरिषद का प्रावधान करता है, उन कार्यों को छोड़कर जहां उन्हें अपने विवेक का उपयोग करना होता है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राज्यपाल: भूमिका एवं कार्य"
+  }
+]

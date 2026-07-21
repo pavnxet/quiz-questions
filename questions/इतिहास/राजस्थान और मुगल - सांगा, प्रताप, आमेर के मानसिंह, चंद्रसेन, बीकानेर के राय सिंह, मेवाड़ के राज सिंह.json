@@ -1,0 +1,94 @@
+[
+  {
+    "qEnglish": "Who among the following fought the \"Battle of Kansaro ki Pol\" against the Mughals?",
+    "qHindi": "निम्न में से किसने मुगलों के विरुद्ध \"कंसारों की पोल की लड़ाई लड़ी थी?",
+    "optionsEnglish": [
+      "Rao Chandra Sen",
+      "Maharana Raj Singh",
+      "Maharana Sanga",
+      "Maharana Pratap",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राव चन्द्रसेन",
+      "महाराणा राज सिंह",
+      "महाराणा सांगा",
+      "महाराणा प्रताप",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Rao Chandrasen of Marwar fought various guerrilla encounters against the expanding forces of Mughal Emperor Akbar, including the local engagement known as the Battle of Kansaro ki Pol.",
+    "explanationHindi": "मारवाड़ी शासक राव चन्द्रसेन ने अकबर की मुगल सेनाओं के विरुद्ध छापामार युद्ध के दौरान विभिन्न क्षेत्रों में संघर्ष किया, जिसमें कंसारों की पोल का युद्ध प्रमुख है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान और मुगल - सांगा, प्रताप, आमेर के मानसिंह, चंद्रसेन, बीकानेर के राय सिंह, मेवाड़ के राज सिंह"
+  },
+  {
+    "qEnglish": "Arrange in chronological order the delegations which were sent under the leadership of various Mughal officers to Maharana Pratap by Akbar and choose the right code given below -\n(A) Bhagwant Das\n(B) Man Singh\n(C) Todarmal\n(D) Jalal Khan",
+    "qHindi": "महाराणा प्रताप के पास अकबर द्वारा विभिन्न मुगल अधिकारियों के नेतृत्व में भेजे गए शिष्टमण्डलों को कालक्रमानुसार व्यवस्थित करिए तथा नीचे दिए गए कूट की सहायता से सही विकल्प चुनिए -\n(A) भगवन्त दास\n(B) मानसिंह\n(C) टोडरमल\n(D) जलाल खाँ",
+    "optionsEnglish": [
+      "(A), (B), (D), (C)",
+      "(B), (A), (D), (C)",
+      "(C), (A), (D), (B)",
+      "(D), (B), (A), (C)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A), (B), (D), (C)",
+      "(B), (A), (D), (C)",
+      "(C), (A), (D), (B)",
+      "(D), (B), (A), (C)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The standard chronological order of the four peace missions sent by Akbar to Maharana Pratap follows the acronym JMBT: Jalal Khan (Nov 1572), Man Singh (June 1573), Bhagwant Das (Sept 1573), and Todarmal (Dec 1573). This maps to D, B, A, C.",
+    "explanationHindi": "अकबर द्वारा महाराणा प्रताप के पास भेजे गए चार शिष्टमंडलों का सही कालक्रम (JMBT) है: जलाल खाँ (1572) -> मानसिंह (1573) -> भगवन्त दास (1573) -> टोडरमल (1573)। अतः सही विकल्प (D), (B), (A), (C) है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान और मुगल - सांगा, प्रताप, आमेर के मानसिंह, चंद्रसेन, बीकानेर के राय सिंह, मेवाड़ के राज सिंह"
+  },
+  {
+    "qEnglish": "To whom did Akbar assign Jodhpur in 1572 A.D.?",
+    "qHindi": "अकबर ने 1572 ई. में जोधपुर किसे सौंपा था ?",
+    "optionsEnglish": [
+      "Mansingh (Jaipur)",
+      "Ramsingh (Marwar)",
+      "Jaisingh (Jaipur)",
+      "Raisingh (Bikaner)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मानसिंह (जयपुर)",
+      "रामसिंह (मारवाड़)",
+      "जयसिंह (जयपुर)",
+      "रायसिंह (बीकानेर)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Akbar placed Jodhpur under the administration of Rai Singh of Bikaner in 1572 A.D.",
+    "explanationHindi": "अकबर ने 1572 ईस्वी में मारवाड़ के राव चंद्रसेन के विरोध के कारण जोधपुर का प्रशासन बीकानेर के रायसिंह को सौंप दिया था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान और मुगल - सांगा, प्रताप, आमेर के मानसिंह, चंद्रसेन, बीकानेर के राय सिंह, मेवाड़ के राज सिंह"
+  },
+  {
+    "qEnglish": "After the battle of Haldighati, how many times did Akbar conduct military campaigns from 1577 to 1579 A.D. to conquer Mewar ?",
+    "qHindi": "हल्दीघाटी युद्ध के पश्चात् मेवाड़ पर विजय हेतु 1577 से 1579 ई. तक अकबर ने कितनी बार सैनिक अभियान किये थे ?",
+    "optionsEnglish": [
+      "One",
+      "Two",
+      "Three",
+      "Four",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "एक",
+      "दो",
+      "तीन",
+      "चार",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Akbar sent Shahbaz Khan three times consecutively between 1577 and 1579 to attack Mewar and capture Kumbhalgarh.",
+    "explanationHindi": "अकबर ने 1577 से 1579 ई. के बीच शाहबाज़ खान के नेतृत्व में मेवाड़ (महाराणा प्रताप) के विरुद्ध तीन बार सैन्य अभियान भेजे थे।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान और मुगल - सांगा, प्रताप, आमेर के मानसिंह, चंद्रसेन, बीकानेर के राय सिंह, मेवाड़ के राज सिंह"
+  }
+]

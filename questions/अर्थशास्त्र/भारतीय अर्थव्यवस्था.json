@@ -1,0 +1,255 @@
+[
+  {
+    "qEnglish": "Which of the following statement regarding Micro, Small and Medium Enterprises as per Economic Survey 2025-26 is not correct?",
+    "qHindi": "आर्थिक सर्वेक्षण 2025-26 के अनुसार, सूक्ष्म, लघु और मध्यम उद्यम के संबंध में निम्न में से कौन सा कथन सही नहीं है ?",
+    "optionsEnglish": [
+      "It accounts around 30 percent of exports from India.",
+      "It contributes 31.1 percent of GDP of India.",
+      "It is the second largest employer in India after agriculture.",
+      "It accounts approximately 35.4 percent of manufacturing in India.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "यह भारत के निर्यात का लगभग 30 प्रतिशत हिस्सा है।",
+      "यह भारत के सकल घरेलू उत्पाद में 31.1 प्रतिशत का योगदान देता है।",
+      "यह भारत में कृषि के बाद दूसरा सबसे बड़ा रोज़गार प्रदाता है।",
+      "यह भारत के विनिर्माण का लगभग 35.4 प्रतिशत हिस्सा है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "According to the Economic Survey data dynamics, the GDP share statement listed in option 2 is historically incorrect or modified.",
+    "explanationHindi": "आर्थिक सर्वेक्षण के आँकड़ों के अनुसार, विकल्प 2 में दिया गया सकल घरेलू उत्पाद (GDP) में योगदान का कथन सही नहीं है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Which of the following are the components of the Pradhan Mantri Annadata Aay Sarankshan Abhiyan (PM-AASHA)?\n(A) Price Support Scheme\n(B) Market Intervention Scheme\n(C) Price Stabilisation Fund\nChoose the correct option:",
+    "qHindi": "निम्नलिखित में से कौन से प्रधानमंत्री अन्नदाता आय संरक्षण अभियान (पीएम-आशा) के घटक हैं?\n(A) मूल्य समर्थन योजना\n(B) बाज़ार हस्तक्षेप योजना\n(C) कीमत स्थिरीकरण निधि\nसही विकल्प चुनें :",
+    "optionsEnglish": [
+      "Only (B) and (C)",
+      "Only (C) and (A)",
+      "All (A), (B) and (C)",
+      "Only (A) and (B)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (B) और (C)",
+      "केवल (C) और (A)",
+      "(A), (B) और (C) सभी",
+      "केवल (A) और (B)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "PM-AASHA includes Price Support Scheme (PSS), Price Deficiency Payment Scheme (PDPS), and Pilot of Private Procurement & Stockist Scheme (PPSS). Recently components like MIS and PSF have also been integrated under its broader umbrella scheme operations.",
+    "explanationHindi": "पीएम-आशा (PM-AASHA) के व्यापक पुनर्गठन ढांचे के तहत इन सभी योजनाओं के घटकों को शामिल किया गया है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Consider the following statements regarding the service sector of India and choose the correct answer from the codes given below :\n(i) Services accounted for an average 65.3 percent of global foreign direct investment during 2022-2024.\n(ii) Energy and gas supply, information and communication, construction and transportation together absorbed over 88 percent of services FDI.\n(iii) During financial year 2025, the total exports registered a 6.1 percent growth, the highest level of exports ever recorded mainly due to the growth of services exports.",
+    "qHindi": "भारत के सेवा क्षेत्र के सन्दर्भ में निम्न कथनों पर विचार कीजिए तथा नीचे दिए गए कूटों का प्रयोग करते हुए सही उत्तर चुनिए :\n(i) 2022-2024 के दौरान वैश्विक प्रत्यक्ष विदेशी निवेश में सेवाओं का औसत हिस्सा 65.3 प्रतिशत था ।\n(ii) ऊर्जा एवं गैस आपूर्ति, सूचना एवं संचार, निर्माण एवं परिवहन को कुल मिलाकर सेवाओं के प्रत्यक्ष विदेशी निवेश का 88 प्रतिशत से ज्यादा हिस्सा प्राप्त हुआ है।\n(iii) वित्त वर्ष 2025 में कुल निर्यात 6.1 प्रतिशत वृद्धि को दर्शाता है, यह अब तक रिकॉर्ड किए गए निर्यात का उच्चतम स्तर है, जो कि मुख्यतः सेवाओं के निर्यात में वृद्धि के कारण है।",
+    "optionsEnglish": [
+      "Only (ii) and (iii) are correct.",
+      "Only (i) and (iii) are correct.",
+      "All (i), (ii) and (iii) are correct.",
+      "Only (i) and (ii) are correct.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (ii) और (iii) सही हैं।",
+      "केवल (i) और (iii) सही हैं।",
+      "सभी (i), (ii) और (iii) सही हैं।",
+      "केवल (i) और (ii) सही हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "All statements line up with the service sector indicators of the latest Indian Economic Survey trends.",
+    "explanationHindi": "सभी तीनों कथन हालिया आर्थिक समीक्षा के सेवा क्षेत्र संकेतकों के अनुरूप हैं।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Which statement is not correct regarding India's exports ?",
+    "qHindi": "भारत के निर्यात के सम्बन्ध में कौन सा कथन सही नहीं है ?",
+    "optionsEnglish": [
+      "India's share in global commercial services exports has increased from 2 percent to 4.3 percent from calendar year 2005 to 2024.",
+      "Computer services exports accounted for more than two-thirds of India's total software services exports in FY 2025.",
+      "Europe has the largest share of software exports from India in 2025, compared to the US.",
+      "India's services trade surplus consistently offsetting a large portion merchandise trade deficit.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "वैश्विक वाणिज्यिक सेवा निर्यात में कैलेण्डर वर्ष 2005 से 2024 तक भारत की साझेदारी 2 प्रतिशत से बढ़कर 4.3 प्रतिशत हो गई है।",
+      "विते वर्ष 2025 में भारत के कुल सॉफ्टवेयर सेवा निर्यात में कम्प्यूटर सेवाओं के निर्यात की साझेदारी दो-तिहाई से अधिक रही है।",
+      "वर्ष 2025 में भारत के सॉफ्टवेयर निर्यात में सबसे अधिक साझेदारी अमेरिका की तुलना में यूरोप की रही है।",
+      "भारत का सेवा व्यापार अधिशेष निरंतर वस्तु व्यापार घाटे के बड़े हिस्से को संतुलित कर रहा है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The USA remains the largest destination for India's software service exports, making statement 3 incorrect.",
+    "explanationHindi": "भारत के सॉफ्टवेयर सेवा निर्यात के लिए अमेरिका सबसे बड़ा गंतव्य बना हुआ है, न कि यूरोप; इसलिए कथन 3 गलत है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Which of the following is the correct descending order of the top three oilseed-producing state in India in the year 2024-25?",
+    "qHindi": "भारत में वर्ष 2024-25 में शीर्ष तीन तिलहन उत्पादक राज्य अवरोही क्रम में निम्न में से कौन से हैं?",
+    "optionsEnglish": [
+      "Uttar Pradesh, Rajasthan and Madhya Pradesh",
+      "Rajasthan, Madhya Pradesh and Gujarat",
+      "Rajasthan, Madhya Pradesh and Maharashtra",
+      "Gujarat, Rajasthan and Madhya Pradesh",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "उत्तर प्रदेश, राजस्थान और मध्य प्रदेश",
+      "राजस्थान, मध्य प्रदेश और गुजरात",
+      "राजस्थान, मध्य प्रदेश और महाराष्ट्र",
+      "गुजरात, राजस्थान और मध्य प्रदेश",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Rajasthan, Madhya Pradesh, and Maharashtra form the top three oilseed-producing states in India.",
+    "explanationHindi": "भारत में शीर्ष तीन तिलहन उत्पादक राज्य अवरोही क्रम में क्रमशः राजस्थान, मध्य प्रदेश और महाराष्ट्र हैं।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "'Communication' belongs to which economic activity?",
+    "qHindi": "'संचार' किस आर्थिक क्रिया के अन्तर्गत आता है?",
+    "optionsEnglish": [
+      "द्वितीयक",
+      "प्राथमिक",
+      "चतुर्थक",
+      "तृतीयक",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "द्वितीयक",
+      "प्राथमिक",
+      "चतुर्थक",
+      "तृतीयक",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Communication is a service industry, which classifies it under tertiary economic activities.",
+    "explanationHindi": "संचार एक सेवा क्षेत्र का हिस्सा है, जो इसे तृतीयक आर्थिक क्रियाओं के अंतर्गत वर्गीकृत करता है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "According to Economic Survey 2025-26, consider the following statements regarding oilseeds development in India:\nA. Between 2014-15 and 2024-25, the area under oilseeds increased by over 22 percent.\nB. Between 2014-15 and 2024-25, the productivity of oilseeds increased by about 31 percent.",
+    "qHindi": "आर्थिक सर्वेक्षण 2025-26 के अनुसार, भारत में तिलहन विकास के संबंध में निम्न कथनों पर विचार कीजिए:\nA. 2014-15 और 2024-25 के मध्य तिलहन के अन्तर्गत क्षेत्रफल में 22 प्रतिशत से अधिक वृद्धि हुई।\nB. 2014-15 और 2024-25 के मध्य तिलहन उत्पादकता में लगभग 31 प्रतिशत वृद्धि हुई ।",
+    "optionsEnglish": [
+      "Only A is correct.",
+      "Only B is correct.",
+      "Both A and B are correct.",
+      "Both A and B are incorrect.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "Ref: केवल A सही है।",
+      "केवल B सही है।",
+      "A और B दोनों सही हैं।",
+      "A और B दोनों गलत हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Both statements appropriately reflect the decade-long growth trajectories detailed in the Economic Survey regarding oilseeds production parameters.",
+    "explanationHindi": "आर्थिक सर्वेक्षण के आंकड़ों के अनुसार तिलहन के क्षेत्रफल और उत्पादकता दोनों में उल्लेखित वृद्धि दर्ज की गई है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Read the following statements and select the correct answer using codes given below:\n(a) India's share in global merchandise exports was 2.2 percent in 2024.\n(b) India's share in global merchandise imports was 2.8 percent in 2024.\n(c) India's rank in global exports was 18th in 2024.\n(d) India's rank in global imports was 10th in 2024.",
+    "qHindi": "निम्न कथनों का अध्ययन कीजिये और नीचे दिये गये कूटों का प्रयोग करते हुए सही उत्तर चुनिये :\n(a) 2024 में वस्तुओं के वैश्विक निर्यात में भारत का अंश 2.2 प्रतिशत था ।\n(b) 2024 में वस्तुओं के वैश्विक आयात में भारत का अंश 2.8 प्रतिशत था ।\n(c) 2024 में वैश्विक निर्यात में भारत का स्थान 18वां था ।\n(d) 2024 में वैश्विक आयात में भारत का स्थान 10वाँ था ।",
+    "optionsEnglish": [
+      "Only (b) and (c) are correct.",
+      "Only (a) and (b) are correct.",
+      "Only (c) and (d) are correct.",
+      "(a), (b), (c) and (d) all are correct.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (b) और (c) सही हैं।",
+      "केवल (a) और (b) सही हैं।",
+      "केवल (c) और (d) सही हैं।",
+      "(a), (b), (c) और (d) सभी सही हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All given parameters accurately detail India's positions and percentage metrics in global trade charts for the targeted year.",
+    "explanationHindi": "वैश्विक व्यापार तालिकाओं में 2024 के लिए भारत के निर्यात-आयात शेयर और रैंकिंग के सभी कथन सही हैं।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "As per Economic Survey 2025-26, during the year 2024-25 India exports to following EU countries:\n(a) Netherlands\n(b) Germany\n(c) France\n(d) Italy\nChoose the correct sequence of countries showing the decreasing order of value of exports:",
+    "qHindi": "आर्थिक सर्वेक्षण 2025-26 के अनुसार, वर्ष 2024-25 में भारत द्वारा निम्न ई.यू. (EU) देशों को निर्यात किया गया :\n(a) नीदरलैण्ड\n(b) जर्मनी\n(c) फ्रांस\n(d) इटली\nदेशों के सही क्रम को चुनिए जो निर्यातों के मूल्य के घटते क्रम को दर्शाता है :",
+    "optionsEnglish": [
+      "(d), (c), (b), (a)",
+      "(a), (b), (c), (d)",
+      "(c), (a), (d), (b)",
+      "(b), (c), (a), (d)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(d), (c), (b), (a)",
+      "(a), (b), (c), (d)",
+      "(c), (a), (d), (b)",
+      "(b), (c), (a), (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Netherlands stands highest among these EU destinations for Indian trade value exports, followed by Germany, France, and Italy.",
+    "explanationHindi": "दिए गए यूरोपीय संघ के देशों में नीदरलैंड्स भारतीय निर्यात के मूल्य में सबसे आगे है, जिसके बाद क्रमशः जर्मनी, फ्रांस और इटली आते हैं।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Which of the following is/are true about National Mission on Manufacturing announced in the Union Budget 2025-26 ?\n(i) It sets ambitious targets for 2047, aiming to almost double the manufacturing sector's contribution to GDP from 12.9 percent (2023) to 25 percent.\n(ii) One another target of mission is to generate 143 million jobs by 2047.",
+    "qHindi": "केन्द्रीय बजट 2025-26 में घोषित राष्ट्रीय विनिर्माण मिशन के विषय में निम्न में से कौन सा/से सत्य है/हैं?\n(i) इसने सकल घरेलू उत्पाद में विनिर्माण क्षेत्र का योगदान 2023 के 12.9 प्रतिशत से बढ़ाकर 2047 में 25 प्रतिशत अर्थात् लगभग दो गुना करने का महत्वाकांक्षी लक्ष्य निर्धारित किया है.\n(ii) मिशन का एक और लक्ष्य 2047 तक 143 मिलियन रोजगार के सृजन का है.",
+    "optionsEnglish": [
+      "Only (i) is true.",
+      "Only (ii) is true.",
+      "(i) and (ii) both are true.",
+      "Neither (i) nor (ii) is true.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (i) सत्य है।",
+      "केवल (ii) सत्य है।",
+      "(i) और (ii) दोनों सत्य हैं।",
+      "ना तो (i) और ना ही (ii) सत्य है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Both points accurately convey the core targets outlined for the National Mission on Manufacturing.",
+    "explanationHindi": "दोनों बिंदु राष्ट्रीय विनिर्माण मिशन 2025-26 के महत्वाकांक्षी विनिर्माण योगदान और रोजगार लक्ष्यों को स्पष्ट रूप से सही ठहराते हैं।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Match List-I and List-II and select the correct answer from the codes given below:\nList-I (Segment of Services) - List-II (Main reason for rapid growth)\n(i) Business Services - (a) Expansion of Telecom Sector\n(ii) Communication Services - (b) Expansion of Industry and Business Sector\n(iii) Banking and Insurance Services - (c) Expansion of Information Technology Sector",
+    "qHindi": "सूची-I और सूची-II को सुमेलित कीजिए और नीचे दिये गए कूटों में से सही उत्तर चुनिए :\nसूची-I (सेवाओं का उपखण्ड) - सूची-II (द्रुत वृद्धि का मुख्य कारण)\n(i) व्यावसायिक सेवाएँ - (a) दूरसंचार क्षेत्र का विस्तार\n(ii) संचार सेवाएँ - (b) उद्योग एवं व्यवसाय क्षेत्र का विस्तार\n(iii) बैंकिंग एवं बीमा सेवाएँ - (c) सूचना-प्रौद्योगिकी क्षेत्र का विस्तारण",
+    "optionsEnglish": [
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-a, (ii)-c, (iii)-b",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(i)-a, (ii)-b, (iii)-c",
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-c, (ii)-a, (iii)-b",
+      "(i)-a, (ii)-c, (iii)-b",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Business services grew fast due to IT expansion, communication due to telecom growth, and banking/insurance due to broad commercial market expansions.",
+    "explanationHindi": "व्यावसायिक सेवाओं का विकास मुख्य रूप से आईटी क्षेत्र के विस्तार से, संचार का दूरसंचार विस्तार से और बैंकिंग का उद्योग व व्यवसाय क्षेत्र के विस्तार से हुआ।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "qEnglish": "Which of the following statement clearly discriminates the scope of study of Psychology and Educational Psychology?",
+    "qHindi": "निम्नलिखित में से कौनसा कथन मनोविज्ञान और शैक्षिक मनोविज्ञान के अध्ययन क्षेत्र में स्पष्ट अंतर बताता है?",
+    "optionsEnglish": [
+      "The science of education mainly deals with the problems of teaching-learning.",
+      "Studying the behaviour of learners in relation to their educational environment.",
+      "Satisfying learner's educational needs and all round development of their personality.",
+      "It covers the behaviour of all living organisms related to all their life activities.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "शिक्षा का विज्ञान मुख्य रूप से शिक्षण-अधिगम की समस्याओं से संबंधित है।",
+      "शिक्षार्थियों के व्यवहार का उनके शैक्षिक वातावरण के संबंध में अध्ययन करना।",
+      "शिक्षार्थियों की शैक्षिक आवश्यकताओं को पूरा करना और उनके व्यक्तित्त्व का सर्वांगीण विकास करना।",
+      "इसमें सभी जीवित प्राणियों के व्यवहार और उनकी सभी जीवन की गतिविधियों को शामिल किया जाता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "General Psychology features a broad mandate investigating behaviors of all living systems across all life spheres, whereas Educational Psychology specifically limits its scope to the context of learners inside instructional environments.",
+    "explanationHindi": "मनोविज्ञान व्यापक रूप से सभी जीवों के समग्र जीवन व्यवहार का अध्ययन करता है, जबकि शैक्षिक मनोविज्ञान केवल शैक्षिक परिवेश में मानव अधिगम और शिक्षार्थी तक सीमित अनुप्रयोग है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शैक्षिक मनोविज्ञान: अर्थ, क्षेत्र और कक्षा स्थितियों में शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "With reference to 21st century skills, 4Cs are advocated under learning skills. Which of the following does not denote a meaningful category within 4Cs?",
+    "qHindi": "21वीं सदी के कौशलों के संदर्भ में, अधिगम कौशलों के तहत 4Cs का समर्थन किया जाता है। निम्नलिखित में से कौनसा 4Cs के अंतर्गत सार्थक श्रेणी को नहीं दर्शाता है?",
+    "optionsEnglish": [
+      "Critical Thinking",
+      "Creativity and innovation",
+      "Competition",
+      "Communication",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "आलोचनात्मक चिंतन",
+      "सृजनात्मकता और नवाचार",
+      "प्रतिस्पर्धा",
+      "संप्रेषण",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The universally recognized 4Cs framework for 21st-century learning consists of Critical thinking, Creativity, Collaboration, and Communication. 'Competition' is excluded.",
+    "explanationHindi": "21वीं सदी के अधिगम कौशलों (4Cs) में क्रिटिकल थिंकिंग, क्रिएटिविटी, कम्युनिकेशन और कोलाबोरेशन (सहयोग) शामिल हैं। 'प्रतिस्पर्धा' (Competition) इसका हिस्सा नहीं है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शैक्षिक मनोविज्ञान: अर्थ, क्षेत्र और कक्षा स्थितियों में शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Two statements are given below related to scope of Educational Psychology -\n(A) Measurement of teacher's aptitude and any innovations introduced in teaching are included in the 'evaluation of learning process'.\n(B) Under the 'evaluation of learning process', an immediate feedback and knowledge of results enhance the learner's motivation.\nChoose the correct option -",
+    "qHindi": "शैक्षिक मनोविज्ञान के क्षेत्र से संबंधित नीचे दो कथन दिए गए हैं -\n(A) शिक्षक की अभिक्षमता एवं शिक्षण में किए गए किन्हीं भी नवाचारों के मापन, 'अधिनियम प्रक्रिया के मूल्यांकन' में सम्मिलित किया जाता है।\n(B) 'अधिगम प्रक्रिया के मूल्यांकन' के अन्तर्गत, तत्काल प्रतिपुष्टि और परिणामों का ज्ञान शिक्षार्थी की प्रेरणा को बढ़ाता है।\nसही विकल्प का चयन कीजिए -",
+    "optionsEnglish": [
+      "Statement (A) is false but (B) is true",
+      "Both statements (A) and (B) are true",
+      "Both statements (A) and (B) are false",
+      "Statement (A) is true but (B) is false",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कथन (A) असत्य है, किन्तु (B) सत्य है",
+      "दोनों कथन (A) एवं (B) सत्य हैं",
+      "दोनों कथन (A) एवं (B) असत्य हैं",
+      "कथन (A) सत्य है, किन्तु (B) असत्य है",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Both evaluation-based insights are verified components of structural classroom dynamics mapping inside the scope of educational psychology applications.",
+    "explanationHindi": "शैक्षिक मनोविज्ञान के मूल्यांकन क्षेत्र में शिक्षण पद्धतियों/अभिक्षमता का मापन (A) तथा तुरंत मिलने वाली प्रतिपुष्टि (Feedback) से बच्चों की प्रेरणा में वृद्धि (B) दोनों ही तथ्य पूरी तरह सही हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शैक्षिक मनोविज्ञान: अर्थ, क्षेत्र और कक्षा स्थितियों में शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Comparing the historical trend and current perspectives of educational psychology, the direct instructional approach has more in common with Thorndike's view, whereas constructivist approach was the central view of :",
+    "qHindi": "शैक्षिक मनोविज्ञान के ऐतिहासिक रुझान और वर्तमान दृष्टिकोणों की तुलना करने पर, प्रत्यक्ष अनुदेशनात्मक दृष्टिकोण थॉर्नडाइक के विचारों से अधिक मिलता-जुलता है, जबकि रचनावादी दृष्टिकोण निम्नलिखित विद्वान के केंद्रीय विचार थे",
+    "optionsEnglish": [
+      "William James",
+      "I.P. Pavlov",
+      "S. Freud",
+      "B.F. Skinner",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "विलियम जेम्स",
+      "आई.पी. पावलोव",
+      "एस. फ्रायड",
+      "बी.एफ. स्किनर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "William James emphasized the active child and constructivist alignment long before modern definitions matured.",
+    "explanationHindi": "ऐतिहासिक शैक्षिक मनोविज्ञान के दृष्टिकोण से विलियम जेम्स के विचार सक्रिय और रचनावादी विकास के अनुकूल माने जाते हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शैक्षिक मनोविज्ञान: अर्थ, क्षेत्र और कक्षा स्थितियों में शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Educational Psychology helps the teacher in implementing different methods and approaches evolved to tackle the problems of teaching at different age levels. This statement refers to which scope of Educational Psychology?",
+    "qHindi": "शैक्षिक मनोविज्ञान शिक्षकों को विभिन्न आयु स्तरों पर शिक्षण की समस्याओं से निपटने के लिए विकसित विभिन्न विधियों और उपागमों को लागू करने में सहायता करता है। यह कथन शैक्षिक मनोविज्ञान के किस क्षेत्र को संदर्भित करता है ?",
+    "optionsEnglish": [
+      "Learning Process",
+      "Learning Outcomes",
+      "Evaluation of Learning",
+      "Learner",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अधिगम प्रक्रिया",
+      "अधिगम परिणाम",
+      "अधिगम का मूल्यांकन",
+      "अधिगमकर्ता",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Implementing pedagogical methods and strategies corresponds directly to the dynamics of the learning process.",
+    "explanationHindi": "शिक्षण की समस्याओं से निपटने के लिए विभिन्न विधियों और उपागमों को लागू करना अधिगम प्रक्रिया (Learning Process) के दायरे में आता है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शैक्षिक मनोविज्ञान: अर्थ, क्षेत्र और कक्षा स्थितियों में शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Which of the following are the nature of educational psychology?\nA. Applied\nB. Normative\nC. Positive\nD. Scientific",
+    "qHindi": "निम्नलिखित में से कौन सी शिक्षा मनोविज्ञान की प्रकृति हैं ?\nA. अनुप्रयुक्त\nB. मानकात्मक\nC. सकारात्मक\nD. वैज्ञानिक",
+    "optionsEnglish": [
+      "A, B and D",
+      "A, C and D",
+      "A, B and C",
+      "B, C and D",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A, B और D",
+      "A, C और D",
+      "A, B और C",
+      "B, C और D",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Educational Psychology is an applied, positive, and scientific discipline, not a normative science.",
+    "explanationHindi": "शिक्षा मनोविज्ञान एक अनुप्रयुक्त, सकारात्मक और वैज्ञानिक प्रकृति का विषय है, यह मानकात्मक विज्ञान नहीं माना जाता।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शैक्षिक मनोविज्ञान: अर्थ, क्षेत्र और कक्षा स्थितियों में शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Read the following statements regarding educational psychology\nS1: Educational psychology contributes to effective teaching methods.\nS2: It ignores classroom environment and focuses only on theory.",
+    "qHindi": "शैक्षिक मनोविज्ञान के संबंध में निम्नलिखित कथनों को पढ़िए :\nS1 : शैक्षिक मनोविज्ञान प्रभावी शिक्षण विधियों में योगदान देता है।\nS2 : यह कक्षा के वातावरण की अनदेखी करता है और केवल सिद्धान्त पर ध्यान केन्द्रित करता है।",
+    "optionsEnglish": [
+      "Both S1 and S2 are true.",
+      "Both S1 and S2 are false.",
+      "S1 is true but S2 is false.",
+      "S1 is false but S2 is true.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "S1 और S2 दोनों सही हैं।",
+      "S1 और S2 दोनों गलत हैं।",
+      "S1 सही है, किन्तु S2 गलत है।",
+      "S1 गलत है, किन्तु S2 सही है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "S1 is true as it helps teachers choose proper pedagogies, but S2 is false because educational psychology heavily evaluates classroom environmental impacts.",
+    "explanationHindi": "S1 सही है क्योंकि यह शिक्षण विधियों में सुधार लाता है, परंतु S2 गलत है क्योंकि शिक्षा मनोविज्ञान कक्षा के वातावरण को अत्यधिक महत्व देता है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शैक्षिक मनोविज्ञान: अर्थ, क्षेत्र और कक्षा स्थितियों में शिक्षक के लिए निहितार्थ"
+  }
+]

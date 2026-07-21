@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which of the following was associated with \"Neemada Bhil Conference\"?",
+    "qHindi": "निम्नकाठित में से कौन \"नीमड़ा भील सम्मेलन\" से सम्बन्धित थे?",
+    "optionsEnglish": [
+      "Nanabhai Khat",
+      "Govind Giri",
+      "Motilal Tejawat",
+      "Mama Baleshwar Dayal",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "नानाभाई खाट",
+      "गोविन्द गिरि",
+      "मोतीलाल तेजावत",
+      "मामा बालेश्वर दयाल",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Neemada Bhil massacre occurred in 1922 during a major mass gathering organized under the Eki Movement led by Motilal Tejawat.",
+    "explanationHindi": "1922 में आयोजित नीमड़ा भील सम्मेलन मोतीलाल तेजावत द्वारा चलाए जा रहे 'एकी आंदोलन' का हिस्सा था, जहाँ ब्रिटिश सैनिकों की गोलीबारी से भीषण नरसंहार हुआ था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान में जनजाति एवं किसान आन्दोलन"
+  },
+  {
+    "qEnglish": "Which of the following was/were objective/s of the 'Samp Sabha'?\nA. Renunciation of intoxicants\nB. Opposition to forced labour\nC. Promotion of Swadeshi",
+    "qHindi": "निम्नलिखित में से कौन सा/से 'सम्प सभा' का/के उद्देश्य था/थे ?\nA. मादक द्रव्यों का परित्याग\nB. बैठ-बेगार का विरोध\nC. स्वदेशी को प्रोत्साहन",
+    "optionsEnglish": [
+      "Only A",
+      "Only B",
+      "Only B and C",
+      "All A, B and C",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल A",
+      "केवल B",
+      "केवल B और C",
+      "सभी A, B और C",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Samp Sabha, founded by Govind Giri, emphasized social reforms (giving up liquor), economic protection (opposing begar), and using swadeshi tools.",
+    "explanationHindi": "गोविंद गिरी द्वारा स्थापित सम्प सभा के उद्देश्यों में सामाजिक सुधार (व्यसनों का त्याग), बेगार का विरोध और स्वदेशी का प्रचार सभी शामिल थे।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान में जनजाति एवं किसान आन्दोलन"
+  }
+]

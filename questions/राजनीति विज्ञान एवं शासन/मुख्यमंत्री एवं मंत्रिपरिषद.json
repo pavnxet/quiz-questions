@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which Article of the Constitution of India states that the Chief Minister shall be appointed by the Governor?",
+    "qHindi": "भारत के संविधान के किस अनुच्छेद में कहा गया है कि मुख्यमंत्री की नियुक्ति राज्यपाल करेगा?",
+    "optionsEnglish": [
+      "Article 165",
+      "Article 163(2)",
+      "Article 163(1)",
+      "Article 164",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अनुच्छेद 165",
+      "अनुच्छेद 163(2)",
+      "अनुच्छेद 163(1)",
+      "अनुच्छेद 164",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Article 164(1) explicitly mandates that the Chief Minister shall be appointed by the Governor, and other Ministers shall be appointed on the advice of the Chief Minister.",
+    "explanationHindi": "संविधान के अनुच्छेद 164 में स्पष्ट उल्लेख है कि मुख्यमंत्री की नियुक्ति राज्यपाल द्वारा की जाएगी और अन्य मंत्रियों की नियुक्ति मुख्यमंत्री की सलाह पर होगी।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "मुख्यमंत्री एवं मंत्रिपरिषद"
+  },
+  {
+    "qEnglish": "Charge of which of the following departments has not been held by Tikaram Paliwal during his tenure as Chief Minister from 3rd March, 1952 to 1st November, 1952?",
+    "qHindi": "3 मार्च, 1952 से 1 नवंबर, 1952 तक मुख्यमंत्री के रूप में अपने कार्यकाल के दौरान टीकाराम पालीवाल ने निम्नलिखित में से किस विभाग का कार्यभार नहीं संभाला ?",
+    "optionsEnglish": [
+      "Home",
+      "General Administration",
+      "Finance",
+      "Planning",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "गृह",
+      "सामान्य प्रशासन",
+      "वित्त",
+      "आयोजना",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "During his initial cabinet tenure as Chief Minister, Tikaram Paliwal did not hold the Planning portfolio.",
+    "explanationHindi": "टीकाराम पालीवाल ने मुख्यमंत्री के रूप में अपने कार्यकाल के दौरान आयोजना (Planning) विभाग का कार्यभार नहीं संभाला था।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "मुख्यमंत्री एवं मंत्रिपरिषद"
+  }
+]

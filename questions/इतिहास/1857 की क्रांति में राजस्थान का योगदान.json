@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "Read the following statements and choose the correct option -\n(A) Faizal Ali Khan Pathan provided military assistance to the son of Mughal Emperor in the 1857 Revolution.\n(B) Faizal Ali Khan Pathan was the Kamdar of Dundlod Thikana.\nCode-",
+    "qHindi": "निम्नलिखित कथनों को पढ़िए एवं सही विकल्प को चुनिए -\n(A) फैज़ल अली खान पठान ने 1857 की क्रांति में मुगल बादशाह के पुत्र की सैनिक सहायता की थी।\n(B) फैजल अली खान पठान डुंडलोद ठिकाने के कामदार थे।\nकूट -",
+    "optionsEnglish": [
+      "Only (A) is correct",
+      "Only (B) is correct",
+      "Both (A) and (B) are correct",
+      "Both (A) and (B) are incorrect",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (A) सही है",
+      "केवल (B) सही है",
+      "(A) और (B) दोनों सही हैं",
+      "(A) और (B) दोनों सही नहीं हैं",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Faizal Ali Khan Pathan of Jhunjhunu/Dundlod was an active participant in the 1857 uprising who assisted the rebel causes and served as the executive manager (Kamdar) of the Dundlod estate.",
+    "explanationHindi": "फैजल अली खान पठान डुंडलोद ठिकाने के कामदार थे और उन्होंने 1857 के स्वतंत्रता संग्राम के दौरान विद्रोहियों और बहादुर शाह जफर के पुत्र के सहयोगियों की सहायता की थी।",
+    "subject": "इतिहास",
+    "topic": "1857 की क्रांति में राजस्थान का योगदान"
+  },
+  {
+    "qEnglish": "Where was Bhamashah Damodardas Rathi born, who resided in Beawar and provided financial support to revolutionary activities?",
+    "qHindi": "ब्याबर में निवासरत, क्रांतिकारी गतिविधियों में आर्थिक सहयोग करने वाले भामाशाह दामोदरदास राठी का जन्म कहाँ हुआ था ?",
+    "optionsEnglish": [
+      "Beawar",
+      "Jaitaran",
+      "Pokhran",
+      "Osiyan",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "ब्यावर",
+      "जैतारण",
+      "पोकरण",
+      "ओसियां",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Seth Damodardas Rathi was born in Pokhran, Rajasthan.",
+    "explanationHindi": "सेठ दामोदरदास राठी का जन्म पोकरण, राजस्थान में हुआ था।",
+    "subject": "इतिहास",
+    "topic": "1857 की क्रांति में राजस्थान का योगदान"
+  },
+  {
+    "qEnglish": "During the revolt of 1857, at which of the following locations did Revolutionaries from Dholpur, Gwalior and Indore jointly launch an attack using the cannons of Dholpur State ?",
+    "qHindi": "1857 के विद्रोह के दौरान, धौलपुर, ग्वालियर एवं इन्दौर के क्रांतिकारियों ने मिलकर धौलपुर राज्य की तोपों से निम्न स्थानों में से कहाँ पर आक्रमण किया था ?",
+    "optionsEnglish": [
+      "Mathura",
+      "Agra",
+      "Bharatpur",
+      "Deeg",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मथुरा",
+      "आगरा",
+      "भरतपुर",
+      "डीग",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The joint revolutionary troops actively targeting British strongholds directed operations carrying state artillery towards Agra.",
+    "explanationHindi": "1857 के विद्रोह के समय धौलपुर और बाहर से आए क्रांतिकारियों ने एकत्रित होकर आगरा पर हमला बोला था।",
+    "subject": "इतिहास",
+    "topic": "1857 की क्रांति में राजस्थान का योगदान"
+  }
+]

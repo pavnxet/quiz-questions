@@ -1,0 +1,347 @@
+[
+  {
+    "qEnglish": "Which one of the following features of the Constitution of India has been adopted from the Irish Constitution?",
+    "qHindi": "भारतीय संविधान की निम्नलिखित में से कौन सी विशेषता आयरिश संविधान से अपनाई गई है ?",
+    "optionsEnglish": [
+      "Joint sitting of the two Houses of Parliament",
+      "Nomination of members to the Rajya Sabha",
+      "Election of members of the Rajya Sabha",
+      "The ideal of justice (social, economic and political) in the Preamble",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "संसद के दोनों सदनों की संयुक्त बैठक",
+      "राज्यसभा में सदस्यों का मनोनयन",
+      "राज्यसभा के सदस्यों का चुनाव",
+      "प्रस्तावना में न्याय का आदर्श (सामाजिक, आर्थिक और राजनीतिक)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The nomination of members to the Rajya Sabha by the President is adopted from the Irish Constitution.",
+    "explanationHindi": "राष्ट्रपति द्वारा राज्यसभा में सदस्यों का मनोनयन आयरलैंड (आयरिश) के संविधान से अपनाया गया है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Identify the incorrect statement regarding Cabinet Mission Plan.",
+    "qHindi": "कैबिनेट मिशन योजना से सम्बन्धित गलत कथन की पहचान कीजिए ।",
+    "optionsEnglish": [
+      "The seats in each Province were distributed among the two main communities Muslims and general, in proportion to their respective populations.",
+      "In the Provincial Legislative Assembly members elected their own representatives by the method of proportional representation with single transferable vote.",
+      "The method of selection in the case of representatives of Princely States was to be determined by consultation.",
+      "Each Province and each Princely State or group of states were allotted seats proportional to their respective population.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "प्रत्येक प्रान्त की सीटों को दो प्रमुख समुदायों - मुसलमान और सामान्य में उनकी संबंधित जनसंख्या के अनुपात में बाँट दिया गया ।",
+      "प्रान्तीय विधानसभाओं में सदस्यों ने अपने प्रतिनिधियों को आनुपातिक प्रतिनिधित्व और एकल संक्रमण मत पद्धति से निर्वाचित किया ।",
+      "देशी रियासतों के प्रतिनिधियों के चुनाव का तरीका उनके परामर्श से तय किया गया ।",
+      "प्रत्येक प्रान्त और प्रत्येक देशी रियासत या रियासतों के समूह को उनकी संबंधित जनसंख्या के अनुपात में सीटें दी गई।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The seats were actually distributed among three main communities: Muslims, Sikhs, and General, not just two.",
+    "explanationHindi": "कैबिनेट मिशन योजना के तहत प्रांतों में सीटों को तीन मुख्य समुदायों (मुस्लिम, सिख और सामान्य) में विभाजित किया गया था, न कि केवल दो में।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Consider the following statements about Dr. B.R. Ambedkar :\n(i) Dr. Ambedkar was elected to the Constituent Assembly seat from the Madras.\n(ii) Dr. Ambedkar introduced the final draft of the Constitution to the Constituent Assembly on November 04, 1948, for the first reading.\nWhich of the statements given above is/are correct?",
+    "qHindi": "डॉ. बी.आर. अंबेडकर के बारे में निम्नलिखित कथनों पर विचार करें:\n(i) डॉ. अंबेडकर को मद्रास से संविधान सभा की सीट के लिए चुना गया था।\n(ii) डॉ. अंबेडकर ने 04 नवंबर, 1948 को संविधान का अंतिम मसौदा संविधान सभा में पहली रीडिंग के लिए प्रस्तुत किया था ।\nऊपर दिए गए कथनों में से कौन सा/से कथन सही है/हैं?",
+    "optionsEnglish": [
+      "Only (ii)",
+      "Both (i) and (ii)",
+      "Neither (i) nor (ii)",
+      "Only (i)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (ii)",
+      "(i) और (ii) दोनों",
+      "न तो (i) और न ही (ii)",
+      "केवल (i)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Dr. Ambedkar was initially elected from undivided Bengal and later from Bombay, not Madras. Statement (ii) is correct as he introduced the final draft on November 4, 1948.",
+    "explanationHindi": "डॉ. अंबेडकर बंगाल और बाद में बॉम्बे से संविधान सभा के सदस्य चुने गए थे, मद्रास से नहीं। कथन (ii) सही है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Which of the fundamental rights are granted only to citizens by the Constitution of India?\n(I) Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth\n(II) Cultural and educational rights of minorities\n(III) Equality before the law\n(IV) Rights against exploitation\nChoose the correct option.",
+    "qHindi": "Appropriately choose fundamental rights exclusively available to citizens:\n(I) धर्म, मूलवंश, जाति, लिंग या जन्म-स्थान के आधार पर विभेद का प्रतिषेध ।\n(II) अल्पसंख्यकों को संस्कृति और शिक्षा सम्बन्धी अधिकार\n(III) विधि के समक्ष समता\n(IV) शोषण के विरुद्ध अधिकार\nसही विकल्प चुनिए :",
+    "optionsEnglish": [
+      "Only (III) and (IV)",
+      "Only (I), (II) and (III)",
+      "Only (II), (III) and (IV)",
+      "Only (I) and (II)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (III) एवं (IV)",
+      "केवल (I), (II) एवं (III)",
+      "केवल (II), (III) एवं (IV)",
+      "केवल (I) एवं (II)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Articles 15 (I) and 29 (II) are exclusively available to citizens of India, while Articles 14 and 23/24 apply to all persons.",
+    "explanationHindi": "अनुच्छेद 15 (I) और अनुच्छेद 29 (II) केवल भारतीय नागरिकों को प्राप्त हैं, जबकि अनुच्छेद 14 और 23/24 सभी व्यक्तियों पर लागू होते हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "In which of the following articles of the Constitution of India is mentioned the 'eligibility for re-election' of the President?",
+    "qHindi": "भारत के संविधान के निम्नलिखित में से किस अनुच्छेद में राष्ट्रपति के लिए 'पुनर्निर्वाचन के लिए पात्रता' का उल्लेख किया गया है ?",
+    "optionsEnglish": [
+      "Article 57",
+      "Article 58",
+      "Article 59",
+      "Article 56",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अनुच्छेद 57",
+      "अनुच्छेद 58",
+      "अनुच्छेद 59",
+      "अनुच्छेद 56",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Article 57 specifies the eligibility criteria and rules regarding the re-election of the President of India.",
+    "explanationHindi": "भारतीय संविधान का अनुच्छेद 57 राष्ट्रपति के पुनर्निर्वाचन की पात्रता से संबंधित है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Consider the following statements regarding the Directive Principles of State Policy:\n(I) Directive Principles of State Policy are fundamental in the governance of the country.\n(II) It shall be the duty of the state to apply Directive Principles of State Policy in making laws.\n(III) Directive Principles of State Policy are enforceable only by the Supreme Court.\nChoose the correct statement / statements given above.",
+    "qHindi": "राज्य की नीति के निदेशक तत्त्वों से सम्बन्धित निम्नलिखित कथनों पर विचार कीजिए :\n(I) राज्य की नीति के निदेशक तत्त्व देश के शासन में मूलभूत है।\n(II) राज्य की नीति के निदेशक तत्त्वों को विधि निर्माण में लागू करना राज्य का कर्त्तव्य होगा ।\n(III) राज्य की नीति के निदेशक तत्त्व केवल उच्चतम न्यायालय द्वारा प्रवर्तनीय है।\nउपर्युक्त में से सही कथन/कथनों का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Only (II)",
+      "Only (II) and (III)",
+      "(I), (II) and (III)",
+      "Only (I) and (II)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (II)",
+      "केवल (II) एवं (III)",
+      "(I), (II) एवं (III)",
+      "केवल (I) एवं (II)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Directive Principles are non-enforceable by any court (making statement III incorrect) but are fundamental in governance as per Article 37.",
+    "explanationHindi": "अनुच्छेद 37 के अनुसार राज्य के नीति निदेशक तत्व देश के शासन में मूलभूत हैं और विधि निर्माण में इन्हें लागू करना राज्य का कर्तव्य है, परंतु ये न्यायालय द्वारा प्रवर्तनीय नहीं हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "By the Citizenship (Amendment) Act, 2019, Buddhist coming from which of the following countries have been exempted for granting citizenship of India with certain conditions?",
+    "qHindi": "नागरिकता (संशोधन) अधिनियम, 2019 के द्वारा निम्नलिखित में से किन देशों से आने वाले बौद्धों को कुछ शर्तों के साथ भारत की नागरिकता प्रदान करने की छूट दी गई है ?",
+    "optionsEnglish": [
+      "Sri Lanka, Nepal, Afghanistan",
+      "Pakistan, Afghanistan, Bangladesh",
+      "China, Nepal, Bhutan",
+      "Sri Lanka, China, Afghanistan",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "श्रीलंका, नेपाल, अफ़गानिस्तान",
+      "पाकिस्तान, अफ़गानिस्तान, बांग्लादेश",
+      "चीन, नेपाल, भूटान",
+      "श्रीलंका, चीन, अफगानिस्तान",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Citizenship (Amendment) Act, 2019 applies to six minority communities including Buddhists from Pakistan, Afghanistan, and Bangladesh.",
+    "explanationHindi": "नागरिकता (संशोधन) अधिनियम, 2019 पाकिस्तान, अफगानिस्तान और बांग्लादेश से आने वाले छह अल्पसंख्यक समुदायों (जिसमें बौद्ध भी शामिल हैं) पर लागू होता है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "If a question arises as to whether a member of the Rajyasabha has become subject to disqualification under the Tenth Schedule of the Constitution of India, the question is referred to which of the following for his decision?",
+    "qHindi": "यदि यह प्रश्न उठता है कि राज्यसभा का कोई सदस्य भारत के संविधान की दसवीं अनुसूची के अन्तर्गत निरर्हता से ग्रस्त हो गया है या नहीं, तो यह प्रश्न निम्नलिखित में से किसके निर्णय हेतु निर्देशित किया जाता है ?",
+    "optionsEnglish": [
+      "President",
+      "Chief Election Commissioner of India",
+      "Chief Justice, Supreme Court",
+      "Chairman, Rajyasabha",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राष्ट्रपति",
+      "भारत का मुख्य निर्वाचन आयुक्त",
+      "मुख्य न्यायमूर्ति, उच्चतम न्यायालय",
+      "सभापति, राज्यसभा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Disqualification matters under the Tenth Schedule (Anti-Defection Law) are decided by the Chairman of the Rajya Sabha.",
+    "explanationHindi": "संविधान की दसवीं अनुसूची (दलबदल विरोधी कानून) के तहत राज्यसभा के किसी सदस्य की अयोग्यता का निर्णय राज्यसभा के सभापति द्वारा किया जाता है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Consider the following statements regarding the Vice-President of India :\n(I) When the Vice-President, acts as the President, he shall cease to perform the duties of the chairman of the Council of States.\n(II) When the Vice-President discharges the functions of the President, he gets the salary of the chairman of the Council of States.\nChoose the correct option:",
+    "qHindi": "भारत के उपराष्ट्रपति से सम्बन्धित निम्नलिखित कथनों पर विचार कीजिए :\n(I) जब उपराष्ट्रपति, राष्ट्रपति के रूप में कार्य करता है तो वह राज्यसभा के सभापति के कृत्यों का निर्वहन नहीं कर सकता ।\n(II) जब उपराष्ट्रपति, राष्ट्रपति के कृत्यों का निर्वहन करता है तो उसे राज्यसभा के सभापति का ही वेतन मिलता है।\nसही विकल्प चुनिए :",
+    "optionsEnglish": [
+      "Only (II) is correct.",
+      "Both (1) and (II) are correct.",
+      "Neither (1) nor (II) is correct.",
+      "Only (1) is correct.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (II) सही है।",
+      "(1) एवं (II) दोनों सही हैं।",
+      "न तो (1) न ही (II) सही है।",
+      "केवल (1) सही है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "When the Vice-President acts as or discharges the functions of the President, he gets the salary and emoluments of the President, not the Chairman of Rajya Sabha.",
+    "explanationHindi": "जब उपराष्ट्रपति, राष्ट्रपति के रूप में कार्य करता है, तो उसे राष्ट्रपति की परिलब्धियां और वेतन प्राप्त होता है, सभापति का नहीं। इसलिए कथन II गलत है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "In the context of Article 352 of the Constitution of India, the term \"Union cabinet\" specifically refers to the following:",
+    "qHindi": "भारत के संविधान के अनुच्छेद 352 के संदर्भ में, \"संघ का मंत्रिमण्डल” (Union Cabinet) शब्द विशेष रूप से निम्नलिखित को संदर्भित करता है :",
+    "optionsEnglish": [
+      "The Council, consisting of the Prime Minister and other Ministers of Cabinet rank appointed under Article 75.",
+      "The Prime Minster, the home minister, and 2 other ministers nominated by the Prime Minister.",
+      "The Council of Ministers headed by the Prime Minister, under Article 74.",
+      "The Prime Minister and all Ministers, including Ministers of State.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "वह परिषद्, जो अनुच्छेद 75 के अधीन प्रधानमंत्री और मंत्रिमंडल स्तर के अन्य मंत्रियों से मिलकर बनती है।",
+      "प्रधानमंत्री, गृह मंत्री और प्रधानमंत्री द्वारा नामित 2 अन्य मंत्री ।",
+      "अनुच्छेद 74 के तहत, प्रधानमंत्री की अध्यक्षता वाली मंत्रिपरिषद ।",
+      "प्रधानमंत्री और सभी मंत्री, जिनमें राज्य मंत्री भी शामिल हैं।.",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Under Article 352, 'Cabinet' means the Council consisting of the Prime Minister and other Ministers of Cabinet rank appointed under Article 75.",
+    "explanationHindi": "अनुच्छेद 352 के तहत, 'मंत्रिमंडल' का अर्थ प्रधानमंत्री और अनुच्छेद 75 के तहत नियुक्त कैबिनेट स्तर के अन्य मंत्रियों की परिषद से है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Consider the following statements regarding Nehru - Liaquat agreement:\n(I) Nehru - Liaquat agreement was signed on 8 April, 1950 at New Delhi between India and Pakistan.\n(II) The aim of Nehru Liaquat agreement was to resolve border disputes between India and Pakistan.\nChoose the correct option:",
+    "qHindi": "नेहरू-लियाकत समझौते से सम्बन्धित निम्नलिखित कथनों पर विचार कीजिए :\n(I) नेहरू - लियाकत समझौता 8 अप्रैल, 1950 को नई दिल्ली में भारत और पाकिस्तान के मध्य हस्ताक्षरित हुआ ।\n(II) नेहरू – लियाकत समझौते का उद्देश्य भारत और पाकिस्तान के मध्य सीमा विवादों को हल करना था ।\nसही विकल्प चुनिए :",
+    "optionsEnglish": [
+      "Only (II) is correct.",
+      "Both (1) and (II) are correct.",
+      "Neither (1) nor (II) is correct.",
+      "Only (1) is correct.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (II) सही है।",
+      "(1) एवं (II) दोनों सही हैं।",
+      "न तो (1) न ही (II) सही है।",
+      "केवल (1) सही है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The primary objective of the Nehru-Liaquat Pact (1950) was to provide a framework for the treatment of minorities in both countries following partition, not resolving border disputes.",
+    "explanationHindi": "नेहरू-लियाकत समझौते (1950) का मुख्य उद्देश्य दोनों देशों में अल्पसंख्यकों के अधिकारों की सुरक्षा सुनिश्चित करना था, न कि सीमा विवादों को हल करना।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Which among the following neighbouring countries of India is included both in the list of UPI live countries and the list of Digital Public Infrastructure (DPI) co-operation MoU countries?",
+    "qHindi": "भारत के निम्नलिखित पड़ोसी देशों में से कौन सा देश UPI लाइव देशों की सूची तथा डिजिटल पब्लिक इंफ्रास्ट्रक्चर (DPI) सहयोग हेतु हस्ताक्षरित MOU देशों की सूची दोनों में सम्मिलित हैं ?",
+    "optionsEnglish": [
+      "Sri Lanka",
+      "Nepal",
+      "Maldives",
+      "Bhutan",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "श्रीलंका",
+      "नेपाल",
+      "मालदीव",
+      "भूटान",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Nepal has integrated widely with India's payment infrastructures and signed digital public frameworks comprehensively.",
+    "explanationHindi": "नेपाल भारत की UPI लाइव सूची और डिजिटल पब्लिक इंफ्रास्ट्रक्चर (DPI) दोनों सहयोग सूचियों में शामिल है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Among the articles of the Constitution of India relating to the Supreme Court, in which of the articles is the writ of Mandamus mentioned?",
+    "qHindi": "भारत के संविधान में उच्चतम न्यायालय से सम्बन्धित अनुच्छेदों के अन्तर्गत निम्नलिखित में से किस अनुच्छेद में परमादेश रिट का उल्लेख किया गया है ?",
+    "optionsEnglish": [
+      "138",
+      "139",
+      "140",
+      "137",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "138",
+      "139",
+      "140",
+      "137",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Article 139 provides Parliament the power to confer on the Supreme Court power to issue directions, orders, or writs, including Mandamus, for purposes other than enforcement of fundamental rights (which is under Article 32).",
+    "explanationHindi": "अनुच्छेद 139 संसद को यह शक्ति देता है कि वह उच्चतम न्यायालय को मूल अधिकारों के प्रवर्तन के अलावा अन्य उद्देश्यों के लिए भी रिट (जैसे परमादेश) जारी करने की शक्ति प्रदान करे।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Since 2-2-2024, the appointment of Election Commissioners are done by the President on the recommendation of a three member selection committee, which does not include:",
+    "qHindi": "दि. 2-2-2024 से, निर्वाचन आयुक्तों की नियुक्ति राष्ट्रपति द्वारा एक त्रि-सदस्यीय चयन समिति की सिफ़ारिश पर की जाती है, जिसमें शामिल नहीं है :",
+    "optionsEnglish": [
+      "the Chief Justice of India",
+      "the Leader of opposition in Lok Sabha",
+      "a Union Cabinet Minister to be nominated by the Prime Minister",
+      "the Prime Minister",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भारत के मुख्य न्यायमूर्ति",
+      "लोकसभा में विपक्ष के नेता",
+      "प्रधानमंत्री द्वारा नामांकित एक संघीय कैबिनेट मंत्री",
+      "प्रधानमंत्री",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Under the new Chief Election Commissioner and other Election Commissioners Act, the selection committee includes the PM, a Union Cabinet Minister, and the Leader of the Opposition/Largest Opposition Party in Lok Sabha. It does not include the CJI.",
+    "explanationHindi": "नए अधिनियम के तहत चयन समिति में प्रधानमंत्री, एक केंद्रीय कैबिनेट मंत्री और लोकसभा में विपक्ष के नेता शामिल हैं। इसमें भारत के मुख्य न्यायाधीश (CJI) शामिल नहीं हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  },
+  {
+    "qEnglish": "Who among the following Vice Presidents of India had the shortest tenure?",
+    "qHindi": "भारत के निम्नलिखित उप-राष्ट्रपति में से किसका कार्यकाल सबसे कम रहा है ?",
+    "optionsEnglish": [
+      "R. Venkataraman",
+      "V.V. Giri",
+      "Krishnakant",
+      "Jagdeep Dhankhar",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "आर. वेंकटरमण",
+      "वी.वी. गिरी",
+      "कृष्णकान्त",
+      "जगदीप धनखड़",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "V.V. Giri resigned early from the office of Vice President to contest the presidential elections, thereby marking the shortest stay.",
+    "explanationHindi": "वी.वी. गिरी ने राष्ट्रपति चुनाव लड़ने के लिए उप-राष्ट्रपति के पद से इस्तीफा दे दिया था, जिसके कारण उनका कार्यकाल सबसे कम रहा।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था"
+  }
+]

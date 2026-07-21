@@ -1,0 +1,145 @@
+[
+  {
+    "qEnglish": "Which of the following statements are correct about stages of creativity, according to Graham Wallas?\n(a) The stage in which person tries to understand the problem is Preparation stage.\n(b) The Verification stage is the time out phase where the person does not engage in any activity.\n(c) In the Incubation stage, the person suddenly gets an insight about the solution of the problem.\n(d) New ideas and new possibilities emerge in the Inspiration stage.\nChoose the correct code -",
+    "qHindi": "ग्राहम वालस के अनुसार, सृजनात्मकता की अवस्थाओं के बारे में निम्नलिखित में से कौनसे कथन सही हैं?\n(a) वह अवस्था जिसमें व्यक्ति समस्या को समझने का प्रयास करता है, वह तैयारी की अवस्था होती है।\n(b) सत्यापन अवस्था वह समय समाप्ति चरण है, जिसमें व्यक्ति किसी भी गतिविधि में शामिल नहीं होता है।\n(c) उष्मायन अवस्था में व्यक्ति को अचानक समस्या के समाधान के बारे में अंतर्दृष्टि प्राप्त होती है।\n(d) प्रेरणा की अवस्था में नवीन विचार और नई संभावनाएं उभरती हैं।\nसही कूट का चयन कीजिए -",
+    "optionsEnglish": [
+      "Only (a), (c) and (d)",
+      "Only (a), (b) and (d)",
+      "Only (b) and (c)",
+      "Only (a) and (d)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (c) एवं (d)",
+      "केवल (a), (b) एवं (d)",
+      "केवल (b) एवं (c)",
+      "केवल (a) एवं (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "According to Graham Wallas, Preparation (a) is the data gathering stage, Incubation is the passive phase, Illumination/Inspiration (d) is where the sudden breakthrough occurs, and Verification validates it. Thus, only (a) and (d) are correct formulations.",
+    "explanationHindi": "ग्राहम वालस के सृजनात्मकता मॉडल में: तैयारी (Preparation) में समस्या को समझा जाता है, तथा प्रेरणा/प्रकाशन (Illumination) चरण में नवीन विचार अचानक कौंधते हैं। उष्मायन (Incubation) निष्क्रिय चरण होता है। अतः केवल (a) और (d) सही हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "बुद्धि और सृजनात्मकता: अर्थ, सिद्धांत और मापन, अधिगम में भूमिका"
+  },
+  {
+    "qEnglish": "Which of the following are included in comprehension domain under critical thinking skills?\n(a) Sequencing\n(b) Applying\n(c) Concluding\n(d) Describing\n(e) Identifying\n(f) Interpreting\nChoose the correct code -",
+    "qHindi": "निम्नलिखित में से कौनसे समालोचनात्मक चिंतन कौशलों के अन्तर्गत अवबोध क्षेत्र में सम्मिलित है?\n(a) क्रमबद्ध करना\n(b) अनुप्रयोग करना\n(c) निष्कर्ष निकालना\n(d) वर्णन करना\n(e) पहचान करना\n(f) व्याख्या करना\nसही कूट का चयन कीजिए -",
+    "optionsEnglish": [
+      "Only (a), (d), and (f)",
+      "Only (b), (c), and (d)",
+      "Only (b), (c), and (e)",
+      "Only (a), (b), (d) and (e)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (d) एवं (f)",
+      "केवल (b), (c) एवं (d)",
+      "केवल (b), (c) एवं (e)",
+      "केवल (a), (b), (d) एवं (e)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Under basic cognitive parameters, comprehension (अवबोध) captures cognitive acts that demonstrate internalizing material, such as sequencing components cleanly, describing basic attributes, and interpreting functional context.",
+    "explanationHindi": "ब्लूम और आलोचनात्मक चिंतन के वर्गीकरण में, अवबोध (Comprehension) क्षेत्र में विषयवस्तु को समझने, उसका वर्णन करने (d), क्रमबद्ध करने (a) तथा अर्थ की व्याख्या करने (f) जैसे कौशल शामिल होते हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "बुद्धि और सृजनात्मकता: अर्थ, सिद्धांत और मापन, अधिगम में भूमिका"
+  },
+  {
+    "qEnglish": "According to Sternberg's Triarchic Theory of Intelligence, match the following Types of Intelligence with their Functions",
+    "qHindi": "स्टर्नबर्ग के त्रितंत्रीय बुद्धि सिद्धांत के अनुसार, निम्नलिखित बुद्धि के प्रकारों को उनके कार्यों के साथ सुमेलित कीजिए -",
+    "matchItemsEnglish": {
+      "col1Label": "Type of Intelligence",
+      "col2Label": "Function",
+      "col1": [
+        "(a) Componential Intelligence",
+        "(b) Experiential Intelligence",
+        "(c) Contextual Intelligence"
+      ],
+      "col2": [
+        "(i) Dealing with environmental demands, encountered on a daily basis",
+        "(ii) Analysis of information to solve problem",
+        "(iii) Using past experiences to solve novel problems creatively"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "बुद्धि का प्रकार",
+      "col2Label": "कार्य",
+      "col1": [
+        "(a) घटकीय बुद्धि",
+        "(b) अनुभवात्मक बुद्धि",
+        "(c) संदर्भात्मक बुद्धि"
+      ],
+      "col2": [
+        "(i) रोजमर्रा की जिंदगी में सामने आने वाली पर्यावरणीय मांगों से निपटना",
+        "(ii) समस्या का समाधान करने के लिए सूचनाओं का विश्लेषण करना",
+        "(iii) पूर्व अनुभवों का उपयोग करके नई समस्याओं को रचनात्मक रूप से हल करना"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(ii), (b)-(iii), (c)-(i)",
+      "(a)-(iii), (b)-(i), (c)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iii)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-(ii), (b)-(iii), (c)-(i)",
+      "(a)-(iii), (b)-(i), (c)-(ii)",
+      "(a)-(i), (b)-(ii), (c)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iii)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Componential maps to analytic troubleshooting (ii), Experiential maps to creative novel resolution adaptations (iii), and Contextual maps directly to practical daily environmental adjustments (i).",
+    "explanationHindi": "स्टर्नबर्ग के अनुसार: घटकीय बुद्धि = सूचना विश्लेषण (ii), अनुभवात्मक बुद्धि = नवीन समस्याओं का सृजनात्मक समाधान (iii), संदर्भात्मक बुद्धि = व्यावहारिक जीवन का अनुकूलन (i)।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "बुद्धि और सृजनात्मकता: अर्थ, सिद्धांत और मापन, अधिगम में भूमिका"
+  },
+  {
+    "qEnglish": "Which of the following mental abilities are not named by Thurstone in his theory of Primary Mental Abilities?\n(a) Verbal comprehension, (b) Numerical abilities, (c) Associative abilities, (d) Spatial relations, (e) Perceptual speed, (f) Word fluency, (g) Higher order skills, (h) Memory, (i) Inductive reasoning",
+    "qHindi": "थर्स्टन ने अपने प्राथमिक मानसिक क्षमताओं के सिद्धांत में निम्नलिखित में से किन मानसिक क्षमताओं का उल्लेख नहीं किया है?\n(a) मौखिक समझ, (b) संख्यात्मक क्षमताएँ, (c) साहचर्यात्मक क्षमताएँ, (d) स्थानिक संबंध, (e) प्रात्यक्षिक गति, (f) शब्द प्रवाह, (g) उच्च स्तरीय कौशल, (h) स्मृति, (i) आगमनात्मक तर्क",
+    "optionsEnglish": [
+      "(a) and (h) only",
+      "(d) and (e) only",
+      "(c) and (g) only",
+      "(f) and (i) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a) एवं (h)",
+      "केवल (d) एवं (e)",
+      "केवल (c) एवं (g)",
+      "केवल (f) एवं (i)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Thurstone listed 7 primary mental abilities which include verbal, numerical, spatial, memory, word fluency, perceptual speed, and reasoning. 'Higher order skills' and 'Associative abilities' are terms outside his core 7 models.",
+    "explanationHindi": "थर्स्टन के 7 प्राथमिक मानसिक क्षमताओं के सिद्धांत में मौखिक, संख्यात्मक, स्थानिक, स्मृति, शब्द प्रवाह, प्रत्यक्ष गति और तर्क शामिल हैं। 'उच्च स्तरीय कौशल' और 'साहचर्यात्मक क्षमताएं' इसमें शामिल नहीं हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "बुद्धि और सृजनात्मकता: अर्थ, सिद्धांत और मापन, अधिगम में भूमिका"
+  },
+  {
+    "qEnglish": "According to Graham Wallas, match the following stages of creativity with their function:\n(a) Inspiration - (i) The person suddenly gets an insight about the solutions.\n(b) Preparation - (ii) The person does not consciously think about the problem but creative processes carry on unconsciously.\n(c) Incubation - (iii) The person tries to understand the problem.\n(d) Verification - (iv) The person tries to evaluate the solutions of the problem.",
+    "qHindi": "ग्राहम वॉल्स के अनुसार, सृजनात्मकता के निम्नलिखित चरणों को उनके कार्यों के साथ सुमेलित कीजिए :\n(a) प्रेरणा (इंसपिरेशन) - (i) व्यक्ति को अचानक सूझ प्राप्त हो जाती है।\n(b) तैयारी (प्रिपेयरेशन) - (ii) व्यक्ति समस्या के बारे में सचेत रूप से नहीं सोचता है, लेकिन रचनात्मक प्रक्रियाएँ अचेतन रूप से चलती रहती हैं।\n(c) ऊष्मायन (इनक्यूबेशन) - (iii) व्यक्ति समस्या को समझने का प्रयास करता है।\n(d) सत्यापन (वैरिफिकेशन) - (iv) व्यक्ति समस्या के समाधान का मूल्यांकन करने का प्रयास करता है।",
+    "optionsEnglish": [
+      "(a)-ii, (b)-iv, (c)-iii, (d)-i",
+      "(a)-i, (b)-iii, (c)-ii, (d)-iv",
+      "(a)-iv, (b)-ii, (c)-i, (d)-iii",
+      "(a)-iii, (b)-i, (c)-iv, (d)-ii",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-ii, (b)-iv, (c)-iii, (d)-i",
+      "(a)-i, (b)-iii, (c)-ii, (d)-iv",
+      "(a)-iv, (b)-ii, (c)-i, (d)-iii",
+      "(a)-iii, (b)-i, (c)-iv, (d)-ii",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "According to Graham Wallas, the order and role mapping fits: Preparation (trying to understand), Incubation (unconscious processing), Illumination/Inspiration (sudden insight), and Verification (evaluating solutions).",
+    "explanationHindi": "ग्राहम वॉल्स के अनुसार रचनात्मकता के चरणों का सही मिलान है: तैयारी (समस्या को समझना), ऊष्मायन (अचेतन चिंतन), प्रेरणा/सूझ (अचानक विचार आना) और सत्यापन (मूल्यांकन करना)।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "बुद्धि और सृजनात्मकता: अर्थ, सिद्धांत और मापन, अधिगम में भूमिका"
+  }
+]

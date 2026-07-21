@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following is not mentioned in Article 46 of the Constitution of India?",
+    "qHindi": "भारत के संविधान के अनुच्छेद 46 में निम्नलिखित में से किसका उल्लेख नहीं किया गया है?",
+    "optionsEnglish": [
+      "Scheduled Castes",
+      "Other Weaker Sections",
+      "Scheduled Tribes",
+      "Other Backward Classes",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अनुसूचित जातियों का",
+      "अन्य दुर्बल वर्गों का",
+      "अनुसूचित जन जातियों का",
+      "अन्य पिछड़े वर्गों का",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Article 46 explicitly directs the State to promote the educational and economic interests of 'Scheduled Castes, Scheduled Tribes, and other weaker sections'. The explicit terminology 'Other Backward Classes' (OBC) is not utilized in this specific text.",
+    "explanationHindi": "संविधान के अनुच्छेद 46 में 'अनुसूचित जातियों, अनुसूचित जनजातियों और अन्य दुर्बल वर्गों' (Other Weaker Sections) का नाम उल्लेखित है। इसमें 'अन्य पिछड़े वर्गों' (OBC) शब्दावली का प्रत्यक्ष उल्लेख नहीं है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राज्य के नीति निर्देशक सिद्धांत"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Consider the following statements regarding judicial interpretation of Article 18 of the Constitution with context to fundamental right of equality:\n(I) Padma awards decorations are not titles of nobility and are not in violation of Article 18 either.\n(II) These awards decorations can be used as prefixes or suffixes to the name of awardee.",
+    "qHindi": "समता के मूल अधिकार के संदर्भ में, संविधान के अनुच्छेद 18 के न्यायिक निर्वचन से संबंधित निम्नांकित कथनों पर विचार कीजिए :\n(I) पद्म पुरस्कार अलंकरण कुलीनता की उपाधियाँ नहीं हैं और न ही अनुच्छेद 18 का उल्लंघन हैं।\n(II) ये पुरस्कार अलंकरण प्राप्तकर्ता के नाम के पहले या बाद में प्रयोग किए जा सकते हैं।",
+    "optionsEnglish": [
+      "Only (I) is correct.",
+      "Only (II) is correct.",
+      "Both (I) and (II) are correct.",
+      "Neither (I) nor (II) is correct.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (I) सही है।",
+      "केवल (II) सही है।",
+      "(I) व (II) दोनों सही हैं।",
+      "न तो (I), न ही (II) सही है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "According to the Supreme Court ruling in Balaji Raghavan case, Padma awards are not titles under Article 18, but they strictly CANNOT be used as prefixes or suffixes to the recipient's name.",
+    "explanationHindi": "बालाजी राघवन मामले में सुप्रीम कोर्ट के निर्णय के अनुसार पद्म पुरस्कार उपाधियाँ नहीं हैं, परंतु इनका उपयोग नाम के आगे या पीछे उपसर्ग या प्रत्यय के रूप में नहीं किया जा सकता है। इसलिए केवल कथन (I) सही है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "मौलिक अधिकार"
+  }
+]

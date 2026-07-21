@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Khardung-La pass is located in -",
+    "qHindi": "खारदुंग-ला दर्रा अवस्थित है -",
+    "optionsEnglish": [
+      "Kailash range",
+      "Ladakh range",
+      "Zaskar range",
+      "Eastern Himalayas",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कैलाश श्रेणी में",
+      "लद्दाख श्रेणी में",
+      "जास्कर श्रेणी में",
+      "पूर्वी हिमालय में",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Khardung La is a historic high mountain pass situated in the Ladakh range, north of Leh, serving as the gateway to the Shyok and Nubra valleys.",
+    "explanationHindi": "प्रसिद्ध खारदुंग-ला दर्रा लद्दाख पर्वत श्रेणी में लेह के निकट स्थित है, जो नुब्रा और श्योक घाटियों का मार्ग प्रशस्त करता है।",
+    "subject": "भूगोल",
+    "topic": "भौतिक स्वरूप: पर्वत, पठार, मरुस्थल एवं मैदान"
+  }
+]

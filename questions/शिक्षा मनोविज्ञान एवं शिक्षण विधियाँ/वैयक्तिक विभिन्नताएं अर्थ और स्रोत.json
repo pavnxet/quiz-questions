@@ -1,0 +1,87 @@
+[
+  {
+    "qEnglish": "Two statements are given below, one labelled as Assertion (A) and the other as Reason (R). Read both statements carefully and choose the correct answer from the options given below -\nAssertion (A): No two individuals are exactly alike.\nReason (R): Individual differences exist due to heredity and environment.",
+    "qHindi": "नीचे दो कथन दिए गए हैं, एक को कथन (A) और दूसरे को कारण (R) के रूप में चिन्हित किया गया है। दोनों कथनों को ध्यानपूर्वक पढ़ें और नीचे दिए गए विकल्पों में से सही उत्तर चुनें -\nकथन (A) : कोई भी दो व्यक्ति बिल्कुल एक जैसे नहीं होते।\nकारण (R) : व्यक्तिगत भिन्नताएं वंशानुक्रम और पर्यावरण के कारण उत्पन्न होती हैं।",
+    "optionsEnglish": [
+      "Both (A) and (R) are true but (R) does not explain (A)",
+      "Both (A) and (R) are true and (R) explains (A)",
+      "(A) is true, (R) is false",
+      "(A) is false, (R) is true",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) और (R) दोनों सत्य हैं लेकिन (R), (A) की व्याख्या नहीं करता है",
+      "(A) और (R) दोनों सत्य हैं तथा (R), (A) की व्याख्या करता है",
+      "(A) सत्य है, (R) असत्य है",
+      "(A) असत्य है, (R) सत्य है",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Both statements are true and Reason (R) perfectly establishes the casual mechanism of Assertion (A), as phenotypic individual variations stem entirely from the interplay of unique genotypes and environmental conditions.",
+    "explanationHindi": "कथन (A) और कारण (R) दोनों सही हैं तथा वंशानुक्रम और पर्यावरण का प्रभाव ही यह निश्चित करता है कि दो व्यक्ति समान नहीं होते, अतः कारण कथन की सही व्याख्या करता है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "वैयक्तिक विभिन्नताएं: अर्थ और स्रोत"
+  },
+  {
+    "qEnglish": "The differences among students in learning are visible in the class. Which one of the following is not an explanation of these learning differences among students?",
+    "qHindi": "कक्षा में विद्यार्थियों के अधिगम में अंतर स्पष्ट रूप से दिखाई देता है। निम्नलिखित में से कौनसा कथन विद्यार्थियों के अधिगम संबंधी इन अंतरों का स्पष्टीकरण नहीं है?",
+    "optionsEnglish": [
+      "अधिगम की एक विधि कुछ विद्यार्थियों के लिए अनुकूल होती है, जबकि अन्य के लिए नहीं।",
+      "विद्यार्थियों की अधिगम शैलियां आपस में समरूप होती हैं।",
+      "कुछ विद्यार्थी अधिक आसानी से सीख जाते हैं, जबकि कुछ को सीखना कठिन लगता है।",
+      "कक्षा का अधिगम वातावरण भी विद्यार्थियों की व्यक्तिगत प्रकृति पर निर्भर करता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Learning styles are highly variable and individualistic, never completely uniform across a collective student body. Hence, statement 2 is a false explanation.",
+    "explanationHindi": "कक्षा में बच्चों की अधिगम शैलियाँ (Learning Styles) कभी भी समरूप या एक जैसी नहीं होतीं, उनमें काफी भिन्नता होती है। अतः दूसरा कथन गलत स्पष्टीकरण है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "वैयक्तिक विभिन्नताएं: अर्थ और स्रोत"
+  },
+  {
+    "qEnglish": "Assertion (A): Individual differences are the results of nature and nurture both.\nReason (R): People who believe that individual behaviour is purely controlled by hereditary factors are known as 'nativist'.\nChoose the correct option:",
+    "qHindi": "अभिकथन (A) : वैयक्तिक भिन्नताएँ प्रकृति और पालन-पोषण दोनों का परिणाम है।\nकारण (R) : जो लोग यह मानते हैं कि व्यक्तिगत व्यवहार पूरी तरह से आनुवंशिक कारकों द्वारा नियंत्रित होता है, उन्हें 'नेटिविस्ट' कहा जाता है।\nसही विकल्प का चयन कीजिए :",
+    "optionsEnglish": [
+      "(A) and (R) both are true, but (R) is not the correct explanation of (A).",
+      "(A) is true, but (R) is false.",
+      "(A) is false, but (R) is true.",
+      "(A) and (R) both are true and (R) is the correct explanation of (A).",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) एवं (R) दोनों सत्य हैं, किन्तु (R), (A) की सही व्याख्या नहीं है।",
+      "(A) सत्य है, किन्तु (R) असत्य है।",
+      "(A) असत्य है, किन्तु (R) सत्य है।",
+      "(A) एवं (R) दोनों सत्य हैं और (R), (A) की सही व्याख्या है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Both statements are individually true, but the definition of a nativist does not explain why individual differences overall stem from the interplay of both nature and nurture.",
+    "explanationHindi": "कथन (A) और (R) दोनों व्यक्तिगत रूप से सही हैं, लेकिन (R) इस बात की सही व्याख्या नहीं करता कि वैयक्तिक भिन्नताएं दोनों का परिणाम क्यों हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "वैयक्तिक विभिन्नताएं: अर्थ और स्रोत"
+  },
+  {
+    "qEnglish": "A teacher is trying to find out the variation in 'reaction time' among a group of students. This kind of individual difference is classified in which categories ?",
+    "qHindi": "एक शिक्षक विद्यार्थियों के एक समूह में 'प्रतिक्रिया समय' में भिन्नता का पता लगाने का प्रयास कर रहा है। इस प्रकार की वैयक्तिक भिन्नता को किस श्रेणी में वर्गीकृत किया जा सकता है ?",
+    "optionsEnglish": [
+      "Mental differences",
+      "Emotional differences",
+      "Differences in motor ability",
+      "Differences in attitude",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मानसिक भिन्नताएँ",
+      "भावनात्मक भिन्नताएँ",
+      "शारीरिक क्षमता में भिन्नताएँ",
+      "अभिवृत्ति में भिन्नताएँ",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Reaction time falls under psychomotor capabilities, hence classified under differences in motor ability.",
+    "explanationHindi": "प्रतिक्रिया समय (Reaction time) गत्यात्मक एवं मनोशारीरिक क्षमताओं से संबंधित होता है, इसलिए इसे शारीरिक/गत्यात्मक क्षमता में भिन्नताओं में वर्गीकृत किया जाता है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "वैयक्तिक विभिन्नताएं: अर्थ और स्रोत"
+  }
+]

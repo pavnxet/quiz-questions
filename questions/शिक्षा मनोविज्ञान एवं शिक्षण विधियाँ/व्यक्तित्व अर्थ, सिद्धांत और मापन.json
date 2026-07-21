@@ -1,0 +1,94 @@
+[
+  {
+    "qEnglish": "There are two statements given below -\nStatement (A): The Psycho-analytic theory tells us that a large part of human behaviour is governed by unconscious motives.\nStatement (B): Direct methods of personality assessment can uncover the unconscious part of our behaviour.\nChoose the correct code -",
+    "qHindi": "नीचे दो कथन दिए गए हैं -\nकथन (A) : मनोविश्लेषण सिद्धांत हमें बताता है कि मानव व्यवहार का एक बड़ा भाग अवचेतन/अचेतन प्रेरकों द्वारा नियंत्रित होता है।\nकथन (B): व्यक्तित्त्व आंकलन की प्रत्यक्ष विधियां हमारे व्यवहार के अवचेतन/अचेतन भाग को उजागर कर सकती हैं।\nसही कूट का चयन कीजिए -",
+    "optionsEnglish": [
+      "Both statements (A) and (B) are incorrect",
+      "(B) is correct but (A) is incorrect",
+      "(A) is correct but (B) is incorrect",
+      "Both statements (A) and (B) are correct",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) और (B) दोनों कथन गलत हैं",
+      "(B) सही किन्तु (A) गलत है",
+      "(A) सही किन्तु (B) गलत है",
+      "(A) एवं (B) दोनों कथन सही हैं",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Statement A is correct according to Sigmund Freud's framework. Statement B is completely false because direct self-report methods access only the conscious mind; indirect projective methods are mandatory to map the unconscious reservoir.",
+    "explanationHindi": "फ्रायड के मनोविश्लेषणवाद के अनुसार मानव व्यवहार का अधिकांश हिस्सा अचेतन मन से संचालित होता है (A सही है)। व्यक्तित्व मापन की प्रत्यक्ष विधियां केवल चेतन भाग को मापती हैं, अचेतन को बाहर लाने के लिए अप्रत्यक्ष/प्रक्षेपी विधियों की आवश्यकता होती है (B गलत है)।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "व्यक्तित्व: अर्थ, सिद्धांत और मापन"
+  },
+  {
+    "qEnglish": "There are two statements given below related to Freud's Psycho-analytic theory of personality :\nStatement (A): Ego is the source of person's instinctual energy.\nStatement (B): Ego does not care for moral values, society or other individuals.\nChoose the correct option:",
+    "qHindi": "फ्रायड के व्यक्तित्व मनोविश्लेषण सिद्धांत से संबंधित नीचे दो कथन दिए गए हैं :\nकथन (A) : अहं व्यक्ति की प्रवृत्तिजन्य ऊर्जा का स्रोत होता है।\nकथन (B) : अहं को नैतिक मूल्यों, समाज या अन्य व्यक्तियों की परवाह नहीं होती ।\nसही विकल्प का चयन कीजिए :",
+    "optionsEnglish": [
+      "(A) is true, but (B) is false statement.",
+      "(A) is false, but (B) is true statement.",
+      "(A) and (B) both statements are false.",
+      "(A) and (B) both statements are true.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) सत्य है, किन्तु (B) असत्य कथन है।",
+      "(A) असत्य है, किन्तु (B) सत्य कथन है।",
+      "(A) एवं (B) दोनों कथन असत्य हैं।",
+      "(A) एवं (B) दोनों कथन सत्य हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Id (not the Ego) is the source of instinctual energy and operates without care for moral or societal boundaries.",
+    "explanationHindi": "फ्रायड के सिद्धांत में प्रवृत्तिजन्य ऊर्जा का स्रोत 'इदम्' (Id) होता है, 'अहं' (Ego) नहीं। अतः दोनों कथन असत्य हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "व्यक्तित्व: अर्थ, सिद्धांत और मापन"
+  },
+  {
+    "qEnglish": "Which of the following statement is incorrect about trait theory of personality?",
+    "qHindi": "व्यक्तित्व के शीलगुण सिद्धांत के बारे में निम्नलिखित में से कौन सा कथन सही नहीं है ?",
+    "optionsEnglish": [
+      "Traits are relatively stable over time.",
+      "Traits are generally consistent across situations.",
+      "Strength and combinations of traits vary across individuals.",
+      "A trait approach attempts to identify only secondary characteristics of people.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "शीलगुण समय के साथ अपेक्षाकृत स्थिर होते हैं।",
+      "शीलगुण सामान्यतः विभिन्न परिस्थितियों में स्थिर रहते हैं।",
+      "व्यक्तियों में शीलगुणों की प्रबलता एवं संयोजन भिन्नता रखते हैं।",
+      "एक शीलगुण उपागम लोगों की केवल द्वितीयक विशेषताओं की पहचान करने का प्रयास करता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The trait approach aims to identify core or cardinal and central traits, not just secondary characteristics.",
+    "explanationHindi": "शीलगुण उपागम व्यक्तित्व के केंद्रीय और मुख्य लक्षणों की व्याख्या करता है, न कि केवल द्वितीयक विशेषताओं की। अतः कथन 4 गलत है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "व्यक्तित्व: अर्थ, सिद्धांत और मापन"
+  },
+  {
+    "qEnglish": "Which of the following is incorrect statement about projective techniques of personality measurement?",
+    "qHindi": "व्यक्तित्व मापन की प्रक्षेपी तकनीकों के बारे में निम्नलिखित में से कौन सा कथन गलत है ?",
+    "optionsEnglish": [
+      "Projective techniques are different from psychometric tests in many ways.",
+      "The stimuli are relatively or fully structured and clearly defined.",
+      "The responses of subject are neither correct nor incorrect.",
+      "Scoring and interpretation of projective techniques are sometimes subjective.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "प्रक्षेपी तकनीकें कई मायनों में मनोमितीय परीक्षणों से भिन्न होती हैं।",
+      "उद्दीपक अपेक्षाकृत या पूर्ण रूप से संरचित होते हैं और स्पष्ट रूप से परिभाषित होते हैं।",
+      "विषय की प्रतिक्रियाएँ ना तो सही होती हैं, ना ही गलत ।",
+      "प्रक्षेपी तकनीकों का अंकन एवं व्याख्या कभी-कभी व्यक्तिनिष्ठ होती हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "In projective techniques, stimuli are unstructured, vague, and ambiguous, not structured or clearly defined.",
+    "explanationHindi": "प्रक्षेपी तकनीकों में उद्दीपक हमेशा असंरचित और अस्पष्ट होते हैं ताकि व्यक्ति अपनी भावनाओं को प्रक्षेपित कर सके, न कि पूर्ण रूप से संरचित।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": " व्यक्तित्व: अर्थ, सिद्धांत और मापन"
+  }
+]

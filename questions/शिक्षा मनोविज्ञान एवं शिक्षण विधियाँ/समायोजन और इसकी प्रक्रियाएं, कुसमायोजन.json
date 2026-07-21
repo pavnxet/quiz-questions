@@ -1,0 +1,126 @@
+[
+  {
+    "qEnglish": "A teacher observed certain conditions in school, out of which few needed intervention to restrict the maladjustment of students. Choose those conditions from the following -\n(a) Adequate training of teacher\n(b) Inadequate curriculum\n(c) Provision of recreational facilities\n(d) Restrained teacher-pupil relation",
+    "qHindi": "एक शिक्षक ने विद्यालय में कुछ ऐसी स्थितियां देखीं, जिनमें से कुछ में छात्रों के कुसमायोजन को रोकने के लिए हस्तक्षेप की आवश्यकता थी। निम्नलिखित में से उन स्थितियों का चयन कीजिए -\n(a) शिक्षक का पर्याप्त प्रशिक्षण\n(b) अपर्याप्त पाठ्यक्रम\n(c) मनोरंजन सुविधाओं का प्रावधान\n(d) शिक्षक-छात्र संबंध में संयम/तनाव",
+    "optionsEnglish": [
+      "Only (b) and (c)",
+      "Only (a) and (d)",
+      "Only (a) and (b)",
+      "Only (b) and (d)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (b) एवं (c)",
+      "केवल (a) एवं (d)",
+      "केवल (a) एवं (b)",
+      "केवल (b) एवं (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "An inadequate, boring curriculum (b) and strained, poor relationships between teachers and pupils (d) are prime structural triggers causing anxiety and maladjustment among learners.",
+    "explanationHindi": "दोषपूर्ण या अपर्याप्त पाठ्यक्रम (b) तथा शिक्षक-छात्र संबंधों में कटुता या तनाव (d) विद्यार्थियों में कुसमायोजन (Maladjustment) उत्पन्न करने वाले प्रमुख नकारात्मक कारक हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "समायोजन और इसकी प्रक्रियाएं, कुसमायोजन"
+  },
+  {
+    "qEnglish": "Match the Defence Mechanisms given in List I with their appropriate Descriptions in List II and choose the correct option -",
+    "qHindi": "सूची I में दिए गए रक्षा युक्तियों को सूची II में दिए गए उनके उपयुक्त विवरणों से मिलान कीजिए और सही विकल्प चुनिए -",
+    "matchItemsEnglish": {
+      "col1Label": "List I (Defence mechanism)",
+      "col2Label": "List II (Description)",
+      "col1": [
+        "(a) Projection",
+        "(b) Regression",
+        "(c) Sublimation",
+        "(d) Denial"
+      ],
+      "col2": [
+        "(1) Returning to earlier behaviour",
+        "(2) Attributing own thoughts to others",
+        "(3) Channelling impulses socially",
+        "(4) Refusing reality"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची I (रक्षा युक्ति)",
+      "col2Label": "सूची II (विवरण)",
+      "col1": [
+        "(a) प्रक्षेपण",
+        "(b) प्रतिगमन",
+        "(c) उदात्तीकरण",
+        "(d) डिनायल"
+      ],
+      "col2": [
+        "(1) पहले के व्यवहार की ओर लौटना",
+        "(2) अपनी सोच को दूसरों पर आरोपित करना",
+        "(3) आवेगों को सामाजिक रूप से स्वीकार्य दिशा में मोड़ना",
+        "(4) वास्तविकता को अस्वीकार करना"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(2), (b)-(3), (c)-(1), (d)-(4)",
+      "(a)-(1), (b)-(2), (c)-(3), (d)-(4)",
+      "(a)-(2), (b)-(1), (c)-(3), (d)-(4)",
+      "(a)-(3), (b)-(1), (c)-(2), (d)-(4)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-(2), (b)-(3), (c)-(1), (d)-(4)",
+      "(a)-(1), (b)-(2), (c)-(3), (d)-(4)",
+      "(a)-(2), (b)-(1), (c)-(3), (d)-(4)",
+      "(a)-(3), (b)-(1), (c)-(2), (d)-(4)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Projection corresponds to attributing thoughts to others (a-2), Regression is reverting to immature traits (b-1), Sublimation is redirecting impulses positively (c-3), and Denial is outright refusal of flat facts (d-4).",
+    "explanationHindi": "रक्षा युक्तियों का सही मिलान है: प्रक्षेपण = अपने विचार दूसरों पर थोपना (a-2), प्रतिगमन = पुरानी बचकानी आदतों पर लौटना (b-1), उदात्तीकरण = आवेगों का रचनात्मक मार्गोन्मुखीकरण (c-3), और डिनायल = वास्तविकता नकारना (d-4)।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "समायोजन और इसकी प्रक्रियाएं, कुसमायोजन"
+  },
+  {
+    "qEnglish": "When a boy buys a set of new pens after doing poorly in an examination, he told his friend that in the next examination, \"I will do much better with these pens\". Which adjustment mechanism is used by the boy?",
+    "qHindi": "परीक्षा में खराब प्रदर्शन करने के बाद जब एक बालक ने नए पेनों का एक सेट खरीदा, तो उसने अपने मित्र से कहा कि \"अगली परीक्षा में, मैं इन पेनों से बहुत अच्छा प्रदर्शन करूँगा\" । बालक द्वारा किस समायोजन तंत्र का प्रयोग किया गया ?",
+    "optionsEnglish": [
+      "Rationalization",
+      "Projection",
+      "Regression",
+      "Reaction formation",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "युक्तिकरण",
+      "प्रक्षेपण",
+      "प्रतिगमन",
+      "प्रतिक्रिया निर्माण",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The boy shifts the blame of failure or standard of success onto an external object (the pens), reflecting projection.",
+    "explanationHindi": "बालक अपनी विफलता के प्रभाव को कम करने के लिए बाहरी कारक (पेन) पर इसका आरोपण कर रहा है, जो प्रक्षेपण (Projection) को दर्शाता है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "समायोजन और इसकी प्रक्रियाएं, कुसमायोजन"
+  },
+  {
+    "qEnglish": "Read the following statements:\nA: Denial is a conscious refusal to accept reality.\nB: It protects the individual from anxiety.",
+    "qHindi": "निम्नलिखित कथनों को पढ़ें :\nA : अस्वीकरण वास्तविकता को स्वीकार करने से सचेत रूप से इंकार करना है।\nB : यह व्यक्ति को दुश्चिन्ता से बचाता है।",
+    "optionsEnglish": [
+      "Both A and B are true.",
+      "Both A and B are false.",
+      "A is false but B is true.",
+      "A is true but B is false.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A और B दोनों सही हैं।",
+      "A और B दोनों गलत हैं।",
+      "A गलत है, किन्तु B सही है।",
+      "A सही है, किन्तु B गलत है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Denial involves refusing to recognize an unpleasant reality to avoid associated anxiety.",
+    "explanationHindi": "अस्वीकरण (Denial) में अप्रिय वास्तविकता को स्वीकार करने से इनकार किया जाता है ताकि दुश्चिंत्ता से बचा जा सके। दोनों कथन सत्य हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "समायोजन और इसकी प्रक्रियाएं, कुसमायोजन"
+  }
+]

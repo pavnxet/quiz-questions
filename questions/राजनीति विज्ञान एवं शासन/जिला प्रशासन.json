@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "In Rajasthan, office of the Divisional Commissioner was re-established in -",
+    "qHindi": "राजस्थान में, संभागीय आयुक्त पद की पुनः स्थापना कब की गयी थी?",
+    "optionsEnglish": [
+      "1987",
+      "1997",
+      "2009",
+      "2007",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1987",
+      "1997",
+      "2009",
+      "2007",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The system of Divisional Commissioners was abolished by Mohan Lal Sukhadia in 1962 but was later restored by the Hari Dev Joshi government on January 26, 1987.",
+    "explanationHindi": "1962 में मोहनलाल सुखाड़िया सरकार द्वारा बंद किए गए संभागीय आयुक्त पद को 26 जनवरी 1987 को हरिदेव जोशी सरकार द्वारा पुनः स्थापित किया गया था।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "जिला प्रशासन"
+  },
+  {
+    "qEnglish": "Among the following which Divisional Commissioner in Rajasthan has the maximum number of districts in his jurisdiction?",
+    "qHindi": "निम्नांकित में से राजस्थान में किस संभागीय आयुक्त के क्षेत्राधिकार में अधिकतम संख्या में जिले हैं ?",
+    "optionsEnglish": [
+      "Divisional Commissioner, Jaipur",
+      "Divisional Commissioner, Jodhpur",
+      "Divisional Commissioner, Udaipur",
+      "Divisional Commissioner, Bharatpur",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "संभागीय आयुक्त, जयपुर",
+      "संभागीय आयुक्त, जोधपुर",
+      "संभागीय आयुक्त, उदयपुर",
+      "संभागीय आयुक्त, भरतपुर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Jodhpur division historically covers a large area containing the maximum configuration of districts compared to the other choices provided here.",
+    "explanationHindi": "जोधपुर संभाग के क्षेत्राधिकार में दिए गए विकल्पों में सबसे अधिक जिले आते हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "जिला प्रशासन"
+  }
+]

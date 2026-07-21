@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Consider the following crops -\n(A) Coffee\n(B) Rubber\n(C) Cocoa\n(D) Sugarcane\nWhich of the above are plantation crops?",
+    "qHindi": "निम्नलिखित फसलों पर विचार कीजिए -\n(A) कॉफी\n(B) रबड़\n(C) कोको\n(D) गन्ना\nउपर्युक्त में से कौनसी रोपण फसलें हैं?",
+    "optionsEnglish": [
+      "(A), (B), (C) and (D)",
+      "Only (B) and (C)",
+      "Only (B), (C) and (D)",
+      "Only (A), (B) and (C)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A), (B), (C) और (D)",
+      "केवल (B) और (C)",
+      "केवल (B), (C) और (D)",
+      "केवल (A), (B) और (C)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Plantation agriculture refers to large-scale estates dedicated to cash crops. Coffee, rubber, cocoa, and sugarcane are all classified under commercial plantation categories globally.",
+    "explanationHindi": "कॉफी, रबर, कोको और गन्ना - ये सभी व्यावसायिक उद्देश्य से बड़े पैमाने पर उगाई जाने वाली रोपण या बागानी फसलें (Plantation Crops) हैं।",
+    "subject": "भूगोल",
+    "topic": "प्रमुख फसलें: गेहूँ, चावल, कपास, गन्ना, चाय एवं कॉफी"
+  }
+]

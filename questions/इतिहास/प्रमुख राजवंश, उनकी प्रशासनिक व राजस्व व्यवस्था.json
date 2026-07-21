@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Arrange the following rulers of Guhil dynasty of Mewar in chronological order and choose the right answer with the help of code given below -\n(A) Aparajit\n(B) Shiladitya\n(C) Allat\n(D) Narvahan\nCode -",
+    "qHindi": "मेवाड़ के गुहिल वंश के निम्नलिखित शासकों को कालक्रमानुसार व्यवस्थित करिए तथा नीचे दिए गए कूट की सहायता से सही उत्तर चुनिए -\n(A) अपराजित\n(B) शिलादित्य\n(C) अल्लट\n(D) नरवाहन\nूट -",
+    "optionsEnglish": [
+      "(B), (C), (A), (D)",
+      "(A), (D), (C), (B)",
+      "(D), (C), (A), (B)",
+      "(B), (A), (C), (D)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(B), (C), (A), (D)",
+      "(A), (D), (C), (B)",
+      "(D), (C), (A), (B)",
+      "(B), (A), (C), (D)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The proper early chronology of Guhil rulers shows Shiladitya ruling early (c. 646 AD), followed by Aparajit (c. 661 AD), then much later Allat (c. 951 AD), and his successor Narvahan (c. 971 AD). Hence, the order is B, A, C, D.",
+    "explanationHindi": "मेवाड़ के प्रारंभिक गुहिल शासकों का सही ऐतिहासिक क्रम है: शिलादित्य (646 ई.) -> अपराजित (661 ई.) -> अल्लट (951 ई.) -> नरवाहन। अतः सही विकल्प (B), (A), (C), (D) है।",
+    "subject": "इतिहास",
+    "topic": "प्रमुख राजवंश, उनकी प्रशासनिक व राजस्व व्यवस्था"
+  }
+]

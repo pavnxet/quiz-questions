@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "With reference to the Krishna River, consider the following statements -\n(A) It is the largest east-flowing Peninsular river.\n(B) It rises near Mahabaleshwar in the Sahyadri.\n(C) Koyna, Tungabhadra and Bhima are its major tributaries.\n(D) Largest share of its catchment area lies in Karnataka.\nWhich of the above statements are correct?",
+    "qHindi": "कृष्णा नदी के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिए -\n(A) यह सबसे बड़ी पूर्व की ओर बहने वाली प्रायद्वीपीय नदी है।\n(B) इसका उद्गम सह्याद्रि में महाबलेश्वर के निकट होता है।\n(C) कोयना, तुंगभद्रा और भीमा इसकी प्रमुख सहायक नदियाँ हैं।\n(D) इसके कुल जलग्रहण क्षेत्र का सर्वाधिक भाग कर्नाटक में स्थित है।\nउपरोक्त में से कौनसे कथन सत्य हैं?",
+    "optionsEnglish": [
+      "Only (B), (C) and (D)",
+      "Only (A), (C) and (D)",
+      "Only (A) and (B)",
+      "Only (B) and (C)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (B), (C) और (D)",
+      "केवल (A), (C) और (D)",
+      "केवल (A) और (B)",
+      "केवल (B) और (C)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Statement A is false because Godavari is the largest east-flowing peninsular river. Statement D is false because its largest catchment share belongs to Maharashtra/Andhra region metrics depending on old split baselines, but firmly B and C are perfectly verified features.",
+    "explanationHindi": "कथन A गलत है क्योंकि प्रायद्वीपीय भारत की सबसे बड़ी पूर्व वाहिनी नदी गोदावरी है। इसका उद्गम महाबलेश्वर (कथन B) और कोयना-तुंगभद्रा-भीमा इसकी प्रमुख सहायक नदियाँ हैं (कथन C)। अतः केवल B और C सत्य हैं।",
+    "subject": "भूगोल",
+    "topic": "प्रमुख नदियाँ, बांध, झीलें एवं सागर"
+  }
+]

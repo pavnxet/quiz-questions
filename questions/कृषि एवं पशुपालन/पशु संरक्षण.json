@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "According to the Livestock Census-2019, the district having the second highest number of total cattle in Rajasthan was -",
+    "qHindi": "पशुगणना-2019 के अनुसार, राजस्थान में द्वितीय सर्वाधिक कुल गौवंश वाला जिला था -",
+    "optionsEnglish": [
+      "Bikaner",
+      "Udaipur",
+      "Jaipur",
+      "Jodhpur",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "बीकानेर",
+      "उदयपुर",
+      "जयपुर",
+      "जोधपुर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "In the 20th Livestock Census 2019, Bikaner stood at the second position in terms of total cattle population in Rajasthan, while Udaipur registered the highest cattle population.",
+    "explanationHindi": "20वीं पशुगणना 2019 के अनुसार, राजस्थान में सर्वाधिक गौवंश उदयपुर जिले में था, जबकि बीकानेर जिला दूसरे स्थान पर था।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "पशु संरक्षण"
+  }
+]

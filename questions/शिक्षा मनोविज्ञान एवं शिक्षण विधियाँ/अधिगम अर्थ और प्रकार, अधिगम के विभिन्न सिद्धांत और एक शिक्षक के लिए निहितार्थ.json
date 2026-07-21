@@ -1,0 +1,186 @@
+[
+  {
+    "qEnglish": "There are two statements given below -\nStatement (A): Learning leads to permanent change in behaviour.\nStatement (B): The changes that occur due to the process of maturation fall into the category of learned behaviour.\nChoose the correct option",
+    "qHindi": "नीचे दो कथन दिए गए हैं -\nकथन (A): अधिगम व्यवहार में स्थायी परिवर्तन लाता है।\nकथन (B): परिपक्वता की प्रक्रिया के कारण होने वाले परिवर्तन अधिगमित व्यवहार की श्रेणी में आते हैं।\nसही कूट का चयन कीजिए -",
+    "optionsEnglish": [
+      "Both (A) and (B) are true",
+      "(A) is true but (B) is false",
+      "Both (A) and (B) are false",
+      "(B) is true but (A) is false",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "दोनों (A) एवं (B) सत्य हैं",
+      "(A) सत्य है, किन्तु (B) असत्य है",
+      "दोनों (A) एवं (B) असत्य हैं",
+      "(B) सत्य है, किन्तु (A) असत्य है",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Learning implies relatively permanent behavioral modifications brought through practice or training. Biological changes coming purely through native maturation are distinct and do not count as learned behaviors.",
+    "explanationHindi": "अधिगम अनुभव और अभ्यास द्वारा व्यवहार में आने वाला अपेक्षाकृत स्थायी परिवर्तन है (A सत्य है), जबकि परिपक्वता (Maturation) एक जैविक प्रक्रिया है, इसके परिवर्तन अधिगम नहीं कहलाते (B असत्य है)।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "The influential Social Learning theory (Albert Bandura) emphasised modelling as a powerful source of development, but later this theory stressed the importance of ___________ on social development.",
+    "qHindi": "प्रभावशाली सामाजिक अधिगम सिद्धांत (अल्बर्ट बंडूरा) ने मॉडलिंग को विकास के एक शक्तिशाली स्रोत के रूप में महत्व दिया, लेकिन बाद में इस सिद्धांत ने सामाजिक विकास में ___________ के महत्व पर बल दिया।",
+    "optionsEnglish": [
+      "Imitation",
+      "Applied behaviour analysis",
+      "Social cognition",
+      "Observational learning",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अनुकरण",
+      "अनुप्रयुक्त व्यवहार विश्लेषण",
+      "सामाजिक संज्ञान",
+      "प्रेक्षणात्मक अधिगम",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Albert Bandura revised his foundational framework into 'Social Cognitive Theory' to integrate internal cognitive processes (social cognition) such as memory and evaluation alongside external modelling parameters.",
+    "explanationHindi": "अल्बर्ट बंडूरा ने बाद में अपने सिद्धांत को 'सामाजिक संज्ञानात्मक सिद्धांत' (Social Cognitive Theory) का नाम दिया, जिसमें सामाजिक संज्ञान और आंतरिक मानसिक प्रक्रियाओं पर बल दिया गया।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Which of the following statement is a misfit, as a principle of Classical Conditioning being a simplest form of learning?",
+    "qHindi": "निम्नलिखित में से कौनसा कथन अधिगम के सबसे सरल रूप शास्त्रीय अनुबंधन के सिद्धांत के तौर पर अनुपयुक्त है?",
+    "optionsEnglish": [
+      "Unconditioned stimulus must come before the conditioned stimulus.",
+      "The conditioned stimulus usually stands out from other competing stimuli.",
+      "The conditioned stimulus and unconditioned stimulus must come very close together.",
+      "The neutral stimulus must be paired with the unconditioned stimulus many times before conditioning takes place.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अनानुबंधित उद्दीपक, अनुबंधित उद्दीपक से पहले आना चाहिए।",
+      "अनुबंधित उद्दीपक आमतौर पर अन्य प्रतिस्पर्धी उद्दीपकों से अलग होता है।",
+      "अनुबंधित उद्दीपक और अनानुबंधित उद्दीपक बहुत निकट होने चाहिए।",
+      "अनुबंधन होने से पहले तटस्थ उद्दीपक को अनानुबंधित उद्दीपक के साथ कई बार जोडा जाना चाहिए।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "In Pavlovian classical conditioning, the Conditioned Stimulus (neutral stimulus like a bell) must precede or arrive simultaneously with the Unconditioned Stimulus (like food) for effective associative tracking. Statement 1 describes backward ordering, which is a structural misfit.",
+    "explanationHindi": "पावलोव के शास्त्रीय अनुबंधन में, अनुबंधित उद्दीपक (CS - जैसे घंटी) को हमेशा अनानुबंधित उद्दीपक (UCS - जैसे भोजन) से पहले आना चाहिए। पहला कथन इसका उल्टा कहता है, इसलिए यह अनुपयुक्त/गलत है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Below is the name of a group of psychologists who contributed to the cognitive theory of learning. Find out who does not belong to that group.",
+    "qHindi": "नीचे उन मनोवैज्ञानिकों के समूह के नाम दिए गए हैं जिन्होंने अधिगम के संज्ञानात्मक सिद्धांत में योगदान दिया । पता लगाइए कि इनमें से कौन इस समूह से संबंधित नहीं है।",
+    "optionsEnglish": [
+      "Edward Tolman",
+      "Wolfgang Kohler",
+      "Martin Seligman",
+      "J.B. Watson",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "एडवर्ड टोलमैन",
+      "वोल्फगैंग कोहलर",
+      "मार्टिन सेलिगमैन",
+      "जे.बी. वॉटसन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "J.B. Watson is renowned as the founder of Behaviorism, distinct from cognitive learning theorists.",
+    "explanationHindi": "जे.बी. वॉटसन व्यवहारवाद (Behaviorism) के जनक हैं, वे संज्ञानात्मक समूह से संबंधित नहीं हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "What we learn is a set of expectations or a cognitive map of the environment rather than specific responses, consisting of an acquired expectation that one stimulus will be followed by another in a particular context. This indicates which type of learning?",
+    "qHindi": "हम जो सीखते हैं वह विशिष्ट प्रतिक्रियाओं के बजाय अपेक्षाओं का एक समूह या पर्यावरण का एक संज्ञानात्मक मानचित्र होता है, जिसमें एक अर्जित अपेक्षा होती है कि किसी विशेष संदर्भ में एक उद्दीपन के बाद दूसरा उद्दीपन होगा। यह किस प्रकार के अधिगम को इंगित करता है ?",
+    "optionsEnglish": [
+      "Trial and Error learning",
+      "Conditioned learning",
+      "Sign learning",
+      "Insight learning",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "प्रयास एवं त्रुटि अधिगम",
+      "अनुबंधित अधिगम",
+      "संकेत अधिगम",
+      "अंतर्दृष्टि अधिगम",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Edward Tolman's concept of sign learning emphasizes cognitive maps and acquired expectations of stimuli relations.",
+    "explanationHindi": "टोलमैन का 'संकेत अधिगम' (Sign Learning) संज्ञानात्मक मानचित्र और उद्दीपनों के अंतर्संबंधों की अपेक्षाओं पर बल देता है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Which of the following is not an example of vicarious reinforcement?",
+    "qHindi": "निम्नलिखित में से कौन सा परोक्ष पुनर्बलन का उदाहरण नहीं है ?",
+    "optionsEnglish": [
+      "Watching a friend get rewarded for honesty.",
+      "Getting a reward yourself for good behaviour.",
+      "Copying behaviour after seeing someone praised.",
+      "Seeing others praised for good behaviour & adopting similar behaviour.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "ईमानदारी के लिए मित्र को पुरस्कार मिलते देखना",
+      "अच्छे व्यवहार के लिए स्वयं पुरस्कार प्राप्त करना",
+      "किसी को प्रशंसा मिलते देखकर उसके व्यवहार की नकल करना",
+      "अच्छे व्यवहार के लिए दूसरे को प्रशंसा मिलते देख, वैसा व्यवहार अपनाना",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Getting a reward yourself is an example of direct reinforcement, not vicarious reinforcement (which involves observing others being reinforced).",
+    "explanationHindi": "स्वयं पुरस्कार प्राप्त करना प्रत्यक्ष पुनर्बलन का उदाहरण है, परोक्ष (दूसरों को देखकर मिलने वाले) पुनर्बलन का नहीं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Which one of the following is not related to the basic elements of classical conditioning that completes the process of conditioning?",
+    "qHindi": "निम्नलिखित में से कौन सा तत्त्व शास्त्रीय अनुबंधन की मूल प्रक्रिया से संबंधित नहीं है, जो अनुबंधन की प्रक्रिया को पूरा करता है ?",
+    "optionsEnglish": [
+      "Unlearned stimulus",
+      "Involuntary response",
+      "Conditioned stimulus",
+      "Neutral stimulus",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अधिगमरहित उद्दीपक",
+      "अनैच्छिक प्रतिक्रिया",
+      "अनुबंधित उद्दीपक",
+      "तटस्थ उद्दीपक",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Standard classical conditioning vocabulary typically centers on Unconditioned Stimulus, Conditioned Stimulus, Neutral Stimulus, and conditioned responses, rather than unlearned terminology.",
+    "explanationHindi": "शास्त्रीय अनुबंधन में अननुबंधित, अनुबंधित और तटस्थ उद्दीपक जैसी शब्दावली का प्रयोग होता है, 'अधिगमरहित उद्दीपक' मूल प्रक्रिया का मानक तत्व नहीं है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Which of the following statement is not correct about learning ?",
+    "qHindi": "अधिगम के संबंध में निम्नलिखित में से कौन सा कथन सही नहीं है ?",
+    "optionsEnglish": [
+      "Learning is a process, not a product.",
+      "Behavioural changes due to learning may be favourable or unfavourable.",
+      "Basic instincts and reflexes are not learning.",
+      "Learning includes temporary as well as permanent changes.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अधिगम एक प्रक्रिया है, उत्पाद नहीं ।",
+      "अधिगम के कारण होने वाले व्यवहारगत परिवर्तन अनुकूल या प्रतिकूल हो सकते हैं।",
+      "मूल प्रवृत्तियाँ एवं प्रतिवर्त क्रियाएँ अधिगम नहीं हैं।",
+      "अधिगम में अस्थायी और स्थायी दोनों प्रकार के परिवर्तन शामिल होते हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Learning implies relatively permanent changes in behavior; temporary fluctuations due to fatigue or drugs do not qualify as learning.",
+    "explanationHindi": "अधिगम में अपेक्षाकृत स्थायी परिवर्तन शामिल होते हैं, थकान या दवाओं से होने वाले अस्थायी परिवर्तन अधिगम की श्रेणी में नहीं आते।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  }
+]

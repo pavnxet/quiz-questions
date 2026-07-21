@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "According to the report 'School Education System in India: Temporal Analysis and Policy Roadmap for Quality Enhancement' Published by NITI Aayog in May 2026, what is the approximate share of Rajasthan in the entire country in providing integrated education from class 1 to 12?",
+    "qHindi": "मई 2026 में नीति आयोग द्वारा प्रसारित 'स्कूल एजुकेशन सिस्टम इन इंडिया : टेम्पोरल एनालिसिस एंड पॉलिसी रोडमैप फॉर क्वालिटी एनहांसमेंट' रिपोर्ट के अनुसार कक्षा 1 से 12 तक की एकीकृत शिक्षा उपलब्ध करवाने में संपूर्ण देश की लगभग कितनी हिस्सेदारी राजस्थान की है?",
+    "optionsEnglish": [
+      "25%",
+      "30%",
+      "20%",
+      "35%",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "25%",
+      "30%",
+      "20%",
+      "35%",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The quantitative review released by NITI Aayog underscored that Rajasthan captures roughly a quarter (25%) of the total countrywide model structure integration for unified primary-through-secondary operations.",
+    "explanationHindi": "नीति आयोग द्वारा मई 2026 की रिपोर्ट में बताया गया कि कक्षा 1 से 12वीं तक समन्वित व एकीकृत स्कूली शिक्षा ढांचा स्थापित करने में अकेले राजस्थान की राष्ट्रीय स्तर पर लगभग 25% हिस्सेदारी है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "प्रमुख आर्थिक समस्याएं एवं सरकार की पहल"
+  },
+  {
+    "qEnglish": "Which of the following is not correct regarding PM e-drive scheme?",
+    "qHindi": "पीएम ई-ड्राइव योजना के संबंध में निम्न में से कौनसा कथन सही नहीं है?",
+    "optionsEnglish": [
+      "It supports funding for charging infrastructure.",
+      "It provides demand incentives for electric two wheelers and electric three wheelers.",
+      "It does not cover e-trucks and e-ambulances.",
+      "PM e-drive scheme was launched in 2024.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "यह चार्जिंग अवसंरचना के लिए वित्तपोषण का समर्थन करती है।",
+      "यह इलेक्ट्रिक दोपहिया और इलेक्ट्रिक तिपहिया वाहनों के लिए माँग प्रोत्साहन प्रदान करती है।",
+      "यह ई-ट्रकों और ई-एंबुलेंसों को कवर नहीं करती है।",
+      "पीएम ई-ड्राइव योजना वर्ष 2024 में शुरू की गई थी।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Statement 3 is incorrect because the PM E-DRIVE (Electric Drive Revolution in Innovative Vehicle Enhancement) scheme specifically allocated target financial support incentives for modern commercial fleets including e-trucks and e-ambulances.",
+    "explanationHindi": "कथन 3 गलत है क्योंकि केंद्रीय मंत्रिमंडल द्वारा 2024 में शुरू की गई पीएम ई-ड्राइव योजना में इलेक्ट्रिक ट्रकों और ई-एम्बुलेंसों को भी प्रोत्साहन सहायता के दायरे में शामिल किया गया है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "प्रमुख आर्थिक समस्याएं एवं सरकार की पहल"
+  }
+]

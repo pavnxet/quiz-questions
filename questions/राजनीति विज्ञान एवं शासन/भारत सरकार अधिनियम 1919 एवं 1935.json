@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "According to Section 15 of the Government of India Act, 1935, who advised the Federal Government on any matter related to finance?",
+    "qHindi": "1935 के भारत शासन अधिनियम की धारा 15 के अनुसार, वित्त से जुड़े किसी भी मामले पर संघीय सरकार (फेडरल गवर्नमेंट) को सलाह किसके द्वारा दी जाती थी?",
+    "optionsEnglish": [
+      "Finance Minister",
+      "Governor-General",
+      "Council of Ministers including the Governor-General",
+      "Financial Advisor",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "वित्त मंत्री",
+      "गवर्नर-जनरल",
+      "गवर्नर-जनरल सहित मंत्रिपरिषद",
+      "वित्तीय सलाहकार",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Section 15 of the Government of India Act, 1935 explicitly mandated the appointment of a special 'Financial Advisor' to assist and guide the Governor-General and federal administration on safeguard financial interests.",
+    "explanationHindi": "1935 के अधिनियम की धारा 15 के अंतर्गत एक विशेष 'वित्तीय सलाहकार' (Financial Advisor) की नियुक्ति का प्रावधान था, जो वित्तीय मामलों पर गवर्नर-जनरल और संघीय सरकार को परामर्श देता था।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारत सरकार अधिनियम 1919 एवं 1935"
+  }
+]

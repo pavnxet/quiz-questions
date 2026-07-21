@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "The first hospital in Rajasthan to perform advanced surgery for the rare condition of 'laughing epilepsy' in April 2026 is -",
+    "qHindi": "अप्रैल 2026 में, दुर्लभ 'लाफिंग एपिलेप्सी' के लिए उन्नत सर्जरी करने वाला राजस्थान का पहला अस्पताल है -",
+    "optionsEnglish": [
+      "J.L.N. Hospital, Ajmer",
+      "S.M.S. Hospital, Jaipur",
+      "AIIMS, Jodhpur",
+      "P.B.M. Hospital, Bikaner",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जे.एल.एन. अस्पताल, अजमेर",
+      "एस.एम.एस. अस्पताल, जयपुर",
+      "एम्स, जोधपुर",
+      "पी.बी.एम. अस्पताल, बीकानेर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "AIIMS Jodhpur achieved a surgical milestone by successfully operating on a patient suffering from hypothalamic hamartoma, commonly presenting as gelastic or 'laughing' epilepsy.",
+    "explanationHindi": "एम्स जोधपुर (AIIMS Jodhpur) के न्यूरोसर्जन विभाग ने अप्रैल 2026 में दुर्लभ 'लाफिंग एपिलेप्सी' (जेलैस्टिक मिर्गी) से पीड़ित मरीज की जटिल व सफल सर्जरी कर राज्य में कीर्तिमान स्थापित किया।",
+    "subject": "कंप्यूटर और सूचना प्रौद्योगिकी",
+    "topic": "राजस्थान में विज्ञान एवं तकनीकी का विकास"
+  }
+]

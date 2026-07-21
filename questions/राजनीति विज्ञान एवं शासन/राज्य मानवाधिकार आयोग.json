@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "During the year 2025 (01.01.2025 to 31.12.2025), the highest number of cases of which kind of complaints were registered by the Rajasthan State Commission for Women?",
+    "qHindi": "वर्ष 2025 (01.01.2025 से 31.12.2025 तक) के दौरान, राजस्थान राज्य महिला आयोग द्वारा किस प्रकार की शिकायतों के सर्वाधिक प्रकरण दर्ज किए गए?",
+    "optionsEnglish": [
+      "Property dispute",
+      "Cruelty related to Dowry (Dahej)",
+      "Violence",
+      "Sexual harassment at workplace",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सम्पत्ति विवाद",
+      "दहेज से संबंधित क्रूरता",
+      "हिंसा",
+      "कार्यस्थल पर यौन उत्पीड़न",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "According to administrative reports of the State Commission for Women, complaints dealing with domestic cruelty and dowry-related harassment consistently rank as the highest volume of registered cases.",
+    "explanationHindi": "महिला आयोग के वार्षिक प्रतिवेदनों के अनुसार, घरेलू मोर्चे पर उत्पीड़न और मुख्य रूप से दहेज से संबंधित क्रूरता की शिकायतें आयोग के समक्ष सर्वाधिक संख्या में दर्ज होती हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राज्य मानवाधिकार आयोग"
+  }
+]

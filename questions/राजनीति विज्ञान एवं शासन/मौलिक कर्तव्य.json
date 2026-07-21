@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Peruse the following terminologies -\n(I) Scientific temper\n(II) Integral humanism\n(III) Spirit of inquiry and reform\n(IV) Respect the National Song\nWhich of the above are mentioned in the Fundamental Duties of every citizen of India?",
+    "qHindi": "निम्नांकित शब्दावलियों का अवलोकन कीजिए -\n(I) वैज्ञानिक दृष्टिकोण\n(II) एकात्म मानववाद\n(III) ज्ञानार्जन और सुधार की भावना\n(IV) राष्ट्रगीत का आदर\nउपर्युक्त में से किनका उल्लेख भारत के प्रत्येक नागरिक के मूल कर्तव्यों में हुआ है?",
+    "optionsEnglish": [
+      "Only (I) and (III)",
+      "Only (II) and (III)",
+      "Only (II) and (IV)",
+      "Only (I) and (IV)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (I) व (III)",
+      "केवल (II) व (III)",
+      "केवल (II) व (IV)",
+      "केवल (I) व (IV)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Article 51A(h) explicitly mandates citizens to develop 'scientific temper, humanism and the spirit of inquiry and reform'. Integral humanism and 'National Song' (National Anthem is present, not song) are not part of the statutory constitutional text.",
+    "explanationHindi": "अनुच्छेद 51क(ज) के तहत 'वैज्ञानिक दृष्टिकोण, मानववाद और ज्ञानार्जन तथा सुधार की भावना' का विकास करना प्रत्येक नागरिक का मूल कर्तव्य है। इसमें राष्ट्रगीत या एकात्म मानववाद शब्द नहीं हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "मौलिक कर्तव्य"
+  },
+  {
+    "qEnglish": "Which one of these is 'not' a fundamental duty under the Article 51-A of the Constitution of India?",
+    "qHindi": "भारत के संविधान के अनुच्छेद 51-क के अन्तर्गत इनमें से कौन सा मूल कर्तव्य 'नहीं' है ?",
+    "optionsEnglish": [
+      "To develop the scientific temper",
+      "To safeguard public property",
+      "To defend the country",
+      "To improve the public health",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "वैज्ञानिक दृष्टिकोण का विकास",
+      "सार्वजनिक सम्पत्ति की सुरक्षा",
+      "देश की रक्षा करना",
+      "लोक स्वास्थ्य में सुधार",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Improving public health is a Directive Principle of State Policy (Article 47), not a Fundamental Duty under Article 51-A.",
+    "explanationHindi": "लोक स्वास्थ्य में सुधार करना राज्य के नीति निर्देशक सिद्धांतों (अनुच्छेद 47) का हिस्सा है, अनुच्छेद 51-क के तहत मूल कर्तव्य नहीं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "मौलिक कर्तव्य"
+  }
+]

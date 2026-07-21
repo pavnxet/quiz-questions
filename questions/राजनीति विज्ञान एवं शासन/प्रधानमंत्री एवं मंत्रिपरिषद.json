@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Consider the following statements regarding Article 74 of Indian Constitution -\n(i) The President shall, in the exercise of his functions, act in accordance with the advice of Council of Ministers.\n(ii) The advice tendered by the Ministers can be judicially inquired into.\n(iii) The President may once ask the Council of Ministers to reconsider its advice.\nChoose the correct answer -",
+    "qHindi": "भारतीय संविधान के अनुच्छेद 74 के सम्बन्ध में निम्नलिखित कथनों पर विचार कीजिए -\n(i) राष्ट्रपति, अपने कार्यों के निष्पादन में मंत्रिपरिषद की सलाह के अनुसार कार्य करेगा।\n(ii) मंत्रियों द्वारा दी गई सलाह की न्यायिक जांच की जा सकती है।\n(iii) राष्ट्रपति एक बार मंत्रिपरिषद से उसकी सलाह पर पुनर्विचार करने के लिए कह सकता है।\nसही उत्तर चुनिए -",
+    "optionsEnglish": [
+      "Only (i) and (ii)",
+      "Only (ii) and (iii)",
+      "Only (i) and (iii)",
+      "(i), (ii) and (iii)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (i) और (ii)",
+      "केवल (ii) और (iii)",
+      "केवल (i) और (iii)",
+      "(i), (ii) और (iii)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Statement (ii) is incorrect because Article 74(2) explicitly bars any court from inquiring into the nature or substance of advice tendered by ministers to the President. Statements (i) and (iii) are correct.",
+    "explanationHindi": "अनुच्छेद 74(2) में स्पष्ट कहा गया है कि मंत्रियों द्वारा राष्ट्रपति को दी गई किसी सलाह की किसी न्यायालय में जाँच नहीं की जाएगी, इसलिए कथन (ii) गलत है। कथन (i) और (iii) बिल्कुल सही हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "प्रधानमंत्री एवं मंत्रिपरिषद"
+  },
+  {
+    "qEnglish": "Under Article 75(1) of the Constitution of India, the Prime Minister is:",
+    "qHindi": "भारत के संविधान के अनुच्छेद 75 (1) के अधीन प्रधानमंत्री होता है:",
+    "optionsEnglish": [
+      "Selected",
+      "Nominated",
+      "Appointed",
+      "Elected",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "चयनित",
+      "मनोनीत",
+      "नियुक्त",
+      "निर्वाचित",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Article 75(1) explicitly mandates that the Prime Minister shall be appointed by the President.",
+    "explanationHindi": "अनुच्छेद 75(1) के तहत स्पष्ट प्रावधान है कि प्रधानमंत्री की नियुक्ति राष्ट्रपति द्वारा की जाएगी।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "प्रधानमंत्री एवं मंत्रिपरिषद"
+  }
+]

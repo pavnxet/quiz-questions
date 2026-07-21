@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following is not a hybrid variety of wheat?",
+    "qHindi": "निम्नलिखित में से कौन सी गेहूँ की संकरित किस्म नहीं है ?",
+    "optionsEnglish": [
+      "Mangla",
+      "Sonalika",
+      "R.H.B.-30",
+      "Chambal-65",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मंगला",
+      "सोनालिका",
+      "आर.एच.बी-30",
+      "चम्बल-65",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "RHB-30 is a well-known hybrid variety of pearl millet (Bajra), not wheat.",
+    "explanationHindi": "आर.एच.बी-30 (RHB-30) बाजरे की एक संकर किस्म है, गेहूँ की नहीं।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "राजस्थान की खाद्य व व्यावसायिक फसलें"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "With reference to the Rajasthan Judicial Service Rules, 2010 (as amended upto 02.04.2024), which one of the following statement is not correct?",
+    "qHindi": "राजस्थान न्यायिक सेवा नियम, 2010 (दिनांक 02.04.2024 तक यथा संशोधित) के संदर्भ में, निम्नलिखित में से कौनसा एक कथन सही नहीं है?",
+    "optionsEnglish": [
+      "The Rajasthan Judicial Service is a state service comprising the cadres of District Judge, Senior Civil Judge and Civil Judge.",
+      "The appointing authority for a District Judge is the Governor of Rajasthan.",
+      "Recruitment to the posts in the Service of the cadre of Civil Judge is made only by direct recruitment.",
+      "Fifty percent of posts in the cadre of District Judge are filled by promotion.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राजस्थान न्यायिक सेवा एक राज्य सेवा है, जिसमें जिला न्यायाधीश, वरिष्ठ सिविल न्यायाधीश और सिविल न्यायाधीश के कैडर शामिल हैं।",
+      "जिला न्यायाधीश के लिए नियुक्ति प्राधिकारी राजस्थान के राज्यपाल होते हैं।",
+      "इस सेवा में सिविल न्यायाधीश के कैडर के पदों पर भर्ती केवल सीधी भर्ती के माध्यम से की जाती है।",
+      "जिला न्यायाधीश के कैडर में पचास प्रतिशत पद पदोन्नति द्वारा भरे जाते हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Under the rules, the quota allocation for District Judges is structured differently (historically 65% via promotion from Senior Civil Judges based on merit-cum-seniority, 10% via limited competitive exam, and 25% direct recruitment), making the rigid 50% statement inaccurate.",
+    "explanationHindi": "जिला न्यायाधीश कैडर में भर्ती का कोटा विभाजन 50% नहीं बल्कि वरिष्ठता व योग्यता के आधार पर उच्च प्रतिशत (65%) तथा सीधी व सीमित परीक्षा के नियमों के तहत होता है, अतः चौथा कथन गलत है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "उच्च न्यायालय"
+  },
+  {
+    "qEnglish": "Which is essential for the President in the context of the transfer of a judge of the Rajasthan High Court?",
+    "qHindi": "राजस्थान उच्च न्यायालय के न्यायाधीश के स्थानांतरण के सन्दर्भ में राष्ट्रपति के लिए क्या आवश्यक है ?",
+    "optionsEnglish": [
+      "Advice of the Chief Justice of India",
+      "Consultation of the Chief Justice of India",
+      "Opinion of the Chief Justice of India",
+      "Recommendation of the Chief Justice of India",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भारत के मुख्य न्यायमूर्ति की सलाह",
+      "भारत के मुख्य न्यायमूर्ति का परामर्श",
+      "भारत के मुख्य न्यायमूर्ति की राय",
+      "भारत के मुख्य न्यायमूर्ति की अनुशंसा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Article 222 states that the President may, after consultation with the Chief Justice of India, transfer a judge from one High Court to any other High Court.",
+    "explanationHindi": "अनुच्छेद 222 के तहत राष्ट्रपति भारत के मुख्य न्यायाधीश से परामर्श (Consultation) करने के पश्चात किसी न्यायाधीश का एक उच्च न्यायालय से दूसरे उच्च न्यायालय में स्थानांतरण कर सकते हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "उच्च न्यायालय"
+  }
+]

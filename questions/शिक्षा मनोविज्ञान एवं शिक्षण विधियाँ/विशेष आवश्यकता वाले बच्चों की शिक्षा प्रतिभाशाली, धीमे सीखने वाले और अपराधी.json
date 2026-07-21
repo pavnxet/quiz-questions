@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "What is the full form of UDL, which can be used in classrooms for inclusive instruction of general education and special education students?",
+    "qHindi": "यू.डी.एल. का पूर्ण रूप क्या है, जिसका उपयोग कक्षाओं में सामान्य और विशिष्ट शिक्षा के विद्यार्थियों के लिए समावेशी अनुदेशन हेतु किया जा सकता है ?",
+    "optionsEnglish": [
+      "Unique and Differential Learning",
+      "Uniform and Diverse Learning",
+      "Un-distinguished Learning",
+      "Universal Design for Learning",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "यूनिक एण्ड डिफरेंशियल लर्निंग",
+      "यूनिफॉर्म एण्ड डाइवर्स लर्निंग",
+      "अन-डिस्टिंग्विश्ड लर्निंग",
+      "यूनिवर्सल डिज़ाइन फॉर लर्निंग",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "UDL stands for Universal Design for Learning, an educational framework centered on flexible inclusive instruction.",
+    "explanationHindi": "UDL का पूर्ण रूप यूनिवर्सल डिज़ाइन फॉर लर्निंग (Universal Design for Learning) है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "विशेष आवश्यकता वाले बच्चों की शिक्षा: प्रतिभाशाली, धीमे सीखने वाले और अपराधी"
+  },
+  {
+    "qEnglish": "There are two statements given below:\n(A): Inclusive Education is confined only to the inclusion of the disabled in the main stream.\n(B): Inclusive Education is about embracing all.",
+    "qHindi": "नीचे दो कथन दिए गए हैं:\n(A) : समावेशी शिक्षा केवल दिव्यांगों को मुख्य धारा में शामिल करने तक सीमित है।\n(B) : समावेशी शिक्षा का अर्थ है सभी को अपनाना ।",
+    "optionsEnglish": [
+      "Both (A) and (B) both are true.",
+      "Both (A) and (B) both are false.",
+      "(A) is true, but (B) is false.",
+      "(A) is false, but (B) is true.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) एवं (B) दोनों सत्य हैं।",
+      "(A) एवं (B) दोनों असत्य हैं।",
+      "(A) सत्य है, किन्तु (B) असत्य है।",
+      "(A) असत्य है, किन्तु (B) सत्य है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Inclusive education involves creating a supportive learning paradigm for all diverse learner backgrounds, not just students with disabilities. Thus (A) is false and (B) is true.",
+    "explanationHindi": "समावेशी शिक्षा का डेरा बहुत व्यापक है, यह केवल दिव्यांगों तक सीमित नहीं है बल्कि समाज के सभी वर्गों के बच्चों को शामिल करती है। अतः (A) गलत और (B) सही है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "विशेष आवश्यकता वाले बच्चों की शिक्षा: प्रतिभाशाली, धीमे सीखने वाले और अपराधी"
+  }
+]

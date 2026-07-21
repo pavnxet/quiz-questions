@@ -1,0 +1,669 @@
+[
+  {
+    "qEnglish": "The term 'Hathimana' is mainly related with -",
+    "qHindi": "शब्द 'हाथीमना' मुख्यतः संबंधित है",
+    "optionsEnglish": [
+      "Marriage dance of Bhils",
+      "Marriage dance of Garasias",
+      "Special rituals of Bhils during Holi festival",
+      "Special festival dress of Bhils",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भीलों के विवाह नृत्य से",
+      "गरासिया के विवाह नृत्य से",
+      "भीलों के होली उत्सव पर विशेष अनुष्ठान से",
+      "भीलों के विशेष उत्सव परिधान से",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "'Hathimana' is a traditional wedding dance performed by the Bhil tribe while holding swords.",
+    "explanationHindi": "'हाथीमना' नृत्य भील जनजाति द्वारा विवाह के अवसर पर घुटनों के बल बैठकर तलवार घुमाते हुए किया जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which chiefs of Mewar jointly repelled Sultan Ghiyasuddin Balban's attack on Chittor ?",
+    "qHindi": "सुल्तान गयासुद्दीन बलबन द्वारा चित्तौड़ पर किये गये आक्रमण को मेवाड़ के किन प्रमुखों ने मिलकर विफल कर दिया था ?",
+    "optionsEnglish": [
+      "Hammir Dev and Ratan Singh",
+      "Kumbha and Sanga",
+      "Udai Singh and Pratap",
+      "Jaitra Singh, Tej Singh and Samar Singh",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "हम्मीर देव और रतन सिंह",
+      "कुंभा एवं सांगा",
+      "उदयसिंह एवं प्रताप",
+      "जैत्रसिंह, तेजसिंह और समर सिंह",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The resistance against Balban's interventions historically involved the rulers Jaitra Singh and his successors Tej Singh/Samar Singh.",
+    "explanationHindi": "बलबन के समय मेवाड़ की बागडोर और प्रतिरोध मुख्य रूप से जैत्रसिंह, तेजसिंह और समर सिंह के कालखंड से जुड़ा हुआ था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Who commanded the 'Harawal Dasta' of Maharana Pratap's forces during the Battle of Haldighati?",
+    "qHindi": "हल्दीघाटी के युद्ध में महाराणा प्रताप की सेना के 'हरावल दस्ते' की कमान किसने संभाली थी ?",
+    "optionsEnglish": [
+      "Ramshah, the ruler of Gwalior",
+      "Maan Singh Jhala",
+      "Hakim Sur",
+      "Bhil Punja",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "ग्वालियर के शासक रामशाह",
+      "मानसिंह झाला",
+      "हकीम सूर",
+      "भील पूँजा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Hakim Khan Sur commanded the vanguard ('Harawal Dasta') of Maharana Pratap's army in the Battle of Haldighati.",
+    "explanationHindi": "हल्दीघाटी के युद्ध में महाराणा प्रताप की सेना के हरावल दस्ते (अग्रिम पंक्ति) का नेतृत्व हकीम खान सूर ने किया था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which Rajput power sided with the Rathores against Aurangzeb to secure Ajit Singh's succession in Marwar?",
+    "qHindi": "मारवाड़ में अजीत सिंह को उत्तराधिकारी बनाने के लिए औरंगजेब के विरुद्ध किस राजपूत शक्ति ने राठौड़ों का साथ दिया ?",
+    "optionsEnglish": [
+      "Raj Singh of Mewar",
+      "Man Singh of Amer",
+      "Chachig Dev of Jalore",
+      "Rai Singh of Bikaner",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मेवाड़ के राजसिंह",
+      "आमेर के मानसिंह",
+      "जालौर के चाचिग देव",
+      "बीकानेर के रायसिंह",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Maharana Raj Singh of Mewar provided refuge and allied with Durgadas Rathore against Aurangzeb to secure Ajit Singh's rights.",
+    "explanationHindi": "मेवाड़ के महाराणा राजसिंह ने औरंगजेब के खिलाफ मारवाड़ के अजीत सिंह और दुर्गादास राठौड़ का साथ दिया तथा मुगलों से संघर्ष किया।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "From which of the following archaeological sites copper hoards have been discovered before the independence of India?",
+    "qHindi": "निम्न में से किस पुरास्थल से भारत की आजादी से पूर्व ताम्र भण्डार प्राप्त हुए थे ?",
+    "optionsEnglish": [
+      "Balathal",
+      "Gilund",
+      "Kurada",
+      "Ganeshwar",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "बालाथल",
+      "गिलूण्ड",
+      "कुराड़ा",
+      "गणेश्वर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Kurada (Nagaur) witnessed the discovery of copper hoards in 1934, well before India's independence.",
+    "explanationHindi": "कुराड़ा (नागौर) से वर्ष 1934 (आजादी से पहले) में भारी मात्रा में ताम्र उपकरण और भण्डार प्राप्त हुए थे।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Ghatiyala inscription of 861 CE gives us information about",
+    "qHindi": "861 ई. के घटियाला अभिलेख से हमें जानकारी मिलती है",
+    "optionsEnglish": [
+      "Guhil dynasty of Mewar",
+      "Parmar dynasty of Abu",
+      "Gurjar Pratihara of Rajorgarh",
+      "Pratihara dynasty of Mandor",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मेवाड़ के गुहिल वंश की",
+      "आबू के परमार वंश की",
+      "राजोरगढ़ के गुर्जर प्रतिहार वंश की",
+      "मण्डोर के प्रतिहार वंश की",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The Ghatiyala inscription issued by Kakkuka gives details about the Pratihara dynasty of Mandor.",
+    "explanationHindi": "861 ई. का घटियाला अभिलेख मंडोर के प्रतिहार शासक कक्कुट (Kakkuka) के समय का है, जो मंडोर के प्रतिहारों की जानकारी देता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Who was the founder of Bikaner Rajya Praja Parishad ?",
+    "qHindi": "बीकानेर राज्य प्रजा परिषद् के संस्थापक कौन थे ?",
+    "optionsEnglish": [
+      "Shriram Acharya",
+      "Raghuvar Dayal",
+      "Surendra Kumar Shrimali",
+      "Magharam Vaidhya",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "श्रीराम आचार्य",
+      "रघुवर दयाल",
+      "सुरेन्द्र कुमार श्रीमाली",
+      "मघाराम वैद्य",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Bikaner Rajya Praja Parishad was founded by Advocate Raghuvar Dayal Goyal in 1942.",
+    "explanationHindi": "बीकानेर राज्य प्रजा परिषद् की स्थापना वर्ष 1942 में रघुवर दयाल गोयल द्वारा की गई थी।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which Ajmer Commissioner asked for the Mer Regiment from Mewar to guard the Ajmer Arsenal, replacing 15th Native Infantry at the outbreak of the revolt of 1857?",
+    "qHindi": "किस अजमेर कमिश्नर ने 1857 के विद्रोह के शुरू होने पर 15वीं नेटिव इंफेन्टरी की जगह अजमेर शस्त्रागार की सुरक्षा के लिए मेवाड़ से मेर रेजिमेंट माँगी थी ?",
+    "optionsEnglish": [
+      "Colonel Dixon",
+      "Major Morrison",
+      "Colonel Abbot",
+      "George St. Patrick Lawrence",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कर्नल डिक्सन",
+      "मेजर मॉरीसन",
+      "कर्नल एबट",
+      "जॉर्ज सेंट पैट्रिक लारेंस",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Colonel Dixon was the Commissioner of Ajmer-Merwara who took swift precautions using Mer forces to safeguard the strategic arsenal.",
+    "explanationHindi": "1857 की क्रांति के समय अजमेर के कमिश्नर कर्नल डिक्सन ने शस्त्रागार की सुरक्षा के लिए नसीराबाद की सेना पर अविश्वास जताते हुए ब्यावर से मेर सैनिक बुलाए थे।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following actions did Harinarayan Sharma take to spread public awareness in the Alwar State ?\nA. Establishment of the 'Adiwasi Sangh'\nB. 'The Valmiki Sangh' was established\nC. Entry of Harijans into the temple\nD. Establishment of the 'Asprishayta Nivaran Sangh'\nSelect the correct answer:",
+    "qHindi": "हरिनारायण शर्मा ने अलवर राज्य में जनचेतना के संचार हेतु निम्नलिखित में से कौन से कार्य किये थे ?\nA. 'आदिवासी संघ' की स्थापना\nB. 'वाल्मीकि संघ' की स्थापना\nC. मंदिर में हरिजनों का प्रवेश\nD. 'अस्पृश्यता निवारण संघ' की स्थापना\nसही उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "B and C",
+      "A, B and D",
+      "A, B, C and D",
+      "A and D",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "B एवं C",
+      "A, B एवं D",
+      "A, B, C एवं D",
+      "A एवं D",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Pandit Harinarayan Sharma worked extensively for social reform in Alwar, establishing Valmiki and Asprishayta Nivaran organizations and leading temple entries.",
+    "explanationHindi": "पं. हरिनारायण शर्मा ने अलवर में अस्पृश्यता निवारण, वाल्मीकि संघ की स्थापना तथा मंदिरों में हरिजनों के प्रवेश जैसी सामाजिक चेतना की गतिविधियों का नेतृत्व किया।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "At which place did Devnarayanji die ?",
+    "qHindi": "देवनारायण जी का देहावसान किस स्थान पर हुआ था ?",
+    "optionsEnglish": [
+      "Devli",
+      "Dehmali",
+      "Dhuvan",
+      "Asind",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "देवली",
+      "देहमाली",
+      "धुवन",
+      "आसीन्द",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Lord Devnarayanji passed away at Dehmali (also known as Beawar area or Devmali) in Rajasthan.",
+    "explanationHindi": "लोकदेवता देवनारायण जी का देहावसान देवमाली/देहमाली (ब्यावर/अजमेर) नामक स्थान पर हुआ था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following saints strengthened the 'Galta Peeth' of Ramanandi Sect?",
+    "qHindi": "निम्नलिखित सन्तों में से किसने रामानन्दी सम्प्रदाय की 'गलता पीठ' को सुदृढ़ किया ?",
+    "optionsEnglish": [
+      "Ramdas",
+      "Agradas",
+      "Ramanand",
+      "Keelhdas",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "रामदास",
+      "अग्रदास",
+      "रामानन्द",
+      "कील्हदास",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Galta Peeth was founded by Krishnadas Payahari, and it was further managed and strengthened significantly by his primary disciple Keelhdas.",
+    "explanationHindi": "गलता पीठ की स्थापना कृष्णदास पयहारी ने की थी, तथा उनके प्रमुख शिष्य कील्हदास ने इस गद्दी की व्यवस्था को आगे बढ़ाया और सुदृढ़ किया।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "What was the primary reason for Vijay Singh Pathik's separation from the Bijolia movement?",
+    "qHindi": "विजयसिंह पथिक के बिजोलिया आंदोलन से अलग होने का प्राथमिक कारण क्या था ?",
+    "optionsEnglish": [
+      "The Kisan Panchayat rejecting his leadership and electing Manikya Lal Verma as the sole leader.",
+      "Ideological differences with Manikya Lal Verma and Ramnarayan Chaudhary regarding the role of the Rajasthan Seva Sangh.",
+      "Pressure exerted by Achaleshwar Dayal to forcibly hand over the leadership of the movement to Shobha Lal Gupta.",
+      "The Mewar government banning Pathik, Verma and Chaudhary from entering Mewar.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "किसान पंचायत द्वारा उनके नेतृत्व को अस्वीकार कर माणिक्यलाल वर्मा को एकमात्र नेता चुनना ।",
+      "राजस्थान सेवा संघ की भूमिका को लेकर माणिक्यलाल वर्मा और रामनारायण चौधरी के साथ वैचारिक मतभेद ।",
+      "अचलेश्वर दयाल द्वारा शोभालाल गुप्त को जबरन आंदोलन का नेतृत्व सौंपने का दबाव बनाना ।",
+      "मेवार सरकार द्वारा पथिक, वर्मा और चौधरी को मेवाड़ में प्रवेश करने से प्रतिबंधित कर दिया जाना ।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Internal ideological conflicts within the Rajasthan Seva Sangh leaders (Pathik, Verma, and Chaudhary) eventually caused Pathik to distance himself from direct Bijolia operations.",
+    "explanationHindi": "राजस्थान सेवा संघ के नेताओं (पथिक, वर्मा और चौधरी) के बीच अंदरूनी मतभेदों और आंदोलन की रणनीति को लेकर उत्पन्न वैचारिक दूरी इसका मुख्य कारण थी।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "The local Sodha Rajputs tried to merge which area of Sindh province to the Union of India?",
+    "qHindi": "स्थानीय सोढ़ा राजपूतों द्वारा सिंध प्रांत के किस क्षेत्र को भारत संघ से मिलाने का प्रयास किया गया ?",
+    "optionsEnglish": [
+      "Sahiwal",
+      "Multan",
+      "Kohat",
+      "Tharparkar",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "साहीवाल",
+      "मुल्तान",
+      "कोहट",
+      "थारपारकर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The Sodha Rajputs of Tharparkar (Sindh) shared historical borders and socio-cultural relations with Rajasthan and attempted unification with India during partition.",
+    "explanationHindi": "विभाजन के समय थारपारकर (सिंध) के स्थानीय सोढ़ा राजपूतों ने इस क्षेत्र को भारतीय संघ में शामिल करने की कोशिशें की थीं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following pairs is not correctly matched ?",
+    "qHindi": "निम्नांकित में से कौन सा युग्म सही सुमेलित नहीं है ?",
+    "optionsEnglish": [
+      "Diggi fair - Shrawan Amawasya",
+      "Beneshwar fair - Magh Amawasya",
+      "Tejaji fair - Bhadrapad Sukla Dashmi",
+      "Banganga fair - Vaishakh Purnima",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "डिग्गी मेला - श्रावण अमावस्या",
+      "बेणेश्वर मेला - माघ अमावस्या",
+      "तेजाजी मेला - भाद्रपद शुक्ल दशमी",
+      "बाणगंगा मेला - वैशाख पूर्णिमा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Beneshwar fair takes place on Magh Purnima, not Magh Amawasya.",
+    "explanationHindi": "बेणेश्वर मेला माघ पूर्णिमा को आयोजित होता है, माघ अमावस्या को नहीं। अतः विकल्प 2 सुमेलित नहीं है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Consider the following statements about the monuments of Jaipur and choose the correct option:\nA. Chandra Mahal is a five storey building.\nB. Mubarak Mahal was built by Sawai Ishwari Singh.\nC. Hawamahal was constructed by Sawai Pratap Singh.",
+    "qHindi": "जयपुर के स्मारकों के सम्बन्ध में निम्नांकित कथनों का अध्ययन कीजिए एवं सही विकल्प चुनिए :\nA. चंद्र महल पाँच मंजिला भवन है।\nB. मुबारक महल का निर्माण सवाई ईश्वरी सिंह ने करवाया था।\nG. हवामहल का निर्माण सवाई प्रताप सिंह ने करवाया ।",
+    "optionsEnglish": [
+      "A, B",
+      "B, C",
+      "A, B, C",
+      "Only C",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A, B",
+      "B, C",
+      "A, B, C",
+      "केवल C",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Chandra Mahal has 7 storeys. Mubarak Mahal was built by Madho Singh II. Hawa Mahal was built by Sawai Pratap Singh in 1799, making only statement C correct.",
+    "explanationHindi": "चंद्र महल 7 मंजिला है; मुबारक महल का निर्माण माधोसिंह द्वितीय ने करवाया था; केवल कथन C (हवामहल का निर्माण सवाई प्रताप सिंह ने करवाया) सही है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "What is the historical significance of the \"Ragmala set obtained from Chunar in 1591 A.D.\" in the context of the early development of the Bundi school of painting?",
+    "qHindi": "बूंदी चित्रकला शैली के प्रारंभिक विकास के संदर्भ में 'चुनार से प्राप्त 1591 ई. के रागमाला सेट' का ऐतिहासिक महत्त्व क्या है ?",
+    "optionsEnglish": [
+      "It displays the characteristics of the Bundi style which shows a blend of refined Mughal and local Mewar elements.",
+      "This represents a purely South Indian style of painting that evolved during the Deccan military campaigns.",
+      "This proves that the Bundi style emerged only after the reign of Rao Ratan Singh.",
+      "This reflects the full development of the Bundi style and its complete independence from Mughal art.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "यह बूंदी शैली की विशेषताओं को प्रदर्शित करता है जिसमें परिष्कृत मुगल और स्थानीय मेवाड़ तत्त्वों का मिश्रण दिखाई देता है।",
+      "यह दक्कन सैन्य अभियानों के दौरान विकसित हुई विशुद्ध दक्षिण भारतीय चित्रकला शैली का प्रतिनिधित्व करता है।",
+      "यह प्रमाणित करता है कि बूंदी शैली का उद्भव राव रतनसिंह के शासनकाल के बाद ही हुआ था ।",
+      "यह बूंदी शैली के पूर्ण विकास और मुगल कला से इसकी पूर्ण स्वतंत्रता को दर्शाता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The Chunar Ragmala (1591) acts as a foundational landmark showing early Bundi style traits with mixed Mughal techniques.",
+    "explanationHindi": "1591 ई. का चुनार रागमाला सेट बूंदी शैली का प्रारंभिक और महत्वपूर्ण आधार है, जो स्थानीय तथा परिष्कृत मुगल तत्वों के मिश्रण को दर्शाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Consider the following statements with reference to 'Veeramayan' :\nA. Its author was Dhaadi of Badar.\nB. This work deals with the history of the Rathore heroes Veeram and Mallinath of Marwar.\nC. It was only poetic beauty and lacks historical events.\nWhich of the above statements is/are correct?",
+    "qHindi": "'वीरमायण' के संदर्भ में निम्नलिखित कथनों पर विचार कीजिए :\nA. इसके रचियता 'बादर' के ढ़ाढ़ी थे।\nB. यह रचना मारवाड़ के राठौड़ वीर वीरम और मल्लीनाथ के इतिहास से सम्बन्धित है।\nC. इसमें केवल काव्य सौन्दर्य है, ऐतिहासिक घटनाओं का अभाव है।\nउपरोक्त में से कौन सा/से कथन सत्य है/हैं ?",
+    "optionsEnglish": [
+      "A and B",
+      "B and C",
+      "A, B and C",
+      "Only A",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A एवं B",
+      "B एवं C",
+      "A, B एवं C",
+      "केवल A",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Veeramayan was authored by Badar Dhaadi and describes the martial legacy of Rathore heroes Mallinath and Veeram, combining both poetic elements and historical contexts.",
+    "explanationHindi": "वीरमायण के रचयिता बादर ढाढ़ी थे और यह मारवाड़ के वीरमदेव और मल्लीनाथ के इतिहास से जुड़ी है। अतः A और B सही हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following statements regarding Arjun Lal Sethi is false ?",
+    "qHindi": "अर्जुनलाल सेठी के विषय में निम्नांकित में से कौन सा कथन असत्य है?.",
+    "optionsEnglish": [
+      "He established the 'Jain Shiksha Pracharak Samiti'.",
+      "He actively participated in the Swadeshi movement of Bengal.",
+      "He went on a hunger strike for 70 days due to ill-treatment in the prison cell of Calcutta jail.",
+      "In the early period, Arjun Lal Sethi was appointed as a Kamdar in the Chomu Thikana.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "इन्होंने 'जैन शिक्षा प्रचारक समिति' की स्थापना की ।",
+      "बंगाल के स्वदेशी आंदोलन में इन्होंने सक्रिय रूप से भाग लिया ।",
+      "कलकत्ता जेल के बंदीगृह में दुर्व्यवहार के कारण ये 70 दिन अनशन पर रहे।",
+      "प्रारंभिक काल में अर्जुनलाल सेठी चौमूं ठिकाने में कामदार नियुक्त हुए थे ।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Arjun Lal Sethi was famously detained in Vellore jail and went on a long hunger strike there, rather than inside Calcutta jail.",
+    "explanationHindi": "अर्जुनलाल सेठी को वेल्लूर जेल में बंदी बनाकर रखा गया था जहाँ उन्होंने दुर्व्यवहार के विरोध में अनशन किया था, न कि कलकत्ता जेल में।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "By what name is the dhoti worn by the Bhils known?",
+    "qHindi": "भीलों द्वारा पहनी जाने वाली धोती किस नाम से जानी जाती है ?",
+    "optionsEnglish": [
+      "Pachhewade",
+      "Kano",
+      "Dhepara",
+      "Pamdi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पछेवड़े",
+      "कानो",
+      "देपाड़ा",
+      "पामड़ी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The tight dhoti worn by male members of the Bhil tribe is traditionally called 'Dhepara'.",
+    "explanationHindi": "भील पुरुषों द्वारा पहनी जाने वाली तंग धोती को पारंपरिक रूप से 'ढेपाड़ा' (देपाड़ा) कहा जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Folk dance \"Rai\" is known as",
+    "qHindi": "लोक नृत्य \"राई” को जाना जाता है",
+    "optionsEnglish": [
+      "Gavri dance",
+      "Valar dance",
+      "Rayan dance",
+      "Ghumar dance",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "गवरी नृत्य से",
+      "वालर नृत्य से",
+      "रायण नृत्य से",
+      "घूमर नृत्य से",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The continuous musical drama dance 'Gavri' performed by the Bhil community is alternatively called 'Rai' dance.",
+    "explanationHindi": "भील जनजाति का प्रसिद्ध धार्मिक लोकनाट्य/नृत्य 'गवरी' ही 'राई नृत्य' के नाम से भी जाना जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which one of the following pairs of leading personalities of Rajasthan and their work-field is not correct?",
+    "qHindi": "राजस्थान के प्रमुख व्यक्तित्वों एवं उनके कार्यक्षेत्र के निम्न युग्मों में से कौन सा युग्म सही नहीं है ?",
+    "optionsEnglish": [
+      "Rooma Devi - Mand Singer",
+      "Fahimuddin Dagar - Dhrupad Singer",
+      "Daulat Kothari - Scientist",
+      "Sitaram Lalas - Linguist",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "रूमा देवी - मांड गायिका",
+      "फहीमुद्दीन डागर - ध्रुपद गायक",
+      "दौलत कोठारी - वैज्ञानिक",
+      "सीताराम लालस - भाषाविद्",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Rooma Devi is a renowned traditional handicraft artisan and social activist from Barmer, not a Mand singer.",
+    "explanationHindi": "रूमा देवी बाड़मेर की प्रसिद्ध हस्तशिल्प कलाकार और सामाजिक कार्यकर्ता हैं, मांड गायिका नहीं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Match the following:\n(Ornament) - (Wearing organ of body)\nA. Baser - a. Finger\nB. Poth - b. Ear\nC. Toti - c. Throat\nD. Damna - d. Nose",
+    "qHindi": "निम्नलिखित को सुमेलित कीजिए :\n(आभूषण) - (पहना जाने वाला शरीर का अंग)\nA. बेसर - a. उँगली\nB. पोत - b. कान\nC. टोटी - c. गला\nD. दामण्य - d. नाक",
+    "optionsEnglish": [
+      "A-a, B-b, C-c, D-d",
+      "A-c, B-d, C-a, D-b",
+      "A-b, B-a, C-d, D-c",
+      "A-d, B-c, C-b, D-a",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A-a, B-b, C-c, D-d",
+      "A-c, B-d, C-a, D-b",
+      "A-b, B-a, C-d, D-c",
+      "A-d, B-c, C-b, D-a",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Baser is worn in the nose, Poth around the throat, Toti in the ear, and Damna on the finger.",
+    "explanationHindi": "बेसर नाक में, पोत गले में, टोटी कान में और दामणा उँगली में पहना जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which among the following caste is not associated with 'Dhole Dance'?",
+    "qHindi": "निम्न में से कौन सी जाति 'ढोल नृत्य' से संबंधित नहीं है ?",
+    "optionsEnglish": [
+      "Sargara",
+      "Mali",
+      "Kalbailiya",
+      "Bhil",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सरगड़ा",
+      "माली",
+      "कालबेलिया",
+      "भील",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Kalbailiya is known for Kalbelia dance forms, while Dhole Dance is predominantly performed by communities like Sargara, Mali, and Bhil.",
+    "explanationHindi": "कालबेलिया जाति का संबंध कालबेलिया नृत्य से है, जबकि ढोल नृत्य मुख्य रूप से सरगड़ा, माली और भील समुदायों द्वारा किया जाता है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Match the following appropriately:\nList-I (Festival) - List-II (Month)\nA. Makar Sankranti - i. Ashadh\nB. Navratri - ii. Vaishakh\nC. Akha Teej - iii. Asoj\nD. Guru Purnima - iv. Magh",
+    "qHindi": "निम्नलिखित का उचित मिलान करें:\nसूची-I (उत्सव) - सूची-II (माह)\nA. मकर संक्रांति - i. आषाढ़\nB. नवरात्रि - ii. वैशाख\nC. आखा तीज - iii. आसोज\nD. गुरु पूर्णिमा - iv. माघ",
+    "optionsEnglish": [
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-ii, C-iv, D-i",
+      "A-ii, B-i, C-iii, D-iv",
+      "A-i, B-iv, C-ii, D-iii",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-ii, C-iv, D-i",
+      "A-ii, B-i, C-iii, D-iv",
+      "A-i, B-iv, C-ii, D-iii",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Makar Sankranti correlates to Magh, Navratri (Sharad) to Asoj, Akha Teej to Vaishakh, and Guru Purnima to Ashadh.",
+    "explanationHindi": "मकर संक्रांति माघ माह से, नवरात्रि आसोज से, आखा तीज वैशाख से और गुरु पूर्णिमा आषाढ़ माह से संबंधित है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following are characteristics of Rajasthani \"Pavda Literature\"?\nA. Origin rooted in folk songs\nB. Oral tradition\nC. Inseparable association with music and dance\nD. Heroic narratives and didactic tendencies",
+    "qHindi": "निम्न में से कौन सी राजस्थानी \"पवाड़ा साहित्य\" की विशेषताएँ हैं ?\nA. उत्पत्ति का आधार लोकगीत\nB. मौखिक परम्परा\nC. संगीत एवं नृत्य का अभिन्न साहचर्य\nD. वीर-चरित्र कथा एवं उपदेशात्मक प्रवृत्ति",
+    "optionsEnglish": [
+      "Only A and B",
+      "Only B and C",
+      "Only A, B and C",
+      "All A, B, C and D",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल A एवं B",
+      "केवल B एवं C",
+      "केवल A, B एवं C",
+      "सभी A, B, C एवं D",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Rajasthani Pavada or Pawada literature is an oral tradition celebrating heroic accounts with strong roots in folk singing, performance arts, and moral lessons.",
+    "explanationHindi": "राजस्थानी पवाड़ा साहित्य एक मौखिक परंपरा है जो लोक गायन, प्रदर्शन कला और नैतिक शिक्षाओं के साथ वीर चरित्रों का गान करती है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which village did Rao Jodha gift to Harbuji after being impressed by his power?",
+    "qHindi": "राव जोधा ने हड़बूजी की शक्ति से प्रभावित होकर उन्हें कौन सा गाँव भेंट स्वरूप प्रदान किया था ?",
+    "optionsEnglish": [
+      "Bhundel",
+      "Harbhjmal",
+      "Baingti",
+      "Runecha",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भुण्डेल",
+      "हरभजमाल",
+      "बेंगटी",
+      "रूणेचा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Rao Jodha presented the village of Baingti to the folk deity Harbuji.",
+    "explanationHindi": "राव जोधा ने लोकदेवता हड़बूजी को बेंगटी गाँव उपहार स्वरूप प्रदान किया था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which is armoured fort according to Abul Fazal ?",
+    "qHindi": "अबुल फजल के अनुसार बख्तरबंद दुर्ग कौन सा है ?",
+    "optionsEnglish": [
+      "Kumbhalgarh",
+      "Achalgarh",
+      "Ranthambhor",
+      "Chittor",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कुंभलगढ़",
+      "अचलगढ़",
+      "रणथम्भौर",
+      "चित्तौड़",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Abul Fazl famously quoted about Ranthambore fort that 'all other forts are bare, while this one is armoured' (बख्तरबंद).",
+    "explanationHindi": "अबुल फजल ने रणथम्भौर दुर्ग की सुरक्षा व्यवस्था को देखकर कहा था कि 'अन्य सब दुर्ग नंगे हैं, जबकि यह दुर्ग बख्तरबंद है'।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Which of the following statements are correct regarding the Mewari style of painting created during the reign of Maharana Jagat Singh I?\nI. During this period 'Bhagavat' and 'Arsh Ramayana' were illustrated by Sahabdin.\nII. Painter Manohar painted the Ramayana in 1649 A.D.\nIII. Dark red colour (Hinglu) was used extensively in the paintings.",
+    "qHindi": "महाराणा जगतसिंह प्रथम के काल में निर्मित चित्रकला की मेवाड़ी शैली के सन्दर्भ में निम्नलिखित में से कौन से कथन सही हैं ?\nI. इस काल में साहबदीन द्वारा 'भागवत' और 'आर्ष रामायण' का चित्रण किया गया था ।\nII. चित्रकार मनोहर ने 1649 ई. में रामायण का चित्रण किया .\nIII. चित्रों में गहरे लाल रंग (हिंगलू) का अत्यधिक प्रयोग किया गया.",
+    "optionsEnglish": [
+      "Only I and II",
+      "Only II and III",
+      "Only I and III",
+      "I, II and III",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल I और II",
+      "केवल II और III",
+      "केवल I और III",
+      "I, II और III",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All statements accurately characterize the golden era of Mewar painting under Jagat Singh I, highlighted by Sahibdin, Manohar, and traditional rich Hinglu colors.",
+    "explanationHindi": "जगत सिंह प्रथम का काल मेवाड़ चित्रकला का स्वर्णकाल था। साहबदीन, मनोहर की कृतियों तथा हिंगलू (गहरे लाल) रंग के प्रयोग सम्बन्धी तीनों कथन सत्य हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  },
+  {
+    "qEnglish": "Match the following saint literature:\n(Saint) - (Literature)\nA. Ramcharan - i. Saint Sudhasar\nB. Charandas - ii. Shabd Prakash\nC. Nabhadas - iii. Dharm Jahaj\nD. Dadu - iv. Bhaktmal",
+    "qHindi": "निम्नांकित संत साहित्य को सुमेलित कीजिए :\n(सन्त) - (साहित्य)\nA. रामचरण - i. संत सुधासार\nB. चरणदास - ii. शब्द प्रकाश\nC. नाभादास - iii. धर्म जहाज\nD. दादू - iv. भक्तमाल",
+    "optionsEnglish": [
+      "A-ii, B-iii, C-iv, D-i",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-iii, C-ii, D-i",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A-ii, B-iii, C-iv, D-i",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-iii, C-ii, D-i",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Ramcharan composed Shabd Prakash (Anubhav Vani components), Charandas authored Dharm Jahaj, Nabhadas wrote Bhaktmal, and Dadu's ideas are in Saint Sudhasar.",
+    "explanationHindi": "रामचरण जी की वाणियों का सम्बन्ध शब्द प्रकाश से है, चरणदास जी ने धर्म जहाज लिखा, नाभादास जी ने भक्तमाल की रचना की और दादू दयाल के उपदेश संत सुधासार से सम्बन्धित हैं।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास"
+  }
+]

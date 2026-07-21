@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Consider the following statements regarding India's Act East Policy -\n(i) The Act East Policy focuses on the extended neighbourhood in the Indo-Pacific region.\n(ii) The core of the Act East Policy is ASEAN.\nChoose the correct answer -",
+    "qHindi": "भारत की एक्ट ईस्ट नीति के संबंध में निम्नलिखित कथनों पर विचार कीजिए -\n(i) एक्ट ईस्ट नीति भारत-प्रशांत क्षेत्र में विस्तारित पड़ोस पर केंद्रित है।\n(ii) एक्ट ईस्ट नीति का केंद्र आसियान है।\nसही उत्तर का चयन कीजिए -",
+    "optionsEnglish": [
+      "Only (i) is correct",
+      "Both (i) and (ii) are correct",
+      "Only (ii) is correct",
+      "Neither (i) nor (ii) is correct",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (i) सही है",
+      "दोनों (i) तथा (ii) सही हैं",
+      "केवल (ii) सही है",
+      "न तो (i) तथा ना ही (ii) सही है",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Both statements are correct. Launched in 2014, the Act East Policy broadened India's focus to the dynamic Indo-Pacific region, while keeping institutional ties with ASEAN at its absolute core framework.",
+    "explanationHindi": "दोनों कथन सत्य हैं। वर्ष 2014 में शुरू की गई 'एक्ट ईस्ट नीति' व्यापक भारत-प्रशांत क्षेत्र पर केंद्रित है तथा दक्षिण-पूर्वी एशियाई राष्ट्रों का संगठन (ASEAN) इसका मुख्य केंद्रीय स्तंभ है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारत की विदेश नीति के सिद्धांत एवं नेहरू का योगदान"
+  },
+  {
+    "qEnglish": "Which of the following is not included among the five principles of Panchsheel?",
+    "qHindi": "निम्नलिखित में से कौन सा पंचशील के पाँच सिद्धांतों में सम्मिलित नहीं है ?",
+    "optionsEnglish": [
+      "Mutual non-aggression",
+      "Mutual interference in domestic affairs",
+      "Equality and mutual benefit",
+      "Peaceful coexistence",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पारस्पारिक गैर-आक्रामकता",
+      "घरेलू मामलों में पारस्परिक सहयोग से हस्तक्षेप",
+      "समानता और पारस्परिक लाभ",
+      "शांतिपूर्ण सह-अस्तित्व",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The principle is actually 'Mutual non-interference in each other's internal affairs'. Thus option 2 is incorrect.",
+    "explanationHindi": "मूल सिद्धांत आंतरिक मामलों में 'पारस्परिक गैर-हस्तक्षेप' का है। अतः विकल्प 2 पंचशील का सही सिद्धांत नहीं है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारत की विदेश नीति के सिद्धांत एवं नेहरू का योगदान"
+  }
+]

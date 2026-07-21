@@ -1,0 +1,94 @@
+[
+  {
+    "qEnglish": "How did Mandan utilize the geographical conditions of the Kumbhalgarh Fort to ensure self-reliance?",
+    "qHindi": "मण्डन ने कुंभलगढ़ दुर्ग की भौगोलिक परिस्थितियों का उपयोग आत्मनिर्भरता के लिये किस प्रकार किया था?",
+    "optionsEnglish": [
+      "He constructed an artificial river for irrigation.",
+      "He constructed underground chambers solely for the storage of grain.",
+      "He built only tall turrets amidst the hills so that the enemy could not enter.",
+      "He utilized the uneven character of the land for the construction of reservoirs and rainwater harvesting.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "उन्होंने सिंचाई हेतु एक कृत्रिम नदी का निर्माण किया।",
+      "उन्होंने केवल अनाज के भण्डारण हेतु भूमिगत कक्षों का निर्माण किया।",
+      "उन्होंने पहाड़ियों के बीच केवल ऊँचे बुर्ज बनाये ताकि दुश्मन न आ सके।",
+      "उन्होंने भूमि के असमान चरित्र का उपयोग जलाशयों के निर्माण एवं वर्षा जल संचयन के लिये किया।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The chief architect Mandan designed Kumbhalgarh Fort by incorporating the rugged, uneven topography of the Aravalli hills to systematically construct deep stepwells, lakes, and catchment areas for continuous rainwater harvesting.",
+    "explanationHindi": "सूत्रधार मण्डन ने कुंभलगढ़ के असमान और दुर्गम भौगोलिक धरातल का वैज्ञानिक उपयोग कर जल आत्मनिर्भरता हेतु बड़े जलाशयों और वर्षा जल संचयन प्रणालियों का निर्माण किया था।",
+    "subject": "इतिहास",
+    "topic": "कला, संस्कृति, साहित्य एवं स्थापत्य"
+  },
+  {
+    "qEnglish": "Study the following statements about Vinay Singh, the ruler of Alwar and choose the correct option -\n(A) He commissioned the calligraphy and illustrations for the 'Gulistan'.\n(B) The illustrations for 'Gulistan' were created by Baldev and Gulam Ali.",
+    "qHindi": "अलवर के शासक विनय सिंह के सम्बन्ध में निम्नांकित कथनों का अध्ययन कीजिए एवं सही विकल्प चुनिए -\n(A) उन्होंने 'गुलिस्ताँ' का सुलेखन एवं चित्रांकन करवाया था।\n(B) 'गुलिस्ताँ' के चित्र बलदेव एवं गुलाम अली ने बनाए थे।",
+    "optionsEnglish": [
+      "Both (A) and (B) are correct",
+      "Only (B) is correct",
+      "Both (A) and (B) are incorrect",
+      "Only (A) is correct",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) और (B) दोनों सही हैं",
+      "केवल (B) सही है",
+      "(A) और (B) दोनों सही नहीं हैं",
+      "केवल (A) सही है",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Maharaja Vinay Singh of Alwar was a great patron of arts under whose reign the classic text 'Gulistan' was elegantly written and illustrated by the famous painters Baldev and Ghulam Ali.",
+    "explanationHindi": "अलवर के कला-प्रेमी महाराजा विनय सिंह के समय शेख सादी की प्रसिद्ध पुस्तक 'गुलिस्ताँ' को बेहद भव्य रूप से चित्रित किया गया, जिसके मुख्य चित्रकार बलदेव और गुलाम अली थे। (नोट: अंग्रेजी पेपर में प्रिंटिंग त्रुटिवश बूंदी लिखा गया था परंतु हिंदी और ऐतिहासिक साक्ष्य अनुसार यह अलवर है)।",
+    "subject": "इतिहास",
+    "topic": "कला, संस्कृति, साहित्य एवं स्थापत्य"
+  },
+  {
+    "qEnglish": "Which one of the following folk musical instrument groups is not matched?",
+    "qHindi": "निम्नांकित में से कौनसा एक लोक वाद्य यन्त्र समूह सुमेलित नहीं है?",
+    "optionsEnglish": [
+      "Ravanhatta, Jantar, Nishan, Satara",
+      "Pungi, Algoja, Nad, Morchang",
+      "Manjira, Jhanjh, Thali, Khadtal",
+      "Mradang, Chang, Khanjari, Naubat",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "रावणहत्था, जन्तर, निशान, सतारा",
+      "पुंगी, अलगोजा, नड़, मोरचंग",
+      "मंजीरा, झांझ, थाली, खड़ताल",
+      "मृदंग, चंग, खंजरी, नौबत",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "In the first group, Satara is a wind instrument (Avanaddh/Sushir traits) and Ravanhatta/Jantar are string instruments (Tat), making the categorical uniform matching incorrect compared to clear standard categories.",
+    "explanationHindi": "प्रथम समूह में 'सतारा' सुषिर (फूंक मारकर बजने वाला) वाद्य है जबकि रावणहत्था और जंतर तत् (तार वाले) वाद्य यंत्र हैं, जिसके कारण यह समूह पूर्णतः सुमेलित नहीं है।",
+    "subject": "इतिहास",
+    "topic": "कला, संस्कृति, साहित्य एवं स्थापत्य"
+  },
+  {
+    "qEnglish": "What is 'Karchop' embroidery?",
+    "qHindi": "'करचोप' कढ़ाई किसे कहते हैं?",
+    "optionsEnglish": [
+      "Gold embroidery done on cushions and canopies in Jaisalmer.",
+      "Embroidery done on the red woollen shawl of Jat women of Bikaner.",
+      "Fine embroidery done by the Mevas of Alwar.",
+      "Embroidery done on the Ghagra of Jat women in Shekhawati.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जैसलमेर में मसनदों एवं छतरियों पर की जाने वाली सोने की कढ़ाई।",
+      "बीकानेर की जाट महिलाओं के लाल ऊनी शॉल पर की गई कढ़ाई।",
+      "अलवर में मेवों द्वारा की गई महीन कढ़ाई।",
+      "शेखावाटी में जाट महिलाओं के घाघरे पर की गई कढ़ाई।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Karchop is a traditional form of metallic/gold relief embroidery heavily practiced on royal items like canopies, velvet cushions, and formal costumes.",
+    "explanationHindi": "'करचोप' कपड़े या मसनदों/छतरियों पर की जाने वाली सोने-चांदी के तारों (ज़रदोज़ी शैली) की भारी उभरी हुई कढ़ाई को कहा जाता है।",
+    "subject": "इतिहास",
+    "topic": "कला, संस्कृति, साहित्य एवं स्थापत्य"
+  }
+]

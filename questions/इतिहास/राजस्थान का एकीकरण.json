@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which statement regarding the Matsya Union, in the context of unification of Rajasthan, is incorrect?",
+    "qHindi": "राजस्थान के एकीकरण में मत्स्य संघ से सम्बन्धित कौनसा कथन असत्य है?",
+    "optionsEnglish": [
+      "Tej Singh, the ruler of Alwar was appointed the Rajpramukh of Matsya Union.",
+      "In February 1948, the Govt. of India appointed S.N. Sapru as the administrator of Bharatpur State.",
+      "The inauguration of the Matsya Union was opposed by Man Singh, the brother of Maharaja of Bharatpur.",
+      "The name 'Matsya Union' was adopted on the suggestion of K.M. Munshi.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मत्स्य संघ के राजप्रमुख, अलवर के शासक तेज सिंह बनाये गये थे।",
+      "फरवरी 1948 को, भारत सरकार ने एस.एन. सप्रू को भरतपुर राज्य का प्रशासक नियुक्त किया।",
+      "मत्स्य संघ के उद्घाटन का विरोध भरतपुर के महाराजा के भाई मान सिंह ने किया था।",
+      "के.एम. मुंशी के सुझाव पर 'मत्स्य संघ' नाम रखा गया था।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Udaybhan Singh, the ruler of Dholpur, was appointed as the Rajpramukh of the Matsya Union, not Tej Singh of Alwar. Therefore, statement 1 is incorrect.",
+    "explanationHindi": "मत्स्य संघ के राजप्रमुख धौलपुर के महाराजा उदयभान सिंह बनाए गए थे, न कि अलवर के शासक तेज सिंह। अतः पहला कथन पूरी तरह गलत है।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का एकीकरण"
+  },
+  {
+    "qEnglish": "Ruler of which state exhorted the kings of states of Rajasthan to become member of the Constituent Assembly?",
+    "qHindi": "किस रियासती शासक ने राजस्थान की रियासतों के शासकों से संविधान निर्मात्री सभा में शामिल होने का आह्वान किया ?",
+    "optionsEnglish": [
+      "Maharajadhiraj of Bikaner Shardul Singh",
+      "Maharajadhiraj of Jaipur Sawai Man Singh",
+      "Maharajadhiraj of Jodhpur Hanwant Singh",
+      "Maharaja of Bharatpur Brijendra Singh",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "बीकानेर के महाराजाधिराज शार्दुल सिंह",
+      "जयपुर के महाराजाधिराज सवाई मानसिंह",
+      "जोधपुर के महाराजाधिराज हनवंत सिंह",
+      "भरतपुर के महाराजा बृजेन्द्र सिंह",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Maharaja Shardul Singh of Bikaner took a leading patriotic initiative urging other princely rulers to join the Constituent Assembly of India early.",
+    "explanationHindi": "बीकानेर के महाराजा शार्दुल सिंह ने अन्य रियासतों के राजाओं को पत्र लिखकर भारत की संविधान सभा में सम्मिलित होने के लिए प्रेरित किया था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का एकीकरण"
+  }
+]

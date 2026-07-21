@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "Which of the following amendment has been made in the Rajasthan Municipalities Act, 2009 by the Rajasthan Municipalities (Amendment) Act, 2026?",
+    "qHindi": "राजस्थान नगरपालिका अधिनियम, 2009 में राजस्थान नगरपालिका (संशोधन) अधिनियम, 2026 के द्वारा निम्नलिखित में से कौनसा परिवर्तन किया गया है?",
+    "optionsEnglish": [
+      "A person having more than two children shall be disqualified from being a member of municipality.",
+      "A New Section, 331 is inserted in the Act.",
+      "Leprosy has been removed from the list of dangerous diseases as defined in the Act.",
+      "The Act empowers the state government to remove members of a municipality on specified grounds.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कोई व्यक्ति जिसकी दो से अधिक सन्तानें हैं वह किसी नगरपालिका का सदस्य होने के लिए निरर्हित होगा।",
+      "अधिनियम में एक नयी धारा 331 अन्तःस्थापित की गई।",
+      "अधिनियम में परिभाषित खतरनाक रोग की सूची में कुष्ठ रोग को बाहर कर दिया गया है।",
+      "अधिनियम राज्य सरकार को निर्दिष्ट आधारों पर नगरपालिका के सदस्यों को हटाने का अधिकार देता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Following human rights consensus and modern health laws, leprosy was explicitly struck off from restrictive 'dangerous disease' categories that previously allowed disqualifications or constraints.",
+    "explanationHindi": "आधुनिक स्वास्थ्य मानदंडों और मानवाधिकारों को ध्यान में रखते हुए नगरपालिका अधिनियम के संशोधनों में कुष्ठ रोग (Leprosy) को भेदभावपूर्ण धाराओं और खतरनाक रोगों की सूची से बाहर कर दिया गया है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "स्थानीय स्वायत्त शासन एवं पंचायती राज"
+  },
+  {
+    "qEnglish": "Which Article of the Constitution of India is the reservation of seats for Scheduled Castes in every Panchayat mentioned?",
+    "qHindi": "प्रत्येक पंचायत में अनुसूचित जातियों के लिए स्थानों के आरक्षण की बात भारत के संविधान के किस अनुच्छेद में की गई है?",
+    "optionsEnglish": [
+      "Article 243G",
+      "Article 243F",
+      "Article 243H",
+      "Article 243D",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "अनुच्छेद 243छ",
+      "अनुच्छेद 243च",
+      "अनुच्छेद 243ज",
+      "अनुच्छेद 243घ",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Article 243D provides detailed provisions for the mandatory reservation of seats for Scheduled Castes and Scheduled Tribes in every local Panchayat level based on their population proportion.",
+    "explanationHindi": "संविधान के अनुच्छेद 243घ (243D) के तहत पंचायतों में अनुसूचित जाति (SC) और अनुसूचित जनजाति (ST) के लिए सीटों के आरक्षण का अनिवार्य प्रावधान किया गया है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "स्थानीय स्वायत्त शासन एवं पंचायती राज"
+  },
+  {
+    "qEnglish": "On which date did the Rajasthan Panchayat Raj Act, 1953 come into force ?",
+    "qHindi": "राजस्थान पंचायत राज अधिनियम, 1953 कब लागू हुआ था ?",
+    "optionsEnglish": [
+      "1st June, 1953",
+      "1st July, 1953",
+      "1st January, 1954",
+      "1st July, 1954",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1 जून, 1953",
+      "1 जुलाई, 1953",
+      "1 जनवरी, 1954",
+      "1 जुलाई, 1954",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The Rajasthan Panchayat Act, 1953 came into force on January 1, 1954.",
+    "explanationHindi": "राजस्थान पंचायत अधिनियम, 1953 दिनांक 1 जनवरी, 1954 से प्रभावी हुआ था।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "स्थानीय स्वायत्त शासन एवं पंचायती राज"
+  }
+]

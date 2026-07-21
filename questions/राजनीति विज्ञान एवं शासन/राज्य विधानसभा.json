@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "According to the Rajasthan Vidhansabha - Rules of Procedure, the notice of motion on Discussion on a matter of public interest shall be given in writing addressed to which of the following ?",
+    "qHindi": "राजस्थान विधान सभा - प्रक्रिया नियम के अनुसार, लोकहित के किसी विषय पर चर्चा हेतु प्रस्ताव की सूचना लिखित रूप में निम्नलिखित में से किसे संबोधित की जाएगी ?",
+    "optionsEnglish": [
+      "Principal Secretary, Rajasthan Legislative Assembly",
+      "Speaker, Rajasthan Legislative Assembly",
+      "Cabinet Minister of concerned department",
+      "Chief Minister, Rajasthan",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "प्रमुख सचिव, राजस्थान विधान सभा को",
+      "अध्यक्ष, राजस्थान विधान सभा को",
+      "केबिनेट मंत्री, सम्बन्धित विभाग को",
+      "मुख्यमंत्री, राजस्थान को",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Notices under the Rules of Procedure are addressed in writing to the Principal Secretary of the Legislative Assembly.",
+    "explanationHindi": "प्रक्रिया नियमों के अनुसार सूचनाएं लिखित रूप में विधानसभा के प्रमुख सचिव को संबोधित की जाती हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राज्य विधानसभा"
+  }
+]

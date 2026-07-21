@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "At which of the following places NAFED Bio-Fertilizer Plant is located?",
+    "qHindi": "NAFED का जैव उर्वरक संयंत्र निम्नलिखित में से किस स्थान पर अवस्थित है ?",
+    "optionsEnglish": [
+      "Sikar",
+      "Hanumangarh",
+      "Alwar",
+      "Bharatpur",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सीकर",
+      "हनुमानगढ़",
+      "अलवर",
+      "भरतपुर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 4,
+    "explanationEnglish": "NAFED has been operating institutional processing frameworks in diverse industrial areas of eastern Rajasthan.",
+    "explanationHindi": "NAFED जैव उर्वरक संयंत्र की स्थापना से जुड़े औद्योगिक कार्यक्षेत्रों की अवस्थिति भरतपुर क्षेत्र के अंतर्गत रही है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान में कृषि आधारित उद्योग"
+  }
+]

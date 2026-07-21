@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Consider the following areas of various countries -\n(A) Florida\n(B) South-Western Australia\n(C) Central Chile\nWhich of the above areas receive Westerlies only in winter?",
+    "qHindi": "विभिन्न देशों के निम्नलिखित क्षेत्रों पर विचार कीजिए -\n(A) फ्लोरिडा\n(B) दक्षिण-पश्चिमी ऑस्ट्रेलिया\n(C) मध्य चिली\nउपर्युक्त में से किन क्षेत्रों में केवल सर्दियों में ही पछुआ पवनें चलती हैं?",
+    "optionsEnglish": [
+      "(A), (B) and (C)",
+      "Only (A)",
+      "Only (B) and (C)",
+      "Only (C)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A), (B) तथा (C)",
+      "केवल (A)",
+      "केवल (B) तथा (C)",
+      "केवल (C)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "South-Western Australia and Central Chile have a Mediterranean climate, characterized by the shifting of wind belts where westerlies shift equatorward and bring rain exclusively in winters.",
+    "explanationHindi": "दक्षिण-पश्चिमी ऑस्ट्रेलिया और मध्य चिली भूमध्यसागरीय (Mediterranean) जलवायु क्षेत्र में आते हैं, जहाँ सूर्य के उत्तरायण-दक्षिणायन खिसकाव के कारण केवल शीतकाल में पछुआ पवनें चलती हैं और वर्षा करती हैं।",
+    "subject": "भूगोल",
+    "topic": "वैश्विक पवन प्रणाली"
+  }
+]

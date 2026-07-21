@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "As per the Annual Report 2025-26 of Department of Commerce, Government of India, the top two export commodities in the year 2024-25 were -",
+    "qHindi": "वाणिज्य विभाग भारत सरकार की वार्षिक रिपोर्ट 2025-26 के अनुसार, वर्ष 2024-25 के लिए भारत की शीर्षतम दो निर्यात वस्तुएँ थीं -",
+    "optionsEnglish": [
+      "Petroleum Products, Pearls and Precious Stones",
+      "Iron and Steel, Gold Jewellery",
+      "Petroleum Products, Telecom Instruments",
+      "Telecom Instruments, Pearls and Precious Stones",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पेट्रोलियम उत्पाद, मोती एवं कीमती पत्थर",
+      "लोहा एवं इस्पात, स्वर्ण आभूषण",
+      "पेटroleum उत्पाद, दूरसंचार (टेलीकॉम) उपकरण",
+      "दूरसंचार (टेलीकॉम) उपकरण, मोती एवं कीमती पत्थर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "India's foreign trade charts capture Petroleum products holding the top rank, while modern technical high-value manufacturing like Telecom Instruments rapidly consolidated the second absolute spot.",
+    "explanationHindi": "भारत सरकार के वाणिज्य मंत्रालय के नवीनतम आंकड़ों के अनुसार, वर्ष 2024-25 में भारत के निर्यात बास्केट में शीर्ष दो स्थान क्रमशः पेट्रोलियम उत्पादों और दूरसंचार (टेलीकॉम) उपकरणों ने हासिल किए हैं।",
+    "subject": "अर्थशास्त्र",
+    "topic": "अर्थव्यवस्था के प्रमुख क्षेत्र: कृषि, उद्योग, सेवा एवं व्यापार"
+  },
+  {
+    "qEnglish": "As per Economic Survey 2025-26, what was the rank of India globally in terms of Competitive Industrial Performance in the year 2023?",
+    "qHindi": "आर्थिक सर्वेक्षण 2025-26 के अनुसार, वर्ष 2023 के प्रतिस्पर्धी औद्योगिक प्रदर्शन के सन्दर्भ में विश्व में भारत का स्थान क्या था?",
+    "optionsEnglish": [
+      "39th",
+      "40th",
+      "37th",
+      "34th",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "39वाँ",
+      "40वाँ",
+      "37वाँ",
+      "34वाँ",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The UNIDO Competitive Industrial Performance (CIP) indexing tracking manufacturing capability positioned India at the 40th rank globally.",
+    "explanationHindi": "आर्थिक समीक्षा 2025-26 के अनुसार, यूनीडो (UNIDO) द्वारा जारी प्रतिस्पर्धी औद्योगिक प्रदर्शन (CIP) सूचकांक में भारत को वैश्विक स्तर पर 40वां स्थान प्राप्त हुआ।",
+    "subject": "अर्थशास्त्र",
+    "topic": "अर्थव्यवस्था के प्रमुख क्षेत्र: कृषि, उद्योग, सेवा एवं व्यापार"
+  },
+  {
+    "qEnglish": "According to the Economic Survey 2025-26, which of the following statements are correct about the service sector of India?\n(i) India's service sector contributes more than half of the Gross Value Added.\n(ii) India is the world's seventh-largest exporter of services.\n(iii) India's share in global services trade was about 7.5 percent in 2024.\nCode -",
+    "qHindi": "आर्थिक सर्वेक्षण 2025-26 के अनुसार, भारत के सेवा क्षेत्र के बारे में निम्न में से कौनसे कथन सही हैं?\n(i) भारत का सेवा क्षेत्र सकल जोड़े गये मूल्य में आधे से अधिक का योगदान देता है।\n(ii) भारत विश्व का सातवाँ सबसे बड़ा सेवाओं का निर्यातक है।\n(iii) वर्ष 2024 में विश्व सेवा व्यापार में भारत का हिस्सा करीब 7.5 प्रतिशत था।\nूट -",
+    "optionsEnglish": [
+      "All (i), (ii) and (iii) are correct",
+      "Only (i) and (iii) are correct",
+      "Only (i) and (ii) are correct",
+      "Only (ii) and (iii) are correct",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सभी (i), (ii) और (iii) सही हैं",
+      "केवल (i) और (iii) सही हैं",
+      "केवल (i) और (ii) सही हैं",
+      "केवल (ii) और (iii) सही हैं",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Statements (i) and (ii) are completely accurate indicators. India holds a key global services export ranking (~7th) and contributes over 53-54% of domestic GVA. Global trade share sits lower than 7.5%.",
+    "explanationHindi": "आर्थिक सर्वेक्षण के डेटा के अनुसार भारत का सेवा क्षेत्र कुल जीवीए (GVA) में 50% से अधिक योगदान देता है और भारत दुनिया के शीर्ष सेवा निर्यातकों (7वें स्थान) में शामिल है, अतः कथन (i) और (ii) सही हैं।",
+    "subject": "अर्थशास्त्र",
+    "topic": "अर्थव्यवस्था के प्रमुख क्षेत्र: कृषि, उद्योग, सेवा एवं व्यापार"
+  }
+]

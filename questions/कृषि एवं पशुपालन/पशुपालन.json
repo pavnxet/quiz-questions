@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "In May 2026, where were the classes for the country's first Panchagavya medical course formally inaugurated?",
+    "qHindi": "मई 2026 में, देश के प्रथम पंचगव्य चिकित्सा पाठ्यक्रम की कक्षाओं का विधिवत रूप से शुभारंभ कहाँ किया गया ?",
+    "optionsEnglish": [
+      "At the Gau Samvardhan Ashram Mokalawas, Jodhpur district.",
+      "At the Shri Pushkar Gau Adi Pashu Samvardhan Ashram in Pushkar, Ajmer district.",
+      "At the Shri Gopal Gau Samvardhan Ashram in Sanganer, Jaipur district.",
+      "At the Gau Samvardhan Ashram in Degana, Nagaur district.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जोधपुर जिले के मोकलावास में स्थित गौ संवर्द्धन आश्रम में",
+      "अजमेर जिले के पुष्कर में स्थित श्री पुष्कर गौ आदि पशु संवर्द्धन आश्रम में",
+      "जयपुर जिले के सांगानेर में स्थित श्री गोपाल गौ संवर्द्धन आश्रम में",
+      "नागौर जिले के डेगाना में स्थित गौ संवर्द्धन आश्रम में",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The classes were formally started at Gau Samvardhan Ashram in Mokalawas, Jodhpur.",
+    "explanationHindi": "कक्षाओं का विधिवत शुभारंभ जोधपुर जिले के मोकलावास में स्थित गौ संवर्द्धन आश्रम में किया गया।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "पशुपालन"
+  }
+]

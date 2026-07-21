@@ -1,0 +1,186 @@
+[
+  {
+    "qEnglish": "According to Piaget, which of the following cognitive processes, the children display in the formal operational period, but not in the concrete operational period?\n(a) Systematic analysis with all possible solutions of the problem\n(b) Logical approach\n(c) Multiple classifications\n(d) Use higher order structure\n(e) Class inclusion\nChoose the correct code-",
+    "qHindi": "पियाजे के अनुसार, निम्नलिखित में से कौनसी संज्ञानात्मक प्रक्रियाएं, बच्चे औपचारिक संक्रियात्मक अवस्था में प्रदर्शित करते हैं, किन्तु मर्त संक्रियात्मक अवस्था में नहीं?\n(a) समस्या के सभी संभावित समाधानों के साथ व्यवस्थित विश्लेषण\n(b) तार्किक दृष्टिकोण\n(c) एकाधिक वर्गीकरण\n(d) उच्च क्रम संरचना का उपयोग\n(e) वर्ग समावेशन\nसही कूट का चयन कीजिए -",
+    "optionsEnglish": [
+      "All (a), (b), (c), (d) and (e)",
+      "Only (b), (c) and (d)",
+      "Only (a), (b), (c) and (d)",
+      "Only (a), (b) and (d)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सभी (a), (b), (c), (d) एवं (e)",
+      "केवल (b), (c) एवं (d)",
+      "केवल (a), (b), (c) एवं (d)",
+      "केवल (a), (b) एवं (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Formal operational learners display systematic, hypothetico-deductive troubleshooting (a), structural abstract logic adjustments (b), and deploy complex higher-order operational frameworks (d) which concrete operational children cannot process natively.",
+    "explanationHindi": "जीन पियाजे के अनुसार, अमूर्त/औपचारिक संक्रियात्मक अवस्था में बच्चे किसी समस्या के सभी संभावित संयोजनों का व्यवस्थित विश्लेषण (a), पूर्ण तार्किक-परिकल्पनात्मक दृष्टिकोण (b) तथा उच्च स्तरीय मानसिक संरचनाओं (d) का उपयोग करना सीखते हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिवृद्धि एवं विकास की अवधारणा (शारीरिक, संवेगात्मक, संज्ञानात्मक, नैतिक, सामाजिक विकास)"
+  },
+  {
+    "qEnglish": "The developmental pattern has predictable characteristics. Which of the following principle does not justify this statement?",
+    "qHindi": "'विकासात्मक पैटर्न में पूर्वानुमानित विशेषताएं होती हैं। निम्नलिखित में से कौनसा सिद्धांत इस कथन को सही सिद्ध नहीं करता है?",
+    "optionsEnglish": [
+      "Principle of similar developmental patterns",
+      "Principle of general to specific responses",
+      "Principle of uniform developmental rate in different areas",
+      "Principle of developmental continuity",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "समान विकासात्मक पैटर्न का सिद्धांत",
+      "सामान्य से विशिष्ट प्रतिक्रियाओं का सिद्धांत",
+      "विभिन्न क्षेत्रों में एकरूप विकासात्मक दर का सिद्धांत",
+      "विकासात्मक निरंतरता का सिद्धांत",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Developmental rates vary markedly across different biological domains and individuals; there is no rule stating a uniformly locked developmental speed across all areas, making statement 3 a false principle.",
+    "explanationHindi": "विकास की दर विभिन्न क्षेत्रों और व्यक्तियों में कभी भी एकरूप या समान नहीं होती (सबका अपना अलग पेस होता है), इसलिए तीसरा विकल्प गलत विकास सिद्धांत है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिवृद्धि एवं विकास की अवधारणा (शारीरिक, संवेगात्मक, संज्ञानात्मक, नैतिक, सामाजिक विकास)"
+  },
+  {
+    "qEnglish": "Which of the following statement is not true about development?",
+    "qHindi": "विकास के संबंध में निम्नलिखित में कौन सा कथन सत्य नहीं है ?",
+    "optionsEnglish": [
+      "Development is affected by cultural changes.",
+      "Development follows a definite but unpredictable pattern.",
+      "Maturation plays an important role in development.",
+      "Development is aided by stimulation.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "विकास सांस्कृतिक परिवर्तनों से प्रभावित होता है।",
+      "विकास एक निश्चित किन्तु अपूर्वानुमेय पैटर्न का अनुसरण करता है।",
+      "विपक्ष में परिपक्वता एक महत्त्वपूर्ण भूमिका निभाती है।",
+      "विकास उद्दीपन द्वारा सहायता प्राप्त करता है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Development follows a predictable pattern rather than an entirely unpredictable one.",
+    "explanationHindi": "विकास एक निश्चित और पूर्वानुमेय (predictable) पैटर्न का अनुसरण करता है, इसलिए कथन 2 गलत है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिवृद्धि एवं विकास की अवधारणा (शारीरिक, संवेगात्मक, संज्ञानात्मक, नैतिक, सामाजिक विकास)"
+  },
+  {
+    "qEnglish": "To plan an intervention for regulating the emotions of secondary school students, which one of the following is mostly applicable?",
+    "qHindi": "माध्यमिक विद्यालय के छात्रों में भावनाओं को नियंत्रित करने के लिए हस्तक्षेप योजना बनाते समय, निम्नलिखित में से कौन सा कथन सबसे अधिक लागू होता है ?",
+    "optionsEnglish": [
+      "Emotional behaviours are learned and acquired patterns of our behaviour.",
+      "Emotional behaviour is visible at early state in the form of general excitement.",
+      "Both positive and negative emotional behaviours are distinct up to two years.",
+      "Emotional behaviours are rooted through hereditary influences.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भावनात्मक व्यवहार हमारे व्यवहार के सीखे और अर्जित पैटर्न होते हैं।",
+      "भावनात्मक व्यवहार प्रारंभिक अवस्था में सामान्य उत्तेजना के रूप में दिखाई देता है।",
+      "सकारात्मक और नकारात्मक दोनों प्रकार के भावनात्मक व्यवहार दो वर्ष की आयु तक स्पष्ट रूप से दिखाई देते हैं।",
+      "भावनात्मक व्यवहारों की जड़ें आनुवंशिक प्रभावों में निहित होती हैं।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Interventions focus extensively on modifying emotional habits because emotional behaviors are largely learned and acquired pattern responses.",
+    "explanationHindi": "भावनाओं के नियमन के लिए हस्तक्षेप योजना इस विचार पर आधारित होती है कि भावनात्मक व्यवहार सीखे और अर्जित किए जा सकते हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिवृद्धि एवं विकास की अवधारणा (शारीरिक, संवेगात्मक, संज्ञानात्मक, नैतिक, सामाजिक विकास)"
+  },
+  {
+    "qEnglish": "According to Kohlberg's theory of moral development, at which stage moral behaviour of children is completely under internal control and they behave according to their internal standards?",
+    "qHindi": "कोहलबर्ग के नैतिक विकास के सिद्धान्त के अनुसार किस अवस्था में बच्चों में नैतिक आचरण पूर्णतः आन्तरिक नियंत्रण में होता है तथा वे अपना व्यवहार आन्तरिक मानकों के अनुसार करते हैं ?",
+    "optionsEnglish": [
+      "Level of post-conventional moral reasoning",
+      "Stage of instrumental relativist orientation",
+      "Level of conventional moral reasoning",
+      "Level of pre-conventional moral reasoning",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "उत्तर रूढ़िगत नैतिक तर्कणा का स्तर",
+      "साधनात्मक सापेक्षवादी उन्मुखता की अवस्था",
+      "रूढ़िगत नैतिक तर्कणा का स्तर",
+      "प्राक्-रूढ़िगत नैतिक तर्कणा का स्तर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "At the Post-Conventional level, moral values and standards become completely internalized by the individual.",
+    "explanationHindi": "उत्तर-रूढ़िगत (Post-Conventional) स्तर पर नैतिकता पूरी तरह से आंतरिक नियंत्रण और व्यक्तिगत सिद्धांतों के अधीन हो जाती है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिवृद्धि एवं विकास की अवधारणा (शारीरिक, संवेगात्मक, संज्ञानात्मक, नैतिक, सामाजिक विकास)"
+  },
+  {
+    "qEnglish": "In Erikson's theory, which psycho-social stages precede and succeed the stage 'Industry vs Inferiority' respectively?",
+    "qHindi": "एरिक्सन के सिद्धान्त में 'उद्योग बनाम हीनता' चरण के पहले और बाद में क्रमशः कौन से मनो-सामाजिक चरण आते हैं ?",
+    "optionsEnglish": [
+      "Initiative vs Guilt and Intimacy vs Isolation",
+      "Initiative vs Guilt and Identity vs Role Confusion",
+      "Autonomy vs Shame and Identity vs Role Confusion",
+      "Identity vs Role Confusion and Intimacy vs Isolation",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पहल बनाम ग्लानि और आत्मीयता बनाम अलगाव",
+      "पहल बनाम ग्लानि और पहचान बनाम भूमिका भ्रम",
+      "स्वायत्तता बनाम लज्जा और पहचान बनाम भूमिका भ्रम",
+      "पहचान बनाम भूमिका भ्रम और आत्मीयता बनाम अलगाव",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "In Erik Erikson's stages of development, 'Initiative vs Guilt' comes before and 'Identity vs Role Confusion' comes after 'Industry vs Inferiority'.",
+    "explanationHindi": "एरिक एरिक्सन के विकास चरणों में 'पहल बनाम ग्लानि' उद्योग बनाम हीनता से पहले आता है तथा 'पहचान बनाम भूमिका भ्रम' इसके ठीक बाद आता है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिवृद्धि एवं विकास की अवधारणा (शारीरिक, संवेगात्मक, संज्ञानात्मक, नैतिक, सामाजिक विकास)"
+  },
+  {
+    "qEnglish": "In the developmental process, when development is open to change in response to influential experiences it is called as:",
+    "qHindi": "विकासात्मक प्रक्रिया में, जब विकास प्रभावशाली अनुभवों की प्रतिक्रिया में परिवर्तन के लिए खुला होता है, तो उसे कहा जाता है :",
+    "optionsEnglish": [
+      "Stability",
+      "Plasticity",
+      "Nature",
+      "Life expectancy",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "स्थिरता",
+      "लचीलापन",
+      "प्रकृति",
+      "जीवन प्रत्याशा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Plasticity refers to the brain's and human development's capacity to change and adapt throughout life based on experiences.",
+    "explanationHindi": "प्लास्टिसिटी या लचीलेपन का तात्पर्य अनुभवों की प्रतिक्रिया में विकास की परिवर्तनशील क्षमता से है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिवृद्धि एवं विकास की अवधारणा (शारीरिक, संवेगात्मक, संज्ञानात्मक, नैतिक, सामाजिक विकास)"
+  },
+  {
+    "qEnglish": "Assertion (A): In both prenatal and postnatal stages, life follows the laws of a directional sequence in physical development.\nReason (R): Development proceeds from the central axis of the body towards the extremities, that is known as cephalo-caudal law.",
+    "qHindi": "अभिकथन (A): जन्म से पूर्व एवं जन्म के पश्चात् दोनों ही अवस्थाओं में, जीवन, शारीरिक विकास में दिशात्मक अनुक्रम के नियमों का पालन करता है।\nकारण (R) : शरीर के केन्द्रीय अक्ष से छोर की ओर विकास की प्रक्रिया आगे बढ़ती है, जिसे सिफैलो-कॉडल नियम के नाम से जाना जाता है।",
+    "optionsEnglish": [
+      "(A) and (R) both are true and (R) is the correct explanation of (A).",
+      "(A) and (R) both are true but (R) is not the correct explanation of (A).",
+      "(A) is true but (R) is false.",
+      "(A) is false but (R) is true.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) एवं (R) दोनों सत्य हैं और (R), (A) की सही व्याख्या है।",
+      "(A) एवं (R) दोनों सत्य हैं, किन्तु (R), (A) की सही व्याख्या नहीं है।",
+      "(A) सत्य है, किन्तु (R) असत्य है।",
+      "(A) असत्य है, किन्तु (R) सत्य है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Assertion is correct, but the reason incorrectly defines the cephalo-caudal law (which actually describes head-to-toe progression). Central to outward progression is known as proximodistal law.",
+    "explanationHindi": "अभिकथन सही है, परन्तु कारण में दी गई परिभाषा गलत है क्योंकि केन्द्रीय अक्ष से छोर की ओर विकास को प्रॉक्सिमोडिजिटल (समीप-दूरस्थ) नियम कहा जाता है, न कि सिफैलो-कॉडल (शिरोपुच्छीय)।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अभिवृद्धि एवं विकास की अवधारणा (शारीरिक, संवेगात्मक, संज्ञानात्मक, नैतिक, सामाजिक विकास)"
+  }
+]

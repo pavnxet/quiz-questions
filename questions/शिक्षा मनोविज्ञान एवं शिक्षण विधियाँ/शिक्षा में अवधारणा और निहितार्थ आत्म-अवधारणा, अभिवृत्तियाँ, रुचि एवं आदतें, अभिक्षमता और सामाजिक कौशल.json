@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "Match the following 21st-century skills with their characteristics:\n(a) Collaboration -> (ii) Ability to work together effectively.\n(b) Communication -> (i) Ability to express one's desires.\n(c) Innovation -> (iv) Ability to explore and create fresh ways of thinking.\n(d) Leadership -> (iii) Ability to lead a team.",
+    "qHindi": "निम्नलिखित 21वीं सदी के कौशलों को उनकी विशेषताओं से मिलाएँ :\n(a) सहयोग -> (ii) प्रभावी ढंग से मिलकर काम करने की क्षमता\n(b) संचार -> (i) अपनी इच्छाओं को व्यक्त करने की क्षमता\n(c) नवाचार -> (iv) सोचने के नए तरीकों को खोजने और विकसित करने की क्षमता\n(d) नेतृत्व -> (iii) टीम का नेतृत्व करने की क्षमता",
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Collaboration maps to working together (ii), communication to expressing desires (i), innovation to new thinking (iv), and leadership to leading a team (iii).",
+    "explanationHindi": "सहयोग का मिलान (ii), संचार का (i), नवाचार का (iv), और नेतृत्व का (iii) से सही ढंग से होता है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शिक्षा में अवधारणा और निहितार्थ: आत्म-अवधारणा, अभिवृत्तियाँ, रुचि एवं आदतें, अभिक्षमता और सामाजिक कौशल"
+  },
+  {
+    "qEnglish": "Which of the following is not included among the life skills of 21st century skills?",
+    "qHindi": "निम्नलिखित में से कौन सा 21वीं सदी के कौशलों के जीवन कौशलों में सम्मिलित नहीं है ?",
+    "optionsEnglish": [
+      "Initiative",
+      "Leadership",
+      "Innovation",
+      "Adaptability",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पहल",
+      "नेतृत्व",
+      "नवाचार",
+      "अनुकूलन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Under the P21 framework, Innovation falls under Learning and Innovation Skills (the 4Cs), whereas Initiative, Leadership, and Adaptability are categorized under Life and Career Skills.",
+    "explanationHindi": "21वीं सदी के कौशल वर्गीकरण में 'नवाचार' (Innovation) को अधिगम और नवाचार कौशलों में रखा गया है, जबकि पहल, नेतृत्व और अनुकूलन जीवन कौशलों का हिस्सा हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शिक्षा में अवधारणा और निहितार्थ: आत्म-अवधारणा, अभिवृत्तियाँ, रुचि एवं आदतें, अभिक्षमता और सामाजिक कौशल"
+  },
+  {
+    "qEnglish": "Which of the following are components of 4Cs of 21st century skills?\nA. Critical thinking\nB. Calculation\nC. Collaboration\nD. Communication\nE. Coping with stress",
+    "qHindi": "निम्नलिखित में से कौन से 21वीं सदी के कौशलों के 4C के अवयव हैं ?\nA. आलोचनात्मक चिन्तन\nB. गणना\nC. सहयोग\nD. सम्प्रेषण\nE. तनाव से निपटना",
+    "optionsEnglish": [
+      "A, B and C",
+      "A, C and D",
+      "A, B and D",
+      "A, D and E",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A, B और C",
+      "A, C और D",
+      "A, B और D",
+      "A, D और E",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The 4Cs components of 21st-century learning skills include Critical thinking, Communication, Collaboration, and Creativity.",
+    "explanationHindi": "21वीं सदी के 4Cs कौशलों में आलोचनात्मक चिंतन (Critical thinking), सम्प्रेषण (Communication), सहयोग (Collaboration) और रचनात्मकता (Creativity) शामिल हैं।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "शिक्षा में अवधारणा और निहितार्थ: आत्म-अवधारणा, अभिवृत्तियाँ, रुचि एवं आदतें, अभिक्षमता और सामाजिक कौशल"
+  }
+]

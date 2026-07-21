@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which among the following physical features is NOT located in Africa Continent?",
+    "qHindi": "निम्नलिखित में से कौनसी भौतिक आकृति अफ्रीका महाद्वीप में अवस्थित नहीं है?",
+    "optionsEnglish": [
+      "Cascade Range",
+      "Katanga Plateau",
+      "Bie Plateau",
+      "Drakensberg Mountain",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कास्केड रेंज",
+      "कटंगा पठार",
+      "बी पठार",
+      "ड्रेकन्सबर्ग पर्वत",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The Cascade Range is located in western North America (USA and Canada). The Katanga Plateau, Bie Plateau, and Drakensberg Mountains are all located in Africa.",
+    "explanationHindi": "कास्केड रेंज (Cascade Range) उत्तरी अमेरिका महाद्वीप में स्थित पर्वत श्रृंखला है, जबकि अन्य तीनों (कटंगा, बी पठार और ड्रेकन्सबर्ग) अफ्रीका महाद्वीप में हैं।",
+    "subject": "भूगोल",
+    "topic": "महाद्वीप एवं महासागर"
+  }
+]

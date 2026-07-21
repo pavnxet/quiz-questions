@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Under Article 7 of the Constitution of India, which category of migrants has been excluded from citizenship of India?",
+    "qHindi": "भारत के संविधान के अनुच्छेद 7 के अन्तर्गत, निम्नलिखित में से किस प्रवासी वर्ग को भारत की नागरिकता से वंचित किया गया है?",
+    "optionsEnglish": [
+      "Persons who migrated to Pakistan after 1 March 1947",
+      "Persons who migrated to Pakistan after 15 August 1947",
+      "Persons who migrated to Pakistan after 18 July 1948",
+      "Persons who migrated to Pakistan after 26 November 1949",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1 मार्च 1947 के बाद पाकिस्तान चले गए व्यक्तियों को",
+      "15 अगस्त 1947 के बाद पाकिस्तान चले गए व्यक्तियों को",
+      "18 जुलाई 1948 के बाद पाकिस्तान चले गए व्यक्तियों को",
+      "26 नवम्बर 1949 के बाद पाकिस्तान चले गए व्यक्तियों को",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Article 7 overrides Articles 5 and 6, stating that a person who migrated from the territory of India to the territory now included in Pakistan after the 1st day of March 1947 shall not be deemed to be a citizen of India.",
+    "explanationHindi": "संविधान के अनुच्छेद 7 के अनुसार, जो व्यक्ति 1 मार्च 1947 के बाद भारत से पाकिस्तान प्रवास (माइग्रेट) कर गए, वे भारत के नागरिक नहीं माने जाएंगे।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान की विशेषताएं"
+  },
+  {
+    "qEnglish": "Which one is covered under 12th Schedule of Constitution of India?",
+    "qHindi": "निम्न में से कौन सा भारत के संविधान की बारहवीं अनुसूची के अन्तर्गत आता है ?",
+    "optionsEnglish": [
+      "Jurisdiction of Panchayats",
+      "State List",
+      "Allocation of seats of Lok Sabha",
+      "Jurisdiction of Municipalities",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पंचायतों की अधिकारिता",
+      "राज्य सूची",
+      "लोक सभा में सीटों का आवंटन",
+      "नगरपालिकाओं की अधिकारिता",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The 12th Schedule contains the powers, authority, and responsibilities of Municipalities.",
+    "explanationHindi": "12वीं अनुसूची में नगरपालिकाओं की शक्तियों, अधिकार और जिम्मेदारियों का उल्लेख है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान की विशेषताएं"
+  }
+]

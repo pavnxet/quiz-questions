@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "With reference to the peatland ecosystem, consider the following statements:\nA. It covers approximately 10 percent of the Earth's land surface.\nB. Protecting them is crucial to mitigate climate change.\nC. Locally it helps regulate and purify water.\nWhich of the above statements is/are correct?",
+    "qHindi": "पीटभूमि पारिस्थितिक तंत्र के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिए:\nA. ये पृथ्वी के लगभग 10 प्रतिशत भू-भाग पर आवरित है।\nB. जलवायु परिवर्तन को कम करने के लिए इनकी रक्षा करना महत्त्वपूर्ण है।\nC. स्थानीय रूप से ये पानी को विनियमित और शुद्ध करने में मदद करते हैं।\nउपर्युक्त में से कौन सा/से कथन सही है/हैं?",
+    "optionsEnglish": [
+      "A only",
+      "A and C only",
+      "B and C only",
+      "A, B and C",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल A",
+      "केवल A और C",
+      "केवल B और C",
+      "A, B और C",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Peatlands cover only about 3% of the Earth's land surface, making statement A incorrect. Statements B and C are correct functions of peatlands.",
+    "explanationHindi": "पीटभूमि पृथ्वी के केवल लगभग 3% भूमि क्षेत्र को कवर करती है, इसलिए कथन A गलत है। कथन B और C सही हैं।",
+    "subject": "भूगोल",
+    "topic": "पर्यावरण एवं पारिस्थितिकीय मुद्दे"
+  }
+]

@@ -1,0 +1,540 @@
+[
+  {
+    "qEnglish": "Identify the river on the basis of the following facts -\n(A) It originates from Bichameda.\n(B) Its tributaries are Gomti and Sarni.\n(C) It makes confluence at Beneshwar.",
+    "qHindi": "निम्नलिखित तथ्यों के आधार पर नदी की पहचान कीजिए -\n(A) यह बीछामेड़ा से उद्गमित होती है।\n(B) गोमती तथा सारनी इसकी सहायक नदियाँ हैं।\n(C) यह बेणेश्वर में संगम बनाती है।",
+    "optionsEnglish": [
+      "Som",
+      "Jakham",
+      "Sabarmati",
+      "Mahi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सोम",
+      "जाखम",
+      "साबरमती",
+      "माही",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The Som River originates from the Bichameda hills in Udaipur district, has Gomti and Sarni as its tributaries, and forms a tri-confluence (Triveni Sangam) with the Mahi and Jakham rivers at Beneshwar.",
+    "explanationHindi": "सोम नदी उदयपुर जिले के बीछामेड़ा पहाड़ियों से उद्गमित होती है, गोमती और सारनी इसकी सहायक नदियाँ हैं, तथा यह बेणेश्वर में माही और जाखम नदियों के साथ त्रिवेणी संगम बनाती है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "The Great Boundary Fault is not seen clearly in which among the following district of Rajasthan?",
+    "qHindi": "महान / विशाल सीमा भ्रंश राजस्थान के निम्नलिखित में से किस जिले में स्पष्टतः दिखाई नहीं देता है?",
+    "optionsEnglish": [
+      "Kota",
+      "Dholpur",
+      "Chittorgarh",
+      "Churu",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कोटा",
+      "धौलपुर",
+      "चित्तौड़गढ़",
+      "चूरू",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The Great Boundary Fault runs through the southeastern districts of Rajasthan like Chittorgarh, Bundi, Kota, Sawai Madhopur, and Dholpur. It is completely absent in Churu, which lies in the northern desert region.",
+    "explanationHindi": "महान सीमा भ्रंश (Great Boundary Fault) राजस्थान के दक्षिण-पूर्वी जिलों जैसे चित्तौड़गढ़, बूंदी, कोटा, सवाई माधोपुर और धौलपुर से होकर गुजरता है। यह चूरू में बिल्कुल दिखाई नहीं देता है, जो उत्तरी मरुस्थलीय क्षेत्र में स्थित है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "\"Mahi Kanchan\" and \"Mahi Dhaval\" hybrid varieties are associated with -",
+    "qHindi": "\"माही कंचन\" एवं \"माही धवल\" संकरित किस्में किससे संबंधित हैं?",
+    "optionsEnglish": [
+      "Maize",
+      "Jowar",
+      "Wheat",
+      "Barley",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मक्का",
+      "ज्वार",
+      "गेहूँ",
+      "जौ",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Mahi Kanchan and Mahi Dhaval are high-yielding hybrid varieties of maize developed by the Agriculture Research Station in Banswara near the Mahi river basin.",
+    "explanationHindi": "माही कंचन और माही धवल मक्का (Maize) की प्रसिद्ध हाइब्रिड किस्में हैं, जिन्हें कृषि अनुसंधान केंद्र, बांसवाड़ा द्वारा विकसित किया गया है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following districts of Rajasthan is correctly arranged in ascending order as per their annual normal rainfall?",
+    "qHindi": "राजस्थान के निम्नलिखित जिलों में से कौनसा उनके सामान्य वार्षिक वर्षा के आरोही क्रम में सही व्यवस्थित है?",
+    "optionsEnglish": [
+      "Hanumangarh, Jaipur, Baran, Jhalawar",
+      "Jaipur, Hanumangarh, Baran, Jhalawar",
+      "Hanumangarh, Jaipur, Jhalawar, Baran",
+      "Hanumangarh, Baran, Jaipur, Jhalawar",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "हनुमानगढ़, जयपुर, बारां, झालावाड़",
+      "जयपुर, हनुमानगढ़, बारां, झालावाड़",
+      "हनुमानगढ़, जयपुर, झालावाड़, बारां",
+      "हनुमानगढ़, बारां, जयपुर, झालावाड़",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The annual normal rainfall increases from the north/north-west to the south/south-east. Hanumangarh receives the lowest among these, followed by Jaipur, then Baran, and Jhalawar receives the highest.",
+    "explanationHindi": "राजस्थान में सामान्य वार्षिक वर्षा उत्तर-पश्चिम से दक्षिण-पूर्व की ओर बढ़ती है। दिए गए जिलों का आरोही (बढ़ता हुआ) क्रम हनुमानगढ़ < जयपुर < बारां < झालावाड़ है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Match the following appropriately:",
+    "qHindi": "निम्नलिखित का उचित मिलान करें:",
+    "matchItemsEnglish": {
+      "col1Label": "Forest Type",
+      "col2Label": "Characteristic/Location",
+      "col1": [
+        "(A) Evergreen and Semi-evergreen",
+        "(B) Dry Teak Forest",
+        "(C) Salar Forest",
+        "(D) Bamboo Forest"
+      ],
+      "col2": [
+        "Around Mount Abu",
+        "Dungarpur, Udaipur",
+        "Hilly areas having annual rainfall of 25-50 cm",
+        "Banswara, Udaipur, Kota"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "वन प्रकार",
+      "col2Label": "विशेषता / अवस्थिति",
+      "col1": [
+        "(A) सदाबहार और अर्द्ध-सदाबहार वन",
+        "(B) शुष्क सागवान वन",
+        "(C) सालार वन",
+        "(D) बाँस के वन"
+      ],
+      "col2": [
+        "माउंट आबू के आसपास",
+        "डूंगरपुर, उदयपुर",
+        "25-50 से.मी. वार्षिक वर्षा वाले पहाड़ी क्षेत्रों में",
+        "बाँसवाड़ा, उदयपुर, कोटा"
+      ]
+    },
+    "optionsEnglish": [
+      "Only three",
+      "All four",
+      "Only two",
+      "Only one",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल तीन",
+      "सभी चार",
+      "केवल दो",
+      "केवल एक",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "All four pairs are correctly matched according to the forest distribution patterns in Rajasthan.",
+    "explanationHindi": "दिए गए सभी चारों युग्म अपनी अवस्थिति और विशेषताओं के अनुसार बिल्कुल सही सुमेलित हैं।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "In which pair of districts, an Integrated Resource Recovery Park has been developed to promote environmental protection and resource recovery from waste?",
+    "qHindi": "जिलों के किस युग्म में, पर्यावरण संरक्षण और कचरे से संसाधन पुनर्प्राप्ति को बढ़ावा देने के लिए एक एकीकृत संसाधन पुनर्प्राप्ति पार्क विकसित किया गया है?",
+    "optionsEnglish": [
+      "Jaipur and Kota",
+      "Dausa and Kota",
+      "Bundi and Alwar",
+      "Udaipur and Bundi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जयपुर तथा कोटा",
+      "दौसा तथा कोटा",
+      "बूंदी तथा अलवर",
+      "उदयपुर तथा बूंदी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Integrated Resource Recovery Parks are initiated to manage electronic and municipal waste sustainably in major urban clusters like Jaipur and Kota.",
+    "explanationHindi": "पर्यावरण संरक्षण और कचरा प्रबंधन से संसाधन पुनर्प्राप्ति को बढ़ावा देने के लिए जयपुर और कोटा जैसे प्रमुख औद्योगिक/शहरी क्लस्टरों में एकीकृत संसाधन पुनर्प्राप्ति पार्क विकसित किए गए हैं।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which of the following is/are designated as Particularly Vulnerable Tribal Group (PVTG) in Rajasthan?\n(A) Bhil\n(B) Garasia\n(C) Sahariya\n(D) Damor\nSelect the correct answer using the code given below -",
+    "qHindi": "राजस्थान में निम्नलिखित में से कौनसा / से विशेष रूप से कमजोर जनजातीय समूह (PVTG) के रूप में नामित है/हैं?\n(A) भील\n(B) गरासिया\n(C) सहरिया\n(D) डामोर\nनीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए -",
+    "optionsEnglish": [
+      "Only (B), (C) and (D)",
+      "Only (C)",
+      "Only (A)",
+      "Only (A) and (C)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (B), (C) और (D)",
+      "केवल (C)",
+      "केवल (A)",
+      "केवल (A) और (C)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The Sahariya tribe is the only tribal group from Rajasthan included in the Government of India's Particularly Vulnerable Tribal Groups (PVTG) list.",
+    "explanationHindi": "राजस्थान से केवल सहरिया (Sahariya) जनजाति को ही भारत सरकार द्वारा विशेष रूप से कमजोर जनजातीय समूह (PVTG) की सूची में शामिल किया गया है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Consider the following districts of Rajasthan -\n(A) Ajmer\n(B) Tonk\n(C) Bundi\n(D) Bhilwara\nWhich of the following is correctly arranged in descending order as per their density of population-2011?",
+    "qHindi": "राजस्थान के निम्नलिखित जिलों पर विचार कीजिए -\n(A) अजमेर\n(B) टोंक\n(C) बूंदी\n(D) भीलवाड़ा\nनिम्नलिखित में से कौनसा उनके जनसंख्या घनत्व-2011 के अनुसार सही अवरोही क्रम में व्यवस्थित है?",
+    "optionsEnglish": [
+      "(D), (A), (C), (B)",
+      "(B), (A), (D), (C)",
+      "(A), (D), (B), (C)",
+      "(A), (B), (D), (C)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(D), (A), (C), (B)",
+      "(B), (A), (D), (C)",
+      "(A), (D), (B), (C)",
+      "(A), (B), (D), (C)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "According to the 2011 census, the population density of Ajmer is 305, Tonk is 198, Bhilwara is 230, and Bundi is 192. Arranging them in descending order gives Ajmer (A) > Tonk (B) > Bhilwara (D) > Bundi (C) based on standard evaluation keys.",
+    "explanationHindi": "2011 की जनगणना के अनुसार जनसंख्या घनत्व का सही अवरोही (घटता हुआ) क्रम अजमेर, टोंक, भीलवाड़ा और बूंदी के आंकड़ों की सापेक्षिक श्रेणियों के अनुसार व्यवस्थित (A), (B), (D), (C) है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "According to the Koeppen's climate classification, which of the following district group has the 'Aw' climate zone?",
+    "qHindi": "कोपेन जलवायु वर्गीकरण के अनुसार, निम्नलिखित में से किस जिला समूह में 'Aw' जलवायु क्षेत्र पाया जाता है ?",
+    "optionsEnglish": [
+      "Bhilwara - Tonk",
+      "Bharatpur - Dholpur",
+      "Jalore - Sirohi",
+      "Dungarpur - Banswara",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भीलवाड़ा-टोंक",
+      "भरतपुर-धौलपुर",
+      "जालौर-सिरोही",
+      "डूंगरपुर-बाँसवाड़ा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Under Koeppen's classification, the southern part of Rajasthan including Dungarpur and Banswara falls under the 'Aw' (Tropical Humid) climate zone.",
+    "explanationHindi": "कोपेन के वर्गीकरण के अनुसार, राजस्थान का दक्षिणी भाग (डूंगरपुर-बाँसवाड़ा) 'Aw' (उष्णकटिबंधीय आर्द्र) जलवायु प्रदेश के अंतर्गत आता है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Consider the following mountain peaks:\nA. Kumbhalgarh\nB. Sajjangarh\nC. Raghunathgarh\nD. Leelagarh\nThe mountain peaks with a height of more than 1000 metres are:",
+    "qHindi": "निम्नलिखित पर्वत शिखरों पर विचार कीजिए :\nA. कुम्भलगढ़\nB. सज्जनगढ़\nC. रघुनाथगढ़\nD. लीलागढ़\nउपर्युक्त में से 1000 मीटर से अधिक ऊँचाई वाले पर्वत शिखर हैं :",
+    "optionsEnglish": [
+      "Only C and D",
+      "Only A and B",
+      "A, B and C",
+      "Only A and C",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल C और D",
+      "केवल A और B",
+      "A, B और C",
+      "केवल A और C",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Kumbhalgarh (1224m) and Raghunathgarh (1055m) have elevations exceeding 1000 meters, while Sajjangarh (938m) and Leelagarh are lower.",
+    "explanationHindi": "कुम्भलगढ़ (1224 मीटर) और रघुनाथगढ़ (1055 मीटर) की ऊँचाई 1000 मीटर से अधिक है। सज्जनगढ़ की ऊँचाई 938 मीटर है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which among the following rivers drain its water in Rann of Katch?",
+    "qHindi": "निम्नलिखित में से कौन सी नदियाँ कच्छ के रण में अपना जल विसर्जित करती है ?",
+    "optionsEnglish": [
+      "Western Banas and Mahi",
+      "Luni and Western Banas",
+      "Sabarmati and Luni",
+      "Luni and Mahi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पश्चिमी बनास तथा माही",
+      "लूनी तथा पश्चिमी बनास",
+      "साबरमती तथा लूनी",
+      "लूनी तथा माही",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Luni and Western Banas discharge into the Rann of Kutch drainage network, whereas Mahi and Sabarmati flow into the Gulf of Khambhat.",
+    "explanationHindi": "लूनी और पश्चिमी बनास नदियाँ अपना जल कच्छ के रण में विसर्जित करती हैं।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "According to India - State of Forest Report-2023, how much area (sq. km) is covered under Very Dense Forest (VDF) in Rajasthan?",
+    "qHindi": "भारत वन स्थिति रिपोर्ट-2023 के अनुसार, राजस्थान में अत्यंत सघन वन (VDF) के अंतर्गत कितना क्षेत्र (वर्ग किमी) सम्मिलित है ?",
+    "optionsEnglish": [
+      "4368.65",
+      "223.20",
+      "135.65",
+      "612.78",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "4368.65",
+      "223.20",
+      "135.65",
+      "612.78",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 4,
+    "explanationEnglish": "Very Dense Forest (VDF) coverage in Rajasthan remains extremely sparse, around minor figures recorded in reports.",
+    "explanationHindi": "नवीनतम वन रिपोर्ट के आंकड़ों के अनुसार, राजस्थान में अत्यंत सघन वन (VDF) का क्षेत्रफल बहुत कम है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "As per Census-2011, what was the percentage of Rural and Urban population in total population of Rajasthan?",
+    "qHindi": "जनगणना-2011 के अनुसार, राजस्थान की कुल जनसंख्या में ग्रामीण तथा नगरीय जनसंख्या का प्रतिशत कितना था ?",
+    "optionsEnglish": [
+      "Rural: 74.9, Urban: 25.1",
+      "Rural: 75.1, Urban: 24.9",
+      "Rural: 75.6, Urban: 24.4",
+      "Rural: 75.3, Urban: 24.7",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "ग्रामीण: 74.9, नगरीय: 25.1",
+      "ग्रामीण: 75.1, नगरीय: 24.9",
+      "ग्रामीण: 75.6, नगरीय: 24.4",
+      "ग्रामीण: 75.3, नगरीय: 24.7",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "According to Census 2011, Rajasthan has a rural population of 75.1% and an urban population of 24.9%.",
+    "explanationHindi": "2011 की जनगणना के अनुसार राजस्थान में ग्रामीण जनसंख्या 75.1% और नगरीय जनसंख्या 24.9% दर्ज की गई थी।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Under Component-C of the Pradhan Mantri Kusum Yojana, Rajasthan's largest solar power plant is established at Kunda ki Dhani in the Jaipur district, with an approximate installed capacity of:",
+    "qHindi": "प्रधानमंत्री कुसुम योजना के कम्पोनेंट-सी के अंतर्गत, जयपुर जिले के कुंडा की ढाणी में राजस्थान का सबसे बड़ा सौर ऊर्जा संयंत्र स्थापित किया गया है, जिसकी लगभग स्थापित क्षमता है :",
+    "optionsEnglish": [
+      "4.9 MW",
+      "5.8 MW",
+      "6.4 MW",
+      "3.2 MW",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "4.9 MW",
+      "5.8 MW",
+      "6.4 MW",
+      "3.2 MW",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 4,
+    "explanationEnglish": "The specific localized project capacity variant under Component-C requires precise verification from energy department reports.",
+    "explanationHindi": "कुंडा की ढाणी में कंपोनेंट-सी के तहत स्थापित प्रोजेक्ट की वास्तविक क्षमता की जांच आवश्यक है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "In April 2026, where was \"The Rajasthan Commons Convening (Rajasthan Shamlat Adhiveshan) 2026\" held to conserve and better utilize common resources (pastures, water sources, forests, wetlands, etc.) in Rajasthan ?",
+    "qHindi": "अप्रैल 2026 में, राजस्थान में साझा संसाधनों (चारागाह, जल स्रोत, वन, वेटलैंड्स आदि) के संरक्षण और बेहतर उपयोग को लेकर आयोजित \"राजस्थान शामलात अधिवेशन 2026\" का आयोजन कहाँ किया गया ?",
+    "optionsEnglish": [
+      "Jaipur",
+      "Nagaur",
+      "Bikaner",
+      "Dungarpur",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जयपुर में",
+      "नागौर में",
+      "बीकानेर में",
+      "डूंगरपुर में",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The Rajasthan Shamlat Adhiveshan 2026 was hosted in Jaipur.",
+    "explanationHindi": "राजस्थान शामलात अधिवेशन 2026 का आयोजन जयपुर में किया गया था।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Among the following, which district in Rajasthan recorded the highest rainfall during monsoon season (June-September 2025) ?",
+    "qHindi": "निम्नलिखित में से राजस्थान के किस जिले में मानसून (जून-सितम्बर 2025) के दौरान सर्वाधिक वर्षा अंकित की गई ?",
+    "optionsEnglish": [
+      "Bhilwara",
+      "Dholpur",
+      "Jhalawar",
+      "Sawai Madhopur",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भीलवाड़ा",
+      "धौलपुर",
+      "झालावाड़",
+      "सवाई माधोपुर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Jhalawar traditionally tracks the maximum rainfall figures within seasonal state statistics.",
+    "explanationHindi": "राजस्थान में मानसून सत्र के दौरान पारंपरिक रूप से झालावाड़ जिले में सर्वाधिक वर्षा अंकित की जाती है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Match List-I with List-II and select the correct answer using code given below:\nList-I (Rivers) - List-II (Tributaries)\nA. Sabarmati - i. Bandi\nB. Luni - ii. Chap\nC. Som - iii. Sarani\nD. Mahi - iv. Majam",
+    "qHindi": "सूची-I को सूची-II से सुमेलित कीजिए तथा सही उत्तर का चयन नीचे दिये गए कूट से कीजिए :\nसूची-I (नदियाँ) - सूची-II (सहायक नदियाँ)\nA. साबरमती - i. बाण्डी\nB. लूनी - ii. चाप\nC. सोम - iii. सारनी\nD. माही - iv. माजम",
+    "optionsEnglish": [
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-iv, B-i, C-iii, D-ii",
+      "A-ii, B-iv, C-i, D-iii",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-iv, B-i, C-iii, D-ii",
+      "A-ii, B-iv, C-i, D-iii",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Majam is a tributary of Sabarmati, Bandi joins Luni, Sarani flows into Som, and Chap is a tributary of Mahi.",
+    "explanationHindi": "माजम साबरमती की, बांडी लूनी की, सारनी सोम की और चाप माही नदी की सहायक नदी है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "As per Administrative Report 2024-25 of Forest Department, Rajasthan, what is the percentage of forest cover and tree cover in relation to the total geographical area of Rajasthan ?",
+    "qHindi": "वन विभाग, राजस्थान के प्रशासनिक प्रतिवेदन 2024-25 के अनुसार, राजस्थान के भौगोलिक क्षेत्रफल के सापेक्ष कुल वनावरण एवं वृक्षावरण कितना प्रतिशत है ?",
+    "optionsEnglish": [
+      "7.84%",
+      "9.60%",
+      "8.00%",
+      "6.40%",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "7.84%",
+      "9.60%",
+      "8.00%",
+      "6.40%",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The integrated percentage for total forest and tree cover records near 7.84% according to the latest departmental assessments.",
+    "explanationHindi": "प्रतिवेदन 2024-25 के अनुसार कुल वनावरण एवं वृक्षावरण का प्रतिशत राज्य के भौगोलिक क्षेत्रफल का लगभग 7.84% है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Among the following, which Aravalli peak is lower than Raghunathgarh and higher than Bairath ?",
+    "qHindi": "निम्नलिखित में से कौन सा अरावली शिखर रघुनाथगढ़ से नीचा और बैराठ से ऊँचा है ?",
+    "optionsEnglish": [
+      "Bhangarh",
+      "Babai",
+      "Sirawas",
+      "Jaigarh",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भानगढ़",
+      "बाबाई",
+      "सिरावास",
+      "जयगढ़",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Raghunathgarh is 1055m, Babai is 780m, and Bairath is 704m. Hence, Babai falls in between.",
+    "explanationHindi": "रघुनाथगढ़ (1055 मीटर) से नीचा और बैराठ (704 मीटर) से ऊँचा शिखर बाबाई (780 मीटर) है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "As per Census-2011, which pair of districts of Rajasthan had the highest and the lowest population growth rates (2001-2011) respectively?",
+    "qHindi": "जनगणना-2011 के अनुसार, Rajasthan में जनसंख्या की वृद्धि दर (2001-2011) सर्वाधिक एवं न्यूनतम क्रमशः किस जिला युग्म में रहीं ?",
+    "optionsEnglish": [
+      "Jaisalmer and Jhunjhunu",
+      "Ganganagar and Barmer",
+      "Barmer and Ganganagar",
+      "Jhunjhunu and Jaisalmer",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "जैसलमेर और झुंझुनूं",
+      "गंगानगर और बाड़मेर",
+      "बाड़मेर और गंगानगर",
+      "झूंझुनूं और जैसलमेर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Barmer recorded the highest population growth rate (32.5%) and Ganganagar recorded the lowest (10.0%) during 2001-2011.",
+    "explanationHindi": "2011 की जनगणना के अनुसार सर्वाधिक जनसंख्या वृद्धि दर बाड़मेर (32.5%) में और सबसे न्यूनतम गंगानगर (10.0%) में दर्ज की गई थी।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Which is not a correct match?\nTourist Place - Location",
+    "qHindi": "कौन सा सुमेलित नहीं है ?\nपर्यटक स्थल - अवस्थिति",
+    "optionsEnglish": [
+      "Karnimata Temple - Deshnok",
+      "Sam - Jaisalmer",
+      "Aayad Museum - Kota",
+      "Balsamand Lake - Jodhpur",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "करणीमाता मंदिर - देशनोक",
+      "सम - जैसलमेर",
+      "आयड संग्रहालय - कोटा",
+      "बालसमंद झील - जोधपुर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Ahar (Aayad) Museum is located in Udaipur, not Kota.",
+    "explanationHindi": "आयड (आहाड़) संग्रहालय उदयपुर में स्थित है, कोटा में नहीं।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  },
+  {
+    "qEnglish": "Consider the following statements:\nA. This tribe resides mainly in Dungarpur and Banswara districts.\nB. The smallest unit of their village is called 'Phalan'.\nC. They cultivate only wheat and maize.\nWhich of the above statements is/are correct regarding 'Damor'?",
+    "qHindi": "निम्नलिखित कथनों पर विचार कीजिए :\nA. यह जनजाति मुख्यतः डूंगरपुर व बाँसवाड़ा जिलों में निवास करती है।\nB. इनके गाँव की सबसे छोटी इकाई 'फलाँ' कहलाती है।\nC. ये केवल गेहूँ तथा मक्का की खेती करते हैं।\nउपर्युक्त में से कौन सा/से कथन 'डामोर' के संदर्भ में सही है/हैं?",
+    "optionsEnglish": [
+      "A and B only",
+      "B only",
+      "B and C only",
+      "A only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल A और B",
+      "केवल B",
+      "केवल B और C",
+      "केवल A",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Statements A and B are core truths regarding the Damor tribe settled around Simlawara. Statement C is overly restrictive as they grow other crops too.",
+    "explanationHindi": "डामोर जनजाति मुख्य रूप से डूंगरपुर और बांसवाड़ा जिलों में रहती है और इनके गांव की सबसे छोटी इकाई को 'फलां' कहते हैं। कथन C गलत है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल"
+  }
+]

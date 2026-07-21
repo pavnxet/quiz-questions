@@ -21,5 +21,51 @@
     "explanationHindi": "राठी नस्ल को अत्यधिक दूध देने की क्षमता के कारण 'राजस्थान की कामधेनु' कहा जाता है।",
     "subject": "कृषि एवं पशुपालन",
     "topic": "पशुओं के प्रमुख रोग, विशेषताएं एवं आवास"
+  },
+  {
+    "qEnglish": "Identify the correct group of sheeps breed found in Rajasthan.",
+    "qHindi": "भारत में पाई जाने वाली भेड़ों के नस्ल के सही समूह की पहचान कीजिए ।",
+    "optionsEnglish": [
+      "Magra, Sonadi, Jakhrana, Pungal",
+      "Rathi, Sonadi, Jakhrana, Pungal",
+      "Magra, Sonadi, Nali, Barbari",
+      "Magra, Sonadi, Nali, Pungal",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मगरा, सोनाड़ी, जखराना, पूंगल",
+      "राठी, सोनाड़ी, जखराना, पूंगल",
+      "मगरा, सोनाड़ी, नाली, बरबरी",
+      "मगरा, सोनाड़ी, नाली, पूंगल",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Magra, Sonadi, Nali, and Pungal are all recognized sheep breeds of Rajasthan. Jakhrana and Barbari are goat breeds, and Rathi is a cattle breed.",
+    "explanationHindi": "मगरा, सोनाड़ी, नाली, और पूंगल राजस्थान में पाई जाने वाली भेड़ों की प्रसिद्ध नस्लें हैं। जखराना बकरी की और राठी गाय की नस्ल है।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "पशुओं के प्रमुख रोग, विशेषताएं एवं आवास"
+  },
+  {
+    "qEnglish": "Match List-I with List-II and select the correct answer using code given below:\nList-I (Livestock) - List-II (Breed)\nA. Goat - i. Kheri\nB. Camel - ii. Bhadawari\nC. Sheep - iii. Gomath\nD. Buffalo - iv. Lohi",
+    "qHindi": "सूची-I को सूची-II से सुमेलित कर, नीचे दिए गए कूट से सही उत्तर का चयन कीजिए:\nसूची-I (पशुधन) - सूची-II (नस्ल)\nA. बकरी - i. खेरी\nB. ऊँट - ii. भदावरी\nC. भेड़ - iii. गोमठ\nD. भैंस - iv. लोही",
+    "optionsEnglish": [
+      "A-iv, B-iii, C-i, D-ii",
+      "A-ii, B-iv, C-iii, D-i",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-ii, B-iii, C-iv, D-i",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "A-iv, B-iii, C-i, D-ii",
+      "A-ii, B-iv, C-iii, D-i",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-ii, B-iii, C-iv, D-i",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Lohi is a goat breed, Gomath is a camel breed, Kheri represents a sheep breed, and Bhadawari is a well-known buffalo breed.",
+    "explanationHindi": "लोही बकरी की नस्ल है, गोमठ ऊँट की नस्ल है, खेरी भेड़ की नस्ल है और भदावरी भैंस की एक प्रसिद्ध नस्ल है।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "पशुओं के प्रमुख रोग, विशेषताएं एवं आवास"
   }
 ]

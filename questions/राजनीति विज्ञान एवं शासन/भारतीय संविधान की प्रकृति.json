@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Consider the following statements regarding provisions related to citizenship in India:\n(I) The term 'every person' used in the Article 5 of the Constitution of India covers only natural persons not juristic persons like corporations and companies.\n(II) To be citizen of India under Article 5 of the Constitution of India, the first essential pre-condition is that one must have his domicile in the territory of India.",
+    "qHindi": "भारत में नागरिकता से सम्बन्धित प्रावधानों के बारे में निम्नलिखित कथन पर विचार कीजिए :\n(I) भारत के संविधान के अनुच्छेद 5 में प्रयुक्त 'प्रत्येक व्यक्ति' शब्द में केवल प्राकृतिक (स्वाभाविक) व्यक्ति शामिल हैं, निगमों और कम्पनियों जैसी कानूनी संस्थाएँ नहीं।\n(II) भारत के संविधान के अनुच्छेद 5 के अन्तर्गत भारत का नागरिक होने के लिए पहली अनिवार्य पूर्वशर्त यह है कि व्यक्ति का भारत के राज्यक्षेत्र में अधिवास होना चाहिए ।",
+    "optionsEnglish": [
+      "Only (I) is correct.",
+      "Only (II) is correct.",
+      "Both (I) and (II) are correct.",
+      "Neither (I) nor (II) is correct.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (I) सही है।",
+      "केवल (II) सही है।",
+      "(I) एवं (II) दोनों सही हैं।",
+      "न तो (I), न ही (II) सही है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Juristic entities cannot hold citizenship rights under Article 5, and domicile remains the vital introductory condition under the article.",
+    "explanationHindi": "अनुच्छेद 5 के अंतर्गत 'प्रत्येक व्यक्ति' में केवल प्राकृतिक नागरिक आते हैं, कानूनी निगम नहीं। साथ ही, अधिवास पहली मुख्य शर्त है। दोनों कथन सही हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान की प्रकृति"
+  }
+]

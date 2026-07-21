@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "Consider the following statements in the context of the strategic and political history of Chittor -\n(I) Jaitra Singh made Chittor his capital to repel the invasion of the Turks.\n(II) After conquering Chittor, Alauddin Khilji entrusted its administration to Lakha.\n(III) Hammir took advantage of the dynastic revolution to capture Chittor and laid the foundation of the Sisodiya dynasty.\nWhich of the above statements are correct?",
+    "qHindi": "चित्तौड़ के राजनैतिक और सामरिक इतिहास के संदर्भ में निम्नांकित कथनों पर विचार कीजिए -\n(1) जैत्रसिंह ने तुर्कों के आक्रमण को रोकने के लिए चित्तौड़ को अपनी राजधानी बनाया था।\n(II) अलाउद्दीन खिलजी ने चित्तौड़ पर विजय प्राप्त करने के बाद इसका प्रशासन लाखा को सौंप दिया था।\n(III) हम्मीर ने वंशवादी क्रांति का लाभ उठाकर चित्तौड़ पर कब्जा किया और सिसोदिया राजवंश की नींव रखी।\nउपरोक्त में से कौनसे कथन सही हैं?",
+    "optionsEnglish": [
+      "Only (I) and (II)",
+      "All (I), (II) and (III)",
+      "Only (II) and (III)",
+      "Only (I) and (III)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (I) और (II)",
+      "(I), (II) और (III) सभी",
+      "केवल (II) और (III)",
+      "केवल (I) और (III)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Statement II is incorrect because Alauddin Khilji entrusted the administration of Chittor to his son Khizr Khan (renaming it Khizrabad), not to Lakha. Statement I and III are historically accurate.",
+    "explanationHindi": "कथन II असत्य है क्योंकि अलाउद्दीन खिलजी ने चित्तौड़ जीतकर इसका प्रशासन अपने पुत्र खिज्र खाँ को सौंपा था (और नाम खिज्राबाद रखा)। जैत्रसिंह और राणा हम्मीर से जुड़े कथन सत्य हैं।",
+    "subject": "इतिहास",
+    "topic": "दिल्ली सल्तनत के साथ संबंध - मेवाड़, रणथंभौर और जालौर"
+  },
+  {
+    "qEnglish": "About which dynasty of Rajasthan does the \"Hammir Mahakavya\" provide useful information?",
+    "qHindi": "राजस्थान के किस राजवंश के बारे में \"हम्मीर महाकाव्य\" से उपयोगी जानकारी मिलती है ?",
+    "optionsEnglish": [
+      "Chouhan of Ranthambhor",
+      "Bhatis of Jaisalmer",
+      "Sisodiyas of Udaipur",
+      "Kachchawas of Jaipur",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "रणथम्भौर के चौहान",
+      "जैसलमेर के भाटी",
+      "उदयपुर के सिसोदिया",
+      "जयपुर के कच्छावा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Hammir Mahakavya written by Nayanchandra Suri provides details about the history of the Chauhans of Ranthambore.",
+    "explanationHindi": "नयनचन्द्र सूरि द्वारा रचित 'हम्मीर महाकाव्य' से रणथम्भौर के चौहान राजवंश के इतिहास की जानकारी मिलती है।",
+    "subject": "इतिहास",
+    "topic": "दिल्ली सल्तनत के साथ संबंध - मेवाड़, रणथंभौर और जालौर"
+  },
+  {
+    "qEnglish": "In which one of Hammir's queen leadership Jauhar took place in Ranthambhor in 1301 A.D. ?",
+    "qHindi": "1301 ई. में रणथम्भौर में हम्मीर की किस रानी के नेतृत्व में जौहर हुआ ?",
+    "optionsEnglish": [
+      "Rangdevi",
+      "Karmavati",
+      "Padmini",
+      "Suryadevi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "रंगदेवी",
+      "कर्मावती",
+      "पद्मिनी",
+      "सूर्यदेवी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "The famous water Jauhar of Ranthambore in 1301 A.D. was led by Queen Rangdevi following Alauddin Khilji's invasion.",
+    "explanationHindi": "1301 ई. में अलाउद्दीन खिलजी के आक्रमण के समय रणथम्भौर का प्रसिद्ध जल जौहर रानी रंगदेवी के नेतृत्व में हुआ था।",
+    "subject": "इतिहास",
+    "topic": "दिल्ली सल्तनत के साथ संबंध - मेवाड़, रणथंभौर और जालौर"
+  }
+]
