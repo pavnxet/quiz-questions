@@ -41,6 +41,14 @@ Template:
 - Result: Done. Pushed to main.
 - Open: None
 
+## 2026-07-22 00:30 — Merge duplicate topics across repo
+- Task: Find and merge duplicate/similar topic names in the question bank
+- Did: Scanned all 155 topic files across 10 subjects. Found 36 duplicate pairs caused by: prefix variations (राजस्थान का इतिहास - X vs X), spelling variants (and/और/und), spelling errors (पर्यावरणाय/पर्यावरणीय), and subtopic vs standalone naming. Merged 50 questions into canonical topics, deleted 36 duplicate files. Updated learning.md with merge patterns and future duplicate detection rules.
+- Errors encountered & fixes:
+  1. Python heredoc truncated due to Unicode in f-strings → rewrote as single-line `-c` script
+- Result: Done. 62 files changed. Push successful. Repo now has 119 topic files (down from 155).
+- Open: None
+
 ## 2026-07-22 00:15 — Process 3 RPSC 2nd Grade Paper-I (GK) files
 - Task: Process 3 JSON files (2026-07-13, 07-14, 07-16) with 100 questions each, push to quiz-questions repo
 - Did: Used `glob` to find files (Unicode filenames), `cp` to copy with clean names, Python to analyze and process. Merged 300 questions into 88 topics. Used local git for push.
