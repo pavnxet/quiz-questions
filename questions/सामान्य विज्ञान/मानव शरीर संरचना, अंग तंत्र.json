@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "The inner lining of stomach is protected by one of the following from hydrochloric acid. Identify the correct one.",
+    "qHindi": "हाइड्रोक्लोरिक अम्ल से आमाशय की भीतरी परत की सुरक्षा निम्नलिखित में से एक द्वारा की जाती है। सही की पहचान करें।",
+    "optionsEnglish": [
+      "Bile",
+      "Pepsin",
+      "Salivary amylase",
+      "Mucus",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पित्त",
+      "पेप्सिन",
+      "लार एमाइलेज",
+      "श्लेष्मा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Mucus protects the stomach lining from the corrosive effects of hydrochloric acid.",
+    "explanationHindi": "श्लेष्मा (म्यूकस) आमाशय की भीतरी परत को हाइड्रोक्लोरिक अम्ल के क्षारीय/संक्षारक प्रभाव से बचाता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  },
+  {
+    "qEnglish": "The kidneys in human beings are a part of the system for:",
+    "qHindi": "मनुष्यों में वृक्क निम्नलिखित तंत्र का एक भाग है :",
+    "optionsEnglish": [
+      "nutrition",
+      "respiration",
+      "transportation",
+      "excretion",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "पोषण",
+      "श्वसन",
+      "परिवहन",
+      "उत्सर्जन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Kidneys form an integral part of the human excretory system responsible for filtering waste products from the blood.",
+    "explanationHindi": "मानव में वृक्क (किडनी) उत्सर्जन तंत्र (Excretory system) का मुख्य हिस्सा हैं, जो अपशिष्ट पदार्थों को छानते हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "मानव शरीर: संरचना, अंग तंत्र"
+  }
+]
