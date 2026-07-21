@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Identify the states that became part of the formation of Greater Rajasthan on 14th January 1949. (a) Bikaner, (b) Jaipur, (c) Jodhpur, (d) Bharatpur. Choose the most appropriate answer from the options given below:",
+    "qHindi": "उन राज्यों की पहचान कीजिए जो 14 जनवरी, 1949 को 'बृहत्तर राजस्थान' के गठन का हिस्सा बने थे। (a) बीकानेर, (b) जयपुर, (c) जोधपुर, (d) भरतपुर। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए।",
+    "optionsEnglish": [
+      "(a) and (b) only",
+      "(b) and (c) only",
+      "(d), (c) and (a) only",
+      "(a), (b) and (c) only"
+    ],
+    "optionsHindi": [
+      "केवल (a) और (b)",
+      "केवल (b) और (c)",
+      "केवल (d), (c) और (a)",
+      "केवल (a), (b) और (c)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Bikaner, Jaipur, Jodhpur, and Jaisalmer agreed to merge to form Greater Rajasthan (announced Jan 1949, merged March 1949). Bharatpur was part of Matsya Sangh.",
+    "explanationHindi": "बृहत्तर राजस्थान के गठन में जयपुर, जोधपुर, बीकानेर और जैसलमेर शामिल हुए थे। भरतपुर मत्स्य संघ का हिस्सा था।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> राजस्थान का एकीकरण"
+  }
+]
