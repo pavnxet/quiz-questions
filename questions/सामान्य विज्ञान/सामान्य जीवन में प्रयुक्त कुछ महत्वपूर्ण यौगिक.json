@@ -880,5 +880,100 @@
     "explanationHindi": "बैकेलाइट फीनॉल और फॉर्मल्डिहाइड (HCHO) का एक संघनन बहुलक है [cite: 1400, 1424]‌।",
     "subject": "सामान्य विज्ञान",
     "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Which of the following statements regarding 'LPG' (Liquefied Petroleum Gas) are correct? (a) Its main components are Butane and Propane, (b) It is odorless, therefore, Ethyl Mercaptan is added to detect leaks, (c) It is stored under high pressure as a liquid in cylinders, (d) It has a high calorific value and burns without smoke. Choose the most appropriate answer from the options given below:",
+    "qHindi": "'एलपीजी' (तरलीकृत पेट्रोलियम गैस) के संबंध में निम्नलिखित में से कौन से कथन सही हैं ? (a) इसके मुख्य घटक ब्यूटेन और प्रोपेन हैं।, (b) यह गंधहीन है इसलिए, रिसाव का पता लगाने के लिए एथिल मर्केप्टान मिलाया जाता है।, (c) इसे सिलेंडरों में तरल के रूप में उच्च दाब के अंतर्गत संग्रहीत किया जाता है।, (d) इसका उच्च कैलोरी मान होता है और यह बिना धुएँ के जलती है। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें।",
+    "optionsEnglish": [
+      "(a), (b) and (d) only",
+      "(b), (c) and (d) only",
+      "(a) and (c) only",
+      "(a), (b), (c) and (d)"
+    ],
+    "optionsHindi": [
+      "केवल (a), (b) और (d)",
+      "केवल (b), (c) और (d)",
+      "केवल (a) और (c)",
+      "(a), (b), (c) और (d)"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All four statements (a, b, c, d) accurately describe LPG characteristics.",
+    "explanationHindi": "एलपीजी से संबंधित चारों कथन (a, b, c और d) पूर्णतः सही हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "Match List-I (Organic Compound) with List-II (Common use): List-I: (a) Acetic Acid (5-8% in water), (b) Ethanol, (c) Ester, (d) Teflon. List-II: (i) Vinegar, (ii) Fuel in automobiles (Power Alcohol), (iii) Non-stick cookware, (iv) Perfumes and Flavoring agents. Choose the most appropriate answer from the options given below:",
+    "qHindi": "सूची-I (कार्बनिक यौगिक) का सूची-II (सामान्य उपयोग) के साथ मिलान करें : सूची-I: (a) एसीटिक अम्ल (5-8% जल में), (b) एथेनॉल, (c) एस्टर, (d) टेफ्लॉन। सूची-II: (i) सिरका, (ii) ऑटोमोबाइल में ईंधन (पावर एल्कोहॉल), (iii) नॉन-स्टिक कुकवेयर, (iv) इत्र और स्वाद बढ़ाने वाले कर्मक। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें।",
+    "matchItemsEnglish": {
+      "col1Label": "List-I (Organic Compound)",
+      "col2Label": "List-II (Common Use)",
+      "col1": [
+        "Acetic Acid (5-8% in water)",
+        "Ethanol",
+        "Ester",
+        "Teflon"
+      ],
+      "col2": [
+        "Vinegar",
+        "Fuel in automobiles (Power Alcohol)",
+        "Non-stick cookware",
+        "Perfumes and Flavoring agents"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-I (कार्बनिक यौगिक)",
+      "col2Label": "सूची-II (सामान्य उपयोग)",
+      "col1": [
+        "एसीटिक अम्ल (5-8% जल में)",
+        "एथेनॉल",
+        "एस्टर",
+        "टेफ्लॉन"
+      ],
+      "col2": [
+        "सिरका",
+        "ऑटोमोबाइल में ईंधन (पावर एल्कोहॉल)",
+        "नॉन-स्टिक कुकवेयर",
+        "इत्र और स्वाद बढ़ाने वाले कर्मक"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Acetic acid -> Vinegar (i); Ethanol -> Power alcohol fuel (ii); Ester -> Perfumes/flavors (iv); Teflon -> Non-stick cookware (iii).",
+    "explanationHindi": "एसीटिक अम्ल -> सिरका (i); एथेनॉल -> ईंधन (ii); एस्टर -> इत्र व सुगंध (iv); टेफ्लॉन -> नॉन-स्टिक बर्तन (iii)।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  },
+  {
+    "qEnglish": "What color is the insulation of the earth wire in a standard domestic circuit? Select the most appropriate option.",
+    "qHindi": "मानक घरेलू परिपथ में 'भूगामी तार' का विद्युतरोधन किस रंग का होता है ? सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "Red",
+      "Green",
+      "Black",
+      "Blue"
+    ],
+    "optionsHindi": [
+      "लाल",
+      "हरा",
+      "काला",
+      "नीला"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Earth wire in domestic electric wiring has green insulation (Red = live, Black/Blue = neutral).",
+    "explanationHindi": "घरेलू वायरिंग में भू-सम्पर्कित (अर्थ) तार पर हरे रंग का आवरण (इंसुलेशन) होता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
   }
 ]
