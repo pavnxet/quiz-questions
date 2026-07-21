@@ -39,3 +39,15 @@ Rules for editing this file:
 ## Domain knowledge picked up on the job
 - Rajasthan exam question JSONs typically have `subject` and `topic` fields with `->` separators (e.g., "राजस्थान की अर्थव्यवस्था -> लघु, कुटीर एवं ग्रामोद्योग").
 - Each question has qEnglish, qHindi, optionsEnglish, optionsHindi, correct (0-based index), and optional explanations.
+- **Duplicate topic patterns found and merged:**
+  - `राजस्थान का इतिहास - X` merged into standalone `X` (keep shorter name)
+  - `भारतीय संविधान एवं राजनीतिक व्यवस्था - X` merged into standalone `X`
+  - `राजस्थान की राजनीतिक एवं प्रशासनिक व्यवस्था - X` merged into standalone `X`
+  - `and` vs `और` vs `und` normalized to `और`
+  - Spelling variants (पर्यावरणाय/पर्यावरणीय → पर्यावरण) merged
+  - `उच्च न्यायालय` merged into `उच्चतम न्यायालय` (correct term)
+- **Future rule: When processing new JSON files, BEFORE saving:**
+  1. List all subject/topic combos from the JSON
+  2. Compare against existing topics in repo (use `ghListTopics` or scan `questions/` dir)
+  3. If a topic name is similar but not identical to an existing one → ASK USER which name to use
+  4. Never auto-merge without confirming — the user knows the canonical topic names
