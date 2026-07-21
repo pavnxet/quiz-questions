@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Match List-I with List-II :\nList-I (Observation): (a) Blue color of clear sky, (b) Formation of a rainbow, (c) Twinkling of stars, (d) Seeing image in mirror\nList-II (Phenomenon): (i) Refraction, (ii) Reflection, (iii) Scattering, (iv) Dispersion\nChoose the most appropriate answer from options given below :",
+    "qHindi": "सूची-I का सूची-II के साथ मिलान करें :\nसूची-I (प्रेक्षण): (a) साफ आसमान का नीला रंग, (b) इंद्रधनुष का निर्माण, (c) तारों का टिमटिमाना, (d) दर्पण में अपना प्रतिबिंब देखना\nसूची-II (घटना): (i) अपवर्तन, (ii) परावर्तन, (iii) प्रकीर्णन, (iv) परिक्षेपण\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(ii), (c)-(iv), (d)-(i)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Blue sky = Scattering (iii); Rainbow = Dispersion (iv); Twinkling stars = Refraction (i); Mirror image = Reflection (ii).",
+    "explanationHindi": "नीला आकाश = प्रकीर्णन (iii); इंद्रधनुष = परिक्षेपण (iv); तारों का टिमटिमाना = अपवर्तन (i); दर्पण प्रतिबिंब = परावर्तन (ii)।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "प्रकाश का परावर्तन व इसके नियम"
+  },
+  {
+    "qEnglish": "When the light ray travels from one medium to another medium, which of the following property remains unchanged?",
+    "qHindi": "जब प्रकाश किरण एक माध्यम से दूसरे माध्यम में जाती है, तो निम्नलिखित में से कौन सा गुण अपरिवर्तित रहता है ?",
+    "optionsEnglish": [
+      "Frequency",
+      "Wavelength",
+      "Velocity",
+      "Amplitude",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "आवृत्ति",
+      "तरंगदैर्ध्य",
+      "वेग",
+      "आयाम",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Frequency of light depends on the source and remains unchanged during refraction across different media.",
+    "explanationHindi": "प्रकाश की आवृत्ति उसके स्रोत पर निर्भर करती है और अपवर्तन के दौरान एक माध्यम से दूसरे माध्यम में जाने पर अपरिवर्तित रहती है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "प्रकाश का परावर्तन व इसके नियम"
+  }
+]
