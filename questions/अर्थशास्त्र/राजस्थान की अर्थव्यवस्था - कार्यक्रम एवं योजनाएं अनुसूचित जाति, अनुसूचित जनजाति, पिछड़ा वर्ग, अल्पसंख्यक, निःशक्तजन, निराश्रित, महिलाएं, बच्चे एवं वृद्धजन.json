@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "What is the revised loan limit under the 'Mukhyamantri Lakhpati Didi Yojana' as announced in the Rajasthan Budget 2026-27? Select the most appropriate option.",
+    "qHindi": "राजस्थान बजट 2026-27 में घोषित 'मुख्यमंत्री लखपति दीदी योजना' के तहत संशोधित ऋण सीमा क्या है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "1 lakh",
+      "1.25 lakh",
+      "1.5 lakh",
+      "2 lakh",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "₹1 लाख",
+      "₹1.25 लाख",
+      "₹1.5 लाख",
+      "₹2 लाख",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The budget enhanced the loan assistance limit to ₹2 lakh to help women members become 'Lakhpati Didis'.",
+    "explanationHindi": "बजट में महिला सदस्यों को 'लखपति दीदी' बनाने में मदद करने के लिए ऋण सहायता सीमा बढ़ाकर ₹2 लाख कर दी गई।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था -> कार्यक्रम एवं योजनाएं: अनुसूचित जाति, अनुसूचित जनजाति, पिछड़ा वर्ग, अल्पसंख्यक, निःशक्तजन, निराश्रित, महिलाएं, बच्चे एवं वृद्धजन"
+  },
+  {
+    "qEnglish": "Which of the following statements are correct about 'PM-JANMAN' Mission?\n(a) It is aimed at the development of Particularly Vulnerable Tribal Groups (PVTGs).\n(b) It covers 11 critical interventions like housing, clean water, and road connectivity.\n(c) The mission has a budget of over 24,000 crore.\n(d) It is exclusively for tribal populations in North-Eastern India.\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "'पीएम-जनमन' मिशन के बारे में निम्नलिखित में से कौन-से कथन सही हैं?\n(a) इसका उद्देश्य विशेष रूप से कमजोर जनजातीय समूहों (पी.वी.टी.जी.) का विकास करना है।\n(b) इसमें आवास, स्वच्छ जल और सड़क संपर्क जैसे 11 महत्वपूर्ण कार्य शामिल हैं।\n(c) इस मिशन का बजट 24,000 करोड़ रुपये से अधिक है।\n(d) यह विशेष रूप से पूर्वोत्तर भारत में जनजातीय आबादी के लिए है।\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (b) and (d) only",
+      "(a), (b), (c) and (d)",
+      "(a), (b) and (c) only",
+      "(c) and (d) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (b) और (d)",
+      "(a), (b), (c) और (d)",
+      "केवल (a), (b) और (c)",
+      "केवल (c) और (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "PM-JANMAN targets all PVTGs across pan-India (not exclusively NE India) through 11 key interventions with a budget over ₹24,000 Cr.",
+    "explanationHindi": "पीएम-जनमन मिशन पूरे भारत के PVTG समुदायों के विकास हेतु 11 क्षेत्रों में कार्य करता है, केवल पूर्वोत्तर के लिए सीमित नहीं है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था -> कार्यक्रम एवं योजनाएं: अनुसूचित जाति, अनुसूचित जनजाति, पिछड़ा वर्ग, अल्पसंख्यक, निःशक्तजन, निराश्रित, महिलाएं, बच्चे एवं वृद्धजन"
+  }
+]
