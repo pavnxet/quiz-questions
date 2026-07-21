@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "When Sodium hydrogen carbonate is added to acetic acid a gas evolves. Which of the following statements are true about the gas evolved?\n(a) It turns lime water milky.\n(b) It extinguishes a burning splinter.\n(c) It dissolves in a solution of sodium hydroxide.\n(d) It has a pungent odour.\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "जब सोडियम हाइड्रोजन कार्बोनेट को एसीटिक अम्ल में मिलाया जाता है तो एक गैस निर्मुक्त होती है। निम्नलिखित में से कौन से कथन गैस के निर्मुक्त होने के बारे में सही हैं?\n(a) यह चूने के पानी को दूधिया कर देता है।\n(b) यह जलती हुई फाँस को बुझा देता है।\n(c) यह सोडियम हाइड्रॉक्साइड के विलयन में घुल जाता है।\n(d) इसमें तीखी गंध होती है।\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a) and (b) only",
+      "(a), (b) and (c) only",
+      "(b), (c) and (d) only",
+      "(a) and (d) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a) और (b)",
+      "केवल (a), (b) और (c)",
+      "केवल (b), (c) और (d)",
+      "केवल (a) और (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The gas evolved is CO2. CO2 turns lime water milky, extinguishes flame, and dissolves in NaOH solution. It is odourless.",
+    "explanationHindi": "उत्सर्जित गैस CO2 है। यह चूने के पानी को दूधिया बनाती है, आग बुझाती है, और NaOH में घुलती है। यह गंधहीन होती है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "अम्ल, क्षार एवं लवण"
+  },
+  {
+    "qEnglish": "Match List-I with List-II:\nList-I (Natural source): (a) Vinegar, (b) Orange, (c) Curd, (d) Tomato\nList-II (Acid): (i) Oxalic acid, (ii) Acetic acid, (iii) Citric acid, (iv) Lactic acid\nChoose the most appropriate answer from options given below :",
+    "qHindi": "सूची-I का सूची-II के साथ मिलान करें :\nसूची-I (प्राकृतिक स्रोत): (a) सिरका, (b) नारंगी, (c) दही, (d) टमाटर\nसूची-II (अम्ल): (i) ऑक्ज़ेलिक अम्ल, (ii) एसीटिक अम्ल, (iii) साइट्रिक अम्ल, (iv) लैक्टिक अम्ल\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Vinegar = Acetic acid (ii); Orange = Citric acid (iii); Curd = Lactic acid (iv); Tomato = Oxalic acid (i).",
+    "explanationHindi": "सिरका = एसीटिक अम्ल (ii); नारंगी = साइट्रिक अम्ल (iii); दही = लैक्टिक अम्ल (iv); टमाटर = ऑक्ज़ेलिक अम्ल (i)।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "अम्ल, क्षार एवं लवण"
+  }
+]
