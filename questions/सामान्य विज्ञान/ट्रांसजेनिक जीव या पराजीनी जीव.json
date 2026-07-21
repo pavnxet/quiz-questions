@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "In the list of organisms given below, those that reproduced by the asexual method are :\n(a) Banana\n(b) Dog\n(c) Yeast\n(d) Amoeba\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "नीचे दी गई सूची में अलैंगिक विधि से प्रजनन करने वाले जीव हैं :\n(a) केला\n(b) कुत्ता\n(c) यीस्ट\n(d) अमीबा\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a), (c) and (d) only",
+      "(a) and (d) only",
+      "(b) and (d) only",
+      "(b), (c) and (d) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (c) और (d)",
+      "केवल (a) और (d)",
+      "केवल (b) और (d)",
+      "केवल (b), (c) और (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Banana (vegetative propagation), Yeast (budding), and Amoeba (binary fission) reproduce asexually, while dogs reproduce sexually.",
+    "explanationHindi": "केला (कायिक प्रवर्धन), यीस्ट (मुकुलन), और अमीबा (द्विखंडन) अलैंगिक रूप से प्रजनन करते हैं, जबकि कुत्ता लैंगिक रूप से प्रजनन करता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "ट्रांसजेनिक जीव या पराजीनी जीव"
+  }
+]
