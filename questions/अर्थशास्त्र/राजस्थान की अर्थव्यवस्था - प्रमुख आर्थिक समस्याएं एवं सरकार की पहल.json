@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "The State Income (Gross State Domestic Product) of Rajasthan is officially estimated and published by which of the following agencies? Select the most appropriate option.",
+    "qHindi": "राजस्थान की राज्य आय (सकल राज्य घरेलू उत्पाद) का आधिकारिक अनुमान और प्रकाशन निम्नलिखित में से किस संस्था द्वारा किया जाता है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Department of Finance, Government of Rajasthan",
+      "Economic and Statistical Organisation under the Ministry of Statistics and Programme Implementation.",
+      "State Planning Department, Government of Rajasthan",
+      "Directorate of Economics and Statistics, Government of Rajasthan",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "वित्त विभाग, राजस्थान सरकार",
+      "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय के अधीन आर्थिक एवं सांख्यिकी संगठन",
+      "राज्य योजना विभाग, राजस्थान सरकार",
+      "अर्थशास्त्र और सांख्यिकी निदेशालय, राजस्थान सरकार",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Directorate of Economics and Statistics (DES), Rajasthan is responsible for calculating and publishing the GSDP.",
+    "explanationHindi": "अर्थशास्त्र एवं सांख्यिकी निदेशालय (DES), राजस्थान राज्य आय और GSDP का आधिकारिक अनुमान जारी करता है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था -> प्रमुख आर्थिक समस्याएं एवं सरकार की पहल"
+  }
+]
