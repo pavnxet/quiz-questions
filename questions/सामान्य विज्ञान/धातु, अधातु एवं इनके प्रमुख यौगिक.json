@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following is a metal ?",
+    "qHindi": "निम्नलिखित में से कौन सी एक धातु है ?",
+    "optionsEnglish": [
+      "Sulphur",
+      "Iodine",
+      "Bromine",
+      "Lead",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "सल्फर",
+      "आयोडीन",
+      "ब्रोमीन",
+      "लेड",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Lead (Pb) is a metal, whereas Sulphur, Iodine, and Bromine are non-metals.",
+    "explanationHindi": "लेड (शीशा) एक धातु है, जबकि सल्फर, आयोडीन और ब्रोमीन अधातु हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "धातु, अधातु एवं इनके प्रमुख यौगिक"
+  }
+]
