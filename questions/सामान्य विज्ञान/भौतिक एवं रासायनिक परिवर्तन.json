@@ -649,5 +649,28 @@
     "explanationHindi": "एमिटर टर्मिनल पर बाहर की ओर इशारा करने वाला तीर इसे NPN ट्रांजिस्टर के रूप में पहचानता है। [cite: 350, 351]",
     "subject": "सामान्य विज्ञान",
     "topic": "भौतिक एवं रासायनिक परिवर्तन"
+  },
+  {
+    "qEnglish": "When a magnesium ribbon is burnt in air, the color of ash that is formed is :",
+    "qHindi": "जब मैग्नीशियम रिबन को हवा में जलाया जाता है. तो निर्मित राख का रंग होता है :",
+    "optionsEnglish": [
+      "Black",
+      "Yellow",
+      "White",
+      "Pink",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "काला",
+      "पीला",
+      "सफ़ेद",
+      "गुलाबी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Magnesium burns in air with a dazzling white flame to form Magnesium Oxide (MgO), which is a white powder/ash.",
+    "explanationHindi": "मैग्नीशियम हवा में चमकदार सफेद लौ के साथ जलकर मैग्नीशियम ऑक्साइड (MgO) बनाता है, जो सफेद पाउडर/राख होता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भौतिक एवं रासायनिक परिवर्तन"
   }
 ]
