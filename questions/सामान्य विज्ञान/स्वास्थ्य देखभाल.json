@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "What was the theme of the International Day of Yoga 2025? Select the most appropriate option.",
+    "qHindi": "अंतर्राष्ट्रीय योग दिवस 2025 का विषय क्या था ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Yoga for Humanity",
+      "Yoga for One Earth, One Health",
+      "Yoga for Self and Society",
+      "Yoga for Peace",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मानवता के लिए योग",
+      "एक पृथ्वी, एक स्वास्थ्य के लिए योग",
+      "स्वयं और समाज के लिए योग",
+      "शांति के लिए योग",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "'Yoga for Self and Society' was the primary theme emphasizing personal and social well-being.",
+    "explanationHindi": "'स्वयं और समाज के लिए योग' व्यक्तिगत और सामाजिक कल्याण पर जोर देने वाला मुख्य विषय था।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "स्वास्थ्य देखभाल"
+  }
+]
