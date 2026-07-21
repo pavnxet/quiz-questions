@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "qEnglish": "The average of 9 consecutive odd numbers if the smallest of those numbers is denoted by n is:",
+    "qHindi": "9 क्रमागत विषम संख्याओं का औसत, यदि उन संख्याओं में से सबसे छोटी संख्या को n द्वारा दर्शाया जाता है, हैं :",
+    "optionsEnglish": [
+      "n+4",
+      "n+6",
+      "n+8",
+      "n+9",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "n+4",
+      "n+6",
+      "n+8",
+      "n+9",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The 9 numbers are n, n+2, n+4, n+6, n+8, n+10, n+12, n+14, n+16. Average is the 5th middle term = n+8.",
+    "explanationHindi": "9 क्रमागत संख्याएं: n, n+2, n+4, n+6, n+8, n+10, n+12, n+14, n+16। इनका मध्य पद (औसत) = n+8 है।",
+    "subject": "गणित",
+    "topic": "औसत"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which project provides drinking water to the 'Sun City' Jodhpur? Select the most appropriate option.",
+    "qHindi": "कौन-सी परियोजना 'सन सिटी' जोधपुर को पीने का पानी प्रदान करती है ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Bisalpur Project",
+      "Jawai Dam Project",
+      "Rajiv Gandhi Lift Canal",
+      "Jakham Project",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "बिसलपुर परियोजना",
+      "जवाई बांध परियोजना",
+      "राजीव गांधी लिफ्ट कैनाल",
+      "जाखम परियोजना",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Rajiv Gandhi Lift Canal off-taking from Indira Gandhi Canal is the main drinking water source for Jodhpur.",
+    "explanationHindi": "इंदिरा गांधी नहर से निकलने वाली राजीव गांधी लिफ्ट नहर जोधपुर शहर के लिए पेयजल की प्रमुख परियोजना है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> प्रमुख सिंचाई परियोजनाएं: चम्बल, इन्दिरा गांधी नहर, माही"
+  }
+]

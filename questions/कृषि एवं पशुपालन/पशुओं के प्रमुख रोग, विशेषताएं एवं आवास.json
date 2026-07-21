@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which breed of cattle in Rajasthan is popularly known as the 'Kamdhenu of Rajasthan' due to its high milk-yielding capacity? Select the most appropriate option.",
+    "qHindi": "राजस्थान में मवेशियों की किस नस्ल को अपनी उच्च दूध उत्पादन क्षमता के कारण 'राजस्थान के कामधेनु' के रूप में जाना जाता है ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Tharparkar",
+      "Nagauri",
+      "Kankrej",
+      "Rathi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "थारपारकर",
+      "नागौरी",
+      "कांकरेज",
+      "राठी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Rathi breed is famously known as the 'Kamdhenu of Rajasthan' due to high milk yield.",
+    "explanationHindi": "राठी नस्ल को अत्यधिक दूध देने की क्षमता के कारण 'राजस्थान की कामधेनु' कहा जाता है।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "पशुओं के प्रमुख रोग, विशेषताएं एवं आवास"
+  }
+]

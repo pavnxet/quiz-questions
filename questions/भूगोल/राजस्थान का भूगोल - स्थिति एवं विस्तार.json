@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following place of Rajasthan is closest to Tropic of Cancer ? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से राजस्थान का कौन-सा स्थान कर्क रेखा के सबसे करीब है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Bhilwara",
+      "Chittorgarh",
+      "Pratapgarh",
+      "Sirohi",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भीलवाड़ा",
+      "चित्तौड़गढ़",
+      "प्रतापगढ़",
+      "सिरोही",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Pratapgarh is southernmost among these choices and lies closest to the Tropic of Cancer which passes through Banswara and Dungarpur.",
+    "explanationHindi": "दिए गए विकल्पों में प्रतापगढ़ सबसे दक्षिण में है और कर्क रेखा (जो बांसवाड़ा व डूंगरपुर से गुजरती है) के सबसे निकट है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> स्थिति एवं विस्तार"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following city is closest to Sorsan Wildlife Sanctuary ? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से कौन-सा शहर सोरसन वन्यजीव अभयारण्य के सबसे निकट है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Nagaur",
+      "Jodhpur",
+      "Hanumangarh",
+      "Kota",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "नागौर",
+      "जोधपुर",
+      "हनुमानगढ़",
+      "कोटा",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Sorsan Wildlife Sanctuary is located in Baran district, which is closest to Kota among the given options.",
+    "explanationHindi": "सोरसन वन्यजीव अभयारण्य बारां जिले में स्थित है, जो दिए गए विकल्पों में से कोटा के सबसे निकट है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> वन एवं वन्य जीव संरक्षण"
+  }
+]

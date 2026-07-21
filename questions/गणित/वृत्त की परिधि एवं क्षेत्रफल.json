@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "What is the radius of a circle whose area is equal to the sum of the areas of two circles whose radii are 20 cm and 21 cm?",
+    "qHindi": "एक वृत्त की त्रिज्या क्या है जिसका क्षेत्रफल दो वृत्तों के क्षेत्रफल के योग के बराबर है जिनकी त्रिज्याएँ 20 cm और 21 cm हैं ?",
+    "optionsEnglish": [
+      "41 cm",
+      "32 cm",
+      "29 cm",
+      "20.5 cm",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "41 cm",
+      "32 cm",
+      "29 cm",
+      "20.5 cm",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "R^2 = r1^2 + r2^2 = 20^2 + 21^2 = 400 + 441 = 841. R = sqrt(841) = 29 cm.",
+    "explanationHindi": "R^2 = 20^2 + 21^2 = 400 + 441 = 841। R = sqrt(841) = 29 सेमी।",
+    "subject": "गणित",
+    "topic": "वृत्त की परिधि एवं क्षेत्रफल"
+  }
+]

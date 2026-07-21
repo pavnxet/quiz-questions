@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Consider the following statements regarding the 'Dairy Sector' in Rajasthan:\n(a) Rajasthan ranks 2nd in India for total milk production.\n(b) The 'Mukhyamantri Dugdh Utpadak Sambal Yojana' provides a subsidy of ₹ 5 per litre to milk producers.\n(c) The Rajasthan Cooperative Dairy Federation (RCDF) was established in the year 1977.\n(d) 'Saras Amritam' is a campaign launched to ensure the quality of milk.\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "राजस्थान में 'डेयरी क्षेत्र' के संबंध में निम्नलिखित कथनों पर विचार कीजिए :\n(a) कुल दूध उत्पादन में राजस्थान का भारत में दूसरा स्थान है।\n(b) 'मुख्यमंत्री दुग्ध उत्पादक संबल योजना' के तहत दूध उत्पादकों को ₹ 5 प्रति लीटर की सब्सिडी प्रदान की जाती है।\n(c) राजस्थान सहकारी डेयरी फेडरेशन (आर.सी.डी.एफ.) की स्थापना वर्ष 1977 में की गई थी।\n(d) 'सरस अमृतम' दूध की गुणवत्ता सुनिश्चित करने के लिए शुरू किया गया एक अभियान है。\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (c) and (d) only",
+      "(b), (c) and (d) only",
+      "(a) and (b) only",
+      "(a), (b), (c) and (d)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (c) और (d)",
+      "केवल (b), (c) और (d)",
+      "केवल (a) और (b)",
+      "(a), (b), (c) और (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "All given statements (a, b, c, d) regarding milk production, subsidy, RCDF establishment year (1977), and quality drive are correct.",
+    "explanationHindi": "दूध उत्पादन, सब्सिडी, आरसीडीएफ स्थापना वर्ष (1977) और गुणवत्ता अभियान के संबंध में दिए गए सभी कथन (a, b, c, d) सही हैं।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "पशु-कृषि, कुक्कुट पालन"
+  },
+  {
+    "qEnglish": "Given below are two statements, one is labelled as Assertion (A) and other one labelled as Reason (R).\nAssertion (A): The 'Saras' brand under the Rajasthan Cooperative Dairy Federation (RCDF) follows a Three-Tier structure.\nReason (R): The Three-Tier Cooperative structure consists of the Zila Parishad at the top, followed by the Panchayat Samiti and the Gram Panchayat.\nIn light of the above statements, choose the most appropriate answer from the options given below.",
+    "qHindi": "नीचे दो कथन दिए गए हैं. जिनमें से एक को अभिकथन (A) और दूसरे को कारण (R) के रूप में अंकित किया गया है।\nअभिकथन (A) : राजस्थान सहकारी डेयरी महासंघ (आर. सी. डी. एफ.) के तहत 'सरस' ब्रांड त्रिस्तरीय संरचना का अनुसरण करता है।\nकारण (R) : त्रिस्तरीय सहकारी संरचना में शीर्ष पर जिला परिषद, उसके बाद पंचायत समिति और ग्राम पंचायत शामिल हैं।\nउपर्युक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
+      "(A) is correct but (R) is not correct.",
+      "(A) is not correct but (R) is correct.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) और (R) दोनों सत्य हैं और (R), (A) की सही व्याख्या है।",
+      "(A) और (R) दोनों सत्य हैं, लेकिन (R), (A) की सही व्याख्या नहीं है।",
+      "(A) सही है लेकिन (R) सही नहीं है।",
+      "(A) सही नहीं है लेकिन (R) सही है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "RCDF follows a 3-tier structure (Federation -> District Milk Unions -> Village Dairy Cooperative Societies). Reason R defines Panchayati Raj structure, not dairy cooperative structure.",
+    "explanationHindi": "आरसीडीएफ 3-स्तरीय डेयरी संरचना (महासंघ -> जिला दुग्ध संघ -> प्राथमिक ग्राम दुग्ध समितियां) का पालन करता है। कारण R पंचायती राज का वर्णन करता है न कि डेयरी सहकारिता का।",
+    "subject": "कृषि एवं पशुपालन",
+    "topic": "पशु-कृषि, कुक्कुट पालन"
+  }
+]

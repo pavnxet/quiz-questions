@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which body recommends financial distribution to Panchayats in a state? Select the most appropriate option.",
+    "qHindi": "कौन-सा निकाय किसी राज्य में पंचायतों को वित्तीय वितरण की सिफारिश करता है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Planning Commission",
+      "Finance Commission",
+      "State Finance Commission",
+      "NITI Aayog",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "योजना आयोग",
+      "वित्त आयोग",
+      "राज्य वित्त आयोग",
+      "नीति आयोग",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "The State Finance Commission (SFC) constituted under Article 243-I recommends financial distribution to local bodies/panchayats.",
+    "explanationHindi": "अनुच्छेद 243-I के तहत गठित राज्य वित्त आयोग (SFC) राज्य में पंचायतों को वित्तीय वितरण की सिफारिश करता है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था -> स्थानीय स्वायत्त शासन एवं पंचायती राज"
+  },
+  {
+    "qEnglish": "Match List-I with List-II:\nList-I (Local Body): (a) Gram Panchayat, (b) Panchayat Samiti, (c) Zila Parishad, (d) Municipal Corporation\nList-II (Head): (i) Sarpanch, (ii) Pradhan, (iii) Mayor / Chairman, (iv) Pramukh\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "सूची-1 के साथ सूची-II का मिलान कीजिए:\nसूची-1 (स्थानीय निकाय): (a) ग्राम पंचायत, (b) पंचायत समिति, (c) जिला परिषद, (d) नगर निगम\nसूची-II (प्रमुख): (i) सरपंच, (ii) प्रधान, (iii) महापौर / सभापति, (iv) प्रमुख\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें:",
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Gram Panchayat = Sarpanch (i); Panchayat Samiti = Pradhan (ii); Zila Parishad = Zila Pramukh (iv); Municipal Corporation = Mayor (iii).",
+    "explanationHindi": "ग्राम पंचायत = सरपंच (i); पंचायत समिति = प्रधान (ii); जिला परिषद = जिला प्रमुख (iv); नगर निगम = महापौर (iii)।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था -> स्थानीय स्वायत्त शासन एवं पंचायती राज"
+  }
+]

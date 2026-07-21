@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Identify the peaks of North Aravali Mountain:\n(a) Raghunathgarh Peak\n(b) Guru Shikhar\n(c) Bhairach Peak\n(d) Kho Peak\nChoose the most appropriate answer from the options given below:",
+    "qHindi": "उत्तरी अरावली पर्वत की चोटियों की पहचान कीजिए ।\n(a) रघुनाथगढ़ चोटी\n(b) गुरु शिखर\n(c) भैरच चोटी\n(d) खो चोटी\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(b), (c) and (d) only",
+      "(a), (c) and (d) only",
+      "(a), (b), (c) and (d)",
+      "(a), (b) and (c) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (b), (c) और (d)",
+      "केवल (a), (c) और (d)",
+      "(a), (b), (c) और (d)",
+      "केवल (a), (b) और (c)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Raghunathgarh, Bhairach, and Kho are in Northern Aravalli. Guru Shikhar is in Southern Aravalli (Sirohi).",
+    "explanationHindi": "रघुनाथगढ़, भैरच और खो उत्तरी अरावली की चोटियाँ हैं। गुरु शिखर दक्षिणी अरावली (सिरोही) में स्थित है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> भू-भौतिक संरचना एवं मुख्य भौतिक विभाग: मरुस्थलीय प्रदेश, अरावली पर्वतीय प्रदेश, मैदानी प्रदेश, पठारी प्रदेश"
+  }
+]

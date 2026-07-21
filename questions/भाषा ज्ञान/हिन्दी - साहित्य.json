@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "The literary works of Mewari dialect are comparable in richness to which prominent dialect of Rajasthani language? Select the most appropriate option.",
+    "qHindi": "मेवाड़ी बोली की साहित्यिक रचनाएँ राजस्थानी भाषा की किस प्रमुख बोली की साहित्यिक समृद्धि के तुलनीय हैं ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Hadoti Dialect",
+      "Marwari Dialect",
+      "Dhundari Dialect",
+      "Malawi Dialect",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "हाड़ौती बोली",
+      "मारवाड़ी बोली",
+      "धुंडारी बोली",
+      "मालवी बोली",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Mewari is considered a sub-dialect/closest variant of Marwari, matching its rich literary tradition.",
+    "explanationHindi": "मेवाड़ी को मारवाड़ी की एक प्रमुख उप-बोली/संबद्ध बोली माना जाता है और यह मारवाड़ी के समान ही समृद्ध साहित्यिक परंपरा रखती है।",
+    "subject": "भाषा ज्ञान",
+    "topic": "हिन्दी -> साहित्य"
+  }
+]

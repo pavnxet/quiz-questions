@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which of the following factors are mainly responsible for prevailing drought conditions in Western Part of Rajasthan ?\n(a) Position of Aravalli Mountain parallel of Arabian Sea branch of Indian Monsoon.\n(b) Position of Aravalli Mountain parallel of Bay of Bengal branch of Indian Monsoon.\n(c) Lesser height of Aravalli Mountain and Lack of vegetation\n(d) Low moisture content in Arabian Sea monsoon branch than Bay of Bengal monsoon branch.\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "राजस्थान के पश्चिमी भाग में मौजूदा सुखे की स्थिति के लिए निम्नलिखित में से कौन-से कारक मुख्य रूप से जिम्मेदार हैं ?\n(a) अरावली पर्वत की स्थिति भारतीय, मानसून की अरब सागर शाखा के समानांतर है।\n(b) अरावली पर्वत की स्थिति भारतीय मानसून की बंगाल की खाड़ी शाखा के समानांतर है।\n(c) अरावली पर्वत की कम ऊँचाई और वनस्पति की कमी।\n(d) अरब सागर मानसून शाखा में बंगाल की खाड़ी मानसून शाखा की तुलना में नमी की मात्रा कम होना।\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (c) and (d) only",
+      "(b) and (d) only",
+      "(a) and (d) only",
+      "(a) and (c) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (c) और (d)",
+      "केवल (b) और (d)",
+      "केवल (a) और (d)",
+      "केवल (a) और (c)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The primary physical causes for dry/drought conditions in western Rajasthan are Aravalli's parallel orientation to Arabian Sea monsoon branch and its low elevation.",
+    "explanationHindi": "पश्चिम राजस्थान में शुष्क/सूखे का मुख्य कारण अरावली का अरब सागर मानसून शाखा के समानांतर होना और इसकी कम ऊँचाई है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  },
+  {
+    "qEnglish": "Arrange the following climatic regions of Rajasthan from east to west.\n(a) Humid Climatic Region\n(b) Very Humid Climatic Region\n(c) Arid Climatic Region\n(d) Semi Arid Climatic Region\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "राजस्थान के निम्नलिखित जलवायु क्षेत्रों को पूर्व से पश्चिम के क्रम में व्यवस्थित कीजिए।\n(a) आर्द्र जलवायु क्षेत्र\n(b) बहुत आर्द्र जलवायु क्षेत्र\n(c) शुष्क जलवायु क्षेत्र\n(d) अर्ध-शुष्क जलवायु क्षेत्र\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (b), (c), (d)",
+      "(b), (a), (c), (d)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (d), (a)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a), (b), (c), (d)",
+      "(b), (a), (c), (d)",
+      "(b), (a), (d), (c)",
+      "(c), (b), (d), (a)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "East to West sequence: Very Humid (SE) -> Humid -> Semi-Arid -> Arid (Far West). Correct sequence: b, a, d, c.",
+    "explanationHindi": "पूर्व से पश्चिम का सही क्रम: अति आर्द्र (दक्षिण-पूर्व) -> आर्द्र -> अर्ध-शुष्क -> शुष्क (सुदूर पश्चिम)। अतः क्रम (b), (a), (d), (c) है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> जलवायु दशाएं, मानसून तंत्र एवं जलवायु प्रदेश"
+  }
+]

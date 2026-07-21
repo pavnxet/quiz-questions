@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which legislation replaced the Indian Penal Code (IPC) 1860 and came into full effect on 1st July 2024 ? Select the most appropriate option.",
+    "qHindi": "भारतीय दंड संहिता (आई.पी.सी.) (1860) को किस कानून ने प्रतिस्थापित किया और 1 जुलाई 2024 को पूर्ण रूप से प्रभावी हुआ ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Bharatiya Nagarik Suraksha Sanhita (BNSS)",
+      "Bharatiya Nyaya Sanhita (BNS)",
+      "Bharatiya Sakshya Adhiniyam (BSA)",
+      "Digital Personal Data Protection Act",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भारतीय नागरिक सुरक्षा संहिता (बी.एन.एस.एस.)",
+      "भारतीय न्याय संहिता (बी.एन.एस.)",
+      "भारतीय साक्ष्य अधिनियम (बी.एस.ए.)",
+      "डिजिटल व्यक्तिगत डेटा संरक्षण अधिनियम",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Bharatiya Nyaya Sanhita (BNS) replaced the Indian Penal Code (IPC) starting July 1, 2024.",
+    "explanationHindi": "भारतीय न्याय संहिता (BNS) ने 1 जुलाई 2024 से भारतीय दंड संहिता (IPC) का स्थान लिया।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था -> लोक नीति, विधिक अधिकार एवं नागरिक अधिकार-पत्र"
+  }
+]

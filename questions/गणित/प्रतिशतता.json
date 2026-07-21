@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "qEnglish": "Tanya's salary is 33.33% more than that of Reema. By how much percent is Reema's salary less than that of Tanya's?",
+    "qHindi": "तान्या का वेतन रीमा की तुलना में 33.33% अधिक है। रीमा का वेतन तान्या के वेतन से कितना प्रतिशत कम है ?",
+    "optionsEnglish": [
+      "33.33%",
+      "66.66%",
+      "50%",
+      "25%",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "33.33%",
+      "66.66%",
+      "50%",
+      "25%",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Tanya = 4/3 of Reema. Reema is less than Tanya by (1/4)*100 = 25%.",
+    "explanationHindi": "तान्या का वेतन = रीमा का 4/3। रीमा तान्या से (1/4)*100 = 25% कम है।",
+    "subject": "गणित",
+    "topic": "प्रतिशतता"
+  }
+]

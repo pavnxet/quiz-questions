@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which of the following dams/barrages built on Chambal River are located in Rajasthan?\n(a) Rana Pratap Sagar Dam\n(b) Kota Barrage\n(c) Jawahar Sagar Dam\n(d) Gandhi Sagar Dam\nChoose the most appropriate answer from the options given below:",
+    "qHindi": "चंबल नदी पर निर्मित निम्नलिखित में से कौन-से बांध/बैराज राजस्थान में स्थित हैं ?\n(a) राणा प्रताप सागर बांध\n(b) कोटा बैराज\n(c) जवाहर सागर बांध\n(d) गांधी सागर बांध\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (b) and (d) only",
+      "(b) and (c) only",
+      "(a) and (b) only",
+      "(a), (b) and (c) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (b) और (d)",
+      "केवल (b) और (c)",
+      "केवल (a) और (b)",
+      "केवल (a), (b) और (c)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Rana Pratap Sagar, Kota Barrage, and Jawahar Sagar are in Rajasthan. Gandhi Sagar Dam is located in Madhya Pradesh.",
+    "explanationHindi": "राणा प्रताप सागर, कोटा बैराज और जवाहर सागर राजस्थान में स्थित हैं। गांधी सागर बांध मध्य प्रदेश में स्थित है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  },
+  {
+    "qEnglish": "Which of the following river falls into the Arabian Sea ? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से कौन-सी नदी अरब सागर में गिरती है? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Chambal River",
+      "Mahi River",
+      "Banas River",
+      "Kali Sindh River",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "चंबल नदी",
+      "माही नदी",
+      "बनास नदी",
+      "काली सिंध नदी",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Mahi River flows southwards into the Gulf of Khambhat in the Arabian Sea.",
+    "explanationHindi": "माही नदी दक्षिण की ओर बहती हुई अरब सागर की खंभात की खाड़ी में गिरती है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> अपवाह तंत्र, झीलें, बांध एवं जल संरक्षण तकनीकें"
+  }
+]

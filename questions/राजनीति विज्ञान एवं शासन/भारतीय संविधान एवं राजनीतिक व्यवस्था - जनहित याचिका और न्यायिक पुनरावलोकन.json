@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which feature ensures supremacy of the Constitution in India? Select the most appropriate option.",
+    "qHindi": "कौन-सी विशेषता भारत में संविधान की सर्वोच्चता सुनिश्चित करती है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Judicial review",
+      "Parliamentary sovereignty",
+      "Federalism",
+      "Bicameralism",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "न्यायिक समीक्षा",
+      "संसदीय संप्रभुता",
+      "संघवाद",
+      "द्विसदनीयता",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Judicial review empowers courts to invalidate laws violating constitutional provisions, upholding constitutional supremacy.",
+    "explanationHindi": "न्यायिक समीक्षा अदालतों को संविधान के प्रावधानों का उल्लंघन करने वाले कानूनों को रद्द करने का अधिकार देती है, जिससे संविधान की सर्वोच्चता बनी रहती है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था -> जनहित याचिका और न्यायिक पुनरावलोकन"
+  }
+]

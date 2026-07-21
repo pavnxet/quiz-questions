@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which authority audits the accounts of Panchayati Raj Institutions ? Select the most appropriate option.",
+    "qHindi": "कौन-सा प्राधिकरण पंचायती राज संस्थानों के खातों का लेखा-परीक्षण करता है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "CAG of India",
+      "State Election Commission",
+      "State Finance Commission",
+      "Governor",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "भारत का सी ए जी",
+      "राज्य चुनाव आयोग",
+      "राज्य वित्त आयोग",
+      "राज्यपाल",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Comptroller and Auditor General (CAG) of India or local fund audit under CAG guidance audits local body accounts.",
+    "explanationHindi": "भारत के नियंत्रक एवं महालेखा परीक्षक (सीएजी) पंचायती राज संस्थाओं के खातों का परीक्षण/लेखा-परीक्षा करते हैं।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था -> नियंत्रक एवं महालेखा परीक्षक"
+  }
+]

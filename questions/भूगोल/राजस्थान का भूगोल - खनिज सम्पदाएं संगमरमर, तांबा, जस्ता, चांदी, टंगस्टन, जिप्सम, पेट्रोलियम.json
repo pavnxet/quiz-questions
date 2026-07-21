@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "Which of the following is a mineral oil reservoir situated in Rajasthan? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से कौन-सा खनिज तेल भंडार राजस्थान में स्थित है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Gudamalani",
+      "Naharkatiya",
+      "Ankleshwar",
+      "Bassein",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "गुडामालानी",
+      "नाहरकटिया",
+      "अंकलेश्वर",
+      "बेसिन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Gudamalani is a major petroleum/mineral oil bearing area located in Barmer district of Rajasthan.",
+    "explanationHindi": "गुडामालानी राजस्थान के बाड़मेर जिले में स्थित एक प्रमुख खनिज तेल/पेट्रोलियम क्षेत्र है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> खनिज सम्पदाएं: संगमरमर, तांबा, जस्ता, चांदी, टंगस्टन, जिप्सम, पेट्रोलियम"
+  },
+  {
+    "qEnglish": "Which district in Rajasthan was recently in the news for the discovery of significant lithium reserves? Select the most appropriate option.",
+    "qHindi": "राजस्थान का कौन-सा जिला हाल ही में महत्वपूर्ण लिथियम भंडार की खोज के लिए चर्चा में था ? सबसे उपयुक्त विकल्प का चयन कीजिए।",
+    "optionsEnglish": [
+      "Nagaur",
+      "Barmer",
+      "Jodhpur",
+      "Bikaner",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "नागौर",
+      "बाड़मेर",
+      "जोधपुर",
+      "बीकानेर",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Lithium reserves were traced at Degana in Nagaur district of Rajasthan.",
+    "explanationHindi": "राजस्थान के नागौर जिले के डेगाना में लिथियम के भंडार खोजे गए थे।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> खनिज सम्पदाएं: संगमरमर, तांबा, जस्ता, चांदी, टंगस्टन, जिप्सम, पेट्रोलियम"
+  }
+]

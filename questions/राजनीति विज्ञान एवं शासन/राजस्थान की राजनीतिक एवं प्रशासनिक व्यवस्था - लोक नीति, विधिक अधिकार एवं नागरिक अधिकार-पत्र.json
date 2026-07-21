@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "The Rajasthan Land Revenue (Amendment and Validation) Act, 2025, was enacted primarily to expand the powers of which institution? Select the most appropriate option.",
+    "qHindi": "राजस्थान भूमि राजस्व (संशोधन और वैधीकरण) अधिनियम, 2025, मुख्य रूप से किस संस्थान की शक्तियों का विस्तार करने के लिए अधिनियमित किया गया था ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "RFC (Rajasthan Finance Corporation)",
+      "RIICO (Rajasthan State Industrial Development and Investment Corporation)",
+      "RAJSICO (Rajasthan Small Industries Corporation Limited)",
+      "Bureau of Investment Promotion",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "आर. एफ. सी. (राजस्थान वित्त निगम)",
+      "आर.आई.आई.सी.ओ. (राजस्थान राज्य औद्योगिक विकास और निवेश निगम)",
+      "आर.ए.जे.एस.आई.सी.ओ. (राजस्थान लघु उद्योग निगम लिमिटेड)",
+      "निवेश संवर्धन ब्यूरो",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The amendment act was framed to empower RIICO for industrial land conversions and allotments.",
+    "explanationHindi": "संशोधन अधिनियम रीको (RIICO) को औद्योगिक भूमि परिवर्तन और आवंटन के लिए सशक्त बनाने हेतु बनाया गया था।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राजस्थान की राजनीतिक एवं प्रशासनिक व्यवस्था -> लोक नीति, विधिक अधिकार एवं नागरिक अधिकार-पत्र"
+  },
+  {
+    "qEnglish": "Which of the following legislative measures, first enacted by Rajasthan, aimed at enhancing transparency and accountability in governance? Select the most appropriate option.",
+    "qHindi": "इनमें से कौन-सा कानूनी कदम, जिसे राजस्थान ने सबसे पहले लागू किया था, उसका मकसद शासन में पारदर्शिता और जवाबदेही बढ़ाना था ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Rajasthan Transparency in Public Procurement Act, 2012",
+      "Rajasthan Right to Information Act, 2000",
+      "Rajasthan Right to Hearing Act, 2012",
+      "Rajasthan Public Service Guarantee Act, 2011",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राजस्थान सार्वजनिक खरीद में पारदर्शिता अधिनियम, 2012",
+      "राजस्थान सूचना का अधिकार अधिनियम, 2000",
+      "राजस्थान सुनवाई का अधिकार अधिनियम, 2012",
+      "राजस्थान लोक सेवा गारंटी अधिनियम, 2011",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Rajasthan was a pioneer state to enact the Right to Information Act in May 2000 to bring transparency and accountability.",
+    "explanationHindi": "राजस्थान ने मई 2000 में पारदर्शिता और जवाबदेही लाने के लिए सबसे पहले सूचना का अधिकार अधिनियम लागू किया था।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राजस्थान की राजनीतिक एवं प्रशासनिक व्यवस्था -> लोक नीति, विधिक अधिकार एवं नागरिक अधिकार-पत्र"
+  },
+  {
+    "qEnglish": "The State Finance Commission (SFC) is appointed by the Governor to recommend the distribution of resources between : Select the most appropriate option.",
+    "qHindi": "राज्य वित्त आयोग (SFC) की नियुक्ति राज्यपाल द्वारा, किनके बीच संसाधनों के वितरण की अनुशंसा करने हेतु की जाती है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Centre and State",
+      "State and Local Bodies (Panchayats/ Municipalities)",
+      "Two different States",
+      "Districts and Tehsils",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केंद्र और राज्य",
+      "राज्य और स्थानीय निकाय (पंचायतें/ नगरपालिकाओं)",
+      "दो अलग-अलग राज्य",
+      "जिले और तहसीलें",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "The SFC recommends net tax proceeds distribution between the State Government and Local Bodies.",
+    "explanationHindi": "राज्य वित्त आयोग राज्य सरकार और स्थानीय निकायों (पंचायतों व नगरपालिकाओं) के बीच वित्तीय संसाधनों के वितरण की सिफारिश करता है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राजस्थान की राजनीतिक एवं प्रशासनिक व्यवस्था -> लोक नीति, विधिक अधिकार एवं नागरिक अधिकार-पत्र"
+  }
+]

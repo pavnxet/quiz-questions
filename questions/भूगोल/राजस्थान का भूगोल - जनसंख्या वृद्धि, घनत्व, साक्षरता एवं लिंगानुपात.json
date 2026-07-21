@@ -1,0 +1,71 @@
+[
+  {
+    "qEnglish": "What was the literacy rate of Rajasthan according to the 2011 Census? Select the most appropriate option.",
+    "qHindi": "2011 की जनगणना के अनुसार राजस्थान की साक्षरता दर क्या थी ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "76%",
+      "67%",
+      "70%",
+      "54%",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "76 प्रतिशत",
+      "67 प्रतिशत",
+      "70 प्रतिशत",
+      "54 प्रतिशत",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "As per Census 2011, literacy rate in Rajasthan was approximately 66.1% (closely rounded to 67%).",
+    "explanationHindi": "जनगणना 2011 के अनुसार राजस्थान की साक्षरता दर लगभग 66.1% (लगभग 67%) थी।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> जनसंख्या: वृद्धि, घनत्व, साक्षरता एवं लिंगानुपात"
+  },
+  {
+    "qEnglish": "Which of the following factor is not directly responsible for low child sex ratio in Rajasthan?\n(a) Child Marriage led Maternal Deaths\n(b) Patriarchal Society\n(c) Exposure to Pre-natal Sex Determination\n(d) Dowry System\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "निम्नलिखित में से कौन-सा कारक राजस्थान में कम बाल लिंग अनुपात के लिए सीधे तौर पर जिम्मेदार नहीं है ?\n(a) बाल विवाह के कारण मातृ मृत्यु हुई\n(b) पितृसत्तात्मक समाज\n(c) प्रसव पूर्व लिंग निर्धारण के संपर्क में आना\n(d) दहेज प्रणाली\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a) only",
+      "(a) and (d) only",
+      "(b) and (c) only",
+      "(a), (b), (c) and (d)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a)",
+      "केवल (a) और (d)",
+      "केवल (b) और (c)",
+      "(a), (b), (c) और (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Child marriage maternal deaths affect overall female mortality/maternal mortality rate rather than pre-birth/0-6 age child sex ratio directly.",
+    "explanationHindi": "बाल विवाह के कारण मातृ मृत्यु दर 0-6 वर्ष के बाल लिंग अनुपात को सीधे प्रभावित करने के बजाय मातृ मृत्यु दर से संबंधित है।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> जनसंख्या: वृद्धि, घनत्व, साक्षरता एवं लिंगानुपात"
+  },
+  {
+    "qEnglish": "In which of the following census years Rajasthan recorded the highest population density ? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से किस जनगणना वर्ष में राजस्थान ने सबसे अधिक जनसंख्या घनत्व दर्ज किया ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "1991",
+      "1981",
+      "2011",
+      "2001",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "1991 में",
+      "1981 में",
+      "2011 में",
+      "2001 में",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Rajasthan recorded its highest population density of 200 persons per sq km in Census 2011.",
+    "explanationHindi": "राजस्थान ने 2011 की जनगणना में प्रति वर्ग किमी 200 व्यक्तियों का सर्वाधिक जनसंख्या घनत्व दर्ज किया।",
+    "subject": "भूगोल",
+    "topic": "राजस्थान का भूगोल -> जनसंख्या: वृद्धि, घनत्व, साक्षरता एवं लिंगानुपात"
+  }
+]

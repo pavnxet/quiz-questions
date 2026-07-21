@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Match List-I (Famous Personality) with List-II (Achievement/Role):\nList-I: (a) Sundar Pichai, (b) Satya Nadella, (c) B.R. Gavai, (d) Sanjiv Khanna\nList-II: (i) CEO of Microsoft, (ii) CEO of Google, (iii) 52nd Chief Justice of India, (iv) 51st Chief Justice of India\nChoose the most appropriate answer from options given below:",
+    "qHindi": "सूची-I (प्रसिद्ध व्यक्तित्व) का सूची-II (उपलब्धि / भूमिका) के साथ मिलान कीजिए :\nसूची-I: (a) सुंदर पिचाई, (b) सत्य नडेला, (c) बी.आर. गवई, (d) संजीव खन्ना\nसूची-II: (i) माइक्रोसॉफ्ट के सी ई ओ, (ii) गूगल के सी ई ओ, (iii) भारत के 52 वें मुख्य न्यायाधीश, (iv) भारत के 51 वें मुख्य न्यायाधीश\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Sundar Pichai = CEO Google (ii); Satya Nadella = CEO Microsoft (i); B.R. Gavai = 52nd CJI (iii); Sanjiv Khanna = 51st CJI (iv).",
+    "explanationHindi": "सुंदर पिचाई = गूगल सीईओ (ii); सत्य नडेला = माइक्रोसॉफ्ट सीईओ (i); बी.आर. गवई = 52वें CJI (iii); संजीव खन्ना = 51वें CJI (iv)।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था -> उच्चतम न्यायालय"
+  }
+]

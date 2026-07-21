@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "qEnglish": "The compound interest on a certain sum at a certain rate of interest for the second year and third year is 21,780 and 23,958, respectively. What is the rate of interest ?",
+    "qHindi": "दूसरे वर्ष और तीसरे वर्ष के लिए ब्याज की एक निश्चित दर पर एक निश्चित राशि पर चक्रवृद्धि ब्याज क्रमशः ₹ 21,780 और ₹ 23,958 हैं। ब्याज की दर क्या है ?",
+    "optionsEnglish": [
+      "8%",
+      "9%",
+      "10%",
+      "11%",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "8%",
+      "9%",
+      "10%",
+      "11%",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Interest difference = 23958 - 21780 = 2178. Rate = (2178 / 21780) * 100 = 10%.",
+    "explanationHindi": "ब्याज का अंतर = 23958 - 21780 = 2178। दर = (2178 / 21780) * 100 = 10%।",
+    "subject": "गणित",
+    "topic": "साधारण एवं चक्रवृद्धि ब्याज"
+  }
+]

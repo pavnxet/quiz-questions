@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Arrange the following in increasing order of administrative hierarchy :\n(a) Tehsil\n(b) Sub-Division\n(c) District\n(d) Division\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "निम्नलिखित को प्रशासनिक पदानुक्रम के बढ़ते क्रम में व्यवस्थित कीजिए :\n(a) तहसील\n(b) उप-मंडल\n(c) जिला\n(d) प्रभाग\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (b), (c), (d)",
+      "(a), (b), (d), (c)",
+      "(b), (a), (d), (c)",
+      "(b), (a), (c), (d)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a), (b), (c), (d)",
+      "(a), (b), (d), (c)",
+      "(b), (a), (d), (c)",
+      "(b), (a), (c), (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Increasing administrative hierarchy order: Tehsil < Sub-Division < District < Division.",
+    "explanationHindi": "प्रशासनिक पदानुक्रम का बढ़ता क्रम: तहसील < उप-मंडल < जिला < प्रभाग (संभाग)।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राजस्थान की राजनीतिक एवं प्रशासनिक व्यवस्था -> जिला प्रशासन"
+  }
+]

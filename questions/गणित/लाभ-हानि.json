@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "qEnglish": "By selling 8 items, a seller gains the selling price of 1 item. Calculate his gain percent.",
+    "qHindi": "8 वस्तुएँ बेचने से एक विक्रेता को 1 वस्तु का विक्रय मूल्य प्राप्त होता है। उसके लाभ प्रतिशत की गणना करें।",
+    "optionsEnglish": [
+      "14(1/7)%",
+      "13(1/7)%",
+      "13(2/7)%",
+      "14(2/7)%",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "14(1/7)%",
+      "13(1/7)%",
+      "13(2/7)%",
+      "14(2/7)%",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Gain = SP of 1. SP of 8 - CP of 8 = SP of 1 => CP of 8 = SP of 7. Gain% = (1/7)*100 = 14(2/7)%.",
+    "explanationHindi": "लाभ = 1 वस्तु का SP। CP of 8 = SP of 7। लाभ% = (1/7)*100 = 14(2/7)%।",
+    "subject": "गणित",
+    "topic": "लाभ-हानि"
+  }
+]
