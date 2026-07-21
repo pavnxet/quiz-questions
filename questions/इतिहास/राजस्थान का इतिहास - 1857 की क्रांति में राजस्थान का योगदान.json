@@ -21,5 +21,26 @@
     "explanationHindi": "कालानुक्रम: नसीराबाद (28 मई) -> नीमच (3 जून) -> एरिनपुरा (21 अगस्त) -> कोटा (15 अक्टूबर)। सही क्रम: c, b, d, a.",
     "subject": "इतिहास",
     "topic": "राजस्थान का इतिहास -> 1857 की क्रांति में राजस्थान का योगदान"
+  },
+  {
+    "qEnglish": "Put the following developments related to the Revolution of 1857 in a sequence from first to the last: (a) Fierce battle of Revolution at Aauwa, (b) Soldiers revolt in Neemuch, (c) Erinpura army joins the Revolution, (d) Revolution in Nasirabad. Choose the most appropriate answer from the options given below:",
+    "qHindi": "1857 की क्रांति से जुड़ी निम्नलिखित घटनाओं को पहले से आखिरी के क्रम में व्यवस्थित कीजिए : (a) आउवा में क्रांति की भीषण लड़ाई, (b) नीमच में सैनिकों का विद्रोह, (c) एरिनपुरा सेना का क्रांति में शामिल होना, (d) नसीराबाद में क्रांति। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए।",
+    "optionsEnglish": [
+      "(a), (b), (c), (d)",
+      "(d), (b), (c), (a)",
+      "(b), (c), (a), (d)",
+      "(c), (d), (b), (a)"
+    ],
+    "optionsHindi": [
+      "(a), (b), (c), (d)",
+      "(d), (b), (c), (a)",
+      "(b), (c), (a), (d)",
+      "(c), (d), (b), (a)"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Chronology: Nasirabad (28 May) -> Neemuch (3 June) -> Erinpura (21 Aug) -> Battle of Auwa (Sept). Sequence: d, b, c, a.",
+    "explanationHindi": "कालक्रम: नसीराबाद क्रांति (28 मई) -> नीमच विद्रोह (3 जून) -> एरिनपुरा विद्रोह (21 अगस्त) -> आउवा की लड़ाई (सितंबर)। सही क्रम: (d), (b), (c), (a)।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> 1857 की क्रांति में राजस्थान का योगदान"
   }
 ]
