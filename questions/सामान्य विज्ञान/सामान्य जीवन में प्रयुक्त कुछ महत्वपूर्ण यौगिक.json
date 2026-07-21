@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following compounds has the lowest boiling point?",
+    "qHindi": "निम्नलिखित में से किस यौगिक का क्वथनांक सबसे कम है ?",
+    "optionsEnglish": [
+      "Methane",
+      "Acetic acid",
+      "Chloroform",
+      "Ethanol",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मेथेन",
+      "एसीटिक अम्ल",
+      "क्लोरोफॉर्म",
+      "एथेनॉल",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Methane (CH4) is a non-polar gas at room temperature with weak van der Waals forces, making its boiling point lowest (-161.5°C).",
+    "explanationHindi": "मीथेन (CH4) कमजोर वैन डेर वाल्स बलों वाली गैस है, जिससे इसका क्वथनांक सबसे कम (-161.5°C) होता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "सामान्य जीवन में प्रयुक्त कुछ महत्वपूर्ण यौगिक"
+  }
+]
