@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Given below are two statements, one is labelled as Assertion (A) and other one labelled as Reason (R).\nAssertion (A): India has launched the 'National Quantum Mission' (NQM) to develop quantum computing capabilities.\nReason (R): Quantum computers use 'Qubits' which allow them to perform complex calculations much faster than classical computers.\nIn light of the above statements, choose the most appropriate answer from the options given below :",
+    "qHindi": "नीचे दो कथन दिए गए हैं. एक को अभिकथन (A) और दूसरे को कारण (R) के रूप में बताया गया है।\nअभिकथन (A) : भारत ने क्वांटम कंप्यूटिंग क्षमताओं को विकसित करने के लिए 'राष्ट्रीय क्वांटम मिशन' (NQM) शुरू किया है।\nकारण (R) : क्वांटम कंप्यूटर 'क्यूबिट्स' का उपयोग करते हैं, जो उन्हें क्लासिकल कंप्यूटरों की तुलना में कहीं अधिक तेजी से जटिल गणनाएँ करने में सक्षम बनाते हैं।\nउपर्युक्त कथनों के आलोक में, नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
+      "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
+      "(A) is correct but (R) is not correct.",
+      "(A) is not correct but (R) is correct.",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) और (R) दोनों ही सही हैं और (R), (A) की सही व्याख्या है।",
+      "(A) और (R) दोनों ही सही हैं लेकिन (R), (A) की सही व्याख्या नहीं है।",
+      "(A) सही है लेकिन (R) सही नहीं है।",
+      "(A) सही नहीं है लेकिन (R) सही है।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Both statements are true and the reason accurately explains the purpose and power of quantum computing targeted by NQM.",
+    "explanationHindi": "दोनों कथन सत्य हैं और कारण एनक्यूएम द्वारा लक्षित क्वांटम कंप्यूटिंग के उद्देश्य और क्षमता की सटीक व्याख्या करता है।",
+    "subject": "कंप्यूटर और सूचना प्रौद्योगिकी",
+    "topic": "सूचना एवं संचार प्रौद्योगिकी"
+  }
+]
