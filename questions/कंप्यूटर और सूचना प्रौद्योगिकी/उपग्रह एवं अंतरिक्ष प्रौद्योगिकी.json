@@ -1,0 +1,25 @@
+[
+  {
+    "qEnglish": "Which of the following statements are correct regarding the 'Deep Ocean Mission' (DOM)?\n(a) It is a mission to explore the ocean floor for rare minerals.\n(b) The MATSYA 6000 is the manned submersible vehicle designed for this.\n(c) It is spearheaded by the Ministry of Earth Sciences.\n(d) The mission primarily aims to extract oil from deep-sea beds.\nChoose the most appropriate answer from the options given below:",
+    "qHindi": "'डीप ओशन मिशन' (डी.ओ.एम.) के संबंध में निम्नलिखित में से कौन-से कथन सही हैं ?\n(a) यह दुर्लभ खनिजों के लिए समुद्र तल का पता लगाने का एक लक्ष्य है।\n(b) मत्स्य 6000 इसके लिए डिज़ाइन किया गया मानवयुक्त पनडुब्बी वाहन है।\n(c) इसका नेतृत्व पृथ्वी विज्ञान मंत्रालय द्वारा किया जाता है।\n(d) इस मिशन का मुख्य उद्देश्य गहरे समुद्र के तल से तेल निकालना है।\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (b), (c) and (d)",
+      "(a), (b) and (c) only",
+      "(c) and (d) only",
+      "(a), (b) and (d) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a), (b), (c) और (d)",
+      "केवल (a), (b) और (c)",
+      "केवल (c) और (d)",
+      "केवल (a), (b) और (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Deep Ocean Mission is spearheaded by MoES to explore rare minerals using MATSYA 6000; extracting oil is not its primary goal.",
+    "explanationHindi": "डीप ओशन मिशन पृथ्वी विज्ञान मंत्रालय द्वारा मत्स्य 6000 का उपयोग करके दुर्लभ खनिजों की खोज के लिए चलाया गया है; तेल निकालना इसका मुख्य उद्देश्य नहीं है।",
+    "subject": "कंप्यूटर और सूचना प्रौद्योगिकी",
+    "topic": "उपग्रह एवं अंतरिक्ष प्रौद्योगिकी"
+  }
+]
