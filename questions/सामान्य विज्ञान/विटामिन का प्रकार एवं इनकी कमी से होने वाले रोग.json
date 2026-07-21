@@ -1,0 +1,55 @@
+[
+  {
+    "qEnglish": "Match List-I (Vitamin) with List-II (Deficiency Disease): List-I: (a) Vitamin B1, (b) Vitamin C, (c) Vitamin D, (d) Vitamin K. List-II: (i) Scurvy, (ii) Rickets, (iii) Beri-beri, (iv) Delayed blood clotting. Choose the most appropriate answer from the options given below:",
+    "qHindi": "सूची-1 (विटामिन) का सूची-II (अभावजनित रोग) के साथ मिलान करें : सूची-I: (a) विटामिन B1, (b) विटामिन C, (c) विटामिन D, (d) विटामिन K। सूची-II: (i) स्कर्वी, (ii) रिकेट्स, (iii) बेरी-बेरी, (iv) देर से रक्त का थक्का जमना। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "matchItemsEnglish": {
+      "col1Label": "List-I (Vitamin)",
+      "col2Label": "List-II (Deficiency Disease)",
+      "col1": [
+        "Vitamin B1",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+      ],
+      "col2": [
+        "Scurvy",
+        "Rickets",
+        "Beri-beri",
+        "Delayed blood clotting"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-1 (विटामिन)",
+      "col2Label": "सूची-II (अभावजनित रोग)",
+      "col1": [
+        "विटामिन B1",
+        "विटामिन C",
+        "विटामिन D",
+        "विटामिन K"
+      ],
+      "col2": [
+        "स्कर्वी",
+        "रिकेट्स",
+        "बेरी-बेरी",
+        "देर से रक्त का थक्का जमना"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(i), (c)-(ii), (d)-(iv)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Vit B1 -> Beri-beri (iii); Vit C -> Scurvy (i); Vit D -> Rickets (ii); Vit K -> Delayed blood clotting (iv).",
+    "explanationHindi": "विटामिन B1 -> बेरी-बेरी (iii); विटामिन C -> स्कर्वी (i); विटामिन D -> रिकेट्स (ii); विटामिन K -> देर से थक्का जमना (iv)।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "विटामिन का प्रकार एवं इनकी कमी से होने वाले रोग"
+  }
+]
