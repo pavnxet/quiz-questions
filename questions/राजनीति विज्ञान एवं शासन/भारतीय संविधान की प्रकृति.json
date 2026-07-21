@@ -21,5 +21,28 @@
     "explanationHindi": "अनुच्छेद 5 के अंतर्गत 'प्रत्येक व्यक्ति' में केवल प्राकृतिक नागरिक आते हैं, कानूनी निगम नहीं। साथ ही, अधिवास पहली मुख्य शर्त है। दोनों कथन सही हैं।",
     "subject": "राजनीति विज्ञान एवं शासन",
     "topic": "भारतीय संविधान की प्रकृति"
+  },
+  {
+    "qEnglish": "Which of the following describes India as a 'Secular State'? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से कौन-सा भारत को 'धर्मनिरपेक्ष राज्य' के रूप में वर्णित करता है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Fundamental Rights",
+      "Ninth Schedule",
+      "Directive Principles",
+      "Preamble",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "मौलिक अधिकार",
+      "नौवीं अनुसूची",
+      "नीति-निर्देशक सिद्धांत",
+      "प्रस्तावना",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The Preamble explicitly describes India as a 'Secular' Republic (added by 42nd Amendment).",
+    "explanationHindi": "संविधान की प्रस्तावना (Preamble) में भारत को स्पष्ट रूप से 'धर्मनिरपेक्ष' (Secular) राज्य वर्णित किया गया है।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था -> प्रस्तावना (उद्देशिका)"
   }
 ]

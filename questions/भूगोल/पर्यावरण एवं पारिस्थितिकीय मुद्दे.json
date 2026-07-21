@@ -21,5 +21,51 @@
     "explanationHindi": "पीटभूमि पृथ्वी के केवल लगभग 3% भूमि क्षेत्र को कवर करती है, इसलिए कथन A गलत है। कथन B और C सही हैं।",
     "subject": "भूगोल",
     "topic": "पर्यावरण एवं पारिस्थितिकीय मुद्दे"
+  },
+  {
+    "qEnglish": "As per Global Environmental Outlook-7 (GEO-7) 2025, how much solid waste is released annually by the world presently?",
+    "qHindi": "ग्लोबल एन्वारेन्मेन्टल आउटलुक-7 (GEO-7) 2025 के अनुसार वर्तमान में विश्व में प्रति वर्ष कितना ठोस अपशिष्ट निकलता है ?",
+    "optionsEnglish": [
+      "Above 2 billion tonnes",
+      "Less than 1 billion tonne",
+      "Between 1 to 1.5 billion tonnes",
+      "Between 1.5 to 2 billion tonnes",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "2 बिलियन टन से अधिक",
+      "1 बिलियन टन से कम",
+      "1 से 1.5 बिलियन टन के मध्य",
+      "1.5 से 2 बिलियन टन के मध्य",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Global annual municipal solid waste generation values sit considerably above 2 billion tonnes.",
+    "explanationHindi": "वैश्विक रिपोर्टों के अनुसार प्रति वर्ष दुनिया में उत्पादित ठोस अपशिष्ट की मात्रा 2 बिलियन टन से अधिक है।",
+    "subject": "भूगोल",
+    "topic": "पर्यावरणाय एवं पारिस्थितिकीय मुद्दे"
+  },
+  {
+    "qEnglish": "Which of the following is NOT one of the three primary objectives of the \"Convention on Biological Diversity (CBD)\"?",
+    "qHindi": "निम्नलिखित में से कौनसा \"जैव विविधता सम्मेलन (CBD)\" के तीन प्राथमिक उद्देश्यों में शामिल नहीं है?",
+    "optionsEnglish": [
+      "Fair and equitable sharing of benefits arising from genetic resources",
+      "Sustainable use of the components of biological diversity",
+      "Conservation of biological diversity",
+      "Permission to use forest resources by local tribals",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "आनुवंशिक संसाधनों से उत्पन्न होने वाले लाभों का निष्पक्ष और समान बंटवारा",
+      "जैव विविधता के घटकों का टिकाऊ उपयोग",
+      "जैव विविधता का संरक्षण",
+      "स्थानीय जनजातियों द्वारा वन संसाधनों के उपयोग की अनुमति",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "The three main pillars of the CBD are conservation, sustainable use, and fair access/benefit-sharing. Local tribal usage parameters are sub-clauses or domestic issues, not one of the three core international treaty objectives.",
+    "explanationHindi": "जैव विविधता सम्मेलन (CBD) के तीन मुख्य लक्ष्य हैं: जैव विविधता का संरक्षण, इसके घटकों का सतत उपयोग तथा आनुवंशिक लाभों का समतामूलक बंटवारा। चौथा विकल्प इसके तीन प्राथमिक उद्देश्यों में शामिल नहीं है।",
+    "subject": "भूगोल",
+    "topic": "पर्यावरणीय एवं पारिस्थितिकीय मुद्दे"
   }
 ]

@@ -90,5 +90,28 @@
     "explanationHindi": "प्रक्षेपी तकनीकों में उद्दीपक हमेशा असंरचित और अस्पष्ट होते हैं ताकि व्यक्ति अपनी भावनाओं को प्रक्षेपित कर सके, न कि पूर्ण रूप से संरचित।",
     "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
     "topic": " व्यक्तित्व: अर्थ, सिद्धांत और मापन"
+  },
+  {
+    "qEnglish": "Match the following categories of personality traits from Allport's trait theory with their examples:\n(i) Cardinal Traits - (a) Sheryl prefers ethnic clothes.\n(ii) Central Traits - (b) Mahatma Gandhi's non-violence\n(iii) Secondary Traits - (c) Angela is a sincere girl.\n(d) Anishka likes chocolates.",
+    "qHindi": "ऑलपोर्ट के शीलगुण सिद्धांत से निम्नलिखित व्यक्तित्व शीलगुणों की श्रेणियों को उनके उदाहरणों के साथ सुमेलित कीजिए :\n(i) कार्डिनल शीलगुण - (a) शैरिल को पारंपरिक कपड़े पसंद हैं।\n(ii) केन्द्रीय शीलगुण - (b) महात्मा गांधी का अहिंसावाद\n(iii) गौण शीलगुण - (c) एंजेला एक निष्ठावान लड़की है।\n(d) अनिष्का चॉकलेट्स पसंद करती है।",
+    "optionsEnglish": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-c, (iii)-d",
+      "(i)-c, (ii)-b, (iii)-a",
+      "(i)-b, (ii)-a, (iii)-c",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(i)-b, (ii)-c, (iii)-a",
+      "(i)-a, (ii)-c, (iii)-d",
+      "(i)-c, (ii)-b, (iii)-a",
+      "(i)-b, (ii)-a, (iii)-c",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Cardinal traits define a life completely (e.g., Gandhi's non-violence); Central traits are foundational attributes (sincerity); Secondary traits are situational or minor preferences (clothing choices).",
+    "explanationHindi": "कार्डिनल शीलगुण जीवन को पूर्णतः परिभाषित करते हैं (गांधीजी का अहिंसावाद), केंद्रीय शीलगुण सामान्य व्यवहार के मुख्य आधार हैं (निष्ठावान होना), और गौण शीलगुण व्यक्तिगत प्राथमिकताएं हैं (कपड़ों की पसंद)।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "व्यक्तित्व: अर्थ, सिद्धांत und मापन"
   }
 ]

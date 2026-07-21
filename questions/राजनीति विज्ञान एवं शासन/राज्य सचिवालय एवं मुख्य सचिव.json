@@ -21,5 +21,28 @@
     "explanationHindi": "राज्य में इंटरनेट कनेक्टिविटी और नेशनल ब्रॉडबैंड मिशन की समीक्षा करने वाली इस शीर्ष समिति की 17वीं बैठक की अध्यक्षता राजस्थान के मुख्य सचिव (Chief Secretary) द्वारा की गई।",
     "subject": "राजनीति विज्ञान एवं शासन",
     "topic": "राज्य सचिवालय एवं मुख्य सचिव"
+  },
+  {
+    "qEnglish": "Match List-I with List-II:\nList-I (Post): (a) Governor, (b) Chief Minister, (c) Chief Secretary, (d) District Collector\nList-II (Role): (i) Political Head of State, (ii) Constitutional Head of State, (iii) Administrative Head of District, (iv) Head of State Civil Services\nChoose the most appropriate answer from options given below :",
+    "qHindi": "सूची-I के साथ सूची-II का मिलान कीजिए:\nसूची-I (पद): (a) राज्यपाल, (b) मुख्यमंत्री, (c) मुख्य सचिव, (d) जिला कलेक्टर\nसूची-II (भूमिका): (i) राज्य के राजनीतिक प्रमुख, (ii) राज्य का संवैधानिक प्रमुख, (iii) जिले के प्रशासनिक प्रमुख, (iv) राज्य सिविल सेवाओं के प्रमुख\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें :",
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(ii)",
+      "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
+      "(a)-(iii), (b)-(iv), (c)-(i), (d)-(ii)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Governor = Constitutional Head (ii); Chief Minister = Political Head (i); Chief Secretary = Head of Civil Services (iv); District Collector = Admin Head of District (iii).",
+    "explanationHindi": "राज्यपाल = संवैधानिक प्रमुख (ii); मुख्यमंत्री = राजनीतिक प्रमुख (i); मुख्य सचिव = सिविल सेवाओं के प्रमुख (iv); जिला कलेक्टर = जिले के प्रशासनिक प्रमुख (iii)।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "राजस्थान की राजनीतिक एवं प्रशासनिक व्यवस्था -> राज्य सचिवालय एवं मुख्य सचिव"
   }
 ]

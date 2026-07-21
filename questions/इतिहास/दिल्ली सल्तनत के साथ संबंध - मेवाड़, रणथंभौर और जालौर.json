@@ -67,5 +67,28 @@
     "explanationHindi": "1301 ई. में अलाउद्दीन खिलजी के आक्रमण के समय रणथम्भौर का प्रसिद्ध जल जौहर रानी रंगदेवी के नेतृत्व में हुआ था।",
     "subject": "इतिहास",
     "topic": "दिल्ली सल्तनत के साथ संबंध - मेवाड़, रणथंभौर और जालौर"
+  },
+  {
+    "qEnglish": "Which of the following forts did Jalaluddin Khilji not capture?\nA. Mandawar\nB. Jhain\nC. Ranthambhor\nD. Chittor",
+    "qHindi": "जलालुद्दीन खिलजी ने निम्न में से कौन से दुर्गों पर अधिकार नहीं किया ?\nA. मंदावर\nB. झायन\nC. रणथम्भौर\nD. चित्तौड़",
+    "optionsEnglish": [
+      "A and B only",
+      "C and D only",
+      "A, B and C only",
+      "A, B, C and D",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल A और B",
+      "केवल C और D",
+      "केवल A, B और C",
+      "A, B, C और D",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Jalaluddin Khilji captured Jhain but failed to capture Ranthambore fort, and he did not launch successful captures on Chittor.",
+    "explanationHindi": "जलालुद्दीन खिलजी ने झायन के दुर्ग पर अधिकार कर लिया था, लेकिन वह रणथम्भौर को नहीं जीत सका, और चित्तौड़ पर उसका अधिकार नहीं हुआ था। अतः C और D पर अधिकार नहीं किया।",
+    "subject": "इतिहास",
+    "topic": "दिल्ली सल्तनत के साथ संबंध - मेवाड़, रणथंभौर and जालौर"
   }
 ]

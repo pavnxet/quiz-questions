@@ -251,5 +251,51 @@
     "explanationHindi": "व्यावसायिक सेवाओं का विकास मुख्य रूप से आईटी क्षेत्र के विस्तार से, संचार का दूरसंचार विस्तार से और बैंकिंग का उद्योग व व्यवसाय क्षेत्र के विस्तार से हुआ।",
     "subject": "अर्थशास्त्र",
     "topic": "भारतीय अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Which of the following statements are correct with reference to the 'National Green Hydrogen Mission'?\n(a) India aims to produce 5 million metric tonnes of green hydrogen annually by 2030.\n(b) Rajasthan has been identified as a potential Green Hydrogen Hub due to its high solar energy potential.\n(c) The mission includes the SIGHT (Strategic Interventions for Green Hydrogen Transition) programme to provide financial incentives.\n(d) It is mandatory for all households in India to use green hydrogen by 2026.\nChoose the most appropriate answer from the options given below :",
+    "qHindi": "'राष्ट्रीय हरित हाइड्रोजन मिशन' के संदर्भ में निम्नलिखित में से कौन-से कथन सही हैं ?\n(a) भारत का लक्ष्य 2030 तक सालाना 50 लाख मीट्रिक टन हरित हाइड्रोजन का उत्पादन करना है।\n(b) राजस्थान को उसकी उच्च सौर ऊर्जा क्षमता के कारण एक संभावित हरित हाइड्रोजन केंद्र के रूप में पहचाना गया है।\n(c) इस मिशन में वित्तीय प्रोत्साहन प्रदान करने के लिए एस. आई. जी. एच. टी. (हरित हाइड्रोजन संक्रमण के लिए रणनीतिक हस्तक्षेप) कार्यक्रम शामिल है।\n(d) 2026 तक भारत के सभी घरों में हरित हाइड्रोजन का उपयोग करना अनिवार्य है।\nनीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर का चयन कीजिए :",
+    "optionsEnglish": [
+      "(a), (b) and (d) only",
+      "(a), (c) and (d) only",
+      "(a), (b) and (c) only",
+      "(b), (c) and (d) only",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "केवल (a), (b) और (d)",
+      "केवल (a), (c) और (d)",
+      "केवल (a), (b) और (c)",
+      "केवल (b), (c) और (d)",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Statements a, b, and c are correct goals and components of National Green Hydrogen Mission. There is no household mandate for 2026.",
+    "explanationHindi": "कथन a, b, c राष्ट्रीय हरित हाइड्रोजन मिशन के सही उद्देश्य और घटक हैं। 2026 तक घरों के लिए ऐसी कोई अनिवार्यता नहीं है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था -> सतत विकास एवं हरित लेखांकन"
+  },
+  {
+    "qEnglish": "Who was awarded the 'Bharat Ratna' posthumously in 2024 for his role in the 'Green Revolution' of India?",
+    "qHindi": "भारत की 'हरित क्रांति' में उनकी भूमिका के लिए 2024 में मरणोपरांत 'भारत रत्न' से किसे सम्मानित किया गया ?",
+    "optionsEnglish": [
+      "Karpoori Thakur",
+      "M.S. Swaminathan",
+      "Chaudhary Charan Singh",
+      "P.V. Narasimha Rao",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "कर्पूरी ठाकुर",
+      "एम.एस. स्वामीनाथन",
+      "चौधरी चरण सिंह",
+      "पी.वी. नरसिम्हा राव",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "M.S. Swaminathan was posthumously awarded the Bharat Ratna in 2024 for leading India's Green Revolution.",
+    "explanationHindi": "एम.एस. स्वामीनाथन को भारत की हरित क्रांति में उनके नेतृत्व के लिए 2024 में मरणोपरांत भारत रत्न से सम्मानित किया गया था।",
+    "subject": "अर्थशास्त्र",
+    "topic": "भारतीय अर्थव्यवस्था -> हरित क्रांति"
   }
 ]

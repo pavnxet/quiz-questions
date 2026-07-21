@@ -21,5 +21,28 @@
     "explanationHindi": "बालाजी राघवन मामले में सुप्रीम कोर्ट के निर्णय के अनुसार पद्म पुरस्कार उपाधियाँ नहीं हैं, परंतु इनका उपयोग नाम के आगे या पीछे उपसर्ग या प्रत्यय के रूप में नहीं किया जा सकता है। इसलिए केवल कथन (I) सही है।",
     "subject": "राजनीति विज्ञान एवं शासन",
     "topic": "मौलिक अधिकार"
+  },
+  {
+    "qEnglish": "Which Fundamental Right is known as the heart and soul of the Constitution? Select the most appropriate option.",
+    "qHindi": "किस मौलिक अधिकार को संविधान के हृदय और आत्मा के रूप में जाना जाता है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Religion",
+      "Right to Constitutional Remedies",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "समानता का अधिकार",
+      "स्वतंत्रता का अधिकार",
+      "धर्म का अधिकार",
+      "संवैधानिक उपचारों का अधिकार",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 3,
+    "explanationEnglish": "Dr. B.R. Ambedkar termed Article 32 (Right to Constitutional Remedies) as the 'heart and soul' of the Indian Constitution.",
+    "explanationHindi": "डॉ. बी.आर. अम्बेडकर ने अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को संविधान का 'हृदय और आत्मा' कहा था।",
+    "subject": "राजनीति विज्ञान एवं शासन",
+    "topic": "भारतीय संविधान एवं राजनीतिक व्यवस्था -> मौलिक अधिकार"
   }
 ]

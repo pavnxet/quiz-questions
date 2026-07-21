@@ -136,5 +136,28 @@
     "explanationHindi": "दिए गए विकल्पों में झालावाड़ प्रजामंडल की स्थापना सबसे अंत में (वर्ष 1946 में) हुई थी।",
     "subject": "इतिहास",
     "topic": "राजनीतिक जनजागरण एवं प्रजामण्डल आंदोलन"
+  },
+  {
+    "qEnglish": "Identify the founder of Mewar Praja Mandal from the following: Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से मेवाड़ प्रजा मंडल के संस्थापक की पहचान कीजिए। सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Madharam Vaidya",
+      "Manikyalal Verma",
+      "Karpurchand Patni",
+      "Krishna Dutt",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "माधरम वैद्य",
+      "माणिक्यालाल वर्मा",
+      "कर्पूरचंद पटनी",
+      "कृष्ण दत्त",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Mewar Praja Mandal was established by Manikyalal Verma in April 1938.",
+    "explanationHindi": "मेवाड़ प्रजा मंडल की स्थापना अप्रैल 1938 में माणिक्य लाल वर्मा द्वारा की गई थी।",
+    "subject": "इतिहास",
+    "topic": "राजस्थान का इतिहास -> राजनीतिक जनजागरण एवं प्रजामण्डल आंदोलन"
   }
 ]

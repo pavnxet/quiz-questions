@@ -228,5 +228,74 @@
     "explanationHindi": "कृषि आंकड़ों 2023-24 के अनुसार राजस्थान सोयाबीन और मूंगफली के उत्पादन में देश में तीसरे स्थान पर रहा है।",
     "subject": "अर्थशास्त्र",
     "topic": "राजस्थान की अर्थव्यवस्था"
+  },
+  {
+    "qEnglish": "Which scheme in Rajasthan is primarily responsible for providing 100 days of guaranteed wage employment in rural areas ? Select the most appropriate option.",
+    "qHindi": "राजस्थान में ग्रामीण क्षेत्रों में 100 दिनों का गारंटीकृत वेतन-रोज़गार उपलब्ध कराने के लिए मुख्य रूप से कौन-सी योजना उत्तरदायी है? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Indira Gandhi Rural Employment",
+      "Sansad Adarsh Gram Yojana",
+      "MGNREGA",
+      "Mukhya Mantri Jal Swavlamban",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "इंदिरा गांधी ग्रामीण रोजगार",
+      "संसद आदर्श ग्राम योजना",
+      "मनरेगा",
+      "मुख्यमंत्री जल स्वावलम्बन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "MGNREGA provides 100 days of guaranteed wage employment to rural households in Rajasthan.",
+    "explanationHindi": "मनरेगा (MGNREGA) ग्रामीण क्षेत्रों में परिवार के वयस्क सदस्यों को 100 दिनों का गारंटीकृत मजदूरी रोजगार प्रदान करती है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था -> गरीबी एवं बेरोजगारी"
+  },
+  {
+    "qEnglish": "Many types of 'Lahariyas' are popular in Rajasthan. What is the design pattern called when strips criss-cross each other? Select the most appropriate option.",
+    "qHindi": "राजस्थान में कई प्रकार के 'लहरिया' लोकप्रिय हैं। जब पट्टियाँ एक-दूसरे को क्रॉस करती हैं तो उस डिज़ाइन पैटर्न को क्या कहा जाता है ? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Rajshahi Lahariya",
+      "Simple Lahariya",
+      "Mothara Lahariya",
+      "Samudra Lahariya",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राजशाही लहरिया",
+      "सरल लहरिया",
+      "मोथारा लहरिया",
+      "समुद्र लहरिया",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "When the diagonal lines of Lahariya cross each other to form a check pattern, it is called 'Mothara'.",
+    "explanationHindi": "जब लहरिया की धारियाँ एक-दूसरे को काटती हुई चेक्स (चौखाने) का पैटर्न बनाती हैं, तो उसे 'मोठड़ा' कहा जाता है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था -> राजस्थानी हस्तकला"
+  },
+  {
+    "qEnglish": "Which of the following best describes the primary function of RAJSICO (Rajasthan Small Industries Corporation)? Select the most appropriate option.",
+    "qHindi": "निम्नलिखित में से कौन-सा आर ए जे एस आई सी ओ (राजस्थान लघु उद्योग निगम) के प्राथमिक कार्य का सबसे अच्छा वर्णन करता है? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Regulating and licensing small-scale industries within the state",
+      "Developing small scale industrial infrastructure such as industrial areas and growth centers",
+      "Providing marketing support and facilitating supply of raw materials to small-scale industries and artisans",
+      "Promoting export-oriented industrial units through financial incentives",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "राज्य के भीतर (लघु उद्योगों का विनियमन) और उन्हें लाइसेंस प्रदान करना",
+      "औद्योगिक क्षेत्रों और विकास केंद्रों जैसे लघु-स्तरीय औद्योगिक बुनियादी ढाँचे का विकास करना",
+      "लघु उद्योगों और कारीगरों को विपणन सहायता प्रदान करना और कच्चे माल की आपूर्ति में सुविधा प्रदान करना।",
+      "वित्तीय प्रोत्साहनों के माध्यम से निर्यात उन्मुख औद्योगिक इकाइयों को बढ़ावा देना।",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "RAJSICO provides marketing support and facilitates the supply of raw materials to small-scale industries and artisans in Rajasthan.",
+    "explanationHindi": "आरएजेएसआईसीओ राजस्थान में लघु उद्योगों और कारीगरों को विपणन सहायता प्रदान करता है और कच्चे माल की आपूर्ति में सुविधा प्रदान करता है।",
+    "subject": "अर्थशास्त्र",
+    "topic": "राजस्थान की अर्थव्यवस्था -> लघु, कुटीर एवं ग्रामोद्योग"
   }
 ]

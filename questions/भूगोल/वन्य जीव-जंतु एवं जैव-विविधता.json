@@ -21,5 +21,51 @@
     "explanationHindi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम की वैश्विक वैज्ञानिक आकलन रिपोर्टों के अनुसार पृथ्वी पर मौजूद कुल अनुमानित 80 लाख प्रजातियों में से लगभग 10 लाख (1 मिलियन) प्रजातियाँ विलुप्ति की कगार पर हैं।",
     "subject": "भूगोल",
     "topic": "वन्य जीव-जंतु एवं जैव-विविधता"
+  },
+  {
+    "qEnglish": "Which state in India hosts the highest number of snow leopards as per the 'status report of snow leopards in India' (2024) ? Select the most appropriate option.",
+    "qHindi": "'भारत में हिम तेंदओं की स्थिति रिपोर्ट' (2024) के अनुसार भारत के किस राज्य में हिम तेंदुओं की संख्या सबसे अधिक है? सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Ladakh (UT)",
+      "Sikkim",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "उत्तराखंड",
+      "हिमाचल प्रदेश",
+      "लद्दाख (केंद्र शासित प्रदेश)",
+      "सिक्किम",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Ladakh recorded the highest population of snow leopards (477) in India as per the 2024 status report.",
+    "explanationHindi": "2024 की स्थिति रिपोर्ट के अनुसार भारत में लद्दाख में हिम तेंदुओं की सबसे अधिक संख्या (477) दर्ज की गई।",
+    "subject": "भूगोल",
+    "topic": "विश्व भूगोल -> वन्य जीव-जंतु एवं जैव-विविधता"
+  },
+  {
+    "qEnglish": "Which of the following is the most dominant species of Tropical Moist Deciduous Forest?",
+    "qHindi": "निम्नलिखित में से कौनसी एक उष्णकटिबंधीय आर्द्र पर्णपाती वन की सबसे प्रमुख प्रजाति है?",
+    "optionsEnglish": [
+      "Mahogany",
+      "Sheesham",
+      "Teak",
+      "Jamun",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "महोगनी",
+      "शीशम",
+      "सागवान",
+      "जामुन",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Teak (Tectona grandis) is the absolute dominant commercial and ecological tree species characterizing Indian tropical moist deciduous forest formations.",
+    "explanationHindi": "सागवान (Teak) उष्णकटिबंधीय आर्द्र पर्णपाती वनों (Tropical Moist Deciduous Forests) की सबसे प्रमुख और आर्थिक रूप से महत्वपूर्ण वृक्ष प्रजाति है।",
+    "subject": "भूगोल",
+    "topic": "वन्य जीव जंतु एवं अभ्यारण्य"
   }
 ]

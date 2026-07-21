@@ -182,5 +182,28 @@
     "explanationHindi": "अधिगम में अपेक्षाकृत स्थायी परिवर्तन शामिल होते हैं, थकान या दवाओं से होने वाले अस्थायी परिवर्तन अधिगम की श्रेणी में नहीं आते।",
     "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
     "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत और एक शिक्षक के लिए निहितार्थ"
+  },
+  {
+    "qEnglish": "Two statements are given below, one labelled as Assertion (A) and the other as Reason (R). Read both statements carefully and choose the correct answer from the options given below -\nAssertion (A): Previous experience helps in insight learning.\nReason (R): Insight learning does not depend on perception of relationships.\nChoose the option -",
+    "qHindi": "नीचे दो कथन दिए गए हैं, एक को कथन (A) और दूसरे को कारण (R) के रूप में चिन्हित किया गया है। दोनों कथनों को ध्यानपूर्वक पढ़ें और नीचे दिए गए विकल्पों में से सही उत्तर चुनें-\nकथन (A): पूर्व अनुभव, अन्तर्दृष्टि अधिगम में सहायता करता है।\nकारण (R) : अन्तर्दृष्टि अधिगम, संबंधों के प्रत्यक्षीकरण पर निर्भर नहीं करता है।",
+    "optionsEnglish": [
+      "(A) is true, (R) is false",
+      "Both (A) and (R) are true but (R) does not explain (A)",
+      "(A) is false, (R) is true",
+      "Both (A) and (R) are true and (R) explains (A)",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "(A) सत्य है, (R) असत्य है",
+      "(A) और (R) दोनों सत्य हैं लेकिन (R), (A) की व्याख्या नहीं करता है",
+      "(A) असत्य है, (R) सत्य है",
+      "(A) और (R) दोनों सत्य हैं तथा (R), (A) की व्याख्या करता है",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 0,
+    "explanationEnglish": "Assertion A is true because cognitive psychologists note that prior schemas assist rapid configuration. Reason R is entirely false because Gestalt insight learning fundamentally depends on the holist perception of relationships within the problem space.",
+    "explanationHindi": "कथन (A) सत्य है क्योंकि पूर्व अनुभव सूझ द्वारा सीखने में आधार प्रदान करते हैं। कारण (R) गलत है क्योंकि कोहलर के गेस्टाल्ट सिद्धांत के अनुसार अंतर्दृष्टि पूरी तरह से परिस्थिति के विभिन्न अंगों के बीच 'संबंधों के प्रत्यक्षीकरण' पर ही निर्भर करती है।",
+    "subject": "शिक्षा मनोविज्ञान एवं शिक्षण विधियाँ",
+    "topic": "अधिगम: अर्थ और प्रकार, अधिगम के विभिन्न सिद्धांत and एक शिक्षक के लिए निहितार्थ"
   }
 ]
