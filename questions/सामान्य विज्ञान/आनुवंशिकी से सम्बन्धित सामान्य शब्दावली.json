@@ -1,0 +1,55 @@
+[
+  {
+    "qEnglish": "Match List-I (Genetic Term) with List-II (Definition). List-I: (a) Gene, (b) Allele, (c) Phenotype, (d) Genotype. List-II: (i) The observable physical traits of an organism, (ii) The functional unit of heredity, (iii) Alternative forms of a single gene, (iv) The genetic makeup of an organism. Choose the most appropriate answer from the options given below:",
+    "qHindi": "सूची-I (आनुवंशिक शब्द) का सूची-II (परिभाषा) के साथ मिलान करें : सूची-I: (a) जीन, (b) युग्म विकल्पी (एलील), (c) लक्षणप्ररूप, (d) जीनप्ररूप। सूची-II: (i) किसी जीव के अवलोकन योग्य भौतिक लक्षण, (ii) आनुवंशिकता की कार्यात्मक इकाई, (iii) एकल जीन के वैकल्पिक रूप, (iv) किसी जीव की आनुवंशिक बनावट। नीचे दिए गए विकल्पों में से सबसे उपयुक्त उत्तर चुनें।",
+    "matchItemsEnglish": {
+      "col1Label": "List-I (Genetic Term)",
+      "col2Label": "List-II (Definition)",
+      "col1": [
+        "Gene",
+        "Allele",
+        "Phenotype",
+        "Genotype"
+      ],
+      "col2": [
+        "The observable physical traits of an organism",
+        "The functional unit of heredity",
+        "Alternative forms of a single gene",
+        "The genetic makeup of an organism"
+      ]
+    },
+    "matchItemsHindi": {
+      "col1Label": "सूची-I (आनुवंशिक पद)",
+      "col2Label": "सूची-II (परिभाषा)",
+      "col1": [
+        "जीन",
+        "युग्म विकल्पी (एलील)",
+        "लक्षणप्ररूप",
+        "जीनप्ररूप"
+      ],
+      "col2": [
+        "किसी जीव के अवलोकन योग्य भौतिक लक्षण",
+        "आनुवंशिकता की कार्यात्मक इकाई",
+        "एकल जीन के वैकल्पिक रूप",
+        "किसी जीव की आनुवंशिक बनावट"
+      ]
+    },
+    "optionsEnglish": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    ],
+    "optionsHindi": [
+      "(a)-(i), (b)-(ii), (c)-(iii), (d)-(iv)",
+      "(a)-(i), (b)-(ii), (c)-(iv), (d)-(iii)",
+      "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
+      "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Gene is the functional unit of heredity (a-ii), Alleles are alternative forms of a single gene (b-iii), Phenotype refers to observable physical traits (c-i), and Genotype is the genetic makeup (d-iv).",
+    "explanationHindi": "जीन आनुवंशिकता की कार्यात्मक इकाई है (a-ii), एलील एकल जीन के वैकल्पिक रूप हैं (b-iii), लक्षणप्ररूप अवलोकन योग्य भौतिक लक्षण हैं (c-i), और जीनप्ररूप आनुवंशिक बनावट है (d-iv)।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "आनुवंशिकी से सम्बन्धित सामान्य शब्दावली"
+  }
+]
