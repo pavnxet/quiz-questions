@@ -1,0 +1,23 @@
+[
+  {
+    "qEnglish": "Which compound is used by doctors to support fractured bones in the right position?",
+    "qHindi": "टूटी हुई हड्डियों को सही स्थिति में सहारा देने के लिए डॉक्टरों द्वारा किस यौगिक का उपयोग किया जाता है ?",
+    "optionsEnglish": [
+      "Bleaching Powder",
+      "Baking Soda",
+      "Plaster of Paris",
+      "Washing Soda"
+    ],
+    "optionsHindi": [
+      "ब्लीचिंग पाउडर",
+      "बेकिंग सोडा",
+      "प्लास्टर ऑफ पेरिस",
+      "धोने का सोडा"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Plaster of Paris (Calcium sulphate hemihydrate) sets hard when mixed with water and supports fractured bones.",
+    "explanationHindi": "प्लास्टर ऑफ पेरिस का उपयोग टूटी हड्डियों को सही जगह स्थिर रखने के लिए प्लास्टर चढ़ाने में होता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "ब्लीचिंग पाउडर, खाने का सोडा, प्लास्टर ऑफ पेरिस, साबुन एवं अपमार्जक"
+  }
+]
