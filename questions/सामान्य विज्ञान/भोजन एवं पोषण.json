@@ -1,0 +1,48 @@
+[
+  {
+    "qEnglish": "After digestion, proteins, carbohydrates and fats are respectively, converted into :",
+    "qHindi": "पाचन के बाद प्रोटीन, कार्बोहाइड्रेट और वसा क्रमशः परिवर्तित हो जाते हैं :",
+    "optionsEnglish": [
+      "Glucose, fatty acids and glycerol",
+      "Glycerol, glucose and fatty acids",
+      "Amino acids, glucose, fatty acids and glycerol",
+      "Glucose, glycerol and fatty acids",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "ग्लूकोज, वसीय अम्ल और ग्लिसरॉल में",
+      "ग्लिसरॉल, ग्लूकोज और वसीय अम्ल में",
+      "एमिनो अम्ल, ग्लूकोज, वसीय, अम्ल और ग्लिसरॉल में",
+      "ग्लूकोज, ग्लिसरॉल और वसीय अम्ल में",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Proteins convert into amino acids, carbohydrates into glucose, and fats into fatty acids and glycerol.",
+    "explanationHindi": "पाचन के बाद प्रोटीन एमिनो अम्ल में, कार्बोहाइड्रेट ग्लूकोज में, और वसा वसीय अम्ल व ग्लिसरॉल में परिवर्तित होते हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भोजन एवं पोषण"
+  },
+  {
+    "qEnglish": "Carbohydrates in plants are stored in the form of:",
+    "qHindi": "पादपों में कार्बोहाइड्रेट संग्रहीत होता है :",
+    "optionsEnglish": [
+      "Glycogen",
+      "Starch",
+      "Glucose",
+      "Maltose",
+      "Question not attempted"
+    ],
+    "optionsHindi": [
+      "ग्लाइकोजन के रूप में",
+      "स्टार्च के रूप में",
+      "ग्लूकोज के रूप में",
+      "माल्टोस के रूप में",
+      "अनुत्तरित प्रश्न"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Plants store excess carbohydrates as starch, whereas animals store it as glycogen.",
+    "explanationHindi": "पौधे अतिरिक्त कार्बोहाइड्रेट को स्टार्च के रूप में जमा करते हैं, जबकि जंतु इसे ग्लाइकोजन के रूप में जमा करते हैं।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "भोजन एवं पोषण"
+  }
+]
