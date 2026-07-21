@@ -21,5 +21,26 @@
     "explanationHindi": "केला (कायिक प्रवर्धन), यीस्ट (मुकुलन), और अमीबा (द्विखंडन) अलैंगिक रूप से प्रजनन करते हैं, जबकि कुत्ता लैंगिक रूप से प्रजनन करता है।",
     "subject": "सामान्य विज्ञान",
     "topic": "ट्रांसजेनिक जीव या पराजीनी जीव"
+  },
+  {
+    "qEnglish": "'Golden Rice' is a transgenic variety of rice developed to solve the deficiency of: Select the most appropriate option.",
+    "qHindi": "'गोल्डन राइस' चावल की एक पारजीनी (ट्रांसजेनिक) किस्म है जिसे निम्नलिखित की कमी को दूर करने के लिए विकसित किया गया है : सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "Vitamin C",
+      "Vitamin A (beta-carotene)",
+      "Iron",
+      "Vitamin D"
+    ],
+    "optionsHindi": [
+      "विटामिन सी",
+      "विटामिन ए (बीटा कैरोटीन)",
+      "लोहा",
+      "विटामिन डी"
+    ],
+    "correct": 1,
+    "explanationEnglish": "Golden Rice is genetically engineered to biosynthesize beta-carotene, a precursor of Vitamin A.",
+    "explanationHindi": "गोल्डन राइस विटामिन ए (बीटा-कैरोटीन) की कमी को दूर करने के लिए विकसित किया गया एक जीएम (ट्रांसजेनिक) चावल है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "ट्रांसजेनिक जीव या पराजीनी जीव"
   }
 ]
