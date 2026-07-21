@@ -1,0 +1,44 @@
+[
+  {
+    "qEnglish": "Which mosquito acts as the vector for 'Dengue' and 'Chikungunya'? Select the most appropriate option.",
+    "qHindi": "कौन सा मच्छर 'डेंगू' और 'चिकनगुनिया' के वाहक के रूप में कार्य करता है ? सबसे उपयुक्त विकल्प चुनें।",
+    "optionsEnglish": [
+      "Anopheles",
+      "Culex",
+      "Aedes aegypti",
+      "Mansonia"
+    ],
+    "optionsHindi": [
+      "एनाफिलीज",
+      "क्यूलेक्स",
+      "एडीज एजिप्टी",
+      "मैनसोनिया"
+    ],
+    "correct": 2,
+    "explanationEnglish": "Aedes aegypti mosquito transmits Dengue, Chikungunya, and Zika viruses.",
+    "explanationHindi": "एडीज एजिप्टी (Aedes aegypti) मच्छर डेंगू और चिकनगुनिया रोगों का मुख्य वाहक है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "प्रमुख मानव रोग: कारण एवं निवारण"
+  },
+  {
+    "qEnglish": "On February 28, 2026, Prime Minister Narendra Modi launched a nationwide Human Papillomavirus (HPV) Vaccination Campaign from Ajmer aimed at ______. Select the most appropriate option.",
+    "qHindi": "28 फरवरी, 2026 को प्रधानमंत्री नरेंद्र मोदी ने अजमेर से देशव्यापी ह्यूमन पैपिलोमावायरस (एचपीवी) टीकाकरण अभियान की शुरुआत की, जिसका उद्देश्य ______ था। सबसे उपयुक्त विकल्प का चयन कीजिए ।",
+    "optionsEnglish": [
+      "protecting infants from measles and mumps",
+      "protecting adolescent girls from cervical cancer",
+      "protecting children from pneumonia",
+      "protecting children from chickenpox"
+    ],
+    "optionsHindi": [
+      "शिशुओं को खसरा और गलसुआ से बचाना",
+      "किशोरी लड़कियों को गर्भाशय ग्रीवा के कैंसर से बचाना",
+      "बच्चों को निमोनिया से बचाना",
+      "बच्चों को चेचक से बचाना"
+    ],
+    "correct": 1,
+    "explanationEnglish": "HPV vaccine immunizes adolescent girls against cervical cancer.",
+    "explanationHindi": "HPV टीका किशोरी लड़कियों को गर्भाशय ग्रीवा (सर्विकल) कैंसर से सुरक्षा प्रदान करने के लिए दिया जाता है।",
+    "subject": "सामान्य विज्ञान",
+    "topic": "प्रमुख मानव रोग: कारण एवं निवारण"
+  }
+]
