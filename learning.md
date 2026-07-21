@@ -11,16 +11,22 @@ Rules for editing this file:
 ---
 
 ## Environment / Setup
-- (e.g. "OS is Windows 11 GhostSpectre debloated build — some default context-menu items are missing; use ExplorerPatcher conventions when editing shell menus.")
+- Git auth uses Windows Credential Manager (`credential.helper=manager`) — no token needed in scripts, just use `git push` directly.
+- Repo at `E:\study\Quiz-questions` is the working copy for processing.
 
 ## Codebase conventions
-- (e.g. "This repo uses tabs, not spaces, in the /workers directory.")
+- Questions live in `questions/{subject}/{topic}.json` — each file is a JSON array of question objects.
+- `safeName()` strips `/\:*?"<>|#%` and normalizes `->` to space — topic names must be filesystem-safe.
+- Dedup key = normalized qEnglish + qHindi (lowercased, whitespace-collapsed).
 
 ## User preferences
-- (e.g. "User prefers concise commit messages, no emoji.")
+- User prefers local git operations over GitHub API calls — simpler, no token management.
+- Post-processing (summary.md + learning.md) is mandatory after every session.
 
 ## Mistakes made & fixes (so they aren't repeated)
-- (e.g. "Do not assume the Cloudflare Worker has KV bound by default — always check wrangler.toml first.")
+- GitHub API calls failed silently due to autocrlf line-ending normalization — git saw files as unchanged even when content differed. Fix: use local file writes + `git add/commit/push` instead of GitHub Contents API.
+- `write` tool on Windows sometimes doesn't persist due to path resolution issues — use heredoc or Python file writes for reliability.
 
 ## Domain knowledge picked up on the job
-- (e.g. "Rajasthan LDC cutoff data changes by category/year — always confirm the year before quoting a cutoff.")
+- Rajasthan exam question JSONs typically have `subject` and `topic` fields with `->` separators (e.g., "राजस्थान की अर्थव्यवस्था -> लघु, कुटीर एवं ग्रामोद्योग").
+- Each question has qEnglish, qHindi, optionsEnglish, optionsHindi, correct (0-based index), and optional explanations.
